@@ -1,0 +1,97 @@
+﻿ <!doctype html>
+ <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes" />	
+	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+	<link rel="stylesheet" href="../static/bootstrap.min.css"  >
+	<link rel="stylesheet" href="../static/4musicsearch.css"  >
+   
+   <title>Pic</title>
+
+	<script type="text/javascript">
+	function error()
+	{
+		alert("not finished yet!");
+	}
+	
+	function post(URL, PARAMS) {        
+    var temp = document.createElement("form");        
+    temp.action = URL;        
+    temp.method = "post";        
+    temp.style.display = "none";        
+    for (var x in PARAMS) {        
+        var opt = document.createElement("textarea");        
+        opt.name = x;        
+        opt.value = PARAMS[x];        
+        alert(opt.name);        
+        temp.appendChild(opt);        
+    }        
+    document.body.appendChild(temp);        
+    temp.submit();        
+    return temp;        
+}    
+
+	$(function(){
+
+		$(window).scroll(function(){ 
+		var scrollt = document.documentElement.scrollTop + document.body.scrollTop; 
+		if( scrollt >200 ){  
+		$("#top").fadeIn(400);   
+			}
+		else{      
+		$("#top").stop().fadeOut(400);   
+			}
+
+		});
+
+		$("#top").click(function(){ 
+
+		$("html,body").animate({scrollTop:"0px"},200);
+
+			});
+
+		});
+	</script>
+	
+	<style>
+	body
+{
+font-family:"楷体" ;
+}
+	</style>
+
+</head>
+<body>	
+    <div class="nav">
+		<a href="/">纯文本输出</a>&nbsp &nbsp
+		网格输出&nbsp &nbsp
+		<a href="/album">专辑墙</a>&nbsp &nbsp
+		<a href=# onclick="error(this)">图片搜索</a>&nbsp &nbsp
+		<a href=# onclick="error(this)">留言板</a>&nbsp &nbsp
+		
+	</div>
+	<div>
+	  <form action="" method="post" enctype="multipart/form-data">     		
+          <input class="inputbox" wrap='hard' name="text" onmouseover="this.style.borderColor='black';this.style.backgroundColor='plum'" onmouseout="this.style.borderColor='blue';this.style.backgroundColor='#ffffff'" > 
+		
+         <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Search">
+		 <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">	
+		
+	   
+    </form>
+	</div>
+			  
+	 {% for result in results %}
+		  <div class="result" >
+		  歌曲：<a href={{result.songurl}}  target="_blank">{{result.songname}}</a>
+		  </br>
+		  专辑：{{result.albumname}}
+		  <br/><br/>
+		  <div class="resimg">
+			<img src={{result.albumcoverurl}}  alt={{result.albumname}}/>	
+			</div>
+		  </div>
+	{% endfor %}
+	<a href="#" id="top">返回顶部</a>
+</body>	
+
