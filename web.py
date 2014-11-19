@@ -28,6 +28,7 @@ def search():
     results=[]
     loc=[]
     sr=''
+    tmp='' 
     mark=False
     if request.method == 'POST':
         try:                        
@@ -36,7 +37,7 @@ def search():
             directory = SimpleFSDirectory(File(STORE_DIR))
             searcher = IndexSearcher(directory, True)
             analyzer = StandardAnalyzer(Version.LUCENE_CURRENT)
-            scoreDocs=run(searcher, analyzer,sr)
+
             if "Search" in request.form.values():
                 sr=request.form['text']
                 
@@ -65,7 +66,11 @@ def search():
                 print  request.form.values()
                 print 'sr=',sr
                 if sr=='':
-                    return results
+                    return results,""
+                for i in sr:
+                    tmp+=i+" "
+                print tmp  
+                scoreDocs=run(searcher, analyzer,sr)
                 for scoreDoc in scoreDocs:
                     doc = searcher.doc(scoreDoc.doc)
                     results+=[{'songname':doc.get("songname"),'songurl':\
@@ -75,26 +80,26 @@ def search():
             searcher.close()
         except Exception,e:
             print 12,e
-        
-            
-    return results
+      
+#tmp为单字符highlight
+    return results,tmp
 
 app = Flask(__name__)
 
 @app.route("/", methods=['GET', 'POST'])
 def index():
-    results=search()
-    return render_template('search.html',results=results)
+    results,sr=search()
+    return render_template('search.html',results=results,sr=sr)
 
 @app.route("/pic", methods=['GET', 'POST'])
 def pic():    
-    results=search()
-    return render_template('pic.html',results=results)
+    results,sr=search()
+    return render_template('pic.html',results=results,sr=sr)
 
 @app.route("/album", methods=['GET', 'POST'])
 def album():    
-    results=search()
-    return render_template('album.html',results=results)
+    results,sr=search()
+    return render_template('album.html',results=results,sr=sr)
 
 
 if __name__ == "__main__":
