@@ -1,5 +1,5 @@
 #-*-coding:utf-8-*-
-
+import MySQLdb,time
 from lucene import \
     QueryParser, IndexSearcher, StandardAnalyzer, \
     SimpleFSDirectory, File,BooleanQuery, BooleanClause,\
@@ -100,6 +100,44 @@ def pic():
 def album():    
     results,sr=search()
     return render_template('album.html',results=results,sr=sr)
+
+@app.route('/comment', methods=['GET', 'POST'])
+def comment():
+    try:
+        conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8") 
+        conn.select_db('coversearch');
+        cursor = conn.cursor()
+        cursor.execute("select * from comments ")
+        data=[]
+        cur=1
+        while True:
+            try:
+                dataFromdb=cursor.fetchone()
+                data+=[{'text':str(cur)+'.\n'+dataFromdb[1],'time':dataFromdb[2]}]
+                cur+=1
+            except:
+                break
+        cursor.execute("select count(*) as value from comments ")
+        num=cursor.fetchone()[0]
+        num=int(num)
+        cm=''
+        if request.method == 'POST':       
+            cm=request.form['text']
+            if cm!='':
+                curTime=time.ctime()
+                order=(num+1,cm,curTime)           
+                sql = "insert into comments(id,text,time) values (%s,%s,%s)"
+                cursor.execute(sql,order)
+                num+=1
+                data+=[{'text':str(cur)+'.\n'+cm,'time':curTime}]
+
+        conn.commit()
+        cursor.close() 
+        conn.close()   
+    except Exception,e:
+        print e
+    return render_template("comment.html",comments=data,number=num)
+
 
 
 if __name__ == "__main__":
