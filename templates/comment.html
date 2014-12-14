@@ -3,18 +3,59 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes" />
 	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    
+    <!-- bootstrap & fontawesome -->
+    <link rel="stylesheet" href="{{url_for('static',filename='assets/css/bootstrap.min.css')}}"/>
+    <link rel="stylesheet" href="{{url_for('static',filename='assets/font-awesome/4.1.0/css/font-awesome.min.css')}}" />
+
+    <!-- text fonts -->
+    <link rel="stylesheet" href="{{url_for('static',filename='assets/fonts/fonts.googleapis.com.css')}}" />
+
+    <!-- ace styles -->
+    <link rel="stylesheet" href="{{url_for('static',filename='assets/css/ace.min.css')}}" />
+
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="assets/css/ace-part2.min.css" />
+    <![endif]-->
+    <link rel="stylesheet" href="{{url_for('static',filename='assets/css/ace-rtl.min.css')}}" />
+
+
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="assets/css/ace-part2.min.css" />
+    <![endif]-->
+    <link rel="stylesheet" href="{{url_for('static',filename='assets/css/ace-skins.min.css')}}" />
+    <link rel="stylesheet" href="{{url_for('static',filename='assets/css/ace-rtl.min.css')}}" />
+
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="assets/css/ace-ie.min.css" />
+    <![endif]-->
+
+    <!-- inline styles related to this page -->
+
+    <!-- ace settings handler -->
+    <script src="{{url_for('static',filename='assets/js/ace-extra.min.js')}}"></script>
+
+    <!-- HTML5shiv and Respond.js for IE8 to support HTML5 elements and media queries -->
+
+    <!--[if lte IE 8]>
+    <script src="assets/js/html5shiv.min.js"></script>
+    <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+    
     <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.4/jquery.mobile-1.4.4.min.css"/> 
 	<link rel="stylesheet" href="../static/bootstrap.min.css"  >
 	<link rel="stylesheet" href="../static/4musicsearch.css"  >
+
+
     <title>Comment</title>
 
 	
 	<style>
-	body
-{
-font-family:"楷体" ;
-}
-	</style>
+	body{
+    font-family:"楷体" ;
+    }
+    </style>
+
 
 </head>
 <body>	
@@ -28,15 +69,6 @@ font-family:"楷体" ;
 		
 	</div>
 	
-	<div>
-	  <form action="" method="post" enctype="multipart/form-data">     		
-        <input class="inputbox" wrap='hard' name="text" onmouseover="this.style.borderColor='black';this.style.backgroundColor='plum'" onmouseout="this.style.borderColor='blue';this.style.backgroundColor='#ffffff'" > 
-		
-        <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Search">
-		<input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">	   
-    </form>
-	</div>
-	
 	<div class="textresult">		  
 	  	  <h1>评论数:{{number}}</h1>
           
@@ -44,25 +76,42 @@ font-family:"楷体" ;
           <pre><p>{{comment.text}}<br><br><br>{{comment.time}}</p></pre>
           {% endfor %}
     </div>
-    <div style="margin:5% 2%;"> 
-      <form action="" method=post enctype=multipart/form-data>
-        <p>
-          <h1>请输入评论:</h1>
+    
+    <div style="margin:10% 2%;"> 
+        <form id="post_form" action="" method=post enctype=multipart/form-data>
+            <div style="color:white;">
+                <h1>发表评论:</h1>
+            </div>
+            <div style="position:relative; left:20px;color:purple;font-size:25px;">
+                <div class="form-group">
+                    <div class="wysiwyg-editor" id="editor1" name="editor1">
+                        
+           
+                    </div>
+                    <textarea id="post-full" name="text" style="display:none;"></textarea>
+                </div>
+            </div>
+            <div style="position:relative; left:600px;bottom:0px;margin:2%;">
+                <button class="btn btn-primary" onclick="javascript: submitform()">提交</button>
+                <!-- <input class="bt btn btn-lg btn-primary" type=submit value=OK> -->
+            </div>
 
-          <div style="position:relative; left:200px;color:purple;font-size:25px;">
-            <textarea warp="hard" rows="5" cols="60" style="resize:none;" name="text"></textarea>
-          </div>          
+        </form>
 
-          <div style="position:relative; left:200px;bottom:40px;margin:2%;">
-            <input class="bt btn btn-lg btn-primary" type=submit value=OK>
-          </div>
+         <script type="text/javascript">
 
-       </p>
-      </form>	  
+                function submitform()
+                {
+                 $('#post-full').html($("#editor1").html());
+                  document.post_form.submit();
+                  
+                }
+        </script>
+      	  
 	</div>
     
 
-    <div data-theme="a" data-role="footer" data-position="fixed" style="position:relative;left:600px">
+    <div data-theme="a" data-role="footer" data-position="fixed" style="position:relative;left:500px">
         <h3>@copyright Morningmoni
             <!-- <div data-role="navbar" data-iconpos="top">
             <ul>
@@ -227,5 +276,108 @@ font-family:"楷体" ;
     };
 })(jQuery);
 
-	$("body").textSearch("{{sr}}")
+	$("body").textSearch("{{sr}}");
 </script>
+
+<!-- basic scripts -->
+
+<!--[if !IE]> -->
+<script src="{{url_for('static',filename='assets/js/jquery.2.1.1.min.js')}}"></script>
+
+<!-- <![endif]-->
+
+<!--[if IE]>
+<script src="assets/js/jquery.1.11.1.min.js"></script>
+<![endif]-->
+
+<!--[if IE]>
+<script type="text/javascript">
+    window.jQuery || document.write("<script src='assets/js/jquery1x.min.js'>"+"<"+"/script>");
+</script>
+<![endif]-->
+<script type="text/javascript">
+    if('ontouchstart' in document.documentElement) document.write("<script src='{{url_for('static',filename='assets/js/jquery.mobile.custom.min.js')}}'>"+"<"+"/script>");
+</script>
+<script src="{{url_for('static',filename='assets/js/bootstrap.min.js')}}"></script>
+
+<!-- page specific plugin scripts -->
+<script src="{{url_for('static',filename='assets/js/jquery-ui.custom.min.js')}}"></script>
+<script src="{{url_for('static',filename='assets/js/jquery.ui.touch-punch.min.js')}}"></script>
+<script src="{{url_for('static',filename='assets/js/markdown/markdown.min.js')}}"></script>
+<script src="{{url_for('static',filename='assets/js/markdown/bootstrap-markdown.min.js')}}"></script>
+<script src="{{url_for('static',filename='assets/js/jquery.hotkeys.min.js')}}"></script>
+<script src="{{url_for('static',filename='assets/js/bootstrap-wysiwyg.min.js')}}"></script>
+
+
+<!-- ace scripts -->
+<script src="{{url_for('static',filename='assets/js/ace-elements.min.js')}}"></script>
+<script src="{{url_for('static',filename='assets/js/ace.min.js')}}"></script>
+
+<!-- inline scripts related to this page -->
+<script type="text/javascript">
+    jQuery(function($){
+
+        function showErrorAlert (reason, detail) {
+            var msg='';
+            if (reason==='unsupported-file-type') { msg = "Unsupported format " +detail; }
+            else {
+                //console.log("error uploading file", reason, detail);
+            }
+            $('<div class="alert"> <button type="button" class="close" data-dismiss="alert">&times;</button>'+
+                    '<strong>File upload error</strong> '+msg+' </div>').prependTo('#alerts');
+        }
+
+        //$('#editor1').ace_wysiwyg();//this will create the default editor will all buttons
+
+        //but we want to change a few buttons colors for the third style
+        $('#editor1').ace_wysiwyg({
+            toolbar:
+                    [
+                        'font',
+                        null,
+                        'fontSize',
+                        null,
+                        {name:'bold', className:'btn-info'},
+                        {name:'italic', className:'btn-info'},
+                        {name:'strikethrough', className:'btn-info'},
+                        {name:'underline', className:'btn-info'},
+                        null,
+                        {name:'insertunorderedlist', className:'btn-success'},
+                        {name:'insertorderedlist', className:'btn-success'},
+                        {name:'outdent', className:'btn-purple'},
+                        {name:'indent', className:'btn-purple'},
+                        null,
+                        {name:'justifyleft', className:'btn-primary'},
+                        {name:'justifycenter', className:'btn-primary'},
+                        {name:'justifyright', className:'btn-primary'},
+                        {name:'justifyfull', className:'btn-inverse'},
+                        null,
+                        {name:'createLink', className:'btn-pink'},
+                        {name:'unlink', className:'btn-pink'},
+                        null,
+                        {name:'insertImage', className:'btn-success'},
+                        null,
+                        'foreColor',
+                        null,
+                        {name:'undo', className:'btn-grey'},
+                        {name:'redo', className:'btn-grey'}
+                    ],
+            'wysiwyg': {
+                fileUploadError: showErrorAlert
+            }
+        }).prev().addClass('wysiwyg-style2');
+
+    
+        /**
+         //make the editor have all the available height
+         $(window).on('resize.editor', function() {
+        var offset = $('#editor1').parent().offset();
+        var winHeight =  $(this).height();
+        
+        $('#editor1').css({'height':winHeight - offset.top - 10, 'max-height': 'none'});
+    }).triggerHandler('resize.editor');
+         */
+
+    });
+</script>
+
