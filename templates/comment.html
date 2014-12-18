@@ -70,19 +70,29 @@
 	</div>
 	
 	<div class="textresult">		  
-	  	  <h1>评论数:{{number}}</h1>
+	  	  <h1>留言数:{{number}}</h1>
           
           {% for comment in comments %}
-          <pre><p>{{comment.text}}<br><br><br>{{comment.time}}</p></pre>
+            <div class="comment" >
+                   
+                    
+                      {% autoescape false %}
+                       {{comment.text}}
+                       <div style="text-align:right;">
+                            {{comment.time}}
+                        </div>
+                       {% endautoescape %} 
+                   
+            </div>
           {% endfor %}
     </div>
     
     <div style="margin:10% 2%;"> 
         <form id="post_form" action="" method=post enctype=multipart/form-data>
             <div style="color:white;">
-                <h1>发表评论:</h1>
+                <h1 >发表留言:</h1>
             </div>
-            <div style="position:relative; left:20px;color:purple;font-size:25px;">
+            <div style="position:relative; left:20px;font-size:24px;">
                 <div class="form-group">
                     <div class="wysiwyg-editor" id="editor1" name="editor1">
                         
