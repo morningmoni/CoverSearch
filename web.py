@@ -6,7 +6,9 @@ from lucene import \
     VERSION, initVM, Version
 from flask import Flask, request,\
       redirect, url_for,render_template,flash
-import random
+from werkzeug import secure_filename
+import random,os
+from LSH import imgProcess
 def run(searcher, analyzer,command):
     querys=BooleanQuery()
 
@@ -138,6 +140,23 @@ def comment():
         print e
     return render_template("comment.html",comments=data,number=num)
 
+UPLOAD_FOLDER = 'static/covers/'
+ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
+@app.route("/coversearch", methods=['GET', 'POST'])
+def coversearch():
+    url="#"
+    if request.method == 'POST':
+        try:
+            imagefile=request.files["image"]
+            if imagefile:
+                filename="target.jpg"              
+                imagefile.save(os.path.join(UPLOAD_FOLDER, filename))
+                url=imgProcess(UPLOAD_FOLDER + filename)
+
+                
+        except Exception,e:
+            print e
+    return render_template('coversearch.html',url=url)
 
 
 if __name__ == "__main__":
