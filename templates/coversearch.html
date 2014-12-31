@@ -11,12 +11,12 @@
 
 	<link rel="stylesheet" href="../static/4musicsearch.css"  > -->
 	
-    <title>Cover Search</title>
+    <title>Cover-Search</title>
 	
 	
 	<style>
 		body{
-		font-family:"楷体" ;
+		font-family:"微软雅黑" ;
 		}
 	</style>
 </head>
@@ -58,29 +58,33 @@
 </script>
 <style>
 #thumbnil {
-    width: 168px;
-    height: 168px;                         
+    width: 200px;
+    height: 250px;                         
     background-position: center center;
     background-size: cover;
     border: 4px solid #fff;
     -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
     display: inline-block;
+    position: relative;
+    top: 50px;
+    left: 20px;
 }
 </style>
 
 <body>	
     <div class="nav">
 		<a href="/">纯文本输出</a>
-		<a href="/pic">网格输出</a>
+		<a href="/pic">歌曲搜索</a>
 		<a href="/album">专辑墙</a>
-		图片搜索
+		封面搜索
         <a href='/comment'>留言板</a>
 		
 	</div>
 	<div>
 	  <form action="" name="post_form" method="post" enctype="multipart/form-data">     		
 <!--           <input class="inputbox" wrap='hard' name="text" onmouseover="this.style.borderColor='black';this.style.backgroundColor='plum'" onmouseout="this.style.borderColor='blue';this.style.backgroundColor='#ffffff'" >  -->
-		<input class="inputbox" type="file" name="image" id＝"uploadimage" value="" accept="image/*" onchange="javascript:showimage(this)" />
+		<input class="inputbox bt btn-primary" type="file" name="image" id＝"uploadimage" value="" accept="image/*" onchange="javascript:showimage(this)" />
+        <!-- bt btn btn-lg btn-primary -->
         <img id="thumbnil" style="width:20%; "  src="{{url}}" alt="图片预览"/>
 <!--          <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Search">			
 		 <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">	 -->		 

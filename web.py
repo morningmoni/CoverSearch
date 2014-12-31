@@ -144,7 +144,7 @@ UPLOAD_FOLDER = 'static/covers/'
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
 @app.route("/coversearch", methods=['GET', 'POST'])
 def coversearch():
-    url="#"
+    url="../static/cover.jpg"
     if request.method == 'POST':
         try:
             imagefile=request.files["image"]
@@ -156,6 +156,8 @@ def coversearch():
                 
         except Exception,e:
             print e
+    if len(url)<4:
+        url="../static/cover.jpg"
     return render_template('coversearch.html',url=url)
 
 

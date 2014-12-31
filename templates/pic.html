@@ -3,15 +3,17 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes" />	
 	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    
+    <link rel="stylesheet" href="{{url_for('static',filename='bootstrap.min2.3.2.css')}}" />
 	<link rel="stylesheet" href="../static/bootstrap.min.css"  >
 	<link rel="stylesheet" href="../static/4musicsearch.css"  >
    
-   <title>Pic</title>
+   <title>Cover-Search</title>
 	
 	<style>
 	body
 {
-font-family:"楷体" ;
+font-family:"微软雅黑" ;
 }
 	</style>
 
@@ -19,9 +21,9 @@ font-family:"楷体" ;
 <body>	
     <div class="nav">
 		<a href="/">纯文本输出</a>
-		网格输出
+		歌曲搜索
 		<a href="/album">专辑墙</a>
-		<a href=# onclick="error(this)">图片搜索</a>
+		<a href="/coversearch">封面搜索</a>
 		<a href='/comment'>留言板</a>
 		
 	</div>

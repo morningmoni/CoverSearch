@@ -3,15 +3,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1.0 maximum-scale=1.0 user-scalable=yes" />
 	<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link rel="stylesheet" href="{{url_for('static',filename='bootstrap.min2.3.2.css')}}" />
 	<link rel="stylesheet" href="../static/bootstrap.min.css"  >
 	<link rel="stylesheet" href="../static/4musicsearch.css"  >
-    <title>MySearch</title>
+    <title>Cover-Search</title>
 
 	
 	<style>
 	body
 {
-font-family:"楷体" ;
+font-family:"微软雅黑" ;
 }
 	</style>
 
@@ -20,9 +21,9 @@ font-family:"楷体" ;
 	
     <div class="nav">
 		纯文本输出
-		<a href="/pic" >网格输出</a>
+		<a href="/pic" >歌曲搜索</a>
 		<a href="/album">专辑墙</a>
-		<a href=# onclick="error(this)">图片搜索</a>
+		<a href="/coversearch">封面搜索</a>
         <a href='/comment'>留言板</a>
 		
 	</div>
@@ -31,19 +32,21 @@ font-family:"楷体" ;
 	  <form action="" method="post" enctype="multipart/form-data">     		
         <input class="inputbox" wrap='hard' name="text" onmouseover="this.style.borderColor='black';this.style.backgroundColor='plum'" onmouseout="this.style.borderColor='blue';this.style.backgroundColor='#ffffff'" > 
 		
-        <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Search">
-		<input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">	   
+         <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Search">           
+         <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">      	   
     </form>
 	</div>
 	
-	<div class="textresult">		  
+	<div class="textresult" >		  
 	  	  {% for result in results %}
-		  <p>songname:{{result.songname}}</p>
+          <div class="comment">
+		  <p>songname:<a href={{result.songurl}}  target="_blank">{{result.songname}}</a></p>
 		  <p>songurl:<a href={{result.songurl}}  target="_blank">{{result.songurl}}</a></p>
 		  <p>albumname:{{result.albumname}}</p>
 		  <p>albumcoverurl:<a href={{result.albumcoverurl}}  target="_blank">{{result.albumcoverurl}}</a></p>
-		  <br/>		  
-{% endfor %}		  
+		  <br/>		 
+          </div> 
+        {% endfor %}		  
 	</div>
 	<a href="#" id="top">返回顶部</a>
 	

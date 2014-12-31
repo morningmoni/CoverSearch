@@ -26,14 +26,14 @@ a:visited {
  }
  
  a:hover {
- color: #CC00FF;
+ color: pink;
  font-weight: bold;
  text-decoration: underline;
  }
  
  a:active {
  font-weight: bold;
- color: pink;
+ color: #CC00FF;
  text-decoration: underline;
  }
  
@@ -90,23 +90,22 @@ background-color:purple;
 opacity:0.6;    
 }
 
-
-
 body
 {
 background:url('../static/sky.jpg') no-repeat fixed center ;
 
 }
 
-#album
-{
+#album {
 position:relative;left:70px;top:80px;
 margin:1%;
 float:left;
 }	
-#myModal {
+
+.myModal {
 position: absolute;left: 700px;top: 80px;
 } 
+
 .box {
   float:left;
   border: 5px solid #dedfe6;
