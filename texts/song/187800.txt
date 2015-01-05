@@ -1,0 +1,6 @@
+number 187800
+name 彝人
+artist 山鹰组合%^&*
+artistURL http://www.xiami.com/artist/3014%^&*
+album 离开家的孩子
+albumURL http://www.xiami.com/album/15294

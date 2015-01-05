@@ -38,10 +38,10 @@
 		 <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">			 
     </form>
 	</div>
-	 {% for result in results %}
+	 {% for result in results2 %}
 			<div id="album" class="box">
 				<a href="#myModal{{loop.index}}"  data-toggle="modal">
-					<img src={{result.albumcoverurl}}  alt={{result.albumname}}>
+					<img src="{{result.albumpicURL}}"  alt={{result.albumname}}>
 				</a>
                 <!-- <a href=#>!!!!!</a> -->
 <!-- 				<span class="caption scale-caption">					
@@ -55,22 +55,16 @@
     <div id="myModal{{loop.index}}" class="myModal modal  fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:10%;padding:2% 2% 2% 2%;">    <div class="modal-content">
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h3 id="myModalLabel">歌曲详情</h3>
+                <h3 id="myModalLabel">专辑详情</h3>
             </div>
-            
+
             <div class="modal-body">
-                <p>我的名字：<a href={{result.songurl}}  target="_blank" style="color:blue;">{{result.songname}}</a></p>
-                <p>我的家乡：{{result.albumname}}</p>
+                <p>我的名字：<a href={{result.albumURL}}  target="_blank" style="color:blue;">{{result.albumname}}</a></p>
+                <p>我的主人：<a href={{result.albumartistURL}}  target="_blank" style="color:blue;">{{result.albumartist}}</a></p>
                 <p>我的简介：
-                    林肯公园（Linkin Park）[1] 是一组来自美国加州的摇滚乐队，也被认为是新金属最成功的乐团。林肯公园在2000年以首张专辑《混合理论》在主流音乐市场上获得成功，该专辑销售量超过2,400万张，乐队接下来发行的《天空之城—美特拉》专辑也取得成功，在2003年的美国公告牌二百强专辑榜上排名第一。
-林肯公园的第三张专辑《末日警钟 毁灭·新生》不再是新金属的风格，而走向主流，但仍然受到了歌迷的欢迎，截至2009年10月销售超过800万张。 2010年，林肯公园全球发行的第四张专辑《烈日千阳》延续上一张的概念，并加入了更多的电子音乐元素。
-2012年，林肯公园推出的第五张专辑《生命 进化 原点》结合了过往各张专辑的特色，于6月26日全球发行。林肯公园曾多次与其他音乐人合作，当中包括2004年与美国饶舌歌手Jay-Z合作推出冲击理论，并曾两次获得格莱美奖。
-                    林肯公园（Linkin Park）[1] 是一组来自美国加州的摇滚乐队，也被认为是新金属最成功的乐团。林肯公园在2000年以首张专辑《混合理论》在主流音乐市场上获得成功，该专辑销售量超过2,400万张，乐队接下来发行的《天空之城—美特拉》专辑也取得成功，在2003年的美国公告牌二百强专辑榜上排名第一。
-林肯公园的第三张专辑《末日警钟 毁灭·新生》不再是新金属的风格，而走向主流，但仍然受到了歌迷的欢迎，截至2009年10月销售超过800万张。 2010年，林肯公园全球发行的第四张专辑《烈日千阳》延续上一张的概念，并加入了更多的电子音乐元素。
-2012年，林肯公园推出的第五张专辑《生命 进化 原点》结合了过往各张专辑的特色，于6月26日全球发行。林肯公园曾多次与其他音乐人合作，当中包括2004年与美国饶舌歌手Jay-Z合作推出冲击理论，并曾两次获得格莱美奖。
-                    林肯公园（Linkin Park）[1] 是一组来自美国加州的摇滚乐队，也被认为是新金属最成功的乐团。林肯公园在2000年以首张专辑《混合理论》在主流音乐市场上获得成功，该专辑销售量超过2,400万张，乐队接下来发行的《天空之城—美特拉》专辑也取得成功，在2003年的美国公告牌二百强专辑榜上排名第一。
-林肯公园的第三张专辑《末日警钟 毁灭·新生》不再是新金属的风格，而走向主流，但仍然受到了歌迷的欢迎，截至2009年10月销售超过800万张。 2010年，林肯公园全球发行的第四张专辑《烈日千阳》延续上一张的概念，并加入了更多的电子音乐元素。
-2012年，林肯公园推出的第五张专辑《生命 进化 原点》结合了过往各张专辑的特色，于6月26日全球发行。林肯公园曾多次与其他音乐人合作，当中包括2004年与美国饶舌歌手Jay-Z合作推出冲击理论，并曾两次获得格莱美奖。
+                    {% autoescape false %}
+                        {{result.albumintro}}
+                    {% endautoescape %} 
                 </p>
             </div>
 
@@ -81,6 +75,29 @@
         </div>
     </div>
     {% endfor %}
+    {% for result in results0 %}
+    <div class="albumbox2">
+                <p>我的名字：<a href={{result.albumURL}}  target="_blank" >{{result.albumname}}</a></p>
+                <p>我的主人：<a href={{result.albumartistURL}}  target="_blank" >{{result.albumartist}}</a></p>
+        <p>我的简介：
+            {% autoescape false %}
+                {{result.albumintro}}
+            {% endautoescape %} 
+            </p>
+        <p>我的组成：
+        {% for i in result.albumsongs %}
+            <a href={{result.albumsongURLs[loop.index-1]}}  target="_blank" >{{i}}</a>
+        {% endfor %}
+    </p>
+    </div>
+    {% endfor %}
+    <!-- [{'albumnum:', doc.get("albumnum"),\
+                               'albumname:',doc.get('albumname'),\
+                                'albumartist:',doc.get('albumartist'),\
+                               'albumintro:', doc.get("albumintro"),\
+                               'albumsongs:',doc.get('albumsongs'),\
+                               'albumsongURLs:', doc.get("albumsongURLs"),\
+                               'albumpicURL:',doc.get('albumpicURL')}] -->
 	<a href="#" id="top">返回顶部</a>
 </body>	
 

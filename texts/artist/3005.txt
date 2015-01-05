@@ -1,0 +1,7 @@
+number 3005
+name Swingjack
+place &nbsp;(更多)
+introduction &nbsp;
+picture 
+albums Swingjack Project Level 4 - 争奇斗艳%^&*Swingjack Project Level 3 - 反璞归真%^&*Swingjack Project Level 2%^&*Swingjack Project Level 1%^&*
+albumURLs http://www.xiami.com/album/15269%^&*http://www.xiami.com/album/15270%^&*http://www.xiami.com/album/15272%^&*http://www.xiami.com/album/15271%^&*

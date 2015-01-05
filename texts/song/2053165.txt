@@ -1,0 +1,6 @@
+number 2053165
+name 情凭谁来定错对
+artist 森帕乐队%^&*
+artistURL http://www.xiami.com/artist/3011%^&*
+album 戏竹
+albumURL http://www.xiami.com/album/167556

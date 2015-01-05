@@ -1,0 +1,7 @@
+number 661093540
+name 戏竹Ⅱ
+artist 森帕乐队
+introduction 这只《戏竹Ⅱ》是「雨林」最新录制的作品，内容一共有11首非常动听的中文歌曲笛子演奏版本，主奏是由国家二级演奏员伍国忠先生演奏笛子，森帕乐队如第一集的时候一样，仍然负责MIDI部分，森帕乐队的王华不但负责弹奏MIDI，他并且负责编曲监制，是一位多才多艺的音乐人。这张《戏竹Ⅱ》由MIDI营造出各种电子化的乐器，配合伍国忠先生演奏细腻、传神，清澈通透、音色柔美而生动的笛子，同时还加入了多个由真乐器作伴奏，其中如张毅的小提琴、陈焕明的吉他、曹玉荣的二胡、廖晓铮的琵琶等等，让《戏竹Ⅱ》更加HIFI。另外还请来了陈洁丽为其中部分歌曲作人声和唱。 真假乐器配合出和谐的音效，清新脱俗、朴实无华。
+picture http://img.xiami.net/images/album/img11/3011/6610935401361093540.jpg
+songs 南泥湾%^&*缺口%^&*夜来香%^&*涛声依旧%^&*月光下的凤尾竹%^&*草原夜色美%^&*茉莉花%^&*吻别%^&*祝你平安%^&*常回家看看%^&*雾里看花%^&*
+songURLs http://www.xiami.com/song/1771677286%^&*http://www.xiami.com/song/1771677287%^&*http://www.xiami.com/song/1771677288%^&*http://www.xiami.com/song/1771677289%^&*http://www.xiami.com/song/1771677290%^&*http://www.xiami.com/song/1771677291%^&*http://www.xiami.com/song/1771677292%^&*http://www.xiami.com/song/1771677293%^&*http://www.xiami.com/song/1771677294%^&*http://www.xiami.com/song/1771677295%^&*http://www.xiami.com/song/1771677296%^&*

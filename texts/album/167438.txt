@@ -1,0 +1,6 @@
+number 167438
+name 舞台
+artist 闪亮三姊妹
+introduction picture http://img.xiami.net/images/album/img15/3015/167438.jpg
+songs 打拼%^&*按怎%^&*闪亮舞台%^&*犹原在等你%^&*我爱你一生一世%^&*爱你每一天%^&*自由自在%^&*作你的情人%^&*爱你千万年%^&*失落的爱%^&*
+songURLs http://www.xiami.com/song/2051442%^&*http://www.xiami.com/song/2051443%^&*http://www.xiami.com/song/2051444%^&*http://www.xiami.com/song/2051445%^&*http://www.xiami.com/song/2051446%^&*http://www.xiami.com/song/2051447%^&*http://www.xiami.com/song/2051448%^&*http://www.xiami.com/song/2051449%^&*http://www.xiami.com/song/2051450%^&*http://www.xiami.com/song/2051451%^&*

@@ -1,0 +1,6 @@
+number 187564
+name 半张飞
+artist Swing%^&*
+artistURL http://www.xiami.com/artist/3004%^&*
+album Swing Swang Swung
+albumURL http://www.xiami.com/album/15265

@@ -1,0 +1,7 @@
+number 15282
+name 花样年华
+artist 三人女子组合
+introduction 
+picture http://img.xiami.net/images/album/img9/3009/15282.jpg
+songs 月光下的凤尾竹%^&*二月里来%^&*青藏高原%^&*边疆的泉水清又纯%^&*浏阳河%^&*雁南飞%^&*月儿弯弯照九州%^&*怀念战友%^&*在那遥远的地方%^&*十送红军%^&*在银色的月光下%^&*弹起我心爱的土琵琶%^&*天堂%^&*
+songURLs http://www.xiami.com/song/187698%^&*http://www.xiami.com/song/187699%^&*http://www.xiami.com/song/187700%^&*http://www.xiami.com/song/187701%^&*http://www.xiami.com/song/187702%^&*http://www.xiami.com/song/187703%^&*http://www.xiami.com/song/187704%^&*http://www.xiami.com/song/187705%^&*http://www.xiami.com/song/187706%^&*http://www.xiami.com/song/187707%^&*http://www.xiami.com/song/187708%^&*http://www.xiami.com/song/187709%^&*http://www.xiami.com/song/187710%^&*

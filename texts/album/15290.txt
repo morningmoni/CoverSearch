@@ -1,0 +1,7 @@
+number 15290
+name 深藏不露
+artist 山风点伙
+introduction 
+picture http://img.xiami.net/images/album/img13/3013/152901315536821.jpg
+songs 深藏不露%^&*出乎意料%^&*不甘寂寞%^&*爱他并不傻%^&*给我爱%^&*任你左右%^&*爱以稀为贵%^&*我要快乐%^&*干脆%^&*You Are My Angel%^&*
+songURLs http://www.xiami.com/song/187750%^&*http://www.xiami.com/song/187751%^&*http://www.xiami.com/song/187752%^&*http://www.xiami.com/song/187753%^&*http://www.xiami.com/song/187754%^&*http://www.xiami.com/song/187755%^&*http://www.xiami.com/song/187756%^&*http://www.xiami.com/song/187757%^&*http://www.xiami.com/song/187758%^&*http://www.xiami.com/song/187759%^&*

@@ -1,0 +1,7 @@
+number 15281
+name 新生活运动
+artist 三口组
+introduction 
+picture http://img.xiami.net/images/pic/04/03/10094746158m_2.jpg
+songs 新生活运动%^&*午后狂想曲%^&*满天星%^&*关于她的二三事%^&*这样的人生%^&*小叮当%^&*历史上的泡泡%^&*上帝也抓狂%^&*后会有期%^&*新生活运动%^&*
+songURLs http://www.xiami.com/song/187688%^&*http://www.xiami.com/song/187689%^&*http://www.xiami.com/song/187690%^&*http://www.xiami.com/song/187691%^&*http://www.xiami.com/song/187692%^&*http://www.xiami.com/song/187693%^&*http://www.xiami.com/song/187694%^&*http://www.xiami.com/song/187695%^&*http://www.xiami.com/song/187696%^&*http://www.xiami.com/song/187697%^&*

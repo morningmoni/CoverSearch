@@ -1,0 +1,7 @@
+number 15266
+name For Sale
+artist Swing
+introduction 
+picture http://img.xiami.net/images/album/img4/3004/152661390378098.jpg
+songs 大大公司%^&*帝国大厦%^&*宇宙洪荒%^&*沙漠寻宝%^&*天空之城%^&*冰河时期%^&*1984(Last Christmas Version)%^&*
+songURLs http://www.xiami.com/song/187569%^&*http://www.xiami.com/song/187570%^&*http://www.xiami.com/song/187571%^&*http://www.xiami.com/song/187572%^&*http://www.xiami.com/song/187573%^&*http://www.xiami.com/song/187574%^&*http://www.xiami.com/song/187575%^&*

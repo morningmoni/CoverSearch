@@ -1,0 +1,7 @@
+number 3000
+name Sunday Girls
+place Japan 日本
+introduction 小档案【本名】 【爱称】 【出生地】 【诞生日】佐藤麻衣 MAI 东京都 1979年11月13日高垣朋子 TOMOKO 岐阜県 1982年09月10日千田爱纱 AISA 冲縄県 1982年11月08日五岛千佳 CHIKA 爱知県 1984年01月18日
+picture http://img.xiami.net/images/artist/12065187001323.jpg
+albums 喜欢你%^&*
+albumURLs http://www.xiami.com/album/15256%^&*

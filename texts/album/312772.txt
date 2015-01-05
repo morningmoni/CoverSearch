@@ -1,0 +1,7 @@
+number 312772
+name 一个早已成为童话的世界
+artist 沙子
+introduction 距离沙子乐队上一次发行唱片已经6年了，喜欢他们的人们等待新专辑已经等了很久，终于今年它有希望不再是传说，沙子那些上上下下的小理想可以再次进入人们的耳朵，浪荡而迷乱，孤独而黯然。
+picture http://img.xiami.net/images/album/img12/3012/3127721329790992.jpg
+songs 吉利%^&*我一定是在天上%^&*明月在上%^&*一个早已成为童话的世界%^&*怪模怪样I%^&*点上你的蜡烛%^&*两只燕子%^&*别离开我%^&*浪浪浪%^&*消费者之歌%^&*
+songURLs http://www.xiami.com/song/1768939980%^&*http://www.xiami.com/song/1768939981%^&*http://www.xiami.com/song/1768939982%^&*http://www.xiami.com/song/1768939983%^&*http://www.xiami.com/song/1768939984%^&*http://www.xiami.com/song/1768939985%^&*http://www.xiami.com/song/1768939986%^&*http://www.xiami.com/song/1768939987%^&*http://www.xiami.com/song/1768939988%^&*http://www.xiami.com/song/1769009417%^&*

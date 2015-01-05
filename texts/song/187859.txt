@@ -1,0 +1,6 @@
+number 187859
+name 给我几秒钟
+artist 闪亮三姊妹%^&*
+artistURL http://www.xiami.com/artist/3015%^&*
+album 闪亮三姊妹 同名专辑
+albumURL http://www.xiami.com/album/15300

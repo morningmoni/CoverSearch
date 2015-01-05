@@ -42,8 +42,10 @@ font-family:"微软雅黑" ;
           <div class="comment">
 		  <p>songname:<a href={{result.songurl}}  target="_blank">{{result.songname}}</a></p>
 		  <p>songurl:<a href={{result.songurl}}  target="_blank">{{result.songurl}}</a></p>
-		  <p>albumname:{{result.albumname}}</p>
-		  <p>albumcoverurl:<a href={{result.albumcoverurl}}  target="_blank">{{result.albumcoverurl}}</a></p>
+		  <p>songartist:{{result.songartist}}</p>
+          <p>albumname:<a href={{result.songalbumURL}}  target="_blank">{{result.albumname}}</a></p></p>
+          <p>albumURL:<a href={{result.albumurl}}  target="_blank">{{result.albumurl}}</a></p>
+		  <p>albumcoverurl:<a href={{result.picPath}}  target="_blank">{{result.picPath}}</a></p>
 		  <br/>		 
           </div> 
         {% endfor %}		  

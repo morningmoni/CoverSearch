@@ -90,35 +90,20 @@
 		 <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">	 -->		 
     </form>
 	</div>
-	 {% for result in results %}
-			<div id="album" class="box">
-				<a href="#myModal{{loop.index}}"  data-toggle="modal">
-					<img src={{result.albumcoverurl}}  alt={{result.albumname}}>
-				</a>
-                <a href="#my2Modal">!!!!!</a>
-				<span class="caption scale-caption">					
-					<p>歌曲：<a href={{result.songurl}}  target="_blank">{{result.songname}}</a></p>
-					<p>专辑：{{result.albumname}}</p>
-				</span>
-             </div>		  
-	
-
-
-    <div id="myModal{{loop.index}}" class="modal  fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">       
-        <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h3 id="myModalLabel">歌曲信息</h3>
-            </div>
-            <div class="modal-body">
-                <p>巴拉拉巴巴拉巴拉巴拉</p>
-            </div>
-
-            <div class="modal-footer">
-              <button class="btn" data-dismiss="modal">关闭</button>
-              <button class="btn btn-primary">关吧</button>
-            </div>
-        </div>
+	 {% for result in res %}
+    <div class="albumbox" style="color:white;position:relative;top:-180px;left:300px;">
+        <p>我的名字：<a href={{result.albumURL}}  target="_blank" >{{result.albumname}}</a></p>
+        <p>我的主人：<a href={{result.albumartistURL}}  target="_blank" >{{result.albumartist}}</a></p>
+        <p>我的简介：
+            {% autoescape false %}
+                {{result.albumintro}}
+            {% endautoescape %} 
+            </p>
+        <p>歌曲列表：
+        {% for i in result.albumsongs %}
+            <a href={{result.albumsongURLs[loop.index-1]}}  target="_blank" >{{i}}</a>
+        {% endfor %}
+    </p>
     </div>
     {% endfor %}
 	<a href="#" id="top">返回顶部</a>

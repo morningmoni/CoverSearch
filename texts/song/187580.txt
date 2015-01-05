@@ -1,0 +1,6 @@
+number 187580
+name 黑雨天 白钢琴
+artist Swing%^&*
+artistURL http://www.xiami.com/artist/3004%^&*
+album On Fire
+albumURL http://www.xiami.com/album/15267

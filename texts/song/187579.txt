@@ -1,0 +1,6 @@
+number 187579
+name Jal 565
+artist Swing%^&*
+artistURL http://www.xiami.com/artist/3004%^&*
+album On Fire
+albumURL http://www.xiami.com/album/15267

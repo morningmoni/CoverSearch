@@ -1,0 +1,6 @@
+number 2053170
+name 我曾爱过一个男孩
+artist 森帕乐队%^&*
+artistURL http://www.xiami.com/artist/3011%^&*
+album 戏竹
+albumURL http://www.xiami.com/album/167556

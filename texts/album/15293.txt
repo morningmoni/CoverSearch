@@ -1,0 +1,7 @@
+number 15293
+name 火一样的人
+artist 山鹰组合
+introduction 1997年，山鹰组合发行第三张专辑《火一样的人》，销售排榜在全国前五名。
+picture http://img.xiami.net/images/album/img14/3014/152931404307417.jpg
+songs 火一样的人%^&*为了今天%^&*阿娌嫫%^&*山里的汉子%^&*噢,姑娘%^&*走在一片蓝天下%^&*三个流浪汉%^&*爱你一次就想你一生%^&*来跳舞%^&*阿芝%^&*
+songURLs http://www.xiami.com/song/187783%^&*http://www.xiami.com/song/187784%^&*http://www.xiami.com/song/187785%^&*http://www.xiami.com/song/187786%^&*http://www.xiami.com/song/187787%^&*http://www.xiami.com/song/187788%^&*http://www.xiami.com/song/187789%^&*http://www.xiami.com/song/187790%^&*http://www.xiami.com/song/187791%^&*http://www.xiami.com/song/187792%^&*

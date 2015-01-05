@@ -1,0 +1,7 @@
+number 3009
+name 三人女子组合
+place 内地
+introduction 
+picture 
+albums 花样年华%^&*
+albumURLs http://www.xiami.com/album/15282%^&*

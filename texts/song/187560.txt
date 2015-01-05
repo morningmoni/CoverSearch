@@ -1,0 +1,6 @@
+number 187560
+name 大大公司
+artist Swing%^&*
+artistURL http://www.xiami.com/artist/3004%^&*
+album Swing Swang Swung
+albumURL http://www.xiami.com/album/15265

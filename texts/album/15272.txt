@@ -1,0 +1,6 @@
+number 15272
+name Swingjack Project Level 2
+artist Swingjack
+introduction picture http://img.xiami.net/images/pic/04/03/10093418296m_2.jpg
+songs 48 Hours%^&*Rich Man%^&*轻松%^&*Still Remember You%^&*Next Time%^&*Sexy Loving%^&*孤独%^&*瓦解%^&*相对论%^&*我只要F4%^&*
+songURLs http://www.xiami.com/song/187619%^&*http://www.xiami.com/song/187620%^&*http://www.xiami.com/song/187621%^&*http://www.xiami.com/song/187622%^&*http://www.xiami.com/song/187623%^&*http://www.xiami.com/song/187624%^&*http://www.xiami.com/song/187625%^&*http://www.xiami.com/song/187626%^&*http://www.xiami.com/song/187627%^&*http://www.xiami.com/song/187628%^&*

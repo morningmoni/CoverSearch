@@ -1,0 +1,6 @@
+number 15280
+name 逍遥甲自在
+artist 三口组
+introduction picture http://img.xiami.net/images/album/img8/3008/15280.jpg
+songs 朋友歌%^&*小姐等一下%^&*逍遥甲自在%^&*爱我Vs爱他%^&*各走各的路%^&*开车大吉%^&*行哦,来去哦%^&*爱情十字路口%^&*电话公司有问题%^&*恋曲%^&*朋友歌%^&*
+songURLs http://www.xiami.com/song/187677%^&*http://www.xiami.com/song/187678%^&*http://www.xiami.com/song/187679%^&*http://www.xiami.com/song/187680%^&*http://www.xiami.com/song/187681%^&*http://www.xiami.com/song/187682%^&*http://www.xiami.com/song/187683%^&*http://www.xiami.com/song/187684%^&*http://www.xiami.com/song/187685%^&*http://www.xiami.com/song/187686%^&*http://www.xiami.com/song/187687%^&*

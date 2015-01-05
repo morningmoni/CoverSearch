@@ -37,16 +37,53 @@ font-family:"微软雅黑" ;
 	   
     </form>
 	</div>
-			  
+
+
+    	{% for result in results3%}
+            <div class="comment" style="color:white;position:relative;top:60px;">
+                <div class="box ">
+                 <img src="{{result.singerpicURL}}" alt="singerPic" />
+<!--                 <span class="caption scale-caption">                    
+                    <p>歌曲：<a href={{result.songurl}}  target="_blank">{{result.songname}}</a></p>
+                    <p>专辑：<a href={{result.albumurl}}  target="_blank">{{result.albumname}}</a></p>
+                </span> -->
+              </div>
+                
+                <p> 歌手：{{result.singername}} <br>
+                地点：{{result.singerplace}}   <br>
+                简介：
+                {% autoescape false %}
+                    {{result.singerintro}}
+                  <br>
+                
+                专辑：
+                {% for i in result.singeralbums %}
+                    <a href={{result.singeralbumURLs[loop.index-1]}}  target="_blank" >{{i}}</a>
+                {% endfor %}
+                {% endautoescape %}
+            </p>
+            </div>
+        {% endfor %}  
+
 	 {% for result in results %}
-		  <div class="result" >
-		  歌曲：<a href={{result.songurl}}  target="_blank">{{result.songname}}</a>
-		  </br>
-		  专辑：{{result.albumname}}
-		  <br/><br/>
-		  <div class="resimg">
-			<img src={{result.albumcoverurl}}  alt={{result.albumname}}/>	
-			</div>
+		  <div class="result">
+            <div style="text-align:center;">
+    		  歌曲：<a href={{result.songurl}}  target="_blank">{{result.songname}}</a>
+    		  <br>
+    		  专辑：<a href={{result.albumurl}}  target="_blank">{{result.albumname}}</a>
+              <br>
+              歌手：{{result.songartist}}
+    		  <br/><br/>
+            </div>
+            <div style="position:relative;left:12%;">
+    		  <div class="box ">
+    			 <img src="../static/{{result.picPath}}" alt={{result.albumname}}/>	
+                <span class="caption scale-caption">                    
+                    <p>歌曲：<a href={{result.songurl}}  target="_blank">{{result.songname}}</a></p>
+                    <p>专辑：<a href={{result.albumurl}}  target="_blank">{{result.albumname}}</a></p>
+                </span>
+    		  </div>
+            </div>
 		  </div>
 	{% endfor %}
 	<a href="#" id="top">返回顶部</a>

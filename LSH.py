@@ -57,10 +57,10 @@ def caclHist(imgname):
 
 def create_index():
     try:
-        f=open("static/covers/index",'r')
+        f=open("static/texts/index",'r')
     except:
-        f=open("static/covers/index",'w')
-        for pic in glob.glob("static/covers/*.jpg"):
+        f=open("static/texts/index",'w')
+        for pic in glob.glob("static/texts/picture/*.jpg"):
             if "target" not in pic:
                 print pic
                 v=caclHist(pic)
@@ -69,7 +69,7 @@ def create_index():
                     f.write(str(i))
                 f.write('\n')
         f.close()
-        f=open("static/covers/index",'r')
+        f=open("static/texts/index",'r')
 
     dic={}
     for line in f:
