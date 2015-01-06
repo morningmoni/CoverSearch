@@ -91,7 +91,7 @@ def imgProcess(query):
     print "Similar picture(s):"
 
     img1=cv2.imread(query,0)
-    img11=cv2.imread(query)
+
 
     orb = cv2.ORB()
     kp1,des1=orb.detectAndCompute(img1,None)
@@ -101,12 +101,15 @@ def imgProcess(query):
     for v in dic.keys():    
         if tar==dic[v]:
             print v
+            a=v.rfind('\\')
+            v=v[:a]+'/'+v[a+1:]
+            print v
             n=compare(v,orb,des1,bf)
+            print "finish compare"
             if n<mim or mim==-1:
                 mim=n
                 name=v
-    loc=name.rfind("\\")
-    name=name[:loc]+'/'+name[loc+1:]
+
     print "results=",name
     return name
 ##    img2=cv2.imread(name,0)

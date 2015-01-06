@@ -117,8 +117,8 @@ def search():
                 print 'sr=',sr
                 if sr=='':
                     return results,results3,""
-##                for i in sr:
-##                    tmp+=i+" "
+                for i in sr:
+                   tmp+=i+" "
 ##                print tmp
 ##                scoreDocs=run2(searcher2, analyzer,sr)
 ##                if len(scoreDocs)!=0:
@@ -279,7 +279,8 @@ def album():
 @app.route('/comment', methods=['GET', 'POST'])
 def comment():
     try:
-        conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8") 
+        conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8")
+##        conn = MySQLdb.connect(host='localhost', user='ee208',passwd='ee208',charset="utf8") 
         conn.select_db('coversearch');
         cursor = conn.cursor()
         cursor.execute("select * from comments ")
@@ -368,4 +369,4 @@ def coversearch():
 
 if __name__ == "__main__":
     
-    app.run()
+    app.run(host='0.0.0.0')

@@ -38,7 +38,8 @@
 		 <input class="bt btn btn-lg btn-primary" name="action" type="submit" value="Shuffle">			 
     </form>
 	</div>
-	 {% for result in results2 %}
+    
+    	 {% for result in results2 %}
 			<div id="album" class="box">
 				<a href="#myModal{{loop.index}}"  data-toggle="modal">
 					<img src="{{result.albumpicURL}}"  alt={{result.albumname}}>
@@ -49,47 +50,48 @@
 					<p>专辑：{{result.albumname}}</p>
 				</span> -->
              </div>		  
-	
+    	
+        <div id="myModal{{loop.index}}" class="myModal modal  fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:10%;padding:2% 2% 2% 2%;">    
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h3 id="myModalLabel">专辑详情</h3>
+                </div>
 
+                <div class="modal-body">
+                    <p>我的名字：<a href={{result.albumURL}}  target="_blank" style="color:blue;">{{result.albumname}}</a></p>
+                    <p>我的主人：<a href={{result.albumartistURL}}  target="_blank" style="color:blue;">{{result.albumartist}}</a></p>
+                    <p>我的简介：
+                        {% autoescape false %}
+                            {{result.albumintro}}
+                        {% endautoescape %} 
+                    </p>
+                </div>
 
-    <div id="myModal{{loop.index}}" class="myModal modal  fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:10%;padding:2% 2% 2% 2%;">    <div class="modal-content">
-            <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                <h3 id="myModalLabel">专辑详情</h3>
-            </div>
-
-            <div class="modal-body">
-                <p>我的名字：<a href={{result.albumURL}}  target="_blank" style="color:blue;">{{result.albumname}}</a></p>
-                <p>我的主人：<a href={{result.albumartistURL}}  target="_blank" style="color:blue;">{{result.albumartist}}</a></p>
-                <p>我的简介：
-                    {% autoescape false %}
-                        {{result.albumintro}}
-                    {% endautoescape %} 
-                </p>
-            </div>
-
-            <div class="modal-footer">
-              <button class="btn" data-dismiss="modal">给我留言</button>
-              <button class="btn btn-primary" data-dismiss="modal">我宣你</button>
+                <div class="modal-footer">
+                  <button class="btn" data-dismiss="modal">给我留言</button>
+                  <button class="btn btn-primary" data-dismiss="modal">我宣你</button>
+                </div>
             </div>
         </div>
-    </div>
-    {% endfor %}
-    {% for result in results0 %}
-    <div class="albumbox2">
-                <p>我的名字：<a href={{result.albumURL}}  target="_blank" >{{result.albumname}}</a></p>
-                <p>我的主人：<a href={{result.albumartistURL}}  target="_blank" >{{result.albumartist}}</a></p>
-        <p>我的简介：
-            {% autoescape false %}
-                {{result.albumintro}}
-            {% endautoescape %} 
-            </p>
-        <p>我的组成：
-        {% for i in result.albumsongs %}
-            <a href={{result.albumsongURLs[loop.index-1]}}  target="_blank" >{{i}}</a>
         {% endfor %}
-    </p>
-    </div>
+       
+        {% for result in results0 %}
+
+        <div class="albumbox2">
+                    <p>我的名字：<a href={{result.albumURL}}  target="_blank" >{{result.albumname}}</a></p>
+                    <p>我的主人：<a href={{result.albumartistURL}}  target="_blank" >{{result.albumartist}}</a></p>
+            <p>我的简介：
+                {% autoescape false %}
+                    {{result.albumintro}}
+                {% endautoescape %} 
+                </p>
+            <p>我的组成：
+            {% for i in result.albumsongs %}
+                <a href={{result.albumsongURLs[loop.index-1]}}  target="_blank" >{{i}}</a>
+            {% endfor %}
+        </p>
+        </div>
     {% endfor %}
     <!-- [{'albumnum:', doc.get("albumnum"),\
                                'albumname:',doc.get('albumname'),\

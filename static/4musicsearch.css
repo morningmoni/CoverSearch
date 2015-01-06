@@ -58,9 +58,6 @@ text-align:left;
 height:400px;
 }
 div.comment {
-/*opacity: 0.75;*/
-/*background:url('../static/6.jpg');
-background-size: contain;*/
 background:rgba(0,0,0,0.2) none repeat scroll !important;
 width:1300px;
 position:relative;left:20px;
@@ -71,9 +68,6 @@ padding:3px 10px ;
 border:1px solid purple;
 }
 div.albumbox {
-/*opacity: 0.75;*/
-/*background:url('../static/6.jpg');
-background-size: contain;*/
 background:rgba(0,0,0,0.2) none repeat scroll !important;
 width:1000px;
 position:relative;left:20px;
@@ -99,7 +93,14 @@ padding:3px 10px ;
 border:2px solid purple;
 
 }
-
+div.albumout {
+background:rgba(0,0,0,0.2) none repeat scroll !important;
+width:1300px;
+position:relative;left:20px;top: 70px;
+margin:0 0 15px 20px;
+padding:3px 10px ;
+border:1px solid purple;
+}
 
 #top { 
 display:block;  
@@ -124,7 +125,7 @@ background:url('../static/sky.jpg') no-repeat fixed center ;
 
 #album {
 position:relative;left:70px;top:80px;
-margin:1%;
+margin:2%;
 float:left;
 }	
 
