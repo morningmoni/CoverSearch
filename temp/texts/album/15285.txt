@@ -1,7 +1,0 @@
-number 15285
-name 十九楼1/2的夏天
-artist 森美小仪歌剧团
-introduction 
-picture http://img.xiami.net/images/pic/04/02/10054312989m_2.jpg
-songs 十九楼1/2的夏天%^&*幸福的钟声%^&*我要夹Band%^&*一夜成名%^&*艳蛇出洞%^&*有错过无爱错%^&*救生圈%^&*一家团聚杂菜煲%^&*十九楼的另一半%^&*大明星%^&*
-songURLs http://www.xiami.com/song/187721%^&*http://www.xiami.com/song/187722%^&*http://www.xiami.com/song/187723%^&*http://www.xiami.com/song/187724%^&*http://www.xiami.com/song/187725%^&*http://www.xiami.com/song/187726%^&*http://www.xiami.com/song/187727%^&*http://www.xiami.com/song/187728%^&*http://www.xiami.com/song/187729%^&*http://www.xiami.com/song/187730%^&*

@@ -1,6 +1,0 @@
-number 187591
-name 自得其乐
-artist Swing%^&*
-artistURL http://www.xiami.com/artist/3004%^&*
-album Swing
-albumURL http://www.xiami.com/album/15268

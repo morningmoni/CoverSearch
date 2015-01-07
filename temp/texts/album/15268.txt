@@ -1,7 +1,0 @@
-number 15268
-name Swing
-artist Swing
-introduction Swing组合成立之初名为Snowman，2000年转投英皇时更名为Swing，并发行首张同名专辑。
-picture http://img.xiami.net/images/album/img4/3004/152681390377857.jpg
-songs Shut Up%^&*半张飞%^&*1984%^&*忍者%^&*自得其乐%^&*烟花%^&*
-songURLs http://www.xiami.com/song/187587%^&*http://www.xiami.com/song/187588%^&*http://www.xiami.com/song/187589%^&*http://www.xiami.com/song/187590%^&*http://www.xiami.com/song/187591%^&*http://www.xiami.com/song/187592%^&*

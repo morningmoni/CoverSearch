@@ -1,6 +1,0 @@
-number 15258
-name Super Jet
-artist Super Jet
-introduction picture http://img.xiami.net/images/pic/04/03/10101896107m_2.jpg
-songs 爱人出嫁了%^&*Ma Ma 好%^&*矛盾爱情%^&*一个交代%^&*冷静%^&*读书郎%^&*
-songURLs http://www.xiami.com/song/187486%^&*http://www.xiami.com/song/187487%^&*http://www.xiami.com/song/187488%^&*http://www.xiami.com/song/187489%^&*http://www.xiami.com/song/187490%^&*http://www.xiami.com/song/187491%^&*

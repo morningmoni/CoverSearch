@@ -1,6 +1,0 @@
-number 187782
-name 梦语(彝语)
-artist 山鹰组合%^&*
-artistURL http://www.xiami.com/artist/3014%^&*
-album 漂人
-albumURL http://www.xiami.com/album/15292

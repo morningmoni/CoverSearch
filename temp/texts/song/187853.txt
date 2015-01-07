@@ -1,6 +1,0 @@
-number 187853
-name 给你一个机会
-artist 闪亮三姊妹%^&*
-artistURL http://www.xiami.com/artist/3015%^&*
-album 快来快来约我
-albumURL http://www.xiami.com/album/15299

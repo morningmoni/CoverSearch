@@ -1,6 +1,0 @@
-number 187753
-name 爱他并不傻
-artist 山风点伙%^&*
-artistURL http://www.xiami.com/artist/3013%^&*
-album 深藏不露
-albumURL http://www.xiami.com/album/15290

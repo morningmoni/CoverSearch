@@ -1,7 +1,0 @@
-number 15270
-name Swingjack Project Level 3 - 反璞归真
-artist Swingjack
-introduction 
-picture http://img.xiami.net/images/pic/04/03/10093423968m_2.jpg
-songs Stay Gold%^&*旧记忆%^&*就当从没人在意过%^&*雨季%^&*不寂寞%^&*美丽回忆%^&*19%^&*彩虹庄园%^&*命运的计程车%^&*还是想你%^&*单身生活%^&*陌生人%^&*我是你的天%^&*Times%^&*
-songURLs http://www.xiami.com/song/187593%^&*http://www.xiami.com/song/187594%^&*http://www.xiami.com/song/187595%^&*http://www.xiami.com/song/187596%^&*http://www.xiami.com/song/187597%^&*http://www.xiami.com/song/187598%^&*http://www.xiami.com/song/187599%^&*http://www.xiami.com/song/187600%^&*http://www.xiami.com/song/187601%^&*http://www.xiami.com/song/187602%^&*http://www.xiami.com/song/187603%^&*http://www.xiami.com/song/187604%^&*http://www.xiami.com/song/187605%^&*http://www.xiami.com/song/187606%^&*

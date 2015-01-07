@@ -1,7 +1,0 @@
-number 15294
-name 离开家的孩子
-artist 山鹰组合
-introduction 1996年奥杰阿格因去大学进修离开山鹰组合，舞蹈演员出身的沙玛拉且加入山鹰组合，他们录制发行了第二张专辑《离开家的孩子》，同名主打歌曲荣获广东广播新歌96首季十大金曲奖。同年山鹰代表中国前往哈萨克斯坦参加&ldquo;95亚洲音乐节&rdquo;，第一次将中国少数民族流行音乐带上世界舞台。
-picture http://img.xiami.net/images/album/img14/3014/152941404307528.jpg
-songs 离开家的孩子%^&*想见见你是我唯一的理由%^&*飞呀飞%^&*这一瞬间%^&*蓝色的老吉他%^&*情人的路%^&*索玛花%^&*彝人%^&*好姑娘%^&*相同的心愿%^&*
-songURLs http://www.xiami.com/song/187793%^&*http://www.xiami.com/song/187794%^&*http://www.xiami.com/song/187795%^&*http://www.xiami.com/song/187796%^&*http://www.xiami.com/song/187797%^&*http://www.xiami.com/song/187798%^&*http://www.xiami.com/song/187799%^&*http://www.xiami.com/song/187800%^&*http://www.xiami.com/song/187801%^&*http://www.xiami.com/song/187802%^&*

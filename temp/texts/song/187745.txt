@@ -1,6 +1,0 @@
-number 187745
-name 不解风情MV
-artist 山风点伙%^&*
-artistURL http://www.xiami.com/artist/3013%^&*
-album 无法忘记
-albumURL http://www.xiami.com/album/15289

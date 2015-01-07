@@ -1,6 +1,0 @@
-number 1769300412
-name 冒儿冒儿
-artist 沙子%^&*
-artistURL http://www.xiami.com/artist/3012%^&*
-album 冒儿冒儿
-albumURL http://www.xiami.com/album/362155

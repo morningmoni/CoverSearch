@@ -1,6 +1,0 @@
-number 187526
-name 天使加油
-artist Sweety%^&*
-artistURL http://www.xiami.com/artist/3003%^&*
-album 嗨!Sweety
-albumURL http://www.xiami.com/album/15262

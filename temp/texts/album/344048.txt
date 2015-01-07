@@ -1,7 +1,0 @@
-number 344048
-name 武当
-artist Swing
-introduction Swing黐筋孖筋回归乐坛嘟嘟嘟嘟.....环球特别报导!!阔别乐坛7年的二人组合Swing, 终于再度出现。组合Swing由Eric Kwok 、Jerald两位鬼马及创意多到满泻的主脑组成,正式孖住加盟环球唱片, 继续营业
-picture http://img.xiami.net/images/album/img4/3004/3440481390378264.jpg
-songs 我有货%^&*Let It Go%^&*面包生命%^&*让左脚先行一步%^&*点止兵兵%^&*尿床的启示%^&*Hehehe%^&*钟楼驼侠%^&*鱼虾蟹%^&*So Say We All%^&*
-songURLs http://www.xiami.com/song/1769079523%^&*http://www.xiami.com/song/1769079524%^&*http://www.xiami.com/song/1769079525%^&*http://www.xiami.com/song/1769079526%^&*http://www.xiami.com/song/1769079527%^&*http://www.xiami.com/song/1769079528%^&*http://www.xiami.com/song/1769079529%^&*http://www.xiami.com/song/1769079530%^&*http://www.xiami.com/song/1769079531%^&*http://www.xiami.com/song/1769079532%^&*

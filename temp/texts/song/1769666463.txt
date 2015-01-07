@@ -1,6 +1,0 @@
-number 1769666463
-name 隔三日 见一面MV
-artist Swing%^&*
-artistURL http://www.xiami.com/artist/3004%^&*
-album 电
-albumURL http://www.xiami.com/album/393413

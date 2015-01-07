@@ -1,7 +1,0 @@
-number 3010
-name 森美小仪歌剧团
-place Hongkong 香港
-introduction 森美小仪歌剧团是每年商业电台叱咤903频道的重点项目，由2001年起，每年均创作一个新剧目，除森美(梁志健)和小仪(阮倩仪)两位外，更邀请歌手及DJ倾力演出，有些剧目更曾邀请听众一起参与。
-picture http://img.xiami.net/images/artist/12065224846460.jpg
-albums 903 Id Club 亚卡比枪击事件舞台剧%^&*爱情万岁(亚卡比枪击事件舞台剧原声大碟/黄贯中音乐作品)%^&*十九楼1/2的夏天%^&*
-albumURLs http://www.xiami.com/album/15283%^&*http://www.xiami.com/album/15284%^&*http://www.xiami.com/album/15285%^&*

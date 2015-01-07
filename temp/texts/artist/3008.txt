@@ -1,7 +1,0 @@
-number 3008
-name 三口组
-place Taiwan 台湾
-introduction 
-picture http://img.xiami.net/images/artist/12065221978205.jpg
-albums 逍遥甲自在%^&*新生活运动%^&*
-albumURLs http://www.xiami.com/album/15280%^&*http://www.xiami.com/album/15281%^&*

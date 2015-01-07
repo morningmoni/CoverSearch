@@ -1,6 +1,0 @@
-number 187636
-name 傻瓜
-artist S翼乐团%^&*
-artistURL http://www.xiami.com/artist/3006%^&*
-album QQ爱
-albumURL http://www.xiami.com/album/15273

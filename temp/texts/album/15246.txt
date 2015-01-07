@@ -1,7 +1,0 @@
-number 15246
-name Snowman 同名专辑
-artist Swing
-introduction 《Snowman》是香港男子组合Snowman（即Swing前身）的首张专辑，于1999年11月23日发行，共收录十首歌。当中《开始到最后》为代表作。
-picture http://img.xiami.net/images/album/img94/2994/15246.jpg
-songs 下一站…%^&*新歌%^&*呀之呀左%^&*开始到最后%^&*打者爱也%^&*风里长街%^&*吐口水%^&*啰命%^&*不用认同%^&*无中生有%^&*
-songURLs http://www.xiami.com/song/187361%^&*http://www.xiami.com/song/187362%^&*http://www.xiami.com/song/187363%^&*http://www.xiami.com/song/187364%^&*http://www.xiami.com/song/187365%^&*http://www.xiami.com/song/187366%^&*http://www.xiami.com/song/187367%^&*http://www.xiami.com/song/187368%^&*http://www.xiami.com/song/187369%^&*http://www.xiami.com/song/187370%^&*

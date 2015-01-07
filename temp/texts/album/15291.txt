@@ -1,7 +1,0 @@
-number 15291
-name 忠贞
-artist 山鹰组合
-introduction 
-picture http://img.xiami.net/images/album/img14/3014/152911404307926.jpg
-songs 序曲%^&*橄榄树在梦中结满果子%^&*把歌放在酒里唱%^&*如今的情歌%^&*蜕化%^&*忠贞%^&*肉眼看不见的巨人%^&*叹调%^&*反璞归真%^&*人花%^&*残缺的歌谣%^&*
-songURLs http://www.xiami.com/song/187760%^&*http://www.xiami.com/song/187761%^&*http://www.xiami.com/song/187762%^&*http://www.xiami.com/song/187763%^&*http://www.xiami.com/song/187764%^&*http://www.xiami.com/song/187765%^&*http://www.xiami.com/song/187766%^&*http://www.xiami.com/song/187767%^&*http://www.xiami.com/song/187768%^&*http://www.xiami.com/song/187769%^&*http://www.xiami.com/song/187770%^&*

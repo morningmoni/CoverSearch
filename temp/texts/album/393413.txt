@@ -1,7 +1,0 @@
-number 393413
-name 电
-artist Swing
-introduction Swing 炮制全新广东EP《电》(CD+DVD)涉猎未开发之领域 悲观+电子+浪漫 = 末世情歌？首主打〈无如果〉发放悲情浪漫第二主打〈隔三日见一面〉打造情深深哲学爱歌
-picture http://img.xiami.net/images/album/img4/3004/3934131390378339.jpg
-songs 无如果%^&*7%^&*男人不可以穷%^&*爱神死了%^&*隔三日 见一面%^&*无如果 (Instrumental Remix)%^&*男人不可以穷 (Instrumental Remix)%^&*爱神死了 (Instrumental Remix)%^&*7 (Instrumental Remix)%^&*隔三日 见一面(Instrumental Remix)%^&*
-songURLs http://www.xiami.com/song/1769666459%^&*http://www.xiami.com/song/1769666460%^&*http://www.xiami.com/song/1769666461%^&*http://www.xiami.com/song/1769666462%^&*http://www.xiami.com/song/1769666463%^&*http://www.xiami.com/song/1769666464%^&*http://www.xiami.com/song/1769666465%^&*http://www.xiami.com/song/1769666466%^&*http://www.xiami.com/song/1769666467%^&*http://www.xiami.com/song/1769666468%^&*

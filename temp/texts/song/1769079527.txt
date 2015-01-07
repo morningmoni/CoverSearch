@@ -1,6 +1,0 @@
-number 1769079527
-name 点止兵兵MV
-artist Swing%^&*
-artistURL http://www.xiami.com/artist/3004%^&*
-album 武当
-albumURL http://www.xiami.com/album/344048

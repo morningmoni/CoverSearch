@@ -1,7 +1,0 @@
-number 478015
-name 到尽
-artist Swing
-introduction 告別乐坛最倾力之作【Swing 到尽】第一主打: 无限请別再追求歌曲要有超深层意义别让自己脱离常规第二主打: 那边见
-picture http://img.xiami.net/images/album/img4/3004/4780151390378185.jpg
-songs 无限%^&*Intelligent Design%^&*太多人%^&*23%^&*那边见%^&*
-songURLs http://www.xiami.com/song/1770432889%^&*http://www.xiami.com/song/1770625048%^&*http://www.xiami.com/song/1770625049%^&*http://www.xiami.com/song/1770625050%^&*http://www.xiami.com/song/1770568557%^&*

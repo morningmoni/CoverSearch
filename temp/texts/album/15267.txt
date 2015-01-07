@@ -1,7 +1,0 @@
-number 15267
-name On Fire
-artist Swing
-introduction 
-picture http://img.xiami.net/images/album/img4/3004/152671390378047.jpg
-songs 就当我未玩够%^&*中和点%^&*复制爸爸%^&*Jal 565%^&*黑雨天 白钢琴%^&*凌波微步%^&*突然感动%^&*Opening Day%^&*一命、二运、三风水%^&*惺忪%^&*Frankie Lee%^&*
-songURLs http://www.xiami.com/song/187576%^&*http://www.xiami.com/song/187577%^&*http://www.xiami.com/song/187578%^&*http://www.xiami.com/song/187579%^&*http://www.xiami.com/song/187580%^&*http://www.xiami.com/song/187581%^&*http://www.xiami.com/song/187582%^&*http://www.xiami.com/song/187583%^&*http://www.xiami.com/song/187584%^&*http://www.xiami.com/song/187585%^&*http://www.xiami.com/song/187586%^&*

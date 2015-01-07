@@ -1,6 +1,0 @@
-number 187788
-name 走在一片蓝天下
-artist 山鹰组合%^&*
-artistURL http://www.xiami.com/artist/3014%^&*
-album 火一样的人
-albumURL http://www.xiami.com/album/15293

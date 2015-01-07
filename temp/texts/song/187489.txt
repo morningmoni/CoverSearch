@@ -1,6 +1,0 @@
-number 187489
-name 一个交代
-artist Super Jet%^&*
-artistURL http://www.xiami.com/artist/3002%^&*
-album Super Jet
-albumURL http://www.xiami.com/album/15258

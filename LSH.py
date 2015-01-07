@@ -63,7 +63,12 @@ def create_index():
         for pic in glob.glob("static/texts/picture/*.jpg"):
             if "target" not in pic:
                 print pic
-                v=caclHist(pic)
+                try:
+                    v=caclHist(pic)
+                except Exception,e:
+                    print 
+                    print e
+                    print
                 f.write(pic+'\t')
                 for i in v:
                     f.write(str(i))
@@ -100,12 +105,10 @@ def imgProcess(query):
     name=''
     for v in dic.keys():    
         if tar==dic[v]:
-            print v
             a=v.rfind('\\')
             v=v[:a]+'/'+v[a+1:]
             print v
             n=compare(v,orb,des1,bf)
-            print "finish compare"
             if n<mim or mim==-1:
                 mim=n
                 name=v

@@ -1,7 +1,0 @@
-number 3002
-name Super Jet
-place 
-introduction 
-picture 
-albums Super Jet%^&*
-albumURLs http://www.xiami.com/album/15258%^&*

@@ -1,6 +1,0 @@
-number 187824
-name 爱情红不让
-artist 闪亮三姊妹%^&*
-artistURL http://www.xiami.com/artist/3015%^&*
-album 老娘就是我
-albumURL http://www.xiami.com/album/15297

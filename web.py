@@ -14,11 +14,13 @@ def run(searcher, analyzer,command):
 
     if command == '':
         return False
-
+    query = QueryParser(Version.LUCENE_CURRENT,"songartist",analyzer).parse(command)
+    querys.add(query,BooleanClause.Occur.SHOULD)
     query = QueryParser(Version.LUCENE_CURRENT,"songname",analyzer).parse(command)
     querys.add(query,BooleanClause.Occur.SHOULD)        
     query = QueryParser(Version.LUCENE_CURRENT,"songalbum",analyzer).parse(command)
     querys.add(query,BooleanClause.Occur.SHOULD)
+
     scoreDocs = searcher.search(querys, 20).scoreDocs
 ##        print "%s total matching documents." % len(scoreDocs)    
 ##    for scoreDoc in scoreDocs:
@@ -195,14 +197,19 @@ def search2():
 
             if mark:
                 print 'loc=',loc
+                ct=0
                 for i in loc:
                     doc = searcher2.doc(i)
+                    songs=doc.get('albumsongs')
+                    songs=songs.split('!@#$%')
+                    urls=doc.get("albumsongURLs")
+                    urls=urls.split('!@#$%')
                     results2+=[{'albumnum': doc.get("albumnum"),\
                                'albumname':doc.get('albumname'),\
                                 'albumartist':doc.get('albumartist'),\
                                'albumintro': doc.get("albumintro"),\
-                               'albumsongs':doc.get('albumsongs'),\
-                               'albumsongURLs': doc.get("albumsongURLs"),\
+                               'albumsongs':songs,\
+                               'albumsongURLs': urls,\
                                'albumpicURL':doc.get('albumpicURL'),\
                                 'albumartistURL':doc.get('albumartistURL'),\
                                 'albumURL':doc.get('albumURL')}]                   
@@ -214,7 +221,7 @@ def search2():
 ##                for i in sr:
 ##                    tmp+=i+" "
 ##                print tmp
-                scoreDocs=run2(searcher2, analyzer,sr,1)
+                scoreDocs=run2(searcher2, analyzer,sr,1) #search exact album
 
                 if scoreDocs!=False:
                     doc=scoreDocs
@@ -233,7 +240,7 @@ def search2():
                                 'albumURL':doc.get('albumURL')}] 
                     results0=results2
                 else:
-                    scoreDocs=run2(searcher2, analyzer,sr,20)
+                    scoreDocs=run2(searcher2, analyzer,sr,20) #search 20 albums
                     for scoreDoc in scoreDocs:
                         doc = searcher2.doc(scoreDoc.doc)
                         songs=doc.get('albumsongs')

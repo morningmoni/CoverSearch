@@ -1,7 +1,0 @@
-number 15276
-name 当我们开始旅行
-artist 撒小乐团
-introduction 
-picture http://img.xiami.net/images/pic/06/06/200607241027171829m_2.jpg
-songs 我们都忘了爱%^&*当我们开始旅行%^&*梦想倒数的时间%^&*你的温柔我的自由%^&*爱了%^&*幸福的开始%^&*而我们继续%^&*还有我%^&*Byebyebyelove%^&*狂舞吧!!!勇气%^&*
-songURLs http://www.xiami.com/song/187643%^&*http://www.xiami.com/song/187644%^&*http://www.xiami.com/song/187645%^&*http://www.xiami.com/song/187646%^&*http://www.xiami.com/song/187647%^&*http://www.xiami.com/song/187648%^&*http://www.xiami.com/song/187649%^&*http://www.xiami.com/song/187650%^&*http://www.xiami.com/song/187651%^&*http://www.xiami.com/song/187652%^&*

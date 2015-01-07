@@ -1,6 +1,0 @@
-number 167556
-name 戏竹
-artist 森帕乐队
-introduction picture http://img.xiami.net/images/album/img11/3011/167556.jpg
-songs 美丽的草原我的家%^&*南海姑娘%^&*梦不到你%^&*家乡%^&*花心%^&*情凭谁来定错对%^&*秋蝉%^&*军港之夜%^&*童年%^&*一直是晴天%^&*我曾爱过一个男孩%^&*忘不了%^&*
-songURLs http://www.xiami.com/song/2053160%^&*http://www.xiami.com/song/2053161%^&*http://www.xiami.com/song/2053162%^&*http://www.xiami.com/song/2053163%^&*http://www.xiami.com/song/2053164%^&*http://www.xiami.com/song/2053165%^&*http://www.xiami.com/song/2053166%^&*http://www.xiami.com/song/2053167%^&*http://www.xiami.com/song/2053168%^&*http://www.xiami.com/song/2053169%^&*http://www.xiami.com/song/2053170%^&*http://www.xiami.com/song/2053171%^&*

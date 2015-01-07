@@ -44,11 +44,7 @@
 				<a href="#myModal{{loop.index}}"  data-toggle="modal">
 					<img src="{{result.albumpicURL}}"  alt={{result.albumname}}>
 				</a>
-                <!-- <a href=#>!!!!!</a> -->
-<!-- 				<span class="caption scale-caption">					
-					<p>歌曲：<a href={{result.songurl}}  target="_blank">{{result.songname}}</a></p>
-					<p>专辑：{{result.albumname}}</p>
-				</span> -->
+
              </div>		  
     	
         <div id="myModal{{loop.index}}" class="myModal modal  fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="top:10%;padding:2% 2% 2% 2%;">    
@@ -65,6 +61,13 @@
                         {% autoescape false %}
                             {{result.albumintro}}
                         {% endautoescape %} 
+                    </p>
+                    <p>我的组成：
+                        {% for i in result.albumsongs %}
+                            <a href="{{result.albumsongURLs[loop.index-1]}}"  target="_blank" style="color:blue" >{{i}}</a>
+                        {% endfor %}
+
+
                     </p>
                 </div>
 

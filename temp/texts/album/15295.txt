@@ -1,7 +1,0 @@
-number 15295
-name 走出大凉山
-artist 山鹰组合
-introduction 
-picture http://img.xiami.net/images/album/img14/3014/152951404307370.jpg
-songs 走出大凉山%^&*离开家的孩子%^&*七月火把节%^&*月亮与井%^&*彝人%^&*飞呀飞%^&*情人的路%^&*一起舞动%^&*等你一句话%^&*土妹妹%^&*木呷想阿妹%^&*索玛花%^&*好姑娘%^&*鹰少年%^&*
-songURLs http://www.xiami.com/song/187803%^&*http://www.xiami.com/song/187804%^&*http://www.xiami.com/song/187805%^&*http://www.xiami.com/song/187806%^&*http://www.xiami.com/song/187807%^&*http://www.xiami.com/song/187808%^&*http://www.xiami.com/song/187809%^&*http://www.xiami.com/song/187810%^&*http://www.xiami.com/song/187811%^&*http://www.xiami.com/song/187812%^&*http://www.xiami.com/song/187813%^&*http://www.xiami.com/song/187814%^&*http://www.xiami.com/song/187815%^&*http://www.xiami.com/song/187816%^&*

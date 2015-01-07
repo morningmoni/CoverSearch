@@ -1,6 +1,0 @@
-number 1769743038
-name 还是作朋友
-artist 闪亮三姊妹%^&*
-artistURL http://www.xiami.com/artist/3015%^&*
-album 红色高跟鞋
-albumURL http://www.xiami.com/album/400058

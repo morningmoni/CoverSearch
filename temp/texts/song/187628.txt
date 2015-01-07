@@ -1,6 +1,0 @@
-number 187628
-name 我只要F4
-artist Swingjack Project%^&*
-artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Swingjack+Project%^&*
-album Swingjack Project Level 2
-albumURL http://www.xiami.com/album/15272

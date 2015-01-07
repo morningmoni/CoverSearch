@@ -1,6 +1,0 @@
-number 187640
-name 禁区
-artist S翼乐团%^&*
-artistURL http://www.xiami.com/artist/3006%^&*
-album 梅岚梅岚我爱你
-albumURL http://www.xiami.com/album/15274

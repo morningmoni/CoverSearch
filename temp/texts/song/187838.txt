@@ -1,6 +1,0 @@
-number 187838
-name 大野狼
-artist 闪亮三姊妹%^&*
-artistURL http://www.xiami.com/artist/3015%^&*
-album 罗密欧的世界
-albumURL http://www.xiami.com/album/15298

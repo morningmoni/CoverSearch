@@ -1,7 +1,0 @@
-number 403883
-name 忧伤的母语
-artist 山鹰组合
-introduction 《忧伤的母语》是山鹰组合第一张彝语专集，这是一张十分讲求自我风格的专集，经过多年努力，山鹰有了自己的录音棚和工作室，才有这样的机会，将来自远古和最自然的声音带给我们。对于这张专集的市场前景，山鹰组合说：&ldquo;我们的音乐的确不是流行的东西，但它是属于我们东方民族真正的音乐，一定会有与我们心灵相通的知音。&rdquo; 在古老的母语后面，隐藏的是山鹰独到的感悟。&ldquo;母语中蕴含着一个民族的灵魂,当我用母语认识思考世界、人生,用母语歌唱的时候,我更加能够真切感觉到自己的存在,更加能够让自己的灵魂舒展、复活。&rdquo;从《忧伤的母语》闪动的泪花中让我们看到的不只是山鹰纯洁的音乐理念，山鹰思想的背后育孕的是一个自强不息的民族精神。
-picture http://img.xiami.net/images/album/img14/3014/4038831404307832.jpg
-songs 别让故乡流泪%^&*朋友%^&*一曲母语%^&*南归%^&*梦语%^&*蓝色的愿望%^&*傻女%^&*回不去了%^&*独子笛奏%^&*引魂%^&*
-songURLs http://www.xiami.com/song/1769785731%^&*http://www.xiami.com/song/1769785732%^&*http://www.xiami.com/song/1769785733%^&*http://www.xiami.com/song/1769785734%^&*http://www.xiami.com/song/1769785735%^&*http://www.xiami.com/song/1769785736%^&*http://www.xiami.com/song/1769785737%^&*http://www.xiami.com/song/1769785738%^&*http://www.xiami.com/song/1769785739%^&*http://www.xiami.com/song/1769785740%^&*

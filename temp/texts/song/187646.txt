@@ -1,6 +1,0 @@
-number 187646
-name 你的温柔我的自由
-artist 撒小乐团%^&*
-artistURL http://www.xiami.com/artist/3007%^&*
-album 当我们开始旅行
-albumURL http://www.xiami.com/album/15276

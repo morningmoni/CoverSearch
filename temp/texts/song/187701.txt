@@ -1,6 +1,0 @@
-number 187701
-name 边疆的泉水清又纯
-artist 三人女子组合%^&*
-artistURL http://www.xiami.com/artist/3009%^&*
-album 花样年华
-albumURL http://www.xiami.com/album/15282

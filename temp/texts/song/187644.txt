@@ -1,6 +1,0 @@
-number 187644
-name 当我们开始旅行MV
-artist 撒小乐团%^&*
-artistURL http://www.xiami.com/artist/3007%^&*
-album 当我们开始旅行
-albumURL http://www.xiami.com/album/15276

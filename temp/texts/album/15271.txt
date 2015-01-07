@@ -1,7 +1,0 @@
-number 15271
-name Swingjack Project Level 1
-artist Swingjack
-introduction 
-picture http://img.xiami.net/images/pic/04/03/10093409979m_2.jpg
-songs 童话仙境%^&*快乐%^&*亲爱的%^&*感应%^&*春%^&*木棉狂想曲%^&*怀念过去式%^&*以为%^&*Do You Wanna%^&*肮脏天使%^&*One O One Six%^&*夏%^&*
-songURLs http://www.xiami.com/song/187607%^&*http://www.xiami.com/song/187608%^&*http://www.xiami.com/song/187609%^&*http://www.xiami.com/song/187610%^&*http://www.xiami.com/song/187611%^&*http://www.xiami.com/song/187612%^&*http://www.xiami.com/song/187613%^&*http://www.xiami.com/song/187614%^&*http://www.xiami.com/song/187615%^&*http://www.xiami.com/song/187616%^&*http://www.xiami.com/song/187617%^&*http://www.xiami.com/song/187618%^&*

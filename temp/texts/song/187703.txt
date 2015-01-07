@@ -1,6 +1,0 @@
-number 187703
-name 雁南飞
-artist 三人女子组合%^&*
-artistURL http://www.xiami.com/artist/3009%^&*
-album 花样年华
-albumURL http://www.xiami.com/album/15282
