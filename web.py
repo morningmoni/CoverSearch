@@ -22,11 +22,7 @@ def run(searcher, analyzer,command):
     querys.add(query,BooleanClause.Occur.SHOULD)
 
     scoreDocs = searcher.search(querys, 20).scoreDocs
-##        print "%s total matching documents." % len(scoreDocs)    
-##    for scoreDoc in scoreDocs:
-##        doc = searcher.doc(scoreDoc.doc)
-##        print 'songname:', doc.get("songname"), '\n','songurl:',doc.get('songurl'), '\n',\
-##              'albumname:',doc.get('albumname'),'\n','albumcoverurl:', doc.get("albumcoverurl"),'\n'
+
     return scoreDocs
 def run2(searcher, analyzer,command,num):
     querys=BooleanQuery()
@@ -189,11 +185,6 @@ def search2():
                     if tmp not in loc:
                         loc+=[tmp]
                 
-##            if request.form['action']=="Search":
-##                sr=request.form['text']
-##            elif request.form['action']=="Shuffle":
-##                sr='1'
-
 
             if mark:
                 print 'loc=',loc
@@ -241,6 +232,7 @@ def search2():
                     results0=results2
                 else:
                     scoreDocs=run2(searcher2, analyzer,sr,20) #search 20 albums
+                    rank=100
                     for scoreDoc in scoreDocs:
                         doc = searcher2.doc(scoreDoc.doc)
                         songs=doc.get('albumsongs')
@@ -255,13 +247,35 @@ def search2():
                                'albumsongURLs': urls,\
                                'albumpicURL':doc.get('albumpicURL'),\
                                 'albumartistURL':doc.get('albumartistURL'),\
-                                'albumURL':doc.get('albumURL')}]  
+                                'albumURL':doc.get('albumURL'),\
+                                    'rank':rank}]
+                        rank-=5
             searcher2.close()
         except Exception,e:
             print 2,e
       
 #tmp为单字符highlight
-            
+    conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8") 
+    conn.select_db('coversearch');
+    cursor = conn.cursor()
+    
+    for i in results2:
+        try:
+            cursor.execute("select zan from albums where id="+i['albumnum'])
+            zan=cursor.fetchone()[0]
+##            print 'zan',zan
+            i['zan']=zan
+            i['rank']+=int(zan)
+        except:
+            i['zan']=0
+
+
+
+    conn.commit()
+    cursor.close() 
+    conn.close()
+##    print results2
+    results2.sort(key=lambda x:x['rank'],reverse=True)
     return results0,results2,tmp
 
 
@@ -286,8 +300,8 @@ def album():
 @app.route('/comment', methods=['GET', 'POST'])
 def comment():
     try:
-        conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8")
-##        conn = MySQLdb.connect(host='localhost', user='ee208',passwd='ee208',charset="utf8") 
+        # conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8")
+        conn = MySQLdb.connect(host='localhost', user='ee208',passwd='ee208',charset="utf8") 
         conn.select_db('coversearch');
         cursor = conn.cursor()
         cursor.execute("select * from comments ")
@@ -373,6 +387,32 @@ def coversearch():
 
     return render_template('coversearch.html',res=res,url=url)
 
+@app.route('/data')  
+def add_numbers():  
+    num = request.args.get('num', 0, type=int)  
+    albumnum = request.args.get('id', 0, type=int) 
+    print num ,albumnum
+    try:
+        conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8") 
+        conn.select_db('coversearch');
+        cursor = conn.cursor()
+        cursor.execute("select count(1) from albums where id="+str(albumnum))
+        cur=int(cursor.fetchone()[0])
+        if cur==0:
+            order=(albumnum,num)           
+            sql = "insert into albums(id,zan) values (%s,%s)"
+            cursor.execute(sql,order)
+        else:
+            cursor.execute("update albums set zan="+str(num)+" where id="+str(albumnum))
+            print "update albums set zan="+str(num)+" where id="+str(albumnum)
+        conn.commit()
+        cursor.close() 
+        conn.close()
+    except Exception,e:
+        print e
+        
+    
+    return False 
 
 if __name__ == "__main__":
     

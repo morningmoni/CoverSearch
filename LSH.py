@@ -38,7 +38,12 @@ def myCaclHist(image):
     return ls
 def caclHist(imgname):
 ##    print imgname
-    img=cv2.imread(imgname)
+    try:
+        img=cv2.imread(imgname)
+    except Exception,e:
+        print
+        print e,imgname
+        print
     col=img.shape[1]
     row=img.shape[0]
 ##    print col,row

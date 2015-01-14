@@ -42,7 +42,7 @@
     	 {% for result in results2 %}
 			<div id="album" class="box">
 				<a href="#myModal{{loop.index}}"  data-toggle="modal">
-					<img src="{{result.albumpicURL}}"  alt={{result.albumname}}>
+					<img src="../static/texts/picture/{{result.albumnum}}.jpg"  alt={{result.albumname}}>
 				</a>
 
              </div>		  
@@ -72,8 +72,8 @@
                 </div>
 
                 <div class="modal-footer">
-                  <button class="btn" data-dismiss="modal">给我留言</button>
-                  <button class="btn btn-primary" data-dismiss="modal">我宣你</button>
+                  <button class="btn" data-dismiss="modal">关闭</button>
+                  <button class="btn btn-primary"  onclick="zan(this,{{result.albumnum}})">赞(<span>{{result.zan}}</span>)</button>
                 </div>
             </div>
         </div>
@@ -254,5 +254,27 @@
 })(jQuery);
 
 	// $("body").textSearch("{{sr}}")
+    var $SCRIPT_ROOT = {{request.script_root|tojson|safe}};
+    function zan(kk,albumnum){
+        var left = parseInt($(kk).offset().left)+10, top =  parseInt($(kk).offset().top)-10, obj=$(kk);
+
+        $(kk).append('<div id="zan"><b>+1<\/b></\div>');
+        $('#zan').css({'position':'absolute','z-index':'1','color':'#C30',
+        'left':left+'px','top':top+'px'});
+        var Num = parseInt(obj.find('span').text());
+        $('#zan').animate({top:top-20,opacity: 0},20,
+        function(){
+            $(this).fadeOut(20).remove();
+            Num++;
+            obj.find('span').text(Num);
+        });
+
+        $.getJSON($SCRIPT_ROOT + '/data', {  
+            num: Num+1,  
+            id: albumnum,
+            now: new Date().getTime()
+        });
+    return false;
+    };
 </script>
 
