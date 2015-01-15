@@ -1,0 +1,6 @@
+number 375146
+name 如果我有一双翅膀
+artist 刘若英%^&*
+artistURL http://www.xiami.com/artist/1930%^&*
+album Love And The City
+albumURL http://www.xiami.com/album/10601

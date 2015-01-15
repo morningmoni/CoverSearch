@@ -1,0 +1,7 @@
+number 332
+name Visual Diary
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/3321387529891.jpg
+songs 双手插袋%^&*心中最爱%^&*绯闻%^&*放任%^&*冻饮%^&*新刺激%^&*请早说%^&*回头路%^&*爱火%^&*When Love&#039;s Gonna End%^&*解渴%^&*
+songURLs http://www.xiami.com/song/4050%^&*http://www.xiami.com/song/4051%^&*http://www.xiami.com/song/4052%^&*http://www.xiami.com/song/4053%^&*http://www.xiami.com/song/4054%^&*http://www.xiami.com/song/4055%^&*http://www.xiami.com/song/4056%^&*http://www.xiami.com/song/4057%^&*http://www.xiami.com/song/4058%^&*http://www.xiami.com/song/4059%^&*http://www.xiami.com/song/4060%^&*

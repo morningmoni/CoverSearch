@@ -1,0 +1,6 @@
+number 958
+name 古丽
+artist 百川%^&*
+artistURL http://www.xiami.com/artist/28%^&*
+album 百川的音乐旅程-西域民谣
+albumURL http://www.xiami.com/album/83

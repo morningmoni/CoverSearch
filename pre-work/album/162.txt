@@ -1,0 +1,7 @@
+number 162
+name 连梦也没有
+artist 蔡荣祖
+introduction 
+picture http://img.xiami.net/images/album/img0/1621284011664.jpg
+songs 借我握握你的手%^&*连梦也没有%^&*算得了什么%^&*真的在乎你的人是我%^&*梦%^&*你不会相信%^&*从此不再爱我%^&*独立宣言%^&*一起走过%^&*不要随便对人说%^&*
+songURLs http://www.xiami.com/song/2014%^&*http://www.xiami.com/song/2015%^&*http://www.xiami.com/song/2016%^&*http://www.xiami.com/song/2017%^&*http://www.xiami.com/song/2018%^&*http://www.xiami.com/song/2019%^&*http://www.xiami.com/song/2020%^&*http://www.xiami.com/song/2021%^&*http://www.xiami.com/song/2022%^&*http://www.xiami.com/song/2023%^&*

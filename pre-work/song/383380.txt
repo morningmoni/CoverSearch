@@ -1,0 +1,6 @@
+number 383380
+name 情人的画像
+artist 许茹芸%^&*
+artistURL http://www.xiami.com/artist/2330%^&*
+album 我依然爱你
+albumURL http://www.xiami.com/album/12583

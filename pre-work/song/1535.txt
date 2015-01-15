@@ -1,0 +1,6 @@
+number 1535
+name 白马王子香港电台广播剧《白马王子》主题曲
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 青春三重奏
+albumURL http://www.xiami.com/album/125

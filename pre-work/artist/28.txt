@@ -1,0 +1,7 @@
+number 28
+name 百川
+place China 中国大陆
+introduction 新疆巴郎，原名百川，2000毕业于新疆艺术学院作曲专业职 业： 929城市广播音乐主播原乌鲁木齐97.4 交通广播音乐节目主持人生 日： 76年7月10血 型： O 型星 座： 巨 蟹爱 好： 文学、体育、旅游出生在新疆博尔塔拉蒙古自治州阿拉山口，从小都一直生活在博乐兵团的一个小团场。从小学到中学，都一直酷爱体育和文学，曾是当时青少年足球队一名不错的球员踢球之余，迷上了吉他，一直自学。曾为了得到一把吉他去作苦力，卖血。14岁生日，终于拥有了一把自己的吉他。15岁开始闯世。
+picture http://img.xiami.net/images/artist/12287916073323.jpg
+albums 那时候%^&*江南雨%^&*百川的音乐旅程-西域民谣%^&*百川的音乐旅程-楼兰情歌%^&*百川的蓝宝石%^&*
+albumURLs http://www.xiami.com/album/76380094%^&*http://www.xiami.com/album/311519%^&*http://www.xiami.com/album/83%^&*http://www.xiami.com/album/82%^&*http://www.xiami.com/album/84%^&*

@@ -1,0 +1,7 @@
+number 2420
+name 钰迪
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/12057351217756.jpg
+albums 美丽心情%^&*
+albumURLs http://www.xiami.com/album/13092%^&*

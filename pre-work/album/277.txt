@@ -1,0 +1,7 @@
+number 277
+name 痴心眼内藏
+artist 陈百强
+introduction 《痴心眼内藏》是香港歌手陈百强发行第十三张专辑。大碟中的《梦呓》，据闻是电影秋天的童话的主题歌，可是由于原来设定太伤感关系, 结局最终被改写成一个较美好的结局, 而此曲自然被弃用了。此曲旋律忧怨中带伤感，与陈百强的声音异常吻合，使歌曲富含诗意。1987年度十大劲歌金曲颁奖典礼&ldquo;十大劲歌金曲第一季季选&rdquo;：《痴心眼内藏》1987年度香港金唱片颁奖典礼&ldquo;白金唱片&rdquo;：《痴心眼内藏》
+picture http://img.xiami.net/images/album/img70/70/2771334049283.jpg
+songs 冰封的心%^&*神奇系我同你%^&*天生一对%^&*情人%^&*梦呓(Instrumental)%^&*痴心眼内藏%^&*驱魔大法师%^&*梦呓%^&*约会%^&*冰封的心(Extended Version)%^&*
+songURLs http://www.xiami.com/song/3458%^&*http://www.xiami.com/song/3459%^&*http://www.xiami.com/song/3460%^&*http://www.xiami.com/song/3461%^&*http://www.xiami.com/song/3462%^&*http://www.xiami.com/song/3463%^&*http://www.xiami.com/song/3464%^&*http://www.xiami.com/song/3465%^&*http://www.xiami.com/song/3466%^&*http://www.xiami.com/song/3467%^&*

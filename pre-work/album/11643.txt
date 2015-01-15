@@ -1,0 +1,7 @@
+number 11643
+name 久味情歌
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/116431326618168.png
+songs 舞女%^&*恰想也是你一人%^&*台北今夜冷清清%^&*期待再相会%^&*行船人的爱%^&*不如甭相识%^&*冷冷冷风冷酸酸%^&*别人的心肝%^&*爱袂到你%^&*宝贝%^&*别人的心肝(Kala)%^&*爱袂到你(Kala)%^&*宝贝(Kala)%^&*
+songURLs http://www.xiami.com/song/143252%^&*http://www.xiami.com/song/143253%^&*http://www.xiami.com/song/143254%^&*http://www.xiami.com/song/143255%^&*http://www.xiami.com/song/143256%^&*http://www.xiami.com/song/143257%^&*http://www.xiami.com/song/143258%^&*http://www.xiami.com/song/143259%^&*http://www.xiami.com/song/143260%^&*http://www.xiami.com/song/143261%^&*http://www.xiami.com/song/143262%^&*http://www.xiami.com/song/143263%^&*http://www.xiami.com/song/143264%^&*

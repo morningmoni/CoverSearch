@@ -1,0 +1,6 @@
+number 32168
+name 九天 同名专辑
+artist 九天乐队
+introduction picture http://img.xiami.net/images/album/img40/2840/32168.jpg
+songs 第一天 街边的床%^&*第二天 衣裳%^&*第三天 秦歌%^&*第四天 月亮%^&*第五天 2000%^&*第六天 九天%^&*第七天 远方%^&*第八天 蜘蛛%^&*第九天 衣裳 (音乐版)%^&*
+songURLs http://www.xiami.com/song/373936%^&*http://www.xiami.com/song/373937%^&*http://www.xiami.com/song/373938%^&*http://www.xiami.com/song/373939%^&*http://www.xiami.com/song/373940%^&*http://www.xiami.com/song/373941%^&*http://www.xiami.com/song/373942%^&*http://www.xiami.com/song/373943%^&*http://www.xiami.com/song/373944%^&*

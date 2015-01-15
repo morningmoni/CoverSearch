@@ -1,0 +1,7 @@
+number 14897
+name 那个季节里的歌2-无声的雨
+artist 刘罡
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10124912480m_2.jpg
+songs 无声的雨%^&*怨苍天变了心%^&*哭砂%^&*你的眼睛%^&*唯一%^&*爱上一个不回家的人%^&*爱与哀愁%^&*味道%^&*原来你什么都不要%^&*来生缘%^&*吻别%^&*雨一直下%^&*堆积情感%^&*
+songURLs http://www.xiami.com/song/183268%^&*http://www.xiami.com/song/183269%^&*http://www.xiami.com/song/183270%^&*http://www.xiami.com/song/183271%^&*http://www.xiami.com/song/183272%^&*http://www.xiami.com/song/183273%^&*http://www.xiami.com/song/183274%^&*http://www.xiami.com/song/183275%^&*http://www.xiami.com/song/183276%^&*http://www.xiami.com/song/183277%^&*http://www.xiami.com/song/183278%^&*http://www.xiami.com/song/183279%^&*http://www.xiami.com/song/183280%^&*

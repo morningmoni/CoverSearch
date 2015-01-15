@@ -1,0 +1,6 @@
+number 4241
+name 我们爱这个错
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 流行风情
+albumURL http://www.xiami.com/album/351

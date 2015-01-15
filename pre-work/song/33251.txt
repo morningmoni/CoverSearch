@@ -1,0 +1,7 @@
+number 33251
+name 不喜欢说, 再见
+artist 黄品源%^&*黄韵玲%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E5%93%81%E6%BA%90%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E9%9F%B5%E7%8E%B2%^&*
+album 面对品源
+albumURL http://www.xiami.com/album/1731

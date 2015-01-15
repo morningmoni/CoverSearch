@@ -1,0 +1,7 @@
+number 2553563
+name 我真的受伤了
+artist 泳儿%^&*吴浩康%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B3%B3%E5%84%BF%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%B4%E6%B5%A9%E5%BA%B7%^&*
+album Close To You 音乐会
+albumURL http://www.xiami.com/album/216087

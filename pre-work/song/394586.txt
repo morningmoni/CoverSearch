@@ -1,0 +1,6 @@
+number 394586
+name 北斗星
+artist 温岚%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B8%A9%E5%B2%9A%^&*
+album 我们都爱这个伦！
+albumURL http://www.xiami.com/album/33046

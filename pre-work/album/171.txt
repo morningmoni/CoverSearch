@@ -1,0 +1,7 @@
+number 171
+name 虎的演歌2 相逢的酒
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img0/1711284018409.jpg
+songs 相逢的酒%^&*旧相片%^&*无缘的新娘%^&*情%^&*最痴情的人%^&*心内伤%^&*风雨无情%^&*风中缘风中情%^&*恶梦%^&*为何爱着你%^&*钻石手指%^&*寂寞的蜡烛%^&*真心只爱你%^&*心内有数%^&*相逢的酒Ⅱ%^&*
+songURLs http://www.xiami.com/song/2115%^&*http://www.xiami.com/song/2116%^&*http://www.xiami.com/song/2117%^&*http://www.xiami.com/song/2118%^&*http://www.xiami.com/song/2119%^&*http://www.xiami.com/song/2120%^&*http://www.xiami.com/song/2121%^&*http://www.xiami.com/song/2122%^&*http://www.xiami.com/song/2123%^&*http://www.xiami.com/song/2124%^&*http://www.xiami.com/song/2125%^&*http://www.xiami.com/song/2126%^&*http://www.xiami.com/song/2127%^&*http://www.xiami.com/song/2128%^&*http://www.xiami.com/song/2129%^&*

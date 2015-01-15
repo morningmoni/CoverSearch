@@ -1,0 +1,7 @@
+number 1720
+name 海浪
+artist 黄品源
+introduction 滚石唱片对于黄品源《海浪》专辑相当的重视，不仅在音乐、歌曲的选择上相当的谨慎，从100多首创作老将、新秀的优秀作品中，慎重地挑选适合品源的歌曲，连品源自己的创作也不能例外，需要经过严格的筛选。《海浪》专辑的制作人除了黄品源之外，还有刘志宏、刘思铭、乱弹和王治平。品源所制作的情歌一向拥有属于品源温柔、专情、诚恳的风格，在专辑中品源担任自己创作的&ldquo;睡了没&rdquo;、&ldquo;不知谁娶到妳&rdquo;及&ldquo;别忘记联络&rdquo;的制作人，&ldquo;睡了没&rdquo;呈现日本偶像剧的风格，充满情感、画面的感觉；&ldquo;不知谁娶到妳&rdquo;以简洁的钢琴、口琴与吉他的音色，编织出的则是难得一见的闽南语情歌小品。由刘志宏和刘思铭担任制作的主打歌曲&ldquo;海浪&rdquo;，是继周华健的&ldquo;朋友&rdquo;及任贤齐的&ldquo;我是一只鱼&rdquo;后的最新力作，歌词描写现代都会人对于感情、生活目标的犹疑与不安，充分的写出现代社会人对于自己的彷徨及对周边的迷惘，与海浪毫无关系的歌词，却也借着海浪的摇摆不定与大海的高深莫测，带出都会人的内心世界。值得推荐的&ldquo;麻糬&rdquo;，则结合了&ldquo;墓仔埔也敢去&rdquo;与&ldquo;爱情限时批&rdquo;的趣味性与速度感，为品源与万芳一同合唱的闽南语对唱曲，歌词叙述男女互相喜欢，却嘴巴不愿承认的挑衅气味。另外，由王治平制作的&ldquo;一百种可能&rdquo;，节奏强、旋律轻快，也体现出另一款品源新乐风。丰富多变的曲风，阵容坚强的绝佳制作，造就了黄品源2000年的全新专辑《海浪》。
+picture http://img.xiami.net/images/album/img90/390/17201398489318.jpg
+songs 别忘记联络%^&*海浪%^&*睡了没%^&*爱了半天%^&*不知谁娶到你%^&*麻糬%^&*一百种可能%^&*楼上的人儿%^&*公路电影%^&*超级星期天%^&*
+songURLs http://www.xiami.com/song/33111%^&*http://www.xiami.com/song/33112%^&*http://www.xiami.com/song/33113%^&*http://www.xiami.com/song/33114%^&*http://www.xiami.com/song/33115%^&*http://www.xiami.com/song/33116%^&*http://www.xiami.com/song/33117%^&*http://www.xiami.com/song/33118%^&*http://www.xiami.com/song/33119%^&*http://www.xiami.com/song/33120%^&*

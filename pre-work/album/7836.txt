@@ -1,0 +1,6 @@
+number 7836
+name 谱一首爱的歌
+artist 邓蔼霖
+introduction picture http://img.xiami.net/images/album/img80/1480/7836.jpg
+songs 谱一首爱的歌%^&*晚风%^&*我钟意%^&*世上满真爱%^&*那些光辉日子%^&*为我珍重%^&*海边%^&*云正飘飘%^&*雨中情%^&*小艇上%^&*幸福处处%^&*有首我的诗%^&*
+songURLs http://www.xiami.com/song/96411%^&*http://www.xiami.com/song/96412%^&*http://www.xiami.com/song/96413%^&*http://www.xiami.com/song/96414%^&*http://www.xiami.com/song/96415%^&*http://www.xiami.com/song/96416%^&*http://www.xiami.com/song/96417%^&*http://www.xiami.com/song/96418%^&*http://www.xiami.com/song/96419%^&*http://www.xiami.com/song/96420%^&*http://www.xiami.com/song/96421%^&*http://www.xiami.com/song/96422%^&*

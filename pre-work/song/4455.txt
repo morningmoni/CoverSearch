@@ -1,0 +1,6 @@
+number 4455
+name 十二金钗 (Prelude)
+artist 陈辉阳%^&*
+artistURL http://www.xiami.com/artist/89%^&*
+album 12金钗众生花
+albumURL http://www.xiami.com/album/369

@@ -1,0 +1,7 @@
+number 4327
+name 春天花开灿烂
+artist 周玉玲%^&*陈浩德%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E7%8E%89%E7%8E%B2%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E6%B5%A9%E5%BE%B7%^&*
+album 爱如春风
+albumURL http://www.xiami.com/album/357

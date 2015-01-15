@@ -1,0 +1,6 @@
+number 1608
+name 醉人的一晚
+artist 李克勤%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%8E%E5%85%8B%E5%8B%A4%^&*
+album 完美先生
+albumURL http://www.xiami.com/album/130

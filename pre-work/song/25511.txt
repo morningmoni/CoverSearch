@@ -1,0 +1,6 @@
+number 25511
+name 不必回信
+artist 甘子辉%^&*
+artistURL http://www.xiami.com/artist/240%^&*
+album 换季情人
+albumURL http://www.xiami.com/album/1045

@@ -1,0 +1,6 @@
+number 1772565141
+name 我太强
+artist 关心妍%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%85%B3%E5%BF%83%E5%A6%8D%^&*
+album 幻想集
+albumURL http://www.xiami.com/album/2092711193

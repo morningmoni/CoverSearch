@@ -1,0 +1,7 @@
+number 49706
+name 两边MV
+artist 邰正宵%^&*孟庭苇%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%82%B0%E6%AD%A3%E5%AE%B5%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AD%9F%E5%BA%AD%E8%8B%87%^&*
+album 两边
+albumURL http://www.xiami.com/album/4062

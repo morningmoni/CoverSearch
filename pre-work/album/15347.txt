@@ -1,0 +1,6 @@
+number 15347
+name 光阴
+artist 水琉璃
+introduction picture http://img.xiami.net/images/pic/06/06/200608041524188036m_2.jpg
+songs 光阴%^&*吉祥%^&*赞叹%^&*源(演奏曲)%^&*仙迹%^&*天降甘霖%^&*禅定%^&*招喜(演奏曲)%^&*绿色大地%^&*归乡(演奏曲)%^&*慈爱(演奏曲)%^&*平常心%^&*
+songURLs http://www.xiami.com/song/188348%^&*http://www.xiami.com/song/188349%^&*http://www.xiami.com/song/188350%^&*http://www.xiami.com/song/188351%^&*http://www.xiami.com/song/188352%^&*http://www.xiami.com/song/188353%^&*http://www.xiami.com/song/188354%^&*http://www.xiami.com/song/188355%^&*http://www.xiami.com/song/188356%^&*http://www.xiami.com/song/188357%^&*http://www.xiami.com/song/188358%^&*http://www.xiami.com/song/188359%^&*

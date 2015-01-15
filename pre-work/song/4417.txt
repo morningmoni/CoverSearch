@@ -1,0 +1,6 @@
+number 4417
+name 三角共震
+artist 陈浩民%^&*
+artistURL http://www.xiami.com/artist/87%^&*
+album A Day With Benny
+albumURL http://www.xiami.com/album/365

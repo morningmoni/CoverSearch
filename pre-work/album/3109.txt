@@ -1,0 +1,6 @@
+number 3109
+name 金曲精选
+artist 刘文正
+introduction picture http://img.xiami.net/images/pic/04/02/10066008704m_2.jpg
+songs 三月里的小雨%^&*春夏秋冬%^&*云且留住%^&*飞翔、飞翔、我飞翔%^&*却上心头%^&*谁在眨眼睛%^&*关怀%^&*葡萄美酒%^&*迟到%^&*跟夏天说再见%^&*送你一朵勿忘我%^&*告诉我%^&*爱情%^&*飞鹰%^&*告诉罗娜我爱她%^&*爱的星座%^&*云且留住(演奏)%^&*
+songURLs http://www.xiami.com/song/38272%^&*http://www.xiami.com/song/38273%^&*http://www.xiami.com/song/38274%^&*http://www.xiami.com/song/38275%^&*http://www.xiami.com/song/38276%^&*http://www.xiami.com/song/38277%^&*http://www.xiami.com/song/38278%^&*http://www.xiami.com/song/38279%^&*http://www.xiami.com/song/38280%^&*http://www.xiami.com/song/38281%^&*http://www.xiami.com/song/38282%^&*http://www.xiami.com/song/38283%^&*http://www.xiami.com/song/38284%^&*http://www.xiami.com/song/38285%^&*http://www.xiami.com/song/38286%^&*http://www.xiami.com/song/38287%^&*http://www.xiami.com/song/38288%^&*

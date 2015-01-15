@@ -1,0 +1,6 @@
+number 882
+name 钢琴与弦乐队
+artist 钢琴:赵胤胤%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%92%A2%E7%90%B4%3A%E8%B5%B5%E8%83%A4%E8%83%A4%^&*
+album 二泉映月
+albumURL http://www.xiami.com/album/75

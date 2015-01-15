@@ -1,0 +1,7 @@
+number 80276
+name 拥抱爱
+artist 金海心
+introduction 玲珑女孩金海心，倾情演绎，给你拥抱的印记，剔透的声音，精致的旋律，海心带给你的不只是歌声，是音乐直流心底，透彻心扉， 让你心随所动的心情释放。 曾经清晰的轮廓依旧停在心头荡漾，挥之不去的只是那一片抹不掉的爱情印记等到孤寂的时候，拿出一点，以慰籍落寞的心情，可我们总是忘记了，那遗弃在角落的幸福密码。
+picture http://img.xiami.net/images/album/img20/1720/802761371799219.jpg
+songs 爱转了一圈%^&*阳光下的花儿%^&*小白船%^&*呼吸.爱%^&*爱似水仙%^&*说好不后悔%^&*天涯歌女%^&*飞走了%^&*拥抱的印记%^&*爱在你我之间%^&*
+songURLs http://www.xiami.com/song/1996464%^&*http://www.xiami.com/song/1996465%^&*http://www.xiami.com/song/1996466%^&*http://www.xiami.com/song/1996467%^&*http://www.xiami.com/song/1769746104%^&*http://www.xiami.com/song/1769746105%^&*http://www.xiami.com/song/1769746106%^&*http://www.xiami.com/song/1769746107%^&*http://www.xiami.com/song/1769555403%^&*http://www.xiami.com/song/1769746109%^&*

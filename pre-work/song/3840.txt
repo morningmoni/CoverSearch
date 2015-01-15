@@ -1,0 +1,7 @@
+number 3840
+name 开一个玩笑
+artist 陈弘礼%^&*%^&*
+artistURL http://www.xiami.com/artist/77%^&*
+http://www.xiami.comhttp://i.xiami.com%^&*
+album 我快乐死了
+albumURL http://www.xiami.com/album/316

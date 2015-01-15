@@ -1,0 +1,6 @@
+number 550622
+name 阿雷的手路歌之一
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img0/100/5506221351048782.jpg
+songs 台东人%^&*望你早归%^&*月夜愁%^&*难忘的人%^&*可怜恋花再会吧%^&*碎心恋%^&*南都夜曲%^&*桃花乡%^&*温泉乡的吉他%^&*落叶时雨%^&*黄昏的故乡%^&*双雁影%^&*
+songURLs http://www.xiami.com/song/1771398380%^&*http://www.xiami.com/song/1771398381%^&*http://www.xiami.com/song/1771398382%^&*http://www.xiami.com/song/1771398383%^&*http://www.xiami.com/song/1771398384%^&*http://www.xiami.com/song/1771398385%^&*http://www.xiami.com/song/1771398386%^&*http://www.xiami.com/song/1771398387%^&*http://www.xiami.com/song/1771398388%^&*http://www.xiami.com/song/1771398389%^&*http://www.xiami.com/song/1771398390%^&*http://www.xiami.com/song/1771398391%^&*

@@ -1,0 +1,6 @@
+number 44088
+name Someday
+artist 莫少聪%^&*
+artistURL http://www.xiami.com/artist/750%^&*
+album 半个情人
+albumURL http://www.xiami.com/album/3592

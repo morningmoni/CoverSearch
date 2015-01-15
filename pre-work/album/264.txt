@@ -1,0 +1,7 @@
+number 264
+name 只因爱你
+artist 陈百强
+introduction 《只因爱你》是香港歌手陈百强发行第二十一张专辑，主打歌曲为《只因爱你》，也是陈百强最后一首得奖的歌曲。这专辑包含了两首由陈百强作曲的歌曲，《而情是近》和《歌者恋歌》。当中《歌者恋歌》是一首非常动听的歌，内容是与陈百强的内心感受有关。《痴情岁月》、《而情是近》、《末世纪风骚》和《野性的心》都是一些快歌，节奏独特，是陈百强后期的其中一种歌曲的特性，在这专辑是不可缺少的。而《夜的心》是已故歌手Michael Jackson的《Human Nature》，这亦是Michael Jackson唯一一首被译做广东歌的歌，是陈百强的新尝试。另外，《回望》带给人一种无重的悲痛，非常感动而又伤心不绝，旋律也非常动听。还有《岂在朝朝暮暮》和《是你》都是一种很优美的歌，而《岂在朝朝暮暮》是陈百强很动听的其中一首苦歌。
+picture http://img.xiami.net/images/album/img70/70/2641334049480.jpg
+songs 痴情岁月%^&*而情是近%^&*回望%^&*歌者恋歌%^&*末世纪风骚%^&*岂在朝朝暮暮%^&*只因爱你%^&*夜的心%^&*野性的心%^&*是你%^&*
+songURLs http://www.xiami.com/song/3327%^&*http://www.xiami.com/song/3328%^&*http://www.xiami.com/song/3334%^&*http://www.xiami.com/song/3330%^&*http://www.xiami.com/song/3329%^&*http://www.xiami.com/song/3331%^&*http://www.xiami.com/song/3332%^&*http://www.xiami.com/song/3333%^&*http://www.xiami.com/song/3335%^&*http://www.xiami.com/song/3336%^&*

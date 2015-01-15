@@ -1,0 +1,7 @@
+number 2440
+name 詹曼铃
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/1160.jpg
+albums 关心%^&*忏悔%^&*冰海%^&*春风%^&*背影%^&*甘愿%^&*等爱的人%^&*来世情%^&*今生情泪%^&*无情的花蕊%^&*轻声细语%^&*跟你谈恋爱%^&*情关难过 伤心梦%^&*多情多操烦%^&*一生甘愿跟你走%^&*新台语冠军歌情歌对唱2%^&*新台语冠军歌情歌对唱1%^&*
+albumURLs http://www.xiami.com/album/494175052%^&*http://www.xiami.com/album/68150087%^&*http://www.xiami.com/album/558221%^&*http://www.xiami.com/album/463797%^&*http://www.xiami.com/album/407761%^&*http://www.xiami.com/album/357037%^&*http://www.xiami.com/album/315000%^&*http://www.xiami.com/album/33267%^&*http://www.xiami.com/album/13167%^&*http://www.xiami.com/album/13169%^&*http://www.xiami.com/album/13170%^&*http://www.xiami.com/album/546477%^&*http://www.xiami.com/album/440299%^&*http://www.xiami.com/album/567482%^&*http://www.xiami.com/album/13171%^&*http://www.xiami.com/album/549272%^&*http://www.xiami.com/album/549271%^&*

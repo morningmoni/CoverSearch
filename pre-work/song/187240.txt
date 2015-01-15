@@ -1,0 +1,6 @@
+number 187240
+name 多尔萨克的传说
+artist Seventh Day%^&*
+artistURL http://www.xiami.com/artist/2990%^&*
+album Seventh Day
+albumURL http://www.xiami.com/album/15234

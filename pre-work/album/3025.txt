@@ -1,0 +1,7 @@
+number 3025
+name 把你唱醉
+artist 刘罡
+introduction 
+picture http://img.xiami.net/images/album/img50/650/3025.jpg
+songs 黄昏放牛%^&*告诉我%^&*绿叶对根的情意%^&*让我再看你一眼%^&*少年壮志不言愁%^&*掌声响起来%^&*故乡的云%^&*渴望%^&*祖国慈祥的母亲%^&*那就是我%^&*留下油灯光%^&*
+songURLs http://www.xiami.com/song/37028%^&*http://www.xiami.com/song/37029%^&*http://www.xiami.com/song/37030%^&*http://www.xiami.com/song/37031%^&*http://www.xiami.com/song/37032%^&*http://www.xiami.com/song/37033%^&*http://www.xiami.com/song/37034%^&*http://www.xiami.com/song/37035%^&*http://www.xiami.com/song/37036%^&*http://www.xiami.com/song/37037%^&*http://www.xiami.com/song/37038%^&*

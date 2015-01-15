@@ -1,0 +1,7 @@
+number 490
+name 雷亮
+place 内地
+introduction 
+picture http://img.xiami.net/images/artist/324.jpg
+albums 蛋白质女孩%^&*
+albumURLs http://www.xiami.com/album/2114%^&*

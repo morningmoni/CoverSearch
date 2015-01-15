@@ -1,0 +1,7 @@
+number 15348
+name 琉璃海
+artist 水琉璃
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10142454518m_2.jpg
+songs 琉璃海%^&*礼佛%^&*我佛慈悲%^&*婆娑%^&*升华%^&*雨过天青%^&*朝圣%^&*夜%^&*云间琉璃%^&*秀云%^&*嫦娥%^&*桃花源%^&*
+songURLs http://www.xiami.com/song/188360%^&*http://www.xiami.com/song/188361%^&*http://www.xiami.com/song/188362%^&*http://www.xiami.com/song/188363%^&*http://www.xiami.com/song/188364%^&*http://www.xiami.com/song/188365%^&*http://www.xiami.com/song/188366%^&*http://www.xiami.com/song/188367%^&*http://www.xiami.com/song/188368%^&*http://www.xiami.com/song/188369%^&*http://www.xiami.com/song/188370%^&*http://www.xiami.com/song/188371%^&*

@@ -1,0 +1,7 @@
+number 9909
+name 情深透 全情歌集
+artist 李美凤
+introduction 
+picture http://img.xiami.net/images/album/img0/1800/99091334110756.jpg
+songs 每次爱过后%^&*仍会是你%^&*某一天%^&*留恋%^&*没法淡忘%^&*情深透%^&*巴黎%^&*雪内暖火%^&*No No No%^&*留恋 (Instrumental Karaoke Mix)%^&*每次爱过后 (Music Minus One)%^&*
+songURLs http://www.xiami.com/song/122363%^&*http://www.xiami.com/song/122364%^&*http://www.xiami.com/song/122365%^&*http://www.xiami.com/song/122366%^&*http://www.xiami.com/song/122367%^&*http://www.xiami.com/song/122369%^&*http://www.xiami.com/song/122370%^&*http://www.xiami.com/song/122371%^&*http://www.xiami.com/song/122372%^&*http://www.xiami.com/song/122368%^&*http://www.xiami.com/song/122373%^&*

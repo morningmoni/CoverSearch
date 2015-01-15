@@ -1,0 +1,7 @@
+number 344457
+name 筝鼓
+artist 付娜
+introduction 全部真空器录音，紫水晶CD，192Khz 24Bit完美录音，14首酣畅淋漓乐器佳作，发烧友典藏之选，大动态音质一流，自然混响，频带极宽，声音厚而清晰
+picture http://img.xiami.net/images/album/img40/1540/3444571410838025.jpg
+songs 坐上火车去拉萨%^&*天堂%^&*天路%^&*十送红军%^&*牧羊曲%^&*神奇的九寨%^&*康定情歌%^&*茉莉花%^&*天竺少女%^&*月光下的凤尾竹%^&*蝴蝶泉边%^&*山路十八弯%^&*映山红%^&*好日子%^&*
+songURLs http://www.xiami.com/song/1769085324%^&*http://www.xiami.com/song/1769085325%^&*http://www.xiami.com/song/1769085326%^&*http://www.xiami.com/song/1769085327%^&*http://www.xiami.com/song/1769085328%^&*http://www.xiami.com/song/1769085329%^&*http://www.xiami.com/song/1769085330%^&*http://www.xiami.com/song/1769085331%^&*http://www.xiami.com/song/1769085332%^&*http://www.xiami.com/song/1769085333%^&*http://www.xiami.com/song/1769085334%^&*http://www.xiami.com/song/1769085335%^&*http://www.xiami.com/song/1769085336%^&*http://www.xiami.com/song/1769085337%^&*

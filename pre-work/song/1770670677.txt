@@ -1,0 +1,6 @@
+number 1770670677
+name 上瘾
+artist 蔡一杰%^&*
+artistURL http://www.xiami.com/artist/50%^&*
+album Solo
+albumURL http://www.xiami.com/album/185

@@ -1,0 +1,6 @@
+number 38075
+name 西北雁
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 闪亮岁月(刘文正全集1)
+albumURL http://www.xiami.com/album/3105

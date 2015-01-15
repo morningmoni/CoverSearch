@@ -1,0 +1,6 @@
+number 6724
+name 东北特产不是黑社会
+artist 陈旭%^&*
+artistURL http://www.xiami.com/artist/128%^&*
+album 东北特产2-爷们
+albumURL http://www.xiami.com/album/556

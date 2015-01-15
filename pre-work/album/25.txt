@@ -1,0 +1,7 @@
+number 25
+name 再显奇迹
+artist 阿吉仔
+introduction 
+picture http://img.xiami.net/images/album/img8/8/251326618437.jpg
+songs 不通天光%^&*看人生%^&*我不是随便的人%^&*双人酒杯%^&*奋斗%^&*会·好吗无一定%^&*我的心中%^&*感情下尚重%^&*新爱你入骨%^&*相思情%^&*不通天光(二胡演奏)%^&*看人生(二胡演奏)%^&*
+songURLs http://www.xiami.com/song/334%^&*http://www.xiami.com/song/335%^&*http://www.xiami.com/song/336%^&*http://www.xiami.com/song/337%^&*http://www.xiami.com/song/338%^&*http://www.xiami.com/song/339%^&*http://www.xiami.com/song/340%^&*http://www.xiami.com/song/341%^&*http://www.xiami.com/song/342%^&*http://www.xiami.com/song/343%^&*http://www.xiami.com/song/344%^&*http://www.xiami.com/song/345%^&*

@@ -1,0 +1,7 @@
+number 10810
+name 生日领悟
+artist 罗美玲
+introduction 
+picture http://img.xiami.net/images/album/img70/1970/10810.jpg
+songs 不痛多好%^&*不能说走就走%^&*喜欢就是喜欢%^&*生日领悟%^&*红色向日葵%^&*爱一直闪亮%^&*爱情走过以后%^&*怀念幸福%^&*清楚%^&*为冬天写的诗%^&*我不哭%^&*适应期%^&*爱情不只是%^&*方向%^&*
+songURLs http://www.xiami.com/song/133526%^&*http://www.xiami.com/song/133527%^&*http://www.xiami.com/song/133528%^&*http://www.xiami.com/song/133529%^&*http://www.xiami.com/song/133530%^&*http://www.xiami.com/song/133531%^&*http://www.xiami.com/song/133532%^&*http://www.xiami.com/song/133533%^&*http://www.xiami.com/song/133534%^&*http://www.xiami.com/song/133535%^&*http://www.xiami.com/song/133536%^&*http://www.xiami.com/song/133537%^&*http://www.xiami.com/song/133538%^&*http://www.xiami.com/song/133539%^&*

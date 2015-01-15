@@ -1,0 +1,7 @@
+number 4525
+name 笑比哭好
+artist 王洁实
+introduction 
+picture http://img.xiami.net/images/album/img0/900/45251322460204.jpg
+songs 笑比哭好%^&*脚印%^&*夫妻双双把家还%^&*鸡园%^&*天凉好个秋%^&*星星对我们微笑%^&*你带来一片温柔%^&*可爱的北京%^&*绣荷包%^&*小小橄榄%^&*踏浪%^&*校园多美好%^&*那就是我%^&*看日出%^&*童年的回忆%^&*让我们看云去%^&*别离不必长流泪%^&*大家都来打排球%^&*
+songURLs http://www.xiami.com/song/55093%^&*http://www.xiami.com/song/55094%^&*http://www.xiami.com/song/55095%^&*http://www.xiami.com/song/55096%^&*http://www.xiami.com/song/55097%^&*http://www.xiami.com/song/55098%^&*http://www.xiami.com/song/55099%^&*http://www.xiami.com/song/55100%^&*http://www.xiami.com/song/55101%^&*http://www.xiami.com/song/55102%^&*http://www.xiami.com/song/55103%^&*http://www.xiami.com/song/55104%^&*http://www.xiami.com/song/55105%^&*http://www.xiami.com/song/55106%^&*http://www.xiami.com/song/55107%^&*http://www.xiami.com/song/55108%^&*http://www.xiami.com/song/55109%^&*http://www.xiami.com/song/55110%^&*

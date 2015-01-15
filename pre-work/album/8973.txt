@@ -1,0 +1,6 @@
+number 8973
+name 城市行囊
+artist 胡慧中
+introduction picture http://img.xiami.net/images/pic/04/02/1007140336m_2.jpg
+songs 城市行囊%^&*一生如果只爱一个%^&*爱情装在口袋里%^&*女主角%^&*今夜谁送我回家%^&*双面夏娃%^&*一个人的晚宴%^&*亲爱的别为我伤心%^&*当客人离开的时候%^&*橄榄树%^&*
+songURLs http://www.xiami.com/song/111394%^&*http://www.xiami.com/song/111395%^&*http://www.xiami.com/song/111396%^&*http://www.xiami.com/song/111397%^&*http://www.xiami.com/song/111398%^&*http://www.xiami.com/song/111399%^&*http://www.xiami.com/song/111400%^&*http://www.xiami.com/song/111401%^&*http://www.xiami.com/song/111402%^&*http://www.xiami.com/song/111403%^&*

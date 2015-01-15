@@ -1,0 +1,7 @@
+number 10089
+name 离开那个不爱你的人
+artist 梁雁翎
+introduction 
+picture http://img.xiami.net/images/album/img40/1840/10089.jpg
+songs 你好吗%^&*离开那个不爱你的人%^&*真的爱我吗%^&*南屏晚钟%^&*欠你的情欠你的意%^&*假装你真的爱过我%^&*不要道歉%^&*相思河畔%^&*摆脱%^&*亲亲如我%^&*
+songURLs http://www.xiami.com/song/1769525913%^&*http://www.xiami.com/song/1769525914%^&*http://www.xiami.com/song/1769525915%^&*http://www.xiami.com/song/1769525916%^&*http://www.xiami.com/song/1769525917%^&*http://www.xiami.com/song/1769525918%^&*http://www.xiami.com/song/1769525919%^&*http://www.xiami.com/song/1769525920%^&*http://www.xiami.com/song/1769525921%^&*http://www.xiami.com/song/1769525922%^&*

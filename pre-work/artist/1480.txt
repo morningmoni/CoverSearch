@@ -1,0 +1,7 @@
+number 1480
+name 邓蔼霖
+place Hongkong 香港
+introduction 个人简介以电台唱片骑师的身份晋身歌坛，但在八十年代只灌录过一张流行曲唱片，为人熟知的便是《谱一首爱的歌》、《青春苦恼多》、《不要问理由》。初时邓蔼霖是以学生身份兼职商业电台唱片骑师，于星期日主持三小时音乐节目，任职三个月左右，被香港电台管理层赏识，被邀过档，变为全职DJ，据她说，当时是瞒着家人去做DJ，事前并没有向他们说，只是一心想发明星梦。 现时她逢星期日便在香港电台第一台主持「诉心事家庭」，和专家一起说说家长和子女相处之道。
+picture http://img.xiami.net/images/artistlogo/35/13203088224335.jpg
+albums 谱一首爱的歌%^&*青青年华%^&*
+albumURLs http://www.xiami.com/album/7836%^&*http://www.xiami.com/album/7837%^&*

@@ -1,0 +1,7 @@
+number 1725
+name 孤鸟
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17251314597583.jpg
+songs 孤鸟%^&*兄弟%^&*爱你无药医%^&*爱是啥觅%^&*拆散%^&*伤到心%^&*青春恋歌%^&*无心的人%^&*呷茶%^&*
+songURLs http://www.xiami.com/song/33173%^&*http://www.xiami.com/song/33174%^&*http://www.xiami.com/song/33175%^&*http://www.xiami.com/song/33176%^&*http://www.xiami.com/song/33177%^&*http://www.xiami.com/song/33178%^&*http://www.xiami.com/song/33179%^&*http://www.xiami.com/song/33180%^&*http://www.xiami.com/song/33181%^&*

@@ -1,0 +1,7 @@
+number 115480
+name 今夜是良夜
+artist 丽莎%^&*叶源胜%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%B8%BD%E8%8E%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%8F%B6%E6%BA%90%E8%83%9C%^&*
+album 一生一次爱
+albumURL http://www.xiami.com/album/9312

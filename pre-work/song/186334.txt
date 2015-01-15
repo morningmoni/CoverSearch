@@ -1,0 +1,6 @@
+number 186334
+name 我们还是朋友吗?
+artist 瓢虫%^&*
+artistURL http://www.xiami.com/artist/2960%^&*
+album Ladybug 1997
+albumURL http://www.xiami.com/album/15154

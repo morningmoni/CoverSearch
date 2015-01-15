@@ -1,0 +1,6 @@
+number 2878
+name 有人这么说
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 高仓健快走开
+albumURL http://www.xiami.com/album/237

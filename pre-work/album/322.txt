@@ -1,0 +1,7 @@
+number 322
+name 厨房仔
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/322.jpg
+songs 厨房仔 Chef&#039;s Mixtape%^&*
+songURLs http://www.xiami.com/song/3910%^&*

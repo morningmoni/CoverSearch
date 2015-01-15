@@ -1,0 +1,10 @@
+number 1771917823
+name 波爷
+artist 周杰伦%^&*曾志伟%^&*麦烝玮%^&*雪糕%^&*袁咏琳%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E6%9D%B0%E4%BC%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9B%BE%E5%BF%97%E4%BC%9F%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BA%A6%E7%83%9D%E7%8E%AE%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%9B%AA%E7%B3%95%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%A2%81%E5%92%8F%E7%90%B3%^&*
+album 天台 电影原声带
+albumURL http://www.xiami.com/album/166032

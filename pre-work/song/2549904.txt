@@ -1,0 +1,6 @@
+number 2549904
+name 莫提永远
+artist 洪劭轩%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B4%AA%E5%8A%AD%E8%BD%A9%^&*
+album 门
+albumURL http://www.xiami.com/album/215720

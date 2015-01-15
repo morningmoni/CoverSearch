@@ -1,0 +1,7 @@
+number 1717
+name 简单情歌香港演唱会
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/1717.jpg
+songs 我该用什么样的心来对你%^&*小薇%^&*狠不下心%^&*海浪%^&*浪花一朵朵%^&*它给我不同的快乐%^&*你的眼泪%^&*雪花%^&*火花%^&*那么爱你为什么%^&*城市情人梦%^&*情非得已%^&*雨衣%^&*别离开我%^&*I Believe%^&*小李飞刀%^&*原来你什么都不想要%^&*简单情歌%^&*别忘记连络%^&*你怎么舍得我难过%^&*小薇(摇滚版)%^&*
+songURLs http://www.xiami.com/song/33065%^&*http://www.xiami.com/song/33066%^&*http://www.xiami.com/song/33067%^&*http://www.xiami.com/song/33068%^&*http://www.xiami.com/song/33069%^&*http://www.xiami.com/song/33070%^&*http://www.xiami.com/song/33071%^&*http://www.xiami.com/song/33072%^&*http://www.xiami.com/song/33073%^&*http://www.xiami.com/song/33074%^&*http://www.xiami.com/song/33075%^&*http://www.xiami.com/song/33076%^&*http://www.xiami.com/song/33077%^&*http://www.xiami.com/song/33078%^&*http://www.xiami.com/song/33079%^&*http://www.xiami.com/song/33080%^&*http://www.xiami.com/song/33081%^&*http://www.xiami.com/song/33082%^&*http://www.xiami.com/song/33083%^&*http://www.xiami.com/song/33084%^&*http://www.xiami.com/song/33085%^&*

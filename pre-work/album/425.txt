@@ -1,0 +1,6 @@
+number 425
+name Joe Chan 2nd Impression
+artist 陈任
+introduction picture http://img.xiami.net/
+songs Mrs Seelo%^&*Morningside%^&*There Ain&#039;t No Way%^&*槟城艳%^&*How Can I Tell You%^&*静静的河边%^&*Bitterblue%^&*Birdie Told Me%^&*You Need Love%^&*Amoreena%^&*Top Of The World%^&*Something Strange%^&*
+songURLs http://www.xiami.com/song/5067%^&*http://www.xiami.com/song/5068%^&*http://www.xiami.com/song/5069%^&*http://www.xiami.com/song/5070%^&*http://www.xiami.com/song/5071%^&*http://www.xiami.com/song/5072%^&*http://www.xiami.com/song/5073%^&*http://www.xiami.com/song/5074%^&*http://www.xiami.com/song/5075%^&*http://www.xiami.com/song/5076%^&*http://www.xiami.com/song/5077%^&*http://www.xiami.com/song/5078%^&*

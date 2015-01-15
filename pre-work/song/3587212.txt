@@ -1,0 +1,6 @@
+number 3587212
+name 冬雨
+artist 阿强%^&*
+artistURL http://www.xiami.com/artist/11%^&*
+album 兄弟
+albumURL http://www.xiami.com/album/322299

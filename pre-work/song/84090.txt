@@ -1,0 +1,6 @@
+number 84090
+name 有了你
+artist 贝贝%^&*
+artistURL http://www.xiami.com/artist/1330%^&*
+album 贝贝2-醉金迷
+albumURL http://www.xiami.com/album/6888

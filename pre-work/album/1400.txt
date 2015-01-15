@@ -1,0 +1,7 @@
+number 1400
+name 微风中的海
+artist 海俊杰
+introduction 
+picture http://img.xiami.net/images/album/img0/300/14001409735722.jpg
+songs 微风中%^&*失足的感情%^&*愤怒时速%^&*一生的一生%^&*See You%^&*燃烧吧!青春%^&*梦里人%^&*灰色雨天%^&*永远的偶像%^&*微风中(深秋的海)%^&*
+songURLs http://www.xiami.com/song/29680%^&*http://www.xiami.com/song/29681%^&*http://www.xiami.com/song/29682%^&*http://www.xiami.com/song/29683%^&*http://www.xiami.com/song/29684%^&*http://www.xiami.com/song/29685%^&*http://www.xiami.com/song/29686%^&*http://www.xiami.com/song/29687%^&*http://www.xiami.com/song/29688%^&*http://www.xiami.com/song/29689%^&*

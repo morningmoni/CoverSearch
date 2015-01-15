@@ -1,0 +1,7 @@
+number 504316
+name 老爸老妈
+artist 阿宝
+introduction 阿宝的最新个人民歌专辑《泪蛋蛋》、流行专辑《老爸老妈》由北京至尊唱片制作完成，双碟同时发行上市，同时也预示着阿宝将正式从一个民歌手想流行音乐转型。
+picture http://img.xiami.net/images/album/img2/2/5043161399631171.jpg
+songs 老爸老妈%^&*第一次见到你%^&*
+songURLs http://www.xiami.com/song/1770912625%^&*http://www.xiami.com/song/1770912600%^&*

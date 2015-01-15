@@ -1,0 +1,6 @@
+number 540631
+name 一千个吻
+artist 邓建明
+introduction picture http://img.xiami.net/images/album/img80/180/5406311346906676.jpg
+songs 缠着你%^&*同类动物%^&*解脱%^&*我的名字是虚荣%^&*一千个吻%^&*悲与喜%^&*五十步笑一百步%^&*无聊才爱我吧%^&*香港97%^&*闹剧%^&*
+songURLs http://www.xiami.com/song/1771295534%^&*http://www.xiami.com/song/1771295535%^&*http://www.xiami.com/song/1771295536%^&*http://www.xiami.com/song/1771295537%^&*http://www.xiami.com/song/1771295538%^&*http://www.xiami.com/song/1771295539%^&*http://www.xiami.com/song/1771295540%^&*http://www.xiami.com/song/1771295541%^&*http://www.xiami.com/song/1771295542%^&*http://www.xiami.com/song/1771295543%^&*

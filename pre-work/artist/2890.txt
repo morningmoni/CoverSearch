@@ -1,0 +1,7 @@
+number 2890
+name 螺丝钉
+place Taiwan 台湾
+introduction 主唱兼吉他手：小春吉他手：乔克鼓手：嘎嘎贝斯手：大瓜
+picture http://img.xiami.net/images/artist/12064170241636.jpg
+albums Second%^&*同名专辑%^&*第一次%^&*
+albumURLs http://www.xiami.com/album/14925%^&*http://www.xiami.com/album/14926%^&*http://www.xiami.com/album/14927%^&*

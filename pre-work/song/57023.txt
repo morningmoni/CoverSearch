@@ -1,0 +1,6 @@
+number 57023
+name 一言难尽
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 强颜欢笑
+albumURL http://www.xiami.com/album/4708

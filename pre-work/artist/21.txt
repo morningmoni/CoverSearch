@@ -1,0 +1,7 @@
+number 21
+name 卜学亮阿亮
+place Taiwan 台湾
+introduction 小档案姓 名：卜学亮籍 贯：湖北襄阳血 型：B型身 高：169公分体 重：70公斤星 座：处女座学 历：淡江大学嗜 好：打电动休 闲：看TV娱 乐：录像座右铭：Just do it！大事记【舞台剧】〔又一夜，他们说相声〕、〔蛋蛋危机〕【电视演出】〔我们一家都是人&mdash;台湾精神〈饰恰吉〉、宝岛大国民〈饰黄建国〉〕〈超视〉、〔一间客栈〕〈超视〉【主持】电视〔TV新秀争霸站〕、〔好彩头〕、〔星期天报报〕、〔超级星期天〕〈皆为华视〉、〔我爱龙珠〕、〔大观园〕〈卫视中文台〉广播〔周末飞碟午餐〕、〔周日飞碟午餐〕、〔幽浮劲碟爆唱〕、〔阿亮叫天亮〕〈皆为飞碟电台〉【十大热门单曲】起床歌我想做个好男人给老婆的歌恭喜发财歌火车顶的心情超级任务HoboI'll Be BackParty To9T危险的恋人【专辑列表】《我爱阿亮》《我爱阿亮爱我》
+picture http://img.xiami.net/images/artistlogo/68/13880348236068.jpg
+albums SUPER亮%^&*我爱阿亮阿亮爱我%^&*我爱阿亮%^&*
+albumURLs http://www.xiami.com/album/1186837865%^&*http://www.xiami.com/album/57%^&*http://www.xiami.com/album/58%^&*

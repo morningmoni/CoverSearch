@@ -1,0 +1,7 @@
+number 289567
+name EP
+artist 顶楼的马戏团
+introduction 顶楼马戏团的第一张专辑
+picture http://img.xiami.net/images/album/img90/190/2895671393830108.jpg
+songs 九八年的夏天%^&*马戏团下半场的演出%^&*24_01的末班车%^&*木头和草%^&*灰尘里布满着空气%^&*蓝宇%^&*狂躁抑郁症%^&*无题%^&*
+songURLs http://www.xiami.com/song/3226457%^&*http://www.xiami.com/song/3226458%^&*http://www.xiami.com/song/3226459%^&*http://www.xiami.com/song/3226460%^&*http://www.xiami.com/song/3226461%^&*http://www.xiami.com/song/3226462%^&*http://www.xiami.com/song/3226463%^&*http://www.xiami.com/song/3226464%^&*

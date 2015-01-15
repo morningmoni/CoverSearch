@@ -1,0 +1,7 @@
+number 2770
+name 骨肉皮
+place Taiwan 台湾
+introduction 骨肉皮是台湾的老字辈乐队，被称作台湾乐队中永不被盖台的大哥大，音乐精致成熟，有着流畅的旋律，饶富意味的歌词跟演出方式。 主唱阿峰，吉他秀秀（技术一流），BASS庄敬，鼓手John。乐队成员阿峰、庄敬、秀秀跟志坚一起组织了台湾著名的&ldquo;实干文化&rdquo;，负责台北主要创作乐团活动的Vibe跟地下社会的节目安排跟音响/PA工程等，是推动台湾乐队音乐发展的中坚力量。
+picture http://img.xiami.net/images/artist/12063255193305.jpg
+albums 骨肉皮Ⅱ-快乐玩%^&*1995台湾地下音乐档案(四) 骨肉皮%^&*
+albumURLs http://www.xiami.com/album/14634%^&*http://www.xiami.com/album/14635%^&*

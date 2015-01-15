@@ -1,0 +1,6 @@
+number 13560
+name 乖乖
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/135601334562798.jpg
+songs 乖乖%^&*冲动%^&*放心远去吧%^&*依稀的浪漫%^&*甜梦%^&*情逝了%^&*分手雨夜%^&*蒲公英之歌%^&*不想再记起%^&*失踪伴侣%^&*
+songURLs http://www.xiami.com/song/166932%^&*http://www.xiami.com/song/166933%^&*http://www.xiami.com/song/166934%^&*http://www.xiami.com/song/166935%^&*http://www.xiami.com/song/166936%^&*http://www.xiami.com/song/166937%^&*http://www.xiami.com/song/166938%^&*http://www.xiami.com/song/166939%^&*http://www.xiami.com/song/166940%^&*http://www.xiami.com/song/166941%^&*

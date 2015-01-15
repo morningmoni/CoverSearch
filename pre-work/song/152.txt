@@ -1,0 +1,7 @@
+number 152
+name 小说MVNovel
+artist 阿杜%^&*林俊杰%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%98%BF%E6%9D%9C%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E4%BF%8A%E6%9D%B0%^&*
+album 醇情歌
+albumURL http://www.xiami.com/album/13

@@ -1,0 +1,6 @@
+number 3772
+name 渡过黑暗
+artist 陈迪匡%^&*
+artistURL http://www.xiami.com/artist/76%^&*
+album selected
+albumURL http://www.xiami.com/album/310

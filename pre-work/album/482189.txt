@@ -1,0 +1,7 @@
+number 482189
+name 思凡
+artist 林毛根
+introduction 林毛根先生生于潮乐世家，从小习琴练画、天资聪慧，得潮乐大师张汉斋之真传。听林先生的演奏，酷似品韵潮州工夫茶，深遂、曲雅、古朴、清丽，加上晶莹剔透的音色，给人以意气阑珊、韵昧悠长之无尽美感。
+picture http://img.xiami.net/images/album/img20/620/4821891323239526.jpg
+songs 思凡%^&*深闺怨%^&*寒鸦戏水%^&*过江龙%^&*雨溅梨花%^&*倒骑驴%^&*粉红莲%^&*问卜%^&*南海%^&*小桃红%^&*赐阁%^&*雁南飞%^&*普天乐%^&*柳青娘%^&*
+songURLs http://www.xiami.com/song/1770674090%^&*http://www.xiami.com/song/1770674091%^&*http://www.xiami.com/song/1770674092%^&*http://www.xiami.com/song/1770674093%^&*http://www.xiami.com/song/1770674094%^&*http://www.xiami.com/song/1770674095%^&*http://www.xiami.com/song/1770674096%^&*http://www.xiami.com/song/1770674097%^&*http://www.xiami.com/song/1770674098%^&*http://www.xiami.com/song/1770674099%^&*http://www.xiami.com/song/1770674100%^&*http://www.xiami.com/song/1770674101%^&*http://www.xiami.com/song/1770674102%^&*http://www.xiami.com/song/1770674103%^&*

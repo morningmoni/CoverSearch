@@ -1,0 +1,7 @@
+number 13280
+name 妹力四射
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132801318414974.jpg
+songs 天天天蓝%^&*站在高岗上%^&*不要告别%^&*恋曲1990%^&*You Make Me Free%^&*没有烟抽的日子%^&*哭砂%^&*跟着感觉走%^&*我无所谓%^&*热线你和我%^&*I Don&#039;t Want To Talk About It%^&*What&#039;s Up%^&*The Power Of Love%^&*Walking By Myself%^&*
+songURLs http://www.xiami.com/song/163490%^&*http://www.xiami.com/song/163491%^&*http://www.xiami.com/song/163492%^&*http://www.xiami.com/song/163493%^&*http://www.xiami.com/song/163494%^&*http://www.xiami.com/song/163495%^&*http://www.xiami.com/song/163496%^&*http://www.xiami.com/song/163497%^&*http://www.xiami.com/song/163498%^&*http://www.xiami.com/song/163499%^&*http://www.xiami.com/song/163500%^&*http://www.xiami.com/song/163501%^&*http://www.xiami.com/song/163502%^&*http://www.xiami.com/song/163503%^&*

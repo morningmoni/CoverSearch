@@ -1,0 +1,6 @@
+number 84279
+name 我想快乐些
+artist 蔡淳佳%^&*
+artistURL http://www.xiami.com/artist/1340%^&*
+album 淳佳精选17首
+albumURL http://www.xiami.com/album/6904

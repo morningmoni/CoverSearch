@@ -1,0 +1,8 @@
+number 1771541651
+name 比较大的大提琴
+artist 周杰伦%^&*梁心颐%^&*杨瑞代%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E6%9D%B0%E4%BC%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%81%E5%BF%83%E9%A2%90%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%A8%E7%91%9E%E4%BB%A3%^&*
+album 十二新作
+albumURL http://www.xiami.com/album/561777

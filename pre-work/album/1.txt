@@ -1,0 +1,7 @@
+number 1
+name 我 那一场恋爱
+artist Alex
+introduction 一杯伏特加的酒酣耳热 不及他指间的情节 整个季节只想被这样的幸福包围灵魂书写每一个黑白琴键 音符驾驭每一寸爱与哀愁关于永恒、回忆、约定&hellip;..，言语总捕捉不住脑中飞逝的吉光片羽；Alex以其纤细敏感的特质谱写你我心中言谕未及的深刻，从网络崛起，许多人未见过他的庐山面目，就已领略他的音乐才情，&ldquo;我那一场恋爱&rdquo;钢琴专辑累积Alex多年音乐创作心灵点滴，美国著名钢琴家Suzanne Ciani神往他音乐里的唯美，新世纪钢琴家Michael Hoppe称颂他灵魂深处的感性，而再多的描述都比不上你此刻按下Play听到他音乐里的静谧诗情！2005年新世纪钢琴创作才子－AlexAlex丰沛的钢琴创作，早有个人网站露出作品，不乏有广告公司与音乐人士请其创作；&ldquo;我那一场恋爱&rdquo;专辑定位以插画风格结合诗文表现新世纪钢琴另一种不同风貌，也特意将Alex塑造成兼具音乐与文采的个性艺人；整张专辑风格抒情，虽多属内心层面抒发曲风却兼具流行动听特质，一改国内钢琴艺人昔日创作印象，作品也多获国外钢琴艺人好评。
+picture http://img.xiami.net/images/album/img1/1/11383201444.jpg
+songs 梦的列车%^&*懂事%^&*背影%^&*Sharon%^&*回忆%^&*一个人跳舞%^&*小宇宙%^&*约定%^&*城市%^&*那夜%^&*时光印记%^&*
+songURLs http://www.xiami.com/song/1%^&*http://www.xiami.com/song/2%^&*http://www.xiami.com/song/3%^&*http://www.xiami.com/song/4%^&*http://www.xiami.com/song/5%^&*http://www.xiami.com/song/6%^&*http://www.xiami.com/song/7%^&*http://www.xiami.com/song/8%^&*http://www.xiami.com/song/9%^&*http://www.xiami.com/song/10%^&*http://www.xiami.com/song/11%^&*

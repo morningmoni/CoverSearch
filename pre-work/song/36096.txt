@@ -1,0 +1,6 @@
+number 36096
+name 回心转意
+artist 姜鹏%^&*
+artistURL http://www.xiami.com/artist/450%^&*
+album 回心转意
+albumURL http://www.xiami.com/album/1943

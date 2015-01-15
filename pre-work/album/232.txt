@@ -1,0 +1,6 @@
+number 232
+name 第一天就爱你
+artist 常宽
+introduction picture http://img.xiami.net/images/album/img68/68/232.jpg
+songs 第一天就爱你%^&*他们说我不好%^&*羞涩的花%^&*OH！BABY%^&*说来说去%^&*给我一点爱%^&*你的柔情我永远不懂%^&*爱你的所有%^&*只要自己觉得无悔%^&*
+songURLs http://www.xiami.com/song/389459%^&*http://www.xiami.com/song/389460%^&*http://www.xiami.com/song/389461%^&*http://www.xiami.com/song/389462%^&*http://www.xiami.com/song/389463%^&*http://www.xiami.com/song/389464%^&*http://www.xiami.com/song/389465%^&*http://www.xiami.com/song/389466%^&*http://www.xiami.com/song/389467%^&*

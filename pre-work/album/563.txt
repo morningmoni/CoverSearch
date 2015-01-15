@@ -1,0 +1,6 @@
+number 563
+name 赤子心
+artist 陈耀川
+introduction picture http://img.xiami.net/images/album/img32/132/5631327375180.jpg
+songs 赤子心%^&*感情线%^&*女人%^&*等给爱我的人%^&*一个午睡时做的梦%^&*情歌1994%^&*爱太浓%^&*心情真好%^&*我们分享每天%^&*真心真意赤子心%^&*
+songURLs http://www.xiami.com/song/6799%^&*http://www.xiami.com/song/6800%^&*http://www.xiami.com/song/6801%^&*http://www.xiami.com/song/6802%^&*http://www.xiami.com/song/6803%^&*http://www.xiami.com/song/6804%^&*http://www.xiami.com/song/6805%^&*http://www.xiami.com/song/6806%^&*http://www.xiami.com/song/6807%^&*http://www.xiami.com/song/6808%^&*

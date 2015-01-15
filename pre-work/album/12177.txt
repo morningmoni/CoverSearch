@@ -1,0 +1,6 @@
+number 12177
+name 天下浪子不独你一人
+artist 吴倩莲
+introduction picture http://img.xiami.net/images/album/img50/2250/12177.jpg
+songs 失恋的女人%^&*天下浪子不独你一人%^&*牧羊姑娘%^&*只有我在等我%^&*天知地知%^&*四等情人%^&*追梦人%^&*偏心%^&*明日也许太遥远%^&*世纪的梦%^&*
+songURLs http://www.xiami.com/song/149628%^&*http://www.xiami.com/song/149629%^&*http://www.xiami.com/song/149630%^&*http://www.xiami.com/song/149631%^&*http://www.xiami.com/song/149632%^&*http://www.xiami.com/song/149633%^&*http://www.xiami.com/song/149634%^&*http://www.xiami.com/song/149635%^&*http://www.xiami.com/song/149636%^&*http://www.xiami.com/song/149637%^&*

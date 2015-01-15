@@ -1,0 +1,7 @@
+number 1370
+name 陈帆红
+place China 中国大陆
+introduction 个人简介陈帆红出生于音乐世家，六岁时参加过电影《泉水叮咚》的拍摄，九岁起学钢琴，并多次在省、市比赛中获得各类奖项。
+picture http://img.xiami.net/images/artist/11981333893557.jpg
+albums 一颗红心两种准备%^&*
+albumURLs http://www.xiami.com/album/7197%^&*

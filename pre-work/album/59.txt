@@ -1,0 +1,7 @@
+number 59
+name 天天天天说爱你
+artist 阿牛
+introduction 
+picture http://img.xiami.net/images/album/img22/22/59.jpg
+songs 天天天天说爱你%^&*桂花香%^&*初恋%^&*北京的月亮%^&*冰酒%^&*我爱R&amp;B%^&*Monica%^&*王子公主在一起%^&*再见有期%^&*三代%^&*
+songURLs http://www.xiami.com/song/701%^&*http://www.xiami.com/song/702%^&*http://www.xiami.com/song/703%^&*http://www.xiami.com/song/704%^&*http://www.xiami.com/song/705%^&*http://www.xiami.com/song/706%^&*http://www.xiami.com/song/707%^&*http://www.xiami.com/song/708%^&*http://www.xiami.com/song/709%^&*http://www.xiami.com/song/710%^&*

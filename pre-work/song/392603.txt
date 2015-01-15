@@ -1,0 +1,6 @@
+number 392603
+name 淡水海边
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album 不能说的秘密 电影原声带
+albumURL http://www.xiami.com/album/32898

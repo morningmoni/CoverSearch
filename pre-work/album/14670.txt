@@ -1,0 +1,7 @@
+number 14670
+name 下一个就是你
+artist 黑九月
+introduction 强烈推荐曲目：脆弱 完美的游戏冰冷的音乐里蕴含爆发和激情，牛牧与黑九月乐队是北京新金属乐队中的佼佼者！&ldquo;牛牧与黑九月&rdquo;乐队是2000年-2002年间，北京新金属乐队中的佼佼者，冰冷的音乐里蕴含爆发和激情！乐队2001年未发生人员变动，[战斧]乐队吉他手郭智勇加入，乐队开始了这张单曲唱片《下一个就是你》的录制；在歌词创作上也是专注于生活在城市中人们的内心挣扎和烦恼，让人们审视自身，冲破自身的羁绊；在保留原来乐队曲风的前提下，以旋律见长的牛牧和中国新生代最优秀的彭手高飞力求将这张精悍的单曲唱片做的更为概念和富于旋律性，这也将是中国摇滚乐唱片的一种发展趋势&hellip;&hellip;
+picture http://img.xiami.net/images/album/img90/2790/14670.jpg
+songs Intro%^&*完美的游戏%^&*脆弱%^&*城市爬虫%^&*心灵引线%^&*下一个就是你 (CS游戏混音版)%^&*脆弱 (卡拉OK版)%^&*
+songURLs http://www.xiami.com/song/180800%^&*http://www.xiami.com/song/180801%^&*http://www.xiami.com/song/180802%^&*http://www.xiami.com/song/180803%^&*http://www.xiami.com/song/180804%^&*http://www.xiami.com/song/180805%^&*http://www.xiami.com/song/180806%^&*

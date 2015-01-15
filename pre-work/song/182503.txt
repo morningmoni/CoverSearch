@@ -1,0 +1,6 @@
+number 182503
+name 玫瑰
+artist 九天乐队%^&*
+artistURL http://www.xiami.com/artist/2840%^&*
+album 玫瑰·该不该开花
+albumURL http://www.xiami.com/album/14818

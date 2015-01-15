@@ -1,0 +1,7 @@
+number 4081
+name 想你想得好孤寂
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40811387371909.jpg
+songs 想你想得好孤寂%^&*千纸鹤%^&*弱点%^&*谁若爱你比我多%^&*我的心透明得看得见%^&*Just A Little%^&*爱火照星空%^&*你的心是个谜%^&*情有可原%^&*分心%^&*想你想得好孤寂 (深夜回忆版)%^&*找一个字代替%^&*九百九十九朵玫瑰%^&*
+songURLs http://www.xiami.com/song/49932%^&*http://www.xiami.com/song/49933%^&*http://www.xiami.com/song/49934%^&*http://www.xiami.com/song/49935%^&*http://www.xiami.com/song/49936%^&*http://www.xiami.com/song/49937%^&*http://www.xiami.com/song/49938%^&*http://www.xiami.com/song/49939%^&*http://www.xiami.com/song/49940%^&*http://www.xiami.com/song/49941%^&*http://www.xiami.com/song/49942%^&*http://www.xiami.com/song/49943%^&*http://www.xiami.com/song/49944%^&*

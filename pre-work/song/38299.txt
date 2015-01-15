@@ -1,0 +1,6 @@
+number 38299
+name 疑云层层
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 让我告诉你
+albumURL http://www.xiami.com/album/3111

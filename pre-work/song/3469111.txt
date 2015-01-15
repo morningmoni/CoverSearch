@@ -1,0 +1,6 @@
+number 3469111
+name 假如你还在这里
+artist 罗志祥%^&*
+artistURL http://www.xiami.com/artist/720%^&*
+album 潮男正传
+albumURL http://www.xiami.com/album/312942

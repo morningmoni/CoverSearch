@@ -1,0 +1,6 @@
+number 8957
+name 我代你哭
+artist 黄丹仪%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E4%B8%B9%E4%BB%AA%^&*
+album 自作自授
+albumURL http://www.xiami.com/album/737

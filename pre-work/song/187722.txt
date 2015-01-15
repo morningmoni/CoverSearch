@@ -1,0 +1,7 @@
+number 187722
+name 幸福的钟声
+artist 小仪%^&*梁汉文%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%B0%8F%E4%BB%AA%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%81%E6%B1%89%E6%96%87%^&*
+album 十九楼1/2的夏天
+albumURL http://www.xiami.com/album/15285

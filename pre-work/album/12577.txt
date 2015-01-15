@@ -1,0 +1,7 @@
+number 12577
+name 难得好天气
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125771367833682.jpg
+songs 难得好天气%^&*新世界%^&*爱不爱你都一样%^&*不知不觉%^&*Little by Little%^&*时间的秘密%^&*想要的感觉%^&*隐瞒%^&*Together you and I%^&*相片生活%^&*You are my No.1%^&*
+songURLs http://www.xiami.com/song/383456%^&*http://www.xiami.com/song/383457%^&*http://www.xiami.com/song/383458%^&*http://www.xiami.com/song/383459%^&*http://www.xiami.com/song/383460%^&*http://www.xiami.com/song/383461%^&*http://www.xiami.com/song/383462%^&*http://www.xiami.com/song/383463%^&*http://www.xiami.com/song/383464%^&*http://www.xiami.com/song/383465%^&*http://www.xiami.com/song/383466%^&*

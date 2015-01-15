@@ -1,0 +1,6 @@
+number 301
+name 吾爱吾师·几度夕阳红
+artist 陈彼得
+introduction picture http://img.xiami.net/images/pic/04/03/10103998012m_2.jpg
+songs 吾爱吾师%^&*吾爱吾师(演奏曲)%^&*几度夕阳红%^&*几度夕阳红(演奏曲)%^&*
+songURLs http://www.xiami.com/song/3685%^&*http://www.xiami.com/song/3686%^&*http://www.xiami.com/song/3687%^&*http://www.xiami.com/song/3688%^&*

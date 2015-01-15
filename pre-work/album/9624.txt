@@ -1,0 +1,7 @@
+number 9624
+name 我是侃侃
+artist 侃侃
+introduction 
+picture http://img.xiami.net/images/album/img40/1740/96241328845777.jpg
+songs 大礼堂%^&*逆水寒%^&*追%^&*蝴蝶%^&*声声慢%^&*快乐不多%^&*感…%^&*爱开始%^&*生日回舞%^&*冬眠%^&*
+songURLs http://www.xiami.com/song/119126%^&*http://www.xiami.com/song/119127%^&*http://www.xiami.com/song/119128%^&*http://www.xiami.com/song/119129%^&*http://www.xiami.com/song/119130%^&*http://www.xiami.com/song/119131%^&*http://www.xiami.com/song/119132%^&*http://www.xiami.com/song/119133%^&*http://www.xiami.com/song/119134%^&*http://www.xiami.com/song/119135%^&*

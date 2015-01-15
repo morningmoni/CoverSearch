@@ -1,0 +1,7 @@
+number 10929
+name 我们不哭了
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109291383707505.jpg
+songs 我们都哭了%^&*我们不哭了%^&*我们都哭了(Karaoke)%^&*我们不哭了(Karaoke)%^&*
+songURLs http://www.xiami.com/song/135020%^&*http://www.xiami.com/song/135021%^&*http://www.xiami.com/song/135022%^&*http://www.xiami.com/song/135023%^&*

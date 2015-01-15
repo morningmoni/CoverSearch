@@ -1,0 +1,7 @@
+number 435300
+name 粤听粤好听
+artist 古璇
+introduction 古璇的声音醇厚温柔，中低频段感染力十足，清新，纯静中更增添了一些，柔媚与迷离的味道，使她的声音散发着摄人魅力。让她纯静无暇的声音，美似天籁的熟悉旋律，引领你的耳朵和心灵经历，一次绝妙的天堂之旅。
+picture http://img.xiami.net/images/album/img60/1560/4353001302508175.jpg
+songs 星星问%^&*城市足印%^&*今宵多珍重%^&*枫桥月%^&*最爱是谁%^&*漫步人生路%^&*陌上归人%^&*每当变幻时%^&*水流红%^&*狮子山下%^&*女人心%^&*情已逝%^&*忘尽心中情%^&*
+songURLs http://www.xiami.com/song/1770144506%^&*http://www.xiami.com/song/1770144507%^&*http://www.xiami.com/song/1770144508%^&*http://www.xiami.com/song/1770144509%^&*http://www.xiami.com/song/1770144510%^&*http://www.xiami.com/song/1770144511%^&*http://www.xiami.com/song/1770144512%^&*http://www.xiami.com/song/1770144513%^&*http://www.xiami.com/song/1770144514%^&*http://www.xiami.com/song/1770144515%^&*http://www.xiami.com/song/1770144516%^&*http://www.xiami.com/song/1770144517%^&*http://www.xiami.com/song/1770144518%^&*

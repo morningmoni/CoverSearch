@@ -1,0 +1,6 @@
+number 9337
+name 相思泪
+artist 丽莎
+introduction picture http://img.xiami.net/images/album/img80/1680/93371369035872.jpg
+songs 我心碎了%^&*百花亭之恋%^&*悔当初%^&*月夜泛轻舟%^&*雨夜悼花词%^&*海角天涯觅知音%^&*历劫断肠花%^&*天涯踏遍觅郎归%^&*恨得你死%^&*一曲寄情怀%^&*难忘的情人%^&*相思泪%^&*鸳鸯鸟%^&*春游%^&*
+songURLs http://www.xiami.com/song/115803%^&*http://www.xiami.com/song/115804%^&*http://www.xiami.com/song/115805%^&*http://www.xiami.com/song/115811%^&*http://www.xiami.com/song/115807%^&*http://www.xiami.com/song/115808%^&*http://www.xiami.com/song/115809%^&*http://www.xiami.com/song/115810%^&*http://www.xiami.com/song/115806%^&*http://www.xiami.com/song/115812%^&*http://www.xiami.com/song/115813%^&*http://www.xiami.com/song/115814%^&*http://www.xiami.com/song/115815%^&*http://www.xiami.com/song/115816%^&*

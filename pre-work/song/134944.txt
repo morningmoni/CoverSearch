@@ -1,0 +1,6 @@
+number 134944
+name 想得开
+artist 梅艳芳%^&*
+artistURL http://www.xiami.com/artist/2000%^&*
+album 床前明月光
+albumURL http://www.xiami.com/album/10923

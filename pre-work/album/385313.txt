@@ -1,0 +1,7 @@
+number 385313
+name 完全自我手册
+artist 陈浩民
+introduction 浩民在1995年发行的首张个人粤语专辑，由星光传讯出版发行，里面收录了三首歌和一首主打歌的舞曲版。
+picture http://img.xiami.net/images/album/img87/87/3853131276741584.jpg
+songs 完全自我手册%^&*差不多%^&*相识太迟%^&*完全自我手册 UNLIMITED DANCE&#039;MIX%^&*
+songURLs http://www.xiami.com/song/1769573740%^&*http://www.xiami.com/song/1769573741%^&*http://www.xiami.com/song/1769573742%^&*http://www.xiami.com/song/1769573743%^&*

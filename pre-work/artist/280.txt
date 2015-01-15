@@ -1,0 +1,7 @@
+number 280
+name 郭顶
+place China 中国大陆
+introduction 小档案出生地：湖南星 座：狮子座身 高：172cm体 重：56kg爱 好：作曲、跳舞、睡觉最喜欢的音乐：很杂最喜欢的颜色：随心情而定最喜欢的穿着方式： 舒适、有点奇怪的衣服最难忘的事：第一次到公司时跳舞给大家看、很糗最敬重的人：妈妈最喜欢的动物：狗（我家的那条）最喜欢的食品：随意&mdash;&mdash;米饭、炒菜最喜欢的季节：秋天（颜色很美）最喜欢的节日：自己的生日最喜欢的运动：跳舞（可以算运动吗？？）最大的愿望：做很多自己想做事
+picture http://img.xiami.net/images/artistlogo/54/12821960223954.jpg
+albums 微微%^&*郭顶 同名专辑%^&*
+albumURLs http://www.xiami.com/album/343401%^&*http://www.xiami.com/album/1248%^&*

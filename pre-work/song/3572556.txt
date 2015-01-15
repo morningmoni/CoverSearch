@@ -1,0 +1,6 @@
+number 3572556
+name Wonderful Life美丽人生
+artist Daydream%^&*
+artistURL http://www.xiami.com/artist/30%^&*
+album A Sleeping Forest
+albumURL http://www.xiami.com/album/321168

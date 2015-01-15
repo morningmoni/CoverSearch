@@ -1,0 +1,7 @@
+number 12974
+name Princess A
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/129741409933447.jpg
+songs 念奴娇%^&*月儿亮弯弯%^&*十九岁的最后一天%^&*爸爸不要说%^&*悲伤茱丽叶%^&*流浪的小孩%^&*萤火虫%^&*落入凡间的精灵%^&*三月的秘密%^&*我是猫%^&*生日快乐%^&*一千遍我爱你%^&*一个人%^&*红颜美人多薄命%^&*紧紧拥抱我%^&*轰轰烈烈去爱%^&*好女人%^&*天变地变情不变%^&*你是我的幸福吗?%^&*下大雨%^&*你对我的好%^&*
+songURLs http://www.xiami.com/song/374068%^&*http://www.xiami.com/song/374069%^&*http://www.xiami.com/song/374070%^&*http://www.xiami.com/song/374071%^&*http://www.xiami.com/song/374072%^&*http://www.xiami.com/song/374073%^&*http://www.xiami.com/song/374074%^&*http://www.xiami.com/song/374075%^&*http://www.xiami.com/song/374076%^&*http://www.xiami.com/song/374077%^&*http://www.xiami.com/song/374078%^&*http://www.xiami.com/song/374079%^&*http://www.xiami.com/song/374080%^&*http://www.xiami.com/song/374081%^&*http://www.xiami.com/song/374082%^&*http://www.xiami.com/song/374083%^&*http://www.xiami.com/song/374084%^&*http://www.xiami.com/song/374085%^&*http://www.xiami.com/song/374086%^&*http://www.xiami.com/song/374087%^&*http://www.xiami.com/song/374088%^&*

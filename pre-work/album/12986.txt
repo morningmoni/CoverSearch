@@ -1,0 +1,7 @@
+number 12986
+name 百乐门小艳红之快活歌
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/12986.jpg
+songs 说不出的快活%^&*爱神的箭%^&*不管你是谁%^&*月圆花好%^&*我有一段情%^&*打喷嚏%^&*我要你的爱%^&*等着你回来%^&*如果没有你%^&*我的天堂%^&*
+songURLs http://www.xiami.com/song/374211%^&*http://www.xiami.com/song/374212%^&*http://www.xiami.com/song/374213%^&*http://www.xiami.com/song/374214%^&*http://www.xiami.com/song/374215%^&*http://www.xiami.com/song/374216%^&*http://www.xiami.com/song/374217%^&*http://www.xiami.com/song/374218%^&*http://www.xiami.com/song/374219%^&*http://www.xiami.com/song/374220%^&*

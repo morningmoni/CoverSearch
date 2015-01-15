@@ -1,0 +1,6 @@
+number 49891
+name 九百九十九朵玫瑰
+artist 邰正宵%^&*
+artistURL http://www.xiami.com/artist/850%^&*
+album 步步高升
+albumURL http://www.xiami.com/album/4077

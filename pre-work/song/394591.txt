@@ -1,0 +1,6 @@
+number 394591
+name 你比从前快乐
+artist 吴宗宪%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%B4%E5%AE%97%E5%AE%AA%^&*
+album 我们都爱这个伦！
+albumURL http://www.xiami.com/album/33046

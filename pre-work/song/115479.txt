@@ -1,0 +1,6 @@
+number 115479
+name 爱的传奇
+artist 丽莎%^&*
+artistURL http://www.xiami.com/artist/1680%^&*
+album 一生一次爱
+albumURL http://www.xiami.com/album/9312

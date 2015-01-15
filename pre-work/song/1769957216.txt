@@ -1,0 +1,6 @@
+number 1769957216
+name 实在才好
+artist 七郎%^&*
+artistURL http://www.xiami.com/artist/780%^&*
+album 对天撒乃
+albumURL http://www.xiami.com/album/419113

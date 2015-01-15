@@ -1,0 +1,7 @@
+number 986128653
+name 望天草
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/9861286531386259554.jpg
+songs 望天草%^&*爱太深%^&*又搁想起你%^&*心肝仔%^&*天生浪漫%^&*我的爱再会%^&*你我拢同款%^&*飞双双%^&*情歌对唱%^&*送给你%^&*
+songURLs http://www.xiami.com/song/1772385704%^&*http://www.xiami.com/song/1772385705%^&*http://www.xiami.com/song/1772385706%^&*http://www.xiami.com/song/1772385707%^&*http://www.xiami.com/song/1772385708%^&*http://www.xiami.com/song/1772385709%^&*http://www.xiami.com/song/1772385710%^&*http://www.xiami.com/song/1772385711%^&*http://www.xiami.com/song/1772385712%^&*http://www.xiami.com/song/1772385713%^&*

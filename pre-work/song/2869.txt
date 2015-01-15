@@ -1,0 +1,6 @@
+number 2869
+name 秋雨的回忆
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 奔向爱的怀抱
+albumURL http://www.xiami.com/album/235

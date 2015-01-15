@@ -1,0 +1,6 @@
+number 1770955881
+name 青春一二三
+artist 颜黎明%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%A2%9C%E9%BB%8E%E6%98%8E%^&*
+album 天冷就回来
+albumURL http://www.xiami.com/album/508246

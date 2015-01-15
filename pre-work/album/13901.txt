@@ -1,0 +1,6 @@
+number 13901
+name 回娘家
+artist 朱明瑛
+introduction picture http://img.xiami.net/images/album/img70/2570/13901.jpg
+songs 回娘家%^&*明亮的眼睛%^&*沥沥小雨%^&*大海啊,故乡%^&*小城故事%^&*心中的痛苦%^&*到我这边来%^&*童年%^&*万水千山总是情%^&*依呀呀欧雷欧%^&*旅愁%^&*紫竹调%^&*阿旃陀梦幻%^&*啊!莫愁莫愁%^&*洋娃娃请你和我说句话%^&*阿妹的歌在心里唱%^&*
+songURLs http://www.xiami.com/song/171615%^&*http://www.xiami.com/song/171616%^&*http://www.xiami.com/song/171617%^&*http://www.xiami.com/song/171618%^&*http://www.xiami.com/song/171619%^&*http://www.xiami.com/song/171620%^&*http://www.xiami.com/song/171621%^&*http://www.xiami.com/song/171622%^&*http://www.xiami.com/song/171623%^&*http://www.xiami.com/song/171624%^&*http://www.xiami.com/song/171625%^&*http://www.xiami.com/song/171626%^&*http://www.xiami.com/song/171627%^&*http://www.xiami.com/song/171628%^&*http://www.xiami.com/song/171629%^&*http://www.xiami.com/song/171630%^&*

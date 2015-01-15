@@ -1,0 +1,7 @@
+number 3027
+name 声音起革命
+artist 刘罡
+introduction 
+picture http://img.xiami.net/images/album/img50/650/3027.jpg
+songs 完美无缺%^&*星空下的恋人%^&*哈萨尼娅%^&*永恒%^&*伤逝%^&*四季%^&*夜花%^&*梦幻小夜曲%^&*蓝%^&*决心%^&*罗曼蒂克主义%^&*
+songURLs http://www.xiami.com/song/37050%^&*http://www.xiami.com/song/37051%^&*http://www.xiami.com/song/37052%^&*http://www.xiami.com/song/37053%^&*http://www.xiami.com/song/37054%^&*http://www.xiami.com/song/37055%^&*http://www.xiami.com/song/37056%^&*http://www.xiami.com/song/37057%^&*http://www.xiami.com/song/37058%^&*http://www.xiami.com/song/37059%^&*http://www.xiami.com/song/37060%^&*

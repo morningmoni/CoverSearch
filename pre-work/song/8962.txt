@@ -1,0 +1,6 @@
+number 8962
+name 习惯失恋
+artist 邓建明%^&*
+artistURL http://www.xiami.com/artist/180%^&*
+album 自作自授
+albumURL http://www.xiami.com/album/737

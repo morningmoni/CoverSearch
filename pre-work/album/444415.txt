@@ -1,0 +1,6 @@
+number 444415
+name 一曲难忘 中词西曲精选
+artist 姚莉
+introduction picture http://img.xiami.net/images/album/img70/2370/4444151411359023.jpg
+songs 爱情的魔力%^&*月光溪%^&*一曲难忘%^&*心许你%^&*莫奔跑%^&*大江东去%^&*罗马之恋%^&*白雪%^&*凤仙花开%^&*往事似云%^&*爱的光荣%^&*梦里的新娘%^&*今夜太神秘%^&*舞伴泪影%^&*旧恋新爱%^&*爱的开始%^&*
+songURLs http://www.xiami.com/song/1770249511%^&*http://www.xiami.com/song/1770249512%^&*http://www.xiami.com/song/1770249513%^&*http://www.xiami.com/song/1770249514%^&*http://www.xiami.com/song/1770249515%^&*http://www.xiami.com/song/1770249516%^&*http://www.xiami.com/song/1770249517%^&*http://www.xiami.com/song/1770249518%^&*http://www.xiami.com/song/1770249519%^&*http://www.xiami.com/song/1770249520%^&*http://www.xiami.com/song/1770249521%^&*http://www.xiami.com/song/1770249522%^&*http://www.xiami.com/song/1770249523%^&*http://www.xiami.com/song/1770249524%^&*http://www.xiami.com/song/1770249525%^&*http://www.xiami.com/song/1770249526%^&*

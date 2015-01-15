@@ -1,0 +1,7 @@
+number 44
+name 天使的翅膀
+artist 安琥
+introduction 
+picture http://img.xiami.net/images/album/img18/18/44.jpg
+songs 长大%^&*哥们儿%^&*天使的翅膀%^&*两只小蜜蜂%^&*风筝%^&*斗地主%^&*拂袖%^&*若爱过我%^&*菊花香%^&*船长%^&*
+songURLs http://www.xiami.com/song/376566%^&*http://www.xiami.com/song/376567%^&*http://www.xiami.com/song/376568%^&*http://www.xiami.com/song/376569%^&*http://www.xiami.com/song/376570%^&*http://www.xiami.com/song/376571%^&*http://www.xiami.com/song/376572%^&*http://www.xiami.com/song/376573%^&*http://www.xiami.com/song/376574%^&*http://www.xiami.com/song/376575%^&*

@@ -1,0 +1,6 @@
+number 389455
+name My First Day Alone
+artist Joe Jr%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Joe+Jr%^&*
+album 凉茶·马尾·飞机头
+albumURL http://www.xiami.com/album/32683

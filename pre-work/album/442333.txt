@@ -1,0 +1,6 @@
+number 442333
+name 有影无
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img50/38550/1306038550.jpg
+songs 有影无%^&*自然就是美%^&*好额与穷赤%^&*恋爱追追追%^&*不通冲红灯%^&*甜甜的白贼话%^&*欢喜的目屎%^&*爱就是给你满足%^&*想乎妥当%^&*祝福你%^&*
+songURLs http://www.xiami.com/song/1770223331%^&*http://www.xiami.com/song/1770223332%^&*http://www.xiami.com/song/1770223333%^&*http://www.xiami.com/song/1770223334%^&*http://www.xiami.com/song/1770223335%^&*http://www.xiami.com/song/1770223336%^&*http://www.xiami.com/song/1770223337%^&*http://www.xiami.com/song/1770223338%^&*http://www.xiami.com/song/1770223339%^&*http://www.xiami.com/song/1770223340%^&*

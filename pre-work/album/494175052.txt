@@ -1,0 +1,7 @@
+number 494175052
+name 关心
+artist 詹曼铃
+introduction 
+picture http://img.xiami.net/images/album/img40/2440/4941750521394175085.png
+songs 啥人乎阮关心%^&*乎你走%^&*异乡ㄟ恋情%^&*情罪%^&*重新开始%^&*名字%^&*真心二字%^&*放袜开%^&*黑色的心情%^&*只要你幸福快乐%^&*
+songURLs http://www.xiami.com/song/1772609459%^&*http://www.xiami.com/song/1772609460%^&*http://www.xiami.com/song/1772609461%^&*http://www.xiami.com/song/1772609462%^&*http://www.xiami.com/song/1772609463%^&*http://www.xiami.com/song/1772609464%^&*http://www.xiami.com/song/1772609465%^&*http://www.xiami.com/song/1772609466%^&*http://www.xiami.com/song/1772609467%^&*http://www.xiami.com/song/1772609468%^&*

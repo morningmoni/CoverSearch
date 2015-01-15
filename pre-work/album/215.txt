@@ -1,0 +1,6 @@
+number 215
+name 曾来入梦
+artist 曹西平
+introduction picture http://img.xiami.net/images/album/img61/61/2151418640020.jpg
+songs 曾来入梦%^&*撒旦天使%^&*炙热%^&*伪装%^&*难道你不喜欢%^&*光阴骑士%^&*双谎的游戏%^&*梦 梦 梦%^&*迷迷朦朦%^&*为何要开始%^&*
+songURLs http://www.xiami.com/song/2619%^&*http://www.xiami.com/song/2620%^&*http://www.xiami.com/song/2621%^&*http://www.xiami.com/song/2622%^&*http://www.xiami.com/song/2623%^&*http://www.xiami.com/song/2624%^&*http://www.xiami.com/song/2625%^&*http://www.xiami.com/song/2626%^&*http://www.xiami.com/song/2627%^&*http://www.xiami.com/song/2628%^&*

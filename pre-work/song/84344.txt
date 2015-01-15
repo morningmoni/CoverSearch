@@ -1,0 +1,6 @@
+number 84344
+name 好女人
+artist 蔡淳佳%^&*
+artistURL http://www.xiami.com/artist/1340%^&*
+album 日出
+albumURL http://www.xiami.com/album/6907

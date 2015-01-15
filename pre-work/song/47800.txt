@@ -1,0 +1,6 @@
+number 47800
+name 草原儿女
+artist 施孝荣%^&*
+artistURL http://www.xiami.com/artist/820%^&*
+album 侠客
+albumURL http://www.xiami.com/album/3901

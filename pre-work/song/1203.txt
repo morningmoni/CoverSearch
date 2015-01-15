@@ -1,0 +1,6 @@
+number 1203
+name 红颜命薄
+artist 朱桦%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9C%B1%E6%A1%A6%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

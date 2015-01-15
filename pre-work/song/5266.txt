@@ -1,0 +1,6 @@
+number 5266
+name 我的歌中有你的故事
+artist 陈山河%^&*
+artistURL http://www.xiami.com/artist/116%^&*
+album 为你付出
+albumURL http://www.xiami.com/album/439

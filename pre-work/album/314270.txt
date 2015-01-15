@@ -1,0 +1,7 @@
+number 314270
+name 流浪歌手
+artist 孙国庆
+introduction 广州太平洋影音公司于1985年出版的，一张老专集。
+picture http://img.xiami.net/images/album/img40/840/314270.jpg
+songs 多情的世界%^&*倾听远方的汽笛%^&*约会%^&*寒夜%^&*等待明天%^&*流浪歌手%^&*歌手的爱情%^&*祈求%^&*别上钩%^&*一场梦%^&*青春的步伐%^&*地平线上又射出了光芒%^&*
+songURLs http://www.xiami.com/song/3485756%^&*http://www.xiami.com/song/3485757%^&*http://www.xiami.com/song/3485758%^&*http://www.xiami.com/song/3485759%^&*http://www.xiami.com/song/3485760%^&*http://www.xiami.com/song/3485761%^&*http://www.xiami.com/song/3485762%^&*http://www.xiami.com/song/3485763%^&*http://www.xiami.com/song/3485764%^&*http://www.xiami.com/song/3485765%^&*http://www.xiami.com/song/3485766%^&*http://www.xiami.com/song/3485767%^&*

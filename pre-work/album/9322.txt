@@ -1,0 +1,6 @@
+number 9322
+name 丽莎恭祝各界圣诞快乐
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 小小海花鹿%^&*恭祝圣诞快乐%^&*又到圣诞%^&*寂寞圣诞夜%^&*除旧布新贺新春%^&*报佳音%^&*一年笑到晚%^&*迎春暖%^&*祝圣诞%^&*雪人完成了%^&*平安夜%^&*大地风光%^&*冬青诉愿%^&*春日情歌%^&*
+songURLs http://www.xiami.com/song/115607%^&*http://www.xiami.com/song/115608%^&*http://www.xiami.com/song/115609%^&*http://www.xiami.com/song/115610%^&*http://www.xiami.com/song/115611%^&*http://www.xiami.com/song/115612%^&*http://www.xiami.com/song/115613%^&*http://www.xiami.com/song/115614%^&*http://www.xiami.com/song/115615%^&*http://www.xiami.com/song/115616%^&*http://www.xiami.com/song/115617%^&*http://www.xiami.com/song/115618%^&*http://www.xiami.com/song/115619%^&*http://www.xiami.com/song/115620%^&*

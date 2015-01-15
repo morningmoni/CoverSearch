@@ -1,0 +1,6 @@
+number 12995
+name 落入凡间的精灵
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/129951393813364.jpg
+songs 落入凡间的精灵%^&*邱比特的恶作剧%^&*Cry On Your Smile%^&*街头顽童%^&*青春伤痕%^&*深夜的辛蒂蕾拉们%^&*精灵顽童%^&*坏女孩%^&*说谎与变心%^&*华丽的冒险%^&*
+songURLs http://www.xiami.com/song/159871%^&*http://www.xiami.com/song/159872%^&*http://www.xiami.com/song/159873%^&*http://www.xiami.com/song/159874%^&*http://www.xiami.com/song/159875%^&*http://www.xiami.com/song/159876%^&*http://www.xiami.com/song/159877%^&*http://www.xiami.com/song/159878%^&*http://www.xiami.com/song/159879%^&*http://www.xiami.com/song/159880%^&*

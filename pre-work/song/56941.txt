@@ -1,0 +1,7 @@
+number 56941
+name 风雨给我,温暖给你
+artist 文章%^&*那英%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%96%87%E7%AB%A0%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%82%A3%E8%8B%B1%^&*
+album 音乐文章Ⅱ
+albumURL http://www.xiami.com/album/4702

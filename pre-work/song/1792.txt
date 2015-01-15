@@ -1,0 +1,6 @@
+number 1792
+name 爱情傀儡
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 蔡国权精选
+albumURL http://www.xiami.com/album/145

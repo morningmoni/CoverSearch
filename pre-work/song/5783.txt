@@ -1,0 +1,6 @@
+number 5783
+name 我只是想要
+artist 陈伟联%^&*
+artistURL http://www.xiami.com/artist/124%^&*
+album 我只是想要…
+albumURL http://www.xiami.com/album/484

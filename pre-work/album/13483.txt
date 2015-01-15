@@ -1,0 +1,6 @@
+number 13483
+name 你的样子
+artist 张云儿
+introduction picture http://img.xiami.net/images/album/img90/2490/134831367821392.jpg
+songs 你的样子%^&*彩云伴海鸥%^&*我的未来不是梦%^&*一世情缘%^&*大约在冬季%^&*爱要怎么说%^&*跟往事干杯%^&*半梦半醒之间%^&*一场游戏一场梦%^&*想要有双翅膀%^&*萍聚%^&*驿动的心%^&*
+songURLs http://www.xiami.com/song/166048%^&*http://www.xiami.com/song/166049%^&*http://www.xiami.com/song/166050%^&*http://www.xiami.com/song/166051%^&*http://www.xiami.com/song/166052%^&*http://www.xiami.com/song/166053%^&*http://www.xiami.com/song/166054%^&*http://www.xiami.com/song/166055%^&*http://www.xiami.com/song/166056%^&*http://www.xiami.com/song/166057%^&*http://www.xiami.com/song/166058%^&*http://www.xiami.com/song/166059%^&*

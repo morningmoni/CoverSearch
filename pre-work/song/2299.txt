@@ -1,0 +1,7 @@
+number 2299
+name 烟花情MV
+artist 蔡振南%^&*孙安琳%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E6%8C%AF%E5%8D%97%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AD%99%E5%AE%89%E7%90%B3%^&*
+album 台湾南歌精选辑
+albumURL http://www.xiami.com/album/187

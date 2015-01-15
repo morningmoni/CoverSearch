@@ -1,0 +1,7 @@
+number 539883
+name 清音流韵
+artist 侃侃
+introduction 和丽江的温暖阳光一起，停驻在丽江古城的声音。
+picture http://img.xiami.net/images/album/img40/1740/5398831346659828.jpg
+songs 滴答(特别海外珍藏音乐编曲版)%^&*那江烟花%^&*把爱深藏%^&*爱情啊%^&*想念(新歌)%^&*隔世离空的红颜%^&*飘摇%^&*寂静的天空%^&*细说往事%^&*老家%^&*橄榄树%^&*雪莲花%^&*滴答(特别海外珍藏音乐编曲版伴奏)%^&*
+songURLs http://www.xiami.com/song/1771287147%^&*http://www.xiami.com/song/1771287148%^&*http://www.xiami.com/song/1771287149%^&*http://www.xiami.com/song/1771287150%^&*http://www.xiami.com/song/1771267969%^&*http://www.xiami.com/song/1771287152%^&*http://www.xiami.com/song/1771287153%^&*http://www.xiami.com/song/1771287154%^&*http://www.xiami.com/song/1771287155%^&*http://www.xiami.com/song/1771287156%^&*http://www.xiami.com/song/1771287157%^&*http://www.xiami.com/song/1771287158%^&*http://www.xiami.com/song/1771267965%^&*

@@ -1,0 +1,6 @@
+number 12226
+name 经典金曲18首
+artist 奚秀兰
+introduction picture http://img.xiami.net/images/album/img70/2270/12226.jpg
+songs 天涯歌女%^&*月圆花好%^&*琵琶怨%^&*楼台会%^&*叹十声%^&*月儿弯弯照九州%^&*何日君再来%^&*三年%^&*九个郎%^&*绣荷包%^&*五月的风%^&*苏州河边%^&*明月千里寄相思%^&*秋水伊人%^&*送君%^&*阿里山之歌%^&*拷红%^&*郊道%^&*
+songURLs http://www.xiami.com/song/150245%^&*http://www.xiami.com/song/150246%^&*http://www.xiami.com/song/150247%^&*http://www.xiami.com/song/150248%^&*http://www.xiami.com/song/150249%^&*http://www.xiami.com/song/150250%^&*http://www.xiami.com/song/150251%^&*http://www.xiami.com/song/150252%^&*http://www.xiami.com/song/150253%^&*http://www.xiami.com/song/150254%^&*http://www.xiami.com/song/150255%^&*http://www.xiami.com/song/150256%^&*http://www.xiami.com/song/150257%^&*http://www.xiami.com/song/150258%^&*http://www.xiami.com/song/150259%^&*http://www.xiami.com/song/150260%^&*http://www.xiami.com/song/150261%^&*http://www.xiami.com/song/150262%^&*

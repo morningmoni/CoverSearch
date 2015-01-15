@@ -1,0 +1,6 @@
+number 13989
+name 就在今夜
+artist 雷亮%^&*
+artistURL http://www.xiami.com/artist/490%^&*
+album 蛋白质女孩
+albumURL http://www.xiami.com/album/2114

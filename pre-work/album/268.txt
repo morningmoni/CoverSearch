@@ -1,0 +1,7 @@
+number 268
+name 等待您
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2681404805071.jpg
+songs 试问谁没错%^&*对酒当歌%^&*从新欣赏我%^&*三个自己%^&*空气中等你%^&*当晚梦见是你?%^&*别话%^&*I Do, I Do%^&*关闭心灵%^&*今夜守规矩%^&*
+songURLs http://www.xiami.com/song/3377%^&*http://www.xiami.com/song/3378%^&*http://www.xiami.com/song/3379%^&*http://www.xiami.com/song/3380%^&*http://www.xiami.com/song/3381%^&*http://www.xiami.com/song/3382%^&*http://www.xiami.com/song/3383%^&*http://www.xiami.com/song/3384%^&*http://www.xiami.com/song/3385%^&*http://www.xiami.com/song/3386%^&*

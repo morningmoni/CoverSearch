@@ -1,0 +1,6 @@
+number 1784
+name 酸酸的眼睛
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 风中暖流
+albumURL http://www.xiami.com/album/144

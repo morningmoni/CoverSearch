@@ -1,0 +1,6 @@
+number 135147
+name 是这样的MV电影《阿飞正传》主题曲
+artist 梅艳芳%^&*
+artistURL http://www.xiami.com/artist/2000%^&*
+album The Legend Of The Pop Queen Part Ⅱ
+albumURL http://www.xiami.com/album/10939

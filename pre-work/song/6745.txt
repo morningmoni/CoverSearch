@@ -1,0 +1,6 @@
+number 6745
+name 旭曲
+artist 陈旭%^&*
+artistURL http://www.xiami.com/artist/128%^&*
+album 陈旭Vs花瓶
+albumURL http://www.xiami.com/album/557

@@ -1,0 +1,6 @@
+number 143
+name 燃亮的火炬
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1431337304586.jpg
+songs 燃亮我%^&*火炬行动%^&*想念你%^&*友情%^&*
+songURLs http://www.xiami.com/song/1771%^&*http://www.xiami.com/song/1772%^&*http://www.xiami.com/song/1773%^&*http://www.xiami.com/song/1774%^&*

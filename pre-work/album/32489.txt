@@ -1,0 +1,7 @@
+number 32489
+name 新不了情 电影原声带
+artist 鲍比达
+introduction 
+picture http://img.xiami.net/images/album/img32/32/324891398488005.jpg
+songs 新不了情%^&*念情%^&*晨街%^&*忆儿时%^&*摇红烛%^&*给我一个吻%^&*不了情%^&*爱芽初萌%^&*In The Mood%^&*载歌载舞 / 诈肚痛%^&*补镬佬%^&*返家%^&*黎明在望 (粤语版)%^&*
+songURLs http://www.xiami.com/song/386502%^&*http://www.xiami.com/song/386503%^&*http://www.xiami.com/song/386504%^&*http://www.xiami.com/song/386505%^&*http://www.xiami.com/song/386506%^&*http://www.xiami.com/song/386507%^&*http://www.xiami.com/song/386508%^&*http://www.xiami.com/song/386509%^&*http://www.xiami.com/song/386510%^&*http://www.xiami.com/song/386511%^&*http://www.xiami.com/song/386512%^&*http://www.xiami.com/song/386513%^&*http://www.xiami.com/song/386514%^&*

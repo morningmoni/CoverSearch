@@ -1,0 +1,7 @@
+number 128
+name 20世纪中华歌坛名人百集珍藏版
+artist 蔡国庆
+introduction 
+picture http://img.xiami.net/images/album/img0/1281282281032.jpg
+songs 同一首歌%^&*北京的桥%^&*遥远的思念%^&*记住%^&*回家%^&*三百六十五个祝福%^&*柳絮雪%^&*心光%^&*总有%^&*小小水滴%^&*野山歌%^&*望春%^&*行一个军礼%^&*我心中的故事%^&*
+songURLs http://www.xiami.com/song/1564%^&*http://www.xiami.com/song/1565%^&*http://www.xiami.com/song/1566%^&*http://www.xiami.com/song/1567%^&*http://www.xiami.com/song/1568%^&*http://www.xiami.com/song/1569%^&*http://www.xiami.com/song/1570%^&*http://www.xiami.com/song/1571%^&*http://www.xiami.com/song/1572%^&*http://www.xiami.com/song/1573%^&*http://www.xiami.com/song/1574%^&*http://www.xiami.com/song/1575%^&*http://www.xiami.com/song/1576%^&*http://www.xiami.com/song/1577%^&*

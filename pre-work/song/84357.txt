@@ -1,0 +1,6 @@
+number 84357
+name 自助旅行
+artist 蔡淳佳%^&*
+artistURL http://www.xiami.com/artist/1340%^&*
+album Joi 同名专辑
+albumURL http://www.xiami.com/album/6908

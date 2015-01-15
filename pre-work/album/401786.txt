@@ -1,0 +1,7 @@
+number 401786
+name 静享七乐
+artist 강타
+introduction 
+picture http://img.xiami.net/images/album/img0/4017861284368504.jpg
+songs 爱，频率%^&*记得%^&*我们的彩虹%^&*不习惯%^&*Many Times%^&*
+songURLs http://www.xiami.com/song/1769762390%^&*http://www.xiami.com/song/1769762391%^&*http://www.xiami.com/song/1769762392%^&*http://www.xiami.com/song/1769762393%^&*http://www.xiami.com/song/1769762394%^&*

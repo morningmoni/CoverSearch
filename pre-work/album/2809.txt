@@ -1,0 +1,7 @@
+number 2809
+name Free Style R&B 全创作1号
+artist 林子良
+introduction 丰华唱片 2003 首推新人，林子良！新人魔力小子自己写自己做自己唱！他的音乐热血会让你的耳朵跳起来！林子良，一个操着特殊中文腔的阳光男孩，黄皮肤黑眼珠的外表下，却充满了CBC的纯真和执着。长期北美洲的生活汲取了那里独有的音乐风格──R&B;，整张专辑的词曲制作都是由林子良自己完成的。他的音乐中不乏动感节拍和说唱，在此基础上，林子良更融入了自己真实的情感和体会，使之为大众所接受。独树一帜的音乐风格为乐坛增添了一份新意。新专辑主打歌《陪我说说》唤醒了歌迷心中深埋以久的一抹温情；另外一首主打歌《每一天》也是非常出彩的，整首歌曲中钢琴跳动的旋律贯穿其中，敲动心弦，把失恋的伤痛与无奈体现的淋漓尽致。
+picture http://img.xiami.net/images/album/img40/640/28091418031607.jpeg
+songs 天马行空%^&*爱情故事%^&*Deja Vu%^&*温柔的你%^&*陪我说说%^&*我想和你%^&*爱不回头%^&*那个小孩%^&*宝贝%^&*每一天%^&*
+songURLs http://www.xiami.com/song/22503%^&*http://www.xiami.com/song/22504%^&*http://www.xiami.com/song/22505%^&*http://www.xiami.com/song/22506%^&*http://www.xiami.com/song/22507%^&*http://www.xiami.com/song/22508%^&*http://www.xiami.com/song/22509%^&*http://www.xiami.com/song/22510%^&*http://www.xiami.com/song/22511%^&*http://www.xiami.com/song/22512%^&*

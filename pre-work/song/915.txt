@@ -1,0 +1,6 @@
+number 915
+name 最后一天
+artist 艾斯卡尔%^&*
+artistURL http://www.xiami.com/artist/24%^&*
+album 祝福
+albumURL http://www.xiami.com/album/78

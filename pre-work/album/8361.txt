@@ -1,0 +1,7 @@
+number 8361
+name 秋夜
+artist 费星
+introduction 
+picture http://img.xiami.net/images/album/img30/1530/8361.jpg
+songs 每次想你%^&*秋夜%^&*青春舞曲%^&*东去列车%^&*送别%^&*爱情年代%^&*牧歌%^&*莫斯科郊外的晚上%^&*秋风%^&*情歌%^&*美丽的草原我的家%^&*
+songURLs http://www.xiami.com/song/103643%^&*http://www.xiami.com/song/103644%^&*http://www.xiami.com/song/103645%^&*http://www.xiami.com/song/103646%^&*http://www.xiami.com/song/103647%^&*http://www.xiami.com/song/103648%^&*http://www.xiami.com/song/103649%^&*http://www.xiami.com/song/103650%^&*http://www.xiami.com/song/103651%^&*http://www.xiami.com/song/103652%^&*http://www.xiami.com/song/103653%^&*

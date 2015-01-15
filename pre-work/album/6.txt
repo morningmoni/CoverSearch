@@ -1,0 +1,7 @@
+number 6
+name 1188
+artist 阿弟仔
+introduction 两次获得中华音乐人交流协会评选为年度十大专辑与十大单曲；2000 年入围金曲奖最佳制作人，并获颁最佳国语男演唱人奖；2002 年入围全球华语音乐传媒大奖最佳摇滚艺人与最佳制作人。不仅成功打造蔡依林、黄立成&麻吉、罗志祥、Energy 等歌手，还创作及制作包括江惠、蔡琴、罗时丰、北原山猫、甚至台湾歌仔戏国宝-孙翠凤等专辑，作品涵盖商业流行与传统艺术。美国另类音乐杂志 Alternative Press 特别专访；个人创作更收录到荷兰当地的东方文化艺术节之音乐合辑里！2005 年成立品牌网站 www.adia.com.tw，扩张创作理念，企图组织自由艺术工作者，在有限的体制外作无限的概念延伸。实验、前卫、感受与思想；从歇斯底里的错乱到迷失、从崩溃到瓦解，都在特辑&ldquo;1188&rdquo;里化成数码与文字。历经电子重拍的撞击与吉他破音的撕裂；迷幻的图形异象以及圣经密码的传递，深刻纪录着重生与信仰的灵命过程。
+picture http://img.xiami.net/images/album/img4/4/61377017181.jpg
+songs 音乐1%^&*音乐2%^&*疯%^&*音乐3%^&*歹势%^&*音乐4%^&*地图%^&*音乐5%^&*阿麻%^&*音乐6%^&*暧昧%^&*音乐7%^&*挣扎%^&*音乐8%^&*平衡%^&*音乐9%^&*坚持信仰%^&*音乐10%^&*
+songURLs http://www.xiami.com/song/38%^&*http://www.xiami.com/song/39%^&*http://www.xiami.com/song/40%^&*http://www.xiami.com/song/41%^&*http://www.xiami.com/song/42%^&*http://www.xiami.com/song/43%^&*http://www.xiami.com/song/44%^&*http://www.xiami.com/song/45%^&*http://www.xiami.com/song/46%^&*http://www.xiami.com/song/47%^&*http://www.xiami.com/song/48%^&*http://www.xiami.com/song/49%^&*http://www.xiami.com/song/50%^&*http://www.xiami.com/song/51%^&*http://www.xiami.com/song/52%^&*http://www.xiami.com/song/53%^&*http://www.xiami.com/song/54%^&*http://www.xiami.com/song/55%^&*

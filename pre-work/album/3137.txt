@@ -1,0 +1,6 @@
+number 3137
+name 她像个孩子/睡莲/喜气洋洋
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3137.jpg
+songs 她像个孩子%^&*睡莲%^&*金色大地%^&*奈何%^&*爱情不再%^&*喜气洋洋%^&*为你唱的那首歌%^&*情深意长%^&*失落的影子%^&*我俩多珍惜%^&*展开了笑颜%^&*
+songURLs http://www.xiami.com/song/38723%^&*http://www.xiami.com/song/38724%^&*http://www.xiami.com/song/38725%^&*http://www.xiami.com/song/38726%^&*http://www.xiami.com/song/38727%^&*http://www.xiami.com/song/38728%^&*http://www.xiami.com/song/38729%^&*http://www.xiami.com/song/38730%^&*http://www.xiami.com/song/38731%^&*http://www.xiami.com/song/38732%^&*http://www.xiami.com/song/38733%^&*

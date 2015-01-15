@@ -1,0 +1,6 @@
+number 880
+name 中国民族乐合奏
+artist 中国广播民族乐团%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%B8%AD%E5%9B%BD%E5%B9%BF%E6%92%AD%E6%B0%91%E6%97%8F%E4%B9%90%E5%9B%A2%^&*
+album 二泉映月
+albumURL http://www.xiami.com/album/75

@@ -1,0 +1,6 @@
+number 394589
+name 我爱的人
+artist 陈小春%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%B0%8F%E6%98%A5%^&*
+album 我们都爱这个伦！
+albumURL http://www.xiami.com/album/33046

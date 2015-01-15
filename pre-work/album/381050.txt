@@ -1,0 +1,7 @@
+number 381050
+name 恋曲神话
+artist 韩红
+introduction 《韩红：恋曲神话》是情歌对唱专辑，附赠家庭版情侣K歌DVD！收录韩红与实力唱将孙楠、许志安、高明骏、李泉经典情歌对唱以及MV、卡拉OK。
+picture http://img.xiami.net/images/album/img86/76486/1274076486.jpg
+songs 美丽的神话%^&*相爱多年%^&*让爱做主%^&*我决定爱你%^&*神话%^&*
+songURLs http://www.xiami.com/song/1769519622%^&*http://www.xiami.com/song/1769519623%^&*http://www.xiami.com/song/1769519624%^&*http://www.xiami.com/song/1769519625%^&*http://www.xiami.com/song/1769519626%^&*

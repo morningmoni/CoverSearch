@@ -1,0 +1,7 @@
+number 12176
+name 爱得干脆
+artist 吴倩莲
+introduction 
+picture http://img.xiami.net/images/album/img50/2250/121761313379229.jpg
+songs 爱得干脆%^&*不能再寂寞%^&*原谅我%^&*背影%^&*如果只可以做朋友%^&*新天涯歌女%^&*忆%^&*独唱%^&*天苍苍%^&*回归%^&*
+songURLs http://www.xiami.com/song/149618%^&*http://www.xiami.com/song/149619%^&*http://www.xiami.com/song/149620%^&*http://www.xiami.com/song/149621%^&*http://www.xiami.com/song/149622%^&*http://www.xiami.com/song/149623%^&*http://www.xiami.com/song/149624%^&*http://www.xiami.com/song/149625%^&*http://www.xiami.com/song/149626%^&*http://www.xiami.com/song/149627%^&*

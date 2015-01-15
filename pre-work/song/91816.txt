@@ -1,0 +1,7 @@
+number 91816
+name 两个人的世界
+artist 陈琳%^&*杨坤%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E7%90%B3%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%A8%E5%9D%A4%^&*
+album 爱就爱了
+albumURL http://www.xiami.com/album/7436

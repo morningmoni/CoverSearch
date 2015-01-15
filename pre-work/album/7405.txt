@@ -1,0 +1,7 @@
+number 7405
+name 麻醉
+artist 陈洁仪
+introduction 
+picture http://img.xiami.net/images/album/img90/1390/74051410838255.jpg
+songs 麻醉%^&*不知不觉%^&*觉歌%^&*除非%^&*死性不改%^&*夜安!%^&*Mr.Turner(粤语版)%^&*不要(粤语版)%^&*战灰%^&*每一生都为你%^&*
+songURLs http://www.xiami.com/song/91444%^&*http://www.xiami.com/song/91445%^&*http://www.xiami.com/song/91446%^&*http://www.xiami.com/song/91447%^&*http://www.xiami.com/song/91448%^&*http://www.xiami.com/song/91449%^&*http://www.xiami.com/song/91450%^&*http://www.xiami.com/song/91451%^&*http://www.xiami.com/song/91452%^&*http://www.xiami.com/song/91453%^&*

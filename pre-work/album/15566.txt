@@ -1,0 +1,7 @@
+number 15566
+name VRF
+artist VRF
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10020413624m_2.jpg
+songs 下雨天%^&*寒冰掌%^&*Why Didn&#039;t You?%^&*寒冰掌(Cool Mix)%^&*下雨天(Live At Jazz Pub)%^&*Flying In The Sky%^&*Not Bad 不坏%^&*
+songURLs http://www.xiami.com/song/190935%^&*http://www.xiami.com/song/190936%^&*http://www.xiami.com/song/190937%^&*http://www.xiami.com/song/190938%^&*http://www.xiami.com/song/190939%^&*http://www.xiami.com/song/190940%^&*http://www.xiami.com/song/190941%^&*

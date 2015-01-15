@@ -1,0 +1,7 @@
+number 398704
+name 玲珑
+artist 金海心
+introduction 翻唱二十世纪华人经典歌曲的作品取名《玲珑》，这也是金海心与金信子唱片携手后推出的第二张唱片。专辑《玲珑》以翻唱红歌及经典歌曲为主，封面及内页写真海心首次挑战复古主题，封面照更是集性感忧雅古典美于一体。
+picture http://img.xiami.net/images/album/img20/1720/3987041371799355.jpg
+songs 送别%^&*天涯歌女%^&*我们的生活充满阳光%^&*乡恋%^&*牡丹之歌%^&*牧羊曲%^&*歌声与微笑%^&*月圆花好%^&*让我们荡起双桨%^&*小白船%^&*同一首歌%^&*
+songURLs http://www.xiami.com/song/1769727528%^&*http://www.xiami.com/song/1769727530%^&*http://www.xiami.com/song/1769727526%^&*http://www.xiami.com/song/1769727532%^&*http://www.xiami.com/song/1769727531%^&*http://www.xiami.com/song/1769727527%^&*http://www.xiami.com/song/1769727534%^&*http://www.xiami.com/song/1769727535%^&*http://www.xiami.com/song/1769727525%^&*http://www.xiami.com/song/1769727529%^&*http://www.xiami.com/song/1769727533%^&*

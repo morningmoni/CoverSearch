@@ -1,0 +1,6 @@
+number 2275
+name 回到真我
+artist 李家明
+introduction picture http://img.xiami.net/images/pic/04/02/10063034312m_2.jpg
+songs 回到真我%^&*情未可诉%^&*她不可爱吗?%^&*伤心多一次%^&*没法改变%^&*听不听这个电话%^&*情难启齿%^&*情感警告%^&*痴情的我%^&*Crying In The City%^&*
+songURLs http://www.xiami.com/song/15880%^&*http://www.xiami.com/song/15881%^&*http://www.xiami.com/song/15882%^&*http://www.xiami.com/song/15883%^&*http://www.xiami.com/song/15884%^&*http://www.xiami.com/song/15885%^&*http://www.xiami.com/song/15886%^&*http://www.xiami.com/song/15887%^&*http://www.xiami.com/song/15888%^&*http://www.xiami.com/song/15889%^&*

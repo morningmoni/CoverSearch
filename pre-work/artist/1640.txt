@@ -1,0 +1,7 @@
+number 1640
+name 黄宝欣
+place Hongkong 香港
+introduction 个人简介黄宝欣因参加无线的新秀歌唱大赛而获赏识。声线略厚，而歌路也广。为人熟悉的歌曲有《酒杯敲钢琴》(合唱郑敬基)、《I'm your friend, I'm your lover》。
+picture http://img.xiami.net/images/artist/11973504598477.jpg
+albums 有缘相爱%^&*金装精选%^&*新曲与精选%^&*贴身情人%^&*仍是衷心祝福你%^&*她是谁%^&*浓情%^&*
+albumURLs http://www.xiami.com/album/8994%^&*http://www.xiami.com/album/8993%^&*http://www.xiami.com/album/8995%^&*http://www.xiami.com/album/8996%^&*http://www.xiami.com/album/8997%^&*http://www.xiami.com/album/8998%^&*http://www.xiami.com/album/8999%^&*

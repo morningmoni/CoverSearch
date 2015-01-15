@@ -1,0 +1,7 @@
+number 305277
+name 男人心事
+artist 陈百祥
+introduction 陈百祥08全新专辑&ldquo;男人心事&rdquo;CD+DVD至叻推介 &ldquo;男人心事&rdquo; 港人心事 &ldquo;马照跳&rdquo;首批附送 奥运玩得叻 2009精美月历
+picture http://img.xiami.net/images/album/img71/71/305277.jpg
+songs 男人心事%^&*马照跳%^&*全城至叻%^&*还给孩子%^&*她的主义%^&*奥运玩得叻%^&*
+songURLs http://www.xiami.com/song/3373566%^&*http://www.xiami.com/song/3373567%^&*http://www.xiami.com/song/3373568%^&*http://www.xiami.com/song/3373569%^&*http://www.xiami.com/song/3373570%^&*http://www.xiami.com/song/3373571%^&*

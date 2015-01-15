@@ -1,0 +1,7 @@
+number 14600
+name 欢乐世界
+artist 风火海
+introduction 
+picture http://img.xiami.net/images/pic/04/03/10081527613m_2.jpg
+songs 信得边个?%^&*我爱你%^&*欢乐世界大套餐%^&*自言自语%^&*每秒都只爱你%^&*偷%^&*Day Day 小鸟%^&*霹雳啪O勒踢踢踢%^&*仍然%^&*一丝不挂%^&*今日男人态度%^&*
+songURLs http://www.xiami.com/song/180110%^&*http://www.xiami.com/song/180111%^&*http://www.xiami.com/song/180112%^&*http://www.xiami.com/song/180113%^&*http://www.xiami.com/song/180114%^&*http://www.xiami.com/song/180115%^&*http://www.xiami.com/song/180116%^&*http://www.xiami.com/song/180117%^&*http://www.xiami.com/song/180118%^&*http://www.xiami.com/song/180119%^&*http://www.xiami.com/song/180120%^&*

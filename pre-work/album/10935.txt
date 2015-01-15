@@ -1,0 +1,7 @@
+number 10935
+name 情幻一生
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109351334022087.jpg
+songs 装饰的眼泪%^&*孤身走我路%^&*逝去的爱%^&*一舞倾情%^&*梦幻的拥抱%^&*心债%^&*缘份%^&*无人愿爱我%^&*Faith Fully%^&*耶利亚%^&*夏日恋人%^&*消失的脚印%^&*不信爱有罪%^&*交出我的心%^&*
+songURLs http://www.xiami.com/song/135091%^&*http://www.xiami.com/song/135092%^&*http://www.xiami.com/song/135093%^&*http://www.xiami.com/song/135094%^&*http://www.xiami.com/song/135095%^&*http://www.xiami.com/song/135096%^&*http://www.xiami.com/song/135097%^&*http://www.xiami.com/song/135098%^&*http://www.xiami.com/song/135099%^&*http://www.xiami.com/song/135100%^&*http://www.xiami.com/song/135101%^&*http://www.xiami.com/song/135102%^&*http://www.xiami.com/song/135103%^&*http://www.xiami.com/song/135104%^&*

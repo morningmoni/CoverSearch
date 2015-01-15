@@ -1,0 +1,7 @@
+number 3923
+name 爱让我更寂寞
+artist 宋达民
+introduction 宋达民用感觉来唱歌，宋逸民以表情来唱歌。正面的宋达民看起来忧郁深情，而反面的宋逸民看起来卻清新活泼；他们是一对双生兄弟，不经心的人看不出差异，而细心的人却一辨即明的一对双胞胎。在这个大部份人都不够细心的世界里行走了二十三年之后，这一次，透过歌声，他们寻得了真正属于自己的独一与自由。
+picture http://img.xiami.net/images/album/img30/830/39231413777991.jpg
+songs 爱让我更寂寞%^&*看看自已%^&*我的故事%^&*你的心在不在家%^&*让我牵着你的手%^&*最熟悉%^&*年少的手%^&*当我们都爱上你%^&*不要太早爱上我%^&*下雨城市情%^&*
+songURLs http://www.xiami.com/song/48028%^&*http://www.xiami.com/song/48029%^&*http://www.xiami.com/song/48030%^&*http://www.xiami.com/song/48031%^&*http://www.xiami.com/song/48032%^&*http://www.xiami.com/song/48023%^&*http://www.xiami.com/song/48024%^&*http://www.xiami.com/song/48025%^&*http://www.xiami.com/song/48026%^&*http://www.xiami.com/song/48027%^&*

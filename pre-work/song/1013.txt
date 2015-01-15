@@ -1,0 +1,6 @@
+number 1013
+name Scent Of A Morning (Piano Solo)清晨的芬芳
+artist Daydream%^&*
+artistURL http://www.xiami.com/artist/30%^&*
+album Little Comfort
+albumURL http://www.xiami.com/album/87

@@ -1,0 +1,7 @@
+number 39475
+name 热带情歌
+artist 洪丽云%^&*夏雨%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B4%AA%E4%B8%BD%E4%BA%91%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%A4%8F%E9%9B%A8%^&*
+album 禅院钟声
+albumURL http://www.xiami.com/album/3207

@@ -1,0 +1,6 @@
+number 38587
+name 美好的新年
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 恭喜恭喜
+albumURL http://www.xiami.com/album/3125

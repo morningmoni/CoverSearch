@@ -1,0 +1,8 @@
+number 159923
+name 有我有你MV
+artist 伊能静%^&*方文琳%^&*裘海正%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%BC%8A%E8%83%BD%E9%9D%99%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%96%B9%E6%96%87%E7%90%B3%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%A3%98%E6%B5%B7%E6%AD%A3%^&*
+album 有我有你
+albumURL http://www.xiami.com/album/13000

@@ -1,0 +1,6 @@
+number 1382
+name 绝对空虚MV
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 蔡枫华白金珍藏版
+albumURL http://www.xiami.com/album/112

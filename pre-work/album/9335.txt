@@ -1,0 +1,6 @@
+number 9335
+name 一水隔天涯
+artist 丽莎
+introduction picture http://img.xiami.net/images/pic/04/03/10092611489m_2.jpg
+songs 恨绵绵%^&*为何不爱我%^&*情泪心声%^&*爱海鸳鸯%^&*情爱问题%^&*满园春色%^&*一水隔天涯%^&*情如梦%^&*秋月%^&*往事似轻烟%^&*歌乐良宵%^&*再见%^&*
+songURLs http://www.xiami.com/song/115779%^&*http://www.xiami.com/song/115780%^&*http://www.xiami.com/song/115781%^&*http://www.xiami.com/song/115782%^&*http://www.xiami.com/song/115783%^&*http://www.xiami.com/song/115784%^&*http://www.xiami.com/song/115785%^&*http://www.xiami.com/song/115786%^&*http://www.xiami.com/song/115787%^&*http://www.xiami.com/song/115788%^&*http://www.xiami.com/song/115789%^&*http://www.xiami.com/song/115790%^&*

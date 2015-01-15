@@ -1,0 +1,7 @@
+number 532829
+name 蓝天上的歌者
+artist 容中尔甲
+introduction 容中尔甲：蓝天上的歌者一个用歌声描绘西藏风俗人文景色的歌手，一个集作词作曲演唱于一身的全才歌手，他以独特的充满灵性的嗓音，深情古朴的演唱风格，多年来牢牢占据着藏族歌王的位置。西藏神奇神秘土壤孕育的天骄歌者，康巴汉子的稀世佳音，苍然悠远飘渺，原始的粗犷挥发激情，雪崩般的听觉冲击。
+picture http://img.xiami.net/images/album/img0/800/5328291344225013.jpg
+songs 三千个祝愿%^&*世界最高的地方%^&*仁真旺姆%^&*吉祥谣%^&*快回来%^&*格桑花开%^&*格萨尔王%^&*梦回西藏%^&*神奇的九寨%^&*藏族舞曲%^&*阿咪罗罗%^&*高原人%^&*
+songURLs http://www.xiami.com/song/1771213164%^&*http://www.xiami.com/song/1771213165%^&*http://www.xiami.com/song/1771213166%^&*http://www.xiami.com/song/1771213167%^&*http://www.xiami.com/song/1771213168%^&*http://www.xiami.com/song/1771213169%^&*http://www.xiami.com/song/1771213170%^&*http://www.xiami.com/song/1771213171%^&*http://www.xiami.com/song/1771213172%^&*http://www.xiami.com/song/1771213173%^&*http://www.xiami.com/song/1771213174%^&*http://www.xiami.com/song/1771213175%^&*

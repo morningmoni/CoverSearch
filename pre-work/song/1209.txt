@@ -1,0 +1,6 @@
+number 1209
+name 雄鹰
+artist 孙国庆%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AD%99%E5%9B%BD%E5%BA%86%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

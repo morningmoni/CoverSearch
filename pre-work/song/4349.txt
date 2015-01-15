@@ -1,0 +1,6 @@
+number 4349
+name 青春乐
+artist 吴香伦%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%B4%E9%A6%99%E4%BC%A6%^&*
+album 黎明
+albumURL http://www.xiami.com/album/359

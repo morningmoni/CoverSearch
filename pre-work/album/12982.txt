@@ -1,0 +1,7 @@
+number 12982
+name 自己
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/12982.jpg
+songs Hey, My Friend%^&*小狗%^&*想太多%^&*问号%^&*Sing A Song%^&*勇气%^&*自己%^&*青春本来就苦%^&*有你的爱%^&*那么...%^&*
+songURLs http://www.xiami.com/song/374221%^&*http://www.xiami.com/song/374222%^&*http://www.xiami.com/song/374223%^&*http://www.xiami.com/song/374224%^&*http://www.xiami.com/song/374225%^&*http://www.xiami.com/song/374226%^&*http://www.xiami.com/song/374227%^&*http://www.xiami.com/song/374228%^&*http://www.xiami.com/song/374229%^&*http://www.xiami.com/song/374230%^&*

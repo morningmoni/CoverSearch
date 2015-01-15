@@ -1,0 +1,7 @@
+number 523528
+name 惑
+artist 叶蔻
+introduction 无
+picture http://img.xiami.net/images/album/img80/2380/5235281340602783.jpg
+songs 惑%^&*谁来爱我%^&*我不想回头%^&*曾经有个夜晚%^&*浪漫的夜%^&*陪我唱完这首歌%^&*那个无奈的人就是我%^&*谁说%^&*静静地看着我%^&*午夜霓虹%^&*仲夏之夜%^&*如何才能再继续%^&*每个想象都甜蜜%^&*荷花%^&*
+songURLs http://www.xiami.com/song/1771113286%^&*http://www.xiami.com/song/1771113287%^&*http://www.xiami.com/song/1771113288%^&*http://www.xiami.com/song/1771113289%^&*http://www.xiami.com/song/1771113290%^&*http://www.xiami.com/song/1771113291%^&*http://www.xiami.com/song/1771113292%^&*http://www.xiami.com/song/1771113293%^&*http://www.xiami.com/song/1771113294%^&*http://www.xiami.com/song/1771113295%^&*http://www.xiami.com/song/1771113296%^&*http://www.xiami.com/song/1771113297%^&*http://www.xiami.com/song/1771113298%^&*http://www.xiami.com/song/1771113299%^&*

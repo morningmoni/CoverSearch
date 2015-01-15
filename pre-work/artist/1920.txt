@@ -1,0 +1,7 @@
+number 1920
+name 刘嘉玲
+place Hongkong 香港
+introduction 体重：110lb生日：12月8日生肖：蛇籍贯：苏州出生地：苏州家庭成员：父母、一个弟弟最喜欢明星：阿伦狄龙，周润发最满意身体哪部分：眼睛最常去的地方：戏院最喜欢收集什么：香水瓶中学：苏浙中学
+picture http://img.xiami.net/images/artist/11968258211065.jpg
+albums 情冷却%^&*相信爱情%^&*真情流露%^&*
+albumURLs http://www.xiami.com/album/10547%^&*http://www.xiami.com/album/167329%^&*http://www.xiami.com/album/10548%^&*

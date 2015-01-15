@@ -1,0 +1,6 @@
+number 380469
+name 很Man
+artist 汪佩蓉%^&*
+artistURL http://www.xiami.com/artist/2170%^&*
+album 只要你快乐
+albumURL http://www.xiami.com/album/11877

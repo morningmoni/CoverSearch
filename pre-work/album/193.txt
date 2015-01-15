@@ -1,0 +1,7 @@
+number 193
+name 南歌
+artist 蔡振南
+introduction 穿透人生路 唯有蔡振南最具沧桑感与穿透力的台湾声音[用生命打拚 用灵魂唱歌][草仔枝嘛会挭倒英雄]，最重要的是你怎么站起来。曾经蔡振南的歌红遍大街小巷，曾经他的名字是台中监狱受刑人 3906 号；从生命的高潮到最低处，幸而音乐从未离他而去。他的歌从生活的体悟出发，所以能感人一深，他的歌声苍凉而有力，听过之后就再也难以忘记。实力推荐：&ldquo;空笑梦&rdquo;、&ldquo;大节女&rdquo;、&ldquo;变变变&rdquo;、&ldquo;钱&rdquo;
+picture http://img.xiami.net/images/album/img0/1931284094906.jpg
+songs 异乡悲恋梦%^&*变变变%^&*空笑梦%^&*大节女%^&*相思灯%^&*钱%^&*回心转意%^&*金包银%^&*牛郎织女%^&*相思暝%^&*
+songURLs http://www.xiami.com/song/2377%^&*http://www.xiami.com/song/2378%^&*http://www.xiami.com/song/2379%^&*http://www.xiami.com/song/2380%^&*http://www.xiami.com/song/2381%^&*http://www.xiami.com/song/2382%^&*http://www.xiami.com/song/2383%^&*http://www.xiami.com/song/2384%^&*http://www.xiami.com/song/2385%^&*http://www.xiami.com/song/2386%^&*

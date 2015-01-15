@@ -1,0 +1,6 @@
+number 1202303249
+name 你  小姐
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/12023032491417781170.jpg
+songs 你%^&*夜走在小镇上%^&*流水年华%^&*喝彩%^&*爱不要说抱歉%^&*神奇%^&*小姐%^&*我们最要好%^&*旧时情%^&*莫道别离%^&*我家在哪里%^&*爱的播种%^&*
+songURLs http://www.xiami.com/song/1773264106%^&*http://www.xiami.com/song/1773264107%^&*http://www.xiami.com/song/1773264108%^&*http://www.xiami.com/song/1773264109%^&*http://www.xiami.com/song/1773264110%^&*http://www.xiami.com/song/1773264111%^&*http://www.xiami.com/song/1773264112%^&*http://www.xiami.com/song/1773264113%^&*http://www.xiami.com/song/1773264114%^&*http://www.xiami.com/song/1773264115%^&*http://www.xiami.com/song/1773264116%^&*http://www.xiami.com/song/1773264117%^&*

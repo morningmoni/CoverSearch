@@ -1,0 +1,7 @@
+number 227
+name 年轻的心
+artist 长田
+introduction AR9007长田相信大家也不大了解，他是一名优秀的摄影师，在台湾一共出过三张专辑，现在还应该在做他的老本行。他的三张专辑分别是1992年的《一部跑车》，1994年的《年轻的心》及1995年的《伤心》。
+picture http://img.xiami.net/images/pic/04/04/1011831838m_2.jpg
+songs 我们的故事从现在开始%^&*Just For You%^&*什么是全世界最快乐%^&*这样的心情%^&*何苦%^&*年轻的心%^&*I&#039;ll Be Here For You%^&*一切都是我的错%^&*I Love You%^&*我的新娘%^&*
+songURLs http://www.xiami.com/song/1770129168%^&*http://www.xiami.com/song/1770129169%^&*http://www.xiami.com/song/1770129170%^&*http://www.xiami.com/song/1770129171%^&*http://www.xiami.com/song/1770129172%^&*http://www.xiami.com/song/1770129173%^&*http://www.xiami.com/song/1770129174%^&*http://www.xiami.com/song/1770129175%^&*http://www.xiami.com/song/1770129176%^&*http://www.xiami.com/song/1770129177%^&*

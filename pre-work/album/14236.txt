@@ -1,0 +1,7 @@
+number 14236
+name 祈祷
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14236.jpg
+songs 祈祷%^&*爱的真谛%^&*老黑爵%^&*我的家庭%^&*科罗拉多之夜%^&*念故乡%^&*啊 牧场上绿油油%^&*静夜星空%^&*小鸟%^&*梦%^&*伏尔塔瓦河%^&*花%^&*往事难忘%^&*
+songURLs http://www.xiami.com/song/175772%^&*http://www.xiami.com/song/175773%^&*http://www.xiami.com/song/175774%^&*http://www.xiami.com/song/175775%^&*http://www.xiami.com/song/175776%^&*http://www.xiami.com/song/175777%^&*http://www.xiami.com/song/175778%^&*http://www.xiami.com/song/175779%^&*http://www.xiami.com/song/175780%^&*http://www.xiami.com/song/175781%^&*http://www.xiami.com/song/175782%^&*http://www.xiami.com/song/175783%^&*http://www.xiami.com/song/175784%^&*

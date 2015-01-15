@@ -1,0 +1,6 @@
+number 1772456343
+name 不再想拥有它
+artist 曹西平%^&*
+artistURL http://www.xiami.com/artist/61%^&*
+album 爱情陷阱
+albumURL http://www.xiami.com/album/88975045

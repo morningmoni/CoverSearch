@@ -1,0 +1,6 @@
+number 4457
+name 荼蘼时代
+artist 飞儿乐团%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2%^&*
+album 12金钗众生花
+albumURL http://www.xiami.com/album/369

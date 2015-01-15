@@ -1,0 +1,6 @@
+number 4504
+name 明日有明天
+artist 陈辉阳%^&*
+artistURL http://www.xiami.com/artist/89%^&*
+album 听入非非
+albumURL http://www.xiami.com/album/372

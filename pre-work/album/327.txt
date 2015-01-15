@@ -1,0 +1,7 @@
+number 327
+name Transition
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/3271345450992.jpg
+songs I Never Told You%^&*就是要%^&*夏夜神话%^&*意想不到%^&*Make It Last%^&*看着我%^&*Sorry...Sorry%^&*求饶%^&*忘了她%^&*电话%^&*
+songURLs http://www.xiami.com/song/4002%^&*http://www.xiami.com/song/4003%^&*http://www.xiami.com/song/4004%^&*http://www.xiami.com/song/4005%^&*http://www.xiami.com/song/4006%^&*http://www.xiami.com/song/4007%^&*http://www.xiami.com/song/4008%^&*http://www.xiami.com/song/4009%^&*http://www.xiami.com/song/4010%^&*http://www.xiami.com/song/4011%^&*

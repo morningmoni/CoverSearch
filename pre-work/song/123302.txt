@@ -1,0 +1,8 @@
+number 123302
+name 对面的男孩看过来
+artist 李心洁%^&*锦绣二重唱%^&*神秘女孩%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%8E%E5%BF%83%E6%B4%81%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%94%A6%E7%BB%A3%E4%BA%8C%E9%87%8D%E5%94%B1%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%A5%9E%E7%A7%98%E5%A5%B3%E5%AD%A9%^&*
+album 成全我
+albumURL http://www.xiami.com/album/9989

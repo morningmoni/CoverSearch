@@ -1,0 +1,6 @@
+number 38756
+name 门里门外
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 门里门外
+albumURL http://www.xiami.com/album/3140

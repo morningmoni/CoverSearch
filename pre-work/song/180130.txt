@@ -1,0 +1,6 @@
+number 180130
+name 爱你太深
+artist 风火海%^&*
+artistURL http://www.xiami.com/artist/2750%^&*
+album 风火海 同名专辑
+albumURL http://www.xiami.com/album/14601

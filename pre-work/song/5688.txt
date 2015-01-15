@@ -1,0 +1,6 @@
+number 5688
+name 花儿红
+artist 陈爽%^&*
+artistURL http://www.xiami.com/artist/120%^&*
+album 巴山恋曲
+albumURL http://www.xiami.com/album/473

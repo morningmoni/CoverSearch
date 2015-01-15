@@ -1,0 +1,7 @@
+number 370
+name Philharmonia
+artist 陈辉阳
+introduction 
+picture http://img.xiami.net/images/album/img89/89/370.jpg
+songs 飞翔!高达%^&*长唾%^&*豪迈的马沙%^&*进入战场的恐怖%^&*绝地而立的高达%^&*永远的阿宝%^&*瞬间的休息%^&*信赖的结伴%^&*风中一人%^&*开始%^&*相逢%^&*圆舞曲%^&*去吧!Zambot 3 !%^&*来吧!Daitarn!%^&*相逢 Full Orchestra Version%^&*Full Orchestra Version%^&*
+songURLs http://www.xiami.com/song/4470%^&*http://www.xiami.com/song/4471%^&*http://www.xiami.com/song/4472%^&*http://www.xiami.com/song/4473%^&*http://www.xiami.com/song/4474%^&*http://www.xiami.com/song/4475%^&*http://www.xiami.com/song/4476%^&*http://www.xiami.com/song/4477%^&*http://www.xiami.com/song/4478%^&*http://www.xiami.com/song/4479%^&*http://www.xiami.com/song/4480%^&*http://www.xiami.com/song/4481%^&*http://www.xiami.com/song/4482%^&*http://www.xiami.com/song/4483%^&*http://www.xiami.com/song/4484%^&*http://www.xiami.com/song/4485%^&*

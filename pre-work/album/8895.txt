@@ -1,0 +1,7 @@
+number 8895
+name 牵手
+artist 何洁
+introduction 
+picture http://img.xiami.net/images/album/img0/1600/8895.jpg
+songs 牵手%^&*谁与争锋%^&*Sunny Day%^&*颜色%^&*也许明天%^&*Every Time%^&*只爱高跟鞋%^&*美丽笨女人%^&*故乡的云%^&*寂寞保龄球%^&*跟我一起疯%^&*我要飞%^&*龙船调+康定情歌+天仙配%^&*深情相拥%^&*好心情%^&*High High High%^&*Julia+青苹果乐园%^&*遗失的美好%^&*彩云追月(五强合唱)%^&*大长今(超级女声五强合唱)%^&*
+songURLs http://www.xiami.com/song/2080965%^&*http://www.xiami.com/song/2080966%^&*http://www.xiami.com/song/2080967%^&*http://www.xiami.com/song/2080968%^&*http://www.xiami.com/song/2080969%^&*http://www.xiami.com/song/2080970%^&*http://www.xiami.com/song/2080971%^&*http://www.xiami.com/song/2080972%^&*http://www.xiami.com/song/2080973%^&*http://www.xiami.com/song/2080974%^&*http://www.xiami.com/song/2080975%^&*http://www.xiami.com/song/2080976%^&*http://www.xiami.com/song/2080977%^&*http://www.xiami.com/song/2080978%^&*http://www.xiami.com/song/2080979%^&*http://www.xiami.com/song/2080980%^&*http://www.xiami.com/song/2080981%^&*http://www.xiami.com/song/2080982%^&*http://www.xiami.com/song/2080983%^&*http://www.xiami.com/song/2080984%^&*

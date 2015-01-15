@@ -1,0 +1,6 @@
+number 12998
+name 我是猫
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/12998.jpg
+songs 青春的自己%^&*寻人启事(失踪少女)%^&*亲爱的爹地%^&*猫的恋曲%^&*请相信我%^&*蓝色大衣的男孩%^&*钥匙儿%^&*星星的梦%^&*三月的秘密%^&*小时候－痴痴的心%^&*我累了%^&*我在恋爱%^&*
+songURLs http://www.xiami.com/song/374177%^&*http://www.xiami.com/song/374178%^&*http://www.xiami.com/song/374179%^&*http://www.xiami.com/song/374180%^&*http://www.xiami.com/song/374181%^&*http://www.xiami.com/song/374182%^&*http://www.xiami.com/song/374183%^&*http://www.xiami.com/song/374184%^&*http://www.xiami.com/song/374185%^&*http://www.xiami.com/song/374186%^&*http://www.xiami.com/song/374187%^&*http://www.xiami.com/song/374188%^&*

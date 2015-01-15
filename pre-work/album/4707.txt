@@ -1,0 +1,7 @@
+number 4707
+name 不让你看见我哭泣
+artist 文章
+introduction 
+picture http://img.xiami.net/images/album/img40/940/47071337908300.jpg
+songs 不让你看见我哭泣%^&*飘雪%^&*泪をふいて(擦干眼泪吧)%^&*曾经为爱%^&*掌声%^&*回首%^&*不让心碎只好喝醉%^&*不是我不能够%^&*长路%^&*サチコ(幸子)%^&*
+songURLs http://www.xiami.com/song/57011%^&*http://www.xiami.com/song/57012%^&*http://www.xiami.com/song/57013%^&*http://www.xiami.com/song/57014%^&*http://www.xiami.com/song/57015%^&*http://www.xiami.com/song/57016%^&*http://www.xiami.com/song/57017%^&*http://www.xiami.com/song/57018%^&*http://www.xiami.com/song/57019%^&*http://www.xiami.com/song/57020%^&*

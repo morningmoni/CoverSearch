@@ -1,0 +1,7 @@
+number 14238
+name 西北雨
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14238.gif
+songs 西北雨直直落%^&*青春舞曲%^&*赶摆路上%^&*燕子%^&*赏月舞%^&*在银色的月光下%^&*白月亮%^&*葫芦笙吹响罗%^&*采茶歌%^&*小龙舟%^&*春游%^&*半个月亮爬上来%^&*
+songURLs http://www.xiami.com/song/175797%^&*http://www.xiami.com/song/175798%^&*http://www.xiami.com/song/175799%^&*http://www.xiami.com/song/175800%^&*http://www.xiami.com/song/175801%^&*http://www.xiami.com/song/175802%^&*http://www.xiami.com/song/175803%^&*http://www.xiami.com/song/175804%^&*http://www.xiami.com/song/175805%^&*http://www.xiami.com/song/175806%^&*http://www.xiami.com/song/175807%^&*http://www.xiami.com/song/175808%^&*

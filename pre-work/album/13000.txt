@@ -1,0 +1,7 @@
+number 13000
+name 有我有你
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/130001316568935.jpg
+songs 有我有你%^&*星期六的下午%^&*我懂%^&*爸爸不要说%^&*梦话%^&*太阳眼镜%^&*初恋%^&*我的眼泪是真的%^&*新娘%^&*有我有你(Instrumental)%^&*年轻的心%^&*朋友%^&*
+songURLs http://www.xiami.com/song/159923%^&*http://www.xiami.com/song/159924%^&*http://www.xiami.com/song/159925%^&*http://www.xiami.com/song/159926%^&*http://www.xiami.com/song/159927%^&*http://www.xiami.com/song/159928%^&*http://www.xiami.com/song/159929%^&*http://www.xiami.com/song/159930%^&*http://www.xiami.com/song/159931%^&*http://www.xiami.com/song/159932%^&*http://www.xiami.com/song/159933%^&*http://www.xiami.com/song/159934%^&*

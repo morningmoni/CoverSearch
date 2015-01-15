@@ -1,0 +1,7 @@
+number 105
+name 中国足球战歌
+artist 卞留念
+introduction 我们万众一心“冲！冲！冲！”CD+VCD=22首脍炙经典的足球战歌！
+picture http://img.xiami.net/images/album/img0/1051282280384.jpg
+songs 中国足球战歌%^&*中国足球战歌%^&*中国足球战歌(伴奏音乐)%^&*欢乐现在时%^&*远方的客人请你留下来%^&*不要说分手%^&*今天真好%^&*友谊地久天长%^&*我的梦%^&*世界体操锦标赛入场进行曲%^&*运动员队列音乐%^&*青春新世纪%^&*穿越时光界碑%^&*
+songURLs http://www.xiami.com/song/1229%^&*http://www.xiami.com/song/1230%^&*http://www.xiami.com/song/1231%^&*http://www.xiami.com/song/1232%^&*http://www.xiami.com/song/1769793973%^&*http://www.xiami.com/song/1233%^&*http://www.xiami.com/song/1234%^&*http://www.xiami.com/song/1235%^&*http://www.xiami.com/song/1236%^&*http://www.xiami.com/song/1237%^&*http://www.xiami.com/song/1238%^&*http://www.xiami.com/song/1239%^&*http://www.xiami.com/song/1240%^&*

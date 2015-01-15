@@ -1,0 +1,6 @@
+number 191844
+name 新曲与精选
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1918441419575567.jpg
+songs 伤心一吻%^&*爱的独白%^&*我的爱神%^&*无心快语%^&*追忆%^&*不应再犹豫%^&*长夜%^&*是谁在我耳边唱%^&*海底针%^&*爱情傀儡%^&*一生爱您一个%^&*寒傲似冰%^&*童年%^&*歌声背后%^&*再见也许不再会%^&*
+songURLs http://www.xiami.com/song/2314556%^&*http://www.xiami.com/song/2314557%^&*http://www.xiami.com/song/2314558%^&*http://www.xiami.com/song/2314559%^&*http://www.xiami.com/song/2314560%^&*http://www.xiami.com/song/2314561%^&*http://www.xiami.com/song/2314562%^&*http://www.xiami.com/song/2314563%^&*http://www.xiami.com/song/2314564%^&*http://www.xiami.com/song/2314565%^&*http://www.xiami.com/song/2314566%^&*http://www.xiami.com/song/2314567%^&*http://www.xiami.com/song/2314568%^&*http://www.xiami.com/song/2314569%^&*http://www.xiami.com/song/2314570%^&*

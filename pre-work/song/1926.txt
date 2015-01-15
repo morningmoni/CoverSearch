@@ -1,0 +1,6 @@
+number 1926
+name 渴望
+artist 蔡济文%^&*
+artistURL http://www.xiami.com/artist/44%^&*
+album Je T&#039;aime
+albumURL http://www.xiami.com/album/155

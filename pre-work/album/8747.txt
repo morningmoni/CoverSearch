@@ -1,0 +1,6 @@
+number 8747
+name 卡萨布兰卡
+artist 关燕仪
+introduction picture http://img.xiami.net/images/album/img70/1570/8747.jpg
+songs 月光%^&*风信子%^&*飘荡%^&*别说我的眼泪你无所谓%^&*因为爱你%^&*卡萨布兰卡%^&*追梦人%^&*爱我的人和我爱的人%^&*遇见%^&*铁窗%^&*稻草人%^&*似水流年%^&*
+songURLs http://www.xiami.com/song/108723%^&*http://www.xiami.com/song/108724%^&*http://www.xiami.com/song/108725%^&*http://www.xiami.com/song/108726%^&*http://www.xiami.com/song/108727%^&*http://www.xiami.com/song/108728%^&*http://www.xiami.com/song/108729%^&*http://www.xiami.com/song/108730%^&*http://www.xiami.com/song/108731%^&*http://www.xiami.com/song/108732%^&*http://www.xiami.com/song/108733%^&*http://www.xiami.com/song/108734%^&*

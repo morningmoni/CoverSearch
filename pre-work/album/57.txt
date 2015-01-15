@@ -1,0 +1,7 @@
+number 57
+name 我爱阿亮阿亮爱我
+artist 卜学亮
+introduction 
+picture http://img.xiami.net/images/album/img21/21/57.jpg
+songs 宝贝不要哭%^&*只要我心里有你%^&*背包%^&*给老婆的歌%^&*起床歌%^&*知己%^&*因为我爱你%^&*I&#039;ll Be Back%^&*危险的恋人%^&*Party To9T%^&*
+songURLs http://www.xiami.com/song/681%^&*http://www.xiami.com/song/682%^&*http://www.xiami.com/song/683%^&*http://www.xiami.com/song/684%^&*http://www.xiami.com/song/685%^&*http://www.xiami.com/song/686%^&*http://www.xiami.com/song/687%^&*http://www.xiami.com/song/688%^&*http://www.xiami.com/song/689%^&*http://www.xiami.com/song/690%^&*

@@ -1,0 +1,7 @@
+number 12589
+name 讨好
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125891366018695.jpg
+songs 讨好%^&*看透%^&*爱的心态%^&*My Own True Love%^&*一百个谎言%^&*蝶%^&*爱是唯一的理由%^&*厮守%^&*你是我心口里的风%^&*公主彻夜未眠%^&*
+songURLs http://www.xiami.com/song/154736%^&*http://www.xiami.com/song/154737%^&*http://www.xiami.com/song/154738%^&*http://www.xiami.com/song/154739%^&*http://www.xiami.com/song/154740%^&*http://www.xiami.com/song/154741%^&*http://www.xiami.com/song/154742%^&*http://www.xiami.com/song/154743%^&*http://www.xiami.com/song/154744%^&*http://www.xiami.com/song/154745%^&*

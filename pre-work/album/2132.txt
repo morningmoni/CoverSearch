@@ -1,0 +1,7 @@
+number 2132
+name 求婚
+artist 黎骏
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10027235551m_2.jpg
+songs 对不起!我自私%^&*现代的爱情都背叛了永远%^&*最怕听见自己在哭泣%^&*爱情不是游戏%^&*我在等你说爱我%^&*有了你%^&*又是一天%^&*我是一个梦%^&*爱你一生不变%^&*
+songURLs http://www.xiami.com/song/14215%^&*http://www.xiami.com/song/14216%^&*http://www.xiami.com/song/14217%^&*http://www.xiami.com/song/14218%^&*http://www.xiami.com/song/14219%^&*http://www.xiami.com/song/14220%^&*http://www.xiami.com/song/14221%^&*http://www.xiami.com/song/14222%^&*http://www.xiami.com/song/14223%^&*

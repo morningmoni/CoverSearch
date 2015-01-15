@@ -1,0 +1,6 @@
+number 13563
+name 霓虹玩偶
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/135631415775523.jpg
+songs 霓虹玩偶%^&*玻璃心%^&*我知道%^&*Touch Me%^&*真诚%^&*冷感%^&*不想说多句%^&*横巷%^&*寂寞女子%^&*凌晨点唱%^&*
+songURLs http://www.xiami.com/song/166963%^&*http://www.xiami.com/song/166964%^&*http://www.xiami.com/song/166965%^&*http://www.xiami.com/song/166966%^&*http://www.xiami.com/song/166967%^&*http://www.xiami.com/song/166968%^&*http://www.xiami.com/song/166969%^&*http://www.xiami.com/song/166970%^&*http://www.xiami.com/song/166971%^&*http://www.xiami.com/song/166972%^&*

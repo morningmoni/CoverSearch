@@ -1,0 +1,6 @@
+number 2642
+name 情淡情浓
+artist 曹永廉%^&*
+artistURL http://www.xiami.com/artist/62%^&*
+album 情深款款
+albumURL http://www.xiami.com/album/217

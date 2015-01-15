@@ -1,0 +1,6 @@
+number 10663
+name 柳影虹
+artist 柳影虹
+introduction picture http://img.xiami.net/images/album/img50/1950/106631397640631.jpg
+songs 三个烟圈并联%^&*戏中人%^&*说谎的浪子%^&*怎会淡忘你%^&*火之探戈%^&*几多愁%^&*心的深秋%^&*街灯下的泪珠%^&*仅有的一段梦%^&*恋爱是否盲目%^&*爱情大骗子%^&*
+songURLs http://www.xiami.com/song/131450%^&*http://www.xiami.com/song/131451%^&*http://www.xiami.com/song/131452%^&*http://www.xiami.com/song/131453%^&*http://www.xiami.com/song/131454%^&*http://www.xiami.com/song/131455%^&*http://www.xiami.com/song/131456%^&*http://www.xiami.com/song/131457%^&*http://www.xiami.com/song/131458%^&*http://www.xiami.com/song/131459%^&*http://www.xiami.com/song/131460%^&*

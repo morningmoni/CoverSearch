@@ -1,0 +1,6 @@
+number 3528525
+name 正宗
+artist 徐桐%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BE%90%E6%A1%90%^&*
+album 走失的主人
+albumURL http://www.xiami.com/album/317714

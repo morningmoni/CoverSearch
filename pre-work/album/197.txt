@@ -1,0 +1,7 @@
+number 197
+name 旧时光
+artist 苍茫
+introduction 
+picture http://img.xiami.net/images/album/img53/53/197.jpg
+songs 旧时光%^&*项链%^&*唯一%^&*深蓝星空%^&*刀客%^&*邻家伙伴%^&*那一次%^&*等待%^&*Over There%^&*爱的计算题%^&*
+songURLs http://www.xiami.com/song/2430%^&*http://www.xiami.com/song/2431%^&*http://www.xiami.com/song/2432%^&*http://www.xiami.com/song/2433%^&*http://www.xiami.com/song/2434%^&*http://www.xiami.com/song/2435%^&*http://www.xiami.com/song/2436%^&*http://www.xiami.com/song/2437%^&*http://www.xiami.com/song/2438%^&*http://www.xiami.com/song/2439%^&*

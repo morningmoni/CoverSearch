@@ -1,0 +1,6 @@
+number 9333
+name 思君怨
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 思君怨%^&*卖花女%^&*闺怨%^&*樱花落%^&*秋千姑娘%^&*春泪%^&*细雨忆当年%^&*错爱负心人%^&*禅院钟声%^&*等多十零年%^&*鸳鸯江月夜%^&*失去的梦%^&*春花开放%^&*破碎了的心%^&*
+songURLs http://www.xiami.com/song/115749%^&*http://www.xiami.com/song/115750%^&*http://www.xiami.com/song/115751%^&*http://www.xiami.com/song/115752%^&*http://www.xiami.com/song/115753%^&*http://www.xiami.com/song/115754%^&*http://www.xiami.com/song/115755%^&*http://www.xiami.com/song/115756%^&*http://www.xiami.com/song/115757%^&*http://www.xiami.com/song/115758%^&*http://www.xiami.com/song/115759%^&*http://www.xiami.com/song/115760%^&*http://www.xiami.com/song/115761%^&*http://www.xiami.com/song/115762%^&*

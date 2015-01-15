@@ -1,0 +1,6 @@
+number 3556730
+name 汪汪快乐颂
+artist 林慧玲%^&*
+artistURL http://www.xiami.com/artist/1860%^&*
+album 三狗组
+albumURL http://www.xiami.com/album/319956

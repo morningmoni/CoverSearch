@@ -1,0 +1,7 @@
+number 171095
+name 王八蛋
+artist 陶喆
+introduction 
+picture http://img.xiami.net/images/album/img70/870/171095.jpg
+songs 王八蛋 (Full Remix)%^&*王八蛋 (No Xmas Edit)%^&*王八蛋 (Radio Edit)%^&*
+songURLs http://www.xiami.com/song/2113524%^&*http://www.xiami.com/song/2113525%^&*http://www.xiami.com/song/2113526%^&*

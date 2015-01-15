@@ -1,0 +1,6 @@
+number 2086276
+name 向往
+artist 泳儿%^&*
+artistURL http://www.xiami.com/artist/2400%^&*
+album 多想认识你
+albumURL http://www.xiami.com/album/168966

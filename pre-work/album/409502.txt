@@ -1,0 +1,7 @@
+number 409502
+name 曹之在我
+artist 曹格
+introduction 
+picture http://img.xiami.net/images/album/img58/58/4095021388933127.jpg
+songs 爷爷%^&*丑角%^&*喔爱%^&*惊天动地%^&*Why Why%^&*悲歌王%^&*大女人%^&*香槟时光%^&*我也爱你%^&*片尾曲%^&*
+songURLs http://www.xiami.com/song/1769851306%^&*http://www.xiami.com/song/1769851307%^&*http://www.xiami.com/song/1769851308%^&*http://www.xiami.com/song/1769851309%^&*http://www.xiami.com/song/1769851310%^&*http://www.xiami.com/song/1769851311%^&*http://www.xiami.com/song/1769851312%^&*http://www.xiami.com/song/1769851313%^&*http://www.xiami.com/song/1769851314%^&*http://www.xiami.com/song/1769851315%^&*

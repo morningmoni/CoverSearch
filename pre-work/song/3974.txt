@@ -1,0 +1,8 @@
+number 3974
+name 香港地
+artist 陈冠希%^&*陈奂仁%^&*MC仁%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%86%A0%E5%B8%8C%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%A5%82%E4%BB%81%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=MC%E4%BB%81%^&*
+album Please Steal This Album
+albumURL http://www.xiami.com/album/325

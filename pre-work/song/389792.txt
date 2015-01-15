@@ -1,0 +1,6 @@
+number 389792
+name 想我的时候就呼唤我
+artist 陈逸达%^&*
+artistURL http://www.xiami.com/artist/136%^&*
+album 不够深情
+albumURL http://www.xiami.com/album/32696

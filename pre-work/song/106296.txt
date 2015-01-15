@@ -1,0 +1,6 @@
+number 106296
+name 温柔唱着歌
+artist 付娜%^&*
+artistURL http://www.xiami.com/artist/1540%^&*
+album 筝鸣
+albumURL http://www.xiami.com/album/8540

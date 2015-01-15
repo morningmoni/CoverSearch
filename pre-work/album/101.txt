@@ -1,0 +1,7 @@
+number 101
+name 爱好痛,心不苦
+artist 毕国勇
+introduction 
+picture http://img.xiami.net/images/album/img34/34/1011315891354.jpg
+songs 爱好痛,心不苦%^&*没有退路%^&*守护你%^&*我爱的是你%^&*寂寞先生%^&*牢%^&*三年%^&*燃烧我的天堂%^&*挂念%^&*我一个人走%^&*
+songURLs http://www.xiami.com/song/1174%^&*http://www.xiami.com/song/1175%^&*http://www.xiami.com/song/1176%^&*http://www.xiami.com/song/1177%^&*http://www.xiami.com/song/1178%^&*http://www.xiami.com/song/1179%^&*http://www.xiami.com/song/1180%^&*http://www.xiami.com/song/1181%^&*http://www.xiami.com/song/1182%^&*http://www.xiami.com/song/1183%^&*

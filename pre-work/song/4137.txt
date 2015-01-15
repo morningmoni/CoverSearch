@@ -1,0 +1,6 @@
+number 4137
+name 为你疯狂 选粹
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 百老汇之夜
+albumURL http://www.xiami.com/album/340

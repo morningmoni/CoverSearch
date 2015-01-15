@@ -1,0 +1,6 @@
+number 3590
+name 与你相逢
+artist 莫少聪
+introduction picture http://img.xiami.net/images/album/img50/750/3590.jpg
+songs 与你相逢%^&*情缘如梦%^&*从分手到回头%^&*我要就要更多%^&*明天我会爱谁%^&*只有你%^&*照镜子%^&*等过问过是不是就算爱过%^&*夜夜陪你入梦%^&*今夜我不想听你说再见%^&*
+songURLs http://www.xiami.com/song/44066%^&*http://www.xiami.com/song/44067%^&*http://www.xiami.com/song/44068%^&*http://www.xiami.com/song/44069%^&*http://www.xiami.com/song/44070%^&*http://www.xiami.com/song/44071%^&*http://www.xiami.com/song/44072%^&*http://www.xiami.com/song/44073%^&*http://www.xiami.com/song/44074%^&*http://www.xiami.com/song/44075%^&*

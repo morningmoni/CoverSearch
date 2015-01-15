@@ -1,0 +1,7 @@
+number 439
+name 为你付出
+artist 陈山河
+introduction 
+picture http://img.xiami.net/images/album/img16/116/4391408684397.jpg
+songs 为你付出那么多%^&*逃离现场%^&*我的歌中有你的故事%^&*You Are The Best Thing In My Life%^&*找个地放我%^&*一柱阳光升起的地方%^&*相信我%^&*如何说%^&*思念的盒子%^&*难得%^&*
+songURLs http://www.xiami.com/song/5264%^&*http://www.xiami.com/song/5265%^&*http://www.xiami.com/song/5266%^&*http://www.xiami.com/song/5267%^&*http://www.xiami.com/song/5268%^&*http://www.xiami.com/song/5269%^&*http://www.xiami.com/song/5270%^&*http://www.xiami.com/song/5271%^&*http://www.xiami.com/song/5272%^&*http://www.xiami.com/song/5273%^&*

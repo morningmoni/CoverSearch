@@ -1,0 +1,7 @@
+number 65
+name 至冧情歌
+artist 阿牛
+introduction 
+picture http://img.xiami.net/images/album/img22/22/651383033296.jpg
+songs 老夫子情歌%^&*Oh Honey Honey%^&*对面的女孩看过来%^&*黑超女郎%^&*至冧情歌%^&*
+songURLs http://www.xiami.com/song/777%^&*http://www.xiami.com/song/778%^&*http://www.xiami.com/song/779%^&*http://www.xiami.com/song/780%^&*http://www.xiami.com/song/781%^&*

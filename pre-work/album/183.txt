@@ -1,0 +1,7 @@
+number 183
+name Come Back To Me
+artist 蔡兴麟
+introduction 
+picture http://img.xiami.net/images/album/img0/1831284022196.jpeg
+songs Come Back To Me%^&*情感怎分对错%^&*你的另一半%^&*再见吧!Barcelona%^&*真爱%^&*现代爱情启示录%^&*永远浪漫%^&*我的心仍然被她占领%^&*讲一句%^&*如今%^&*
+songURLs http://www.xiami.com/song/2240%^&*http://www.xiami.com/song/2241%^&*http://www.xiami.com/song/2242%^&*http://www.xiami.com/song/2243%^&*http://www.xiami.com/song/2244%^&*http://www.xiami.com/song/2245%^&*http://www.xiami.com/song/2246%^&*http://www.xiami.com/song/2247%^&*http://www.xiami.com/song/2248%^&*http://www.xiami.com/song/2249%^&*

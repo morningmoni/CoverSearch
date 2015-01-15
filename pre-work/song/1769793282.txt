@@ -1,0 +1,6 @@
+number 1769793282
+name 小放牛
+artist 姚莉%^&*
+artistURL http://www.xiami.com/artist/2370%^&*
+album 玫瑰玫瑰我爱你
+albumURL http://www.xiami.com/album/404525

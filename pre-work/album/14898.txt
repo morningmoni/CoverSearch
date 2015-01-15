@@ -1,0 +1,7 @@
+number 14898
+name 那个季节里的歌3-萍水相逢
+artist 刘罡
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10124921823m_2.jpg
+songs 你的眼神%^&*爱情故事%^&*不想让你知道%^&*萍水相逢%^&*花心%^&*你怎么舍得我难过%^&*谁的眼泪在飞%^&*好想好想%^&*你最珍贵%^&*守住永远%^&*一言难尽%^&*爱你后才知道如何爱你%^&*弯弯的月亮%^&*
+songURLs http://www.xiami.com/song/183281%^&*http://www.xiami.com/song/183282%^&*http://www.xiami.com/song/183283%^&*http://www.xiami.com/song/183284%^&*http://www.xiami.com/song/183285%^&*http://www.xiami.com/song/183286%^&*http://www.xiami.com/song/183287%^&*http://www.xiami.com/song/183288%^&*http://www.xiami.com/song/183289%^&*http://www.xiami.com/song/183290%^&*http://www.xiami.com/song/183291%^&*http://www.xiami.com/song/183292%^&*http://www.xiami.com/song/183293%^&*

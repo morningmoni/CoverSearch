@@ -1,0 +1,9 @@
+number 385527
+name 三月小雨
+artist 黄品源%^&*任贤齐%^&*小虫%^&*陈升%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E5%93%81%E6%BA%90%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%BB%BB%E8%B4%A4%E9%BD%90%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%B0%8F%E8%99%AB%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%8D%87%^&*
+album 简单情歌 小薇
+albumURL http://www.xiami.com/album/1719

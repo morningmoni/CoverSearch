@@ -1,0 +1,6 @@
+number 1769231655
+name 钱歌
+artist 左小祖咒%^&*
+artistURL http://www.xiami.com/artist/1290%^&*
+album 大事
+albumURL http://www.xiami.com/album/356675

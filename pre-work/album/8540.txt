@@ -1,0 +1,7 @@
+number 8540
+name 筝鸣
+artist 付娜
+introduction 
+picture http://img.xiami.net/images/album/img40/1540/8540.jpg
+songs 候鸟%^&*小薇%^&*情人%^&*星语心愿%^&*起程的好日子%^&*遇见%^&*2002年的第一场雪%^&*温柔唱着歌%^&*在你的眼里%^&*内心激情%^&*如果我告诉你%^&*女人花%^&*在雨中漫步%^&*暗香%^&*蒙娜丽沙%^&*
+songURLs http://www.xiami.com/song/106289%^&*http://www.xiami.com/song/106290%^&*http://www.xiami.com/song/106291%^&*http://www.xiami.com/song/106292%^&*http://www.xiami.com/song/106293%^&*http://www.xiami.com/song/106294%^&*http://www.xiami.com/song/106295%^&*http://www.xiami.com/song/106296%^&*http://www.xiami.com/song/106297%^&*http://www.xiami.com/song/106298%^&*http://www.xiami.com/song/106299%^&*http://www.xiami.com/song/106300%^&*http://www.xiami.com/song/106301%^&*http://www.xiami.com/song/106302%^&*http://www.xiami.com/song/106303%^&*

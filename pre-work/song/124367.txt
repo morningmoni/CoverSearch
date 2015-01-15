@@ -1,0 +1,6 @@
+number 124367
+name 爱的傻瓜
+artist 梁雁翎%^&*
+artistURL http://www.xiami.com/artist/1840%^&*
+album 藏心
+albumURL http://www.xiami.com/album/10083

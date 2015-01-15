@@ -1,0 +1,8 @@
+number 3977
+name 唔知为乜
+artist 陈冠希%^&*Eric Kwok%^&*Ip Pui Man%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%86%A0%E5%B8%8C%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=Eric+Kwok%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=Ip+Pui+Man%^&*
+album Please Steal This Album
+albumURL http://www.xiami.com/album/325

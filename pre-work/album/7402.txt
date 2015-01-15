@@ -1,0 +1,7 @@
+number 7402
+name 懂得
+artist 陈洁仪
+introduction 《懂得》是新加坡女歌手陈洁仪的第九张国语大碟。台湾版、星马版收录11首新歌，于2003年10月30日发行。香港版《陈洁仪新曲加精选》则收录9首新歌及8首旧歌，于2004年2月1日发行。曲风以电子沙发音乐为主。第一主打为kit词曲一手包办的《懂得》，第二主打为《珍重》，第三主打为英语音乐剧《紫禁城：慈禧太后的肖像》的主题曲《Why Dream Of Love》。
+picture http://img.xiami.net/images/album/img90/1390/74021389688717.jpg
+songs 有人爱你%^&*懂得%^&*就是这样%^&*The Moon Song%^&*一星期%^&*珍重%^&*Feeling%^&*One Day%^&*离开你我快乐吗%^&*错过%^&*Why Dream Of Love%^&*
+songURLs http://www.xiami.com/song/91379%^&*http://www.xiami.com/song/91380%^&*http://www.xiami.com/song/91381%^&*http://www.xiami.com/song/91382%^&*http://www.xiami.com/song/91383%^&*http://www.xiami.com/song/91384%^&*http://www.xiami.com/song/91385%^&*http://www.xiami.com/song/91386%^&*http://www.xiami.com/song/91387%^&*http://www.xiami.com/song/91388%^&*http://www.xiami.com/song/91389%^&*

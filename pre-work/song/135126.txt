@@ -1,0 +1,6 @@
+number 135126
+name 胭脂扣电影《胭脂扣》主题曲
+artist 梅艳芳%^&*
+artistURL http://www.xiami.com/artist/2000%^&*
+album 皇者之风
+albumURL http://www.xiami.com/album/10937

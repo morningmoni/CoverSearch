@@ -1,0 +1,6 @@
+number 3138
+name 绿树花开情也来
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3138.jpg
+songs 你!为了什么%^&*绿树花开情也来%^&*夕阳下%^&*我的心声%^&*不要告别%^&*Feelings%^&*云深情也深%^&*纯洁的爱%^&*曙光%^&*心语%^&*晚霞满渔船%^&*
+songURLs http://www.xiami.com/song/38734%^&*http://www.xiami.com/song/38735%^&*http://www.xiami.com/song/38736%^&*http://www.xiami.com/song/38737%^&*http://www.xiami.com/song/38738%^&*http://www.xiami.com/song/38739%^&*http://www.xiami.com/song/38740%^&*http://www.xiami.com/song/38741%^&*http://www.xiami.com/song/38742%^&*http://www.xiami.com/song/38743%^&*http://www.xiami.com/song/38744%^&*

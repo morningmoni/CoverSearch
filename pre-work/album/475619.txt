@@ -1,0 +1,7 @@
+number 475619
+name 快乐悲歌
+artist 曹松章
+introduction 
+picture http://img.xiami.net/images/album/img60/60/4756191350287166.jpg
+songs 谁能说简单的爱情%^&*像这样一个夜晚%^&*你是我最不愿意弹唱的悲歌%^&*唱不老的歌%^&*找个借口醉一次%^&*被火纹身的小孩%^&*我能给你什么%^&*回到旧时地%^&*窗%^&*抓一把阳光在手里%^&*
+songURLs http://www.xiami.com/song/1770597696%^&*http://www.xiami.com/song/1770597698%^&*http://www.xiami.com/song/1770597700%^&*http://www.xiami.com/song/1770597702%^&*http://www.xiami.com/song/1770597704%^&*http://www.xiami.com/song/1770597705%^&*http://www.xiami.com/song/1770597697%^&*http://www.xiami.com/song/1770597699%^&*http://www.xiami.com/song/1770597701%^&*http://www.xiami.com/song/1770597703%^&*

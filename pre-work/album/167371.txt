@@ -1,0 +1,7 @@
+number 167371
+name 孤恋花电影原声带
+artist 陈小霞
+introduction 
+picture http://img.xiami.net/images/album/img30/1430/1673711326876009.jpg
+songs 浮沉%^&*暗夜%^&*暗夜%^&*蔷薇处处开%^&*永远的微笑%^&*夜来香%^&*蔷薇蔷薇处处开%^&*夜半路灯%^&*流浪的吉普赛姑娘%^&*青色山脉%^&*夜半路灯%^&*依赖%^&*依赖%^&*浮沉%^&*
+songURLs http://www.xiami.com/song/2050176%^&*http://www.xiami.com/song/2050177%^&*http://www.xiami.com/song/2050178%^&*http://www.xiami.com/song/2050179%^&*http://www.xiami.com/song/2050180%^&*http://www.xiami.com/song/2050181%^&*http://www.xiami.com/song/2050182%^&*http://www.xiami.com/song/2050183%^&*http://www.xiami.com/song/2050184%^&*http://www.xiami.com/song/2050185%^&*http://www.xiami.com/song/2050186%^&*http://www.xiami.com/song/2050188%^&*http://www.xiami.com/song/2050189%^&*http://www.xiami.com/song/2050190%^&*

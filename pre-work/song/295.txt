@@ -1,0 +1,6 @@
+number 295
+name 可怜恋花再会吧
+artist 阿吉仔%^&*
+artistURL http://www.xiami.com/artist/8%^&*
+album 黄昏思情
+albumURL http://www.xiami.com/album/22

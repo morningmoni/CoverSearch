@@ -1,0 +1,6 @@
+number 1211
+name 今儿高兴
+artist 谢晓东%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B0%A2%E6%99%93%E4%B8%9C%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

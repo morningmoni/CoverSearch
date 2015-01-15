@@ -1,0 +1,6 @@
+number 4405
+name 现在才懂
+artist 庹宗华
+introduction picture http://img.xiami.net/images/album/img80/880/4405.jpg
+songs 现在才懂%^&*这一生我只牵你的手%^&*夜太浪漫%^&*和你在一起%^&*我要你没有愁%^&*寻找一颗星%^&*找一个懂爱的人%^&*爱到不了解%^&*收藏起伤悲%^&*你是否害怕独处%^&*
+songURLs http://www.xiami.com/song/53644%^&*http://www.xiami.com/song/53645%^&*http://www.xiami.com/song/53646%^&*http://www.xiami.com/song/53647%^&*http://www.xiami.com/song/53648%^&*http://www.xiami.com/song/53649%^&*http://www.xiami.com/song/53650%^&*http://www.xiami.com/song/53651%^&*http://www.xiami.com/song/53652%^&*http://www.xiami.com/song/53653%^&*

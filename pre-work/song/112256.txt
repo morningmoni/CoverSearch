@@ -1,0 +1,7 @@
+number 112256
+name 我还能做什么
+artist 黄绮珊%^&*小柯%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E7%BB%AE%E7%8F%8A%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%B0%8F%E6%9F%AF%^&*
+album 只有你
+albumURL http://www.xiami.com/album/9055

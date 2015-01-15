@@ -1,0 +1,6 @@
+number 3135
+name 小雨打在我身上
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3135.jpg
+songs 小雨打在我身上%^&*森林的恋曲%^&*就是为了你%^&*爱的花园%^&*小路%^&*爱的人生有个你%^&*今朝最美好%^&*再见(海誓山盟)%^&*见不到%^&*今夜%^&*星语%^&*
+songURLs http://www.xiami.com/song/38700%^&*http://www.xiami.com/song/38701%^&*http://www.xiami.com/song/38702%^&*http://www.xiami.com/song/38703%^&*http://www.xiami.com/song/38704%^&*http://www.xiami.com/song/38705%^&*http://www.xiami.com/song/38706%^&*http://www.xiami.com/song/38707%^&*http://www.xiami.com/song/38708%^&*http://www.xiami.com/song/38709%^&*http://www.xiami.com/song/38710%^&*

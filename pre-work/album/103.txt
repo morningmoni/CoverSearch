@@ -1,0 +1,7 @@
+number 103
+name 东方雄鹰 经典回放
+artist 卞留念
+introduction 
+picture http://img.xiami.net/images/album/img36/36/103.jpg
+songs 打个电话%^&*我心梦寐%^&*藏龙卧虎%^&*红颜命薄%^&*时光隧道%^&*青春本色%^&*西部狂想%^&*愚公移山%^&*花街%^&*雄鹰%^&*心情不错%^&*今儿高兴%^&*欢乐中国年%^&*沁园春·雪%^&*新吉利话%^&*希望%^&*
+songURLs http://www.xiami.com/song/1200%^&*http://www.xiami.com/song/1201%^&*http://www.xiami.com/song/1202%^&*http://www.xiami.com/song/1203%^&*http://www.xiami.com/song/1204%^&*http://www.xiami.com/song/1205%^&*http://www.xiami.com/song/1206%^&*http://www.xiami.com/song/1207%^&*http://www.xiami.com/song/1208%^&*http://www.xiami.com/song/1209%^&*http://www.xiami.com/song/1210%^&*http://www.xiami.com/song/1211%^&*http://www.xiami.com/song/1212%^&*http://www.xiami.com/song/1213%^&*http://www.xiami.com/song/1214%^&*http://www.xiami.com/song/1215%^&*

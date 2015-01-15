@@ -1,0 +1,7 @@
+number 12587
+name 如果云知道
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125871366018683.jpg
+songs 突然想爱你%^&*如果云知道%^&*执着%^&*Always%^&*半首歌%^&*独角戏%^&*了解%^&*女人的心很简单%^&*你讨厌%^&*寄信人%^&*
+songURLs http://www.xiami.com/song/383366%^&*http://www.xiami.com/song/383367%^&*http://www.xiami.com/song/383368%^&*http://www.xiami.com/song/383369%^&*http://www.xiami.com/song/383370%^&*http://www.xiami.com/song/383371%^&*http://www.xiami.com/song/383372%^&*http://www.xiami.com/song/383373%^&*http://www.xiami.com/song/383374%^&*http://www.xiami.com/song/383375%^&*

@@ -1,0 +1,7 @@
+number 138
+name 怀念你一世纪
+artist 蔡国权
+introduction 
+picture http://img.xiami.net/images/album/img0/1381284010797.jpg
+songs 怀念你一世纪%^&*人墙%^&*不装饰你的梦%^&*无心快语%^&*寒傲似冰%^&*创作我的歌%^&*挤熄的烟头%^&*星夜%^&*不应再犹豫%^&*再见也许不再会%^&*是谁在我耳边唱%^&*顺流逆流%^&*最后的一班渡轮%^&*
+songURLs http://www.xiami.com/song/1714%^&*http://www.xiami.com/song/1715%^&*http://www.xiami.com/song/1716%^&*http://www.xiami.com/song/1717%^&*http://www.xiami.com/song/1718%^&*http://www.xiami.com/song/1719%^&*http://www.xiami.com/song/1720%^&*http://www.xiami.com/song/1721%^&*http://www.xiami.com/song/1722%^&*http://www.xiami.com/song/1723%^&*http://www.xiami.com/song/1724%^&*http://www.xiami.com/song/1725%^&*http://www.xiami.com/song/1726%^&*

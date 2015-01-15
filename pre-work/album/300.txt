@@ -1,0 +1,7 @@
+number 300
+name 陪你狂乱
+artist 陈柏全
+introduction 
+picture http://img.xiami.net/images/album/img0/3001284699210.jpg
+songs 陪你狂乱%^&*爱不会寂寞%^&*爱你到最后%^&*心在痛怎么说%^&*放了手%^&*一字爱一字恨%^&*太强求%^&*为情%^&*像我爱你那么多%^&*想你%^&*陪你狂乱(卡拉OK版)%^&*
+songURLs http://www.xiami.com/song/3674%^&*http://www.xiami.com/song/3675%^&*http://www.xiami.com/song/3676%^&*http://www.xiami.com/song/3677%^&*http://www.xiami.com/song/3678%^&*http://www.xiami.com/song/3679%^&*http://www.xiami.com/song/3680%^&*http://www.xiami.com/song/3681%^&*http://www.xiami.com/song/3682%^&*http://www.xiami.com/song/3683%^&*http://www.xiami.com/song/3684%^&*

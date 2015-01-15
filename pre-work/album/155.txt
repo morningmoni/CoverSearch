@@ -1,0 +1,7 @@
+number 155
+name Je T'aime
+artist 蔡济文
+introduction 
+picture http://img.xiami.net/images/album/img0/1551284011321.jpg
+songs 痴心妄想%^&*Je T&#039;aime%^&*半夜风%^&*丝路之恋%^&*情点情线%^&*童真你好%^&*渴望%^&*无可代替%^&*只懂这样爱%^&*当天梦已变%^&*
+songURLs http://www.xiami.com/song/1920%^&*http://www.xiami.com/song/1929%^&*http://www.xiami.com/song/1922%^&*http://www.xiami.com/song/1923%^&*http://www.xiami.com/song/1924%^&*http://www.xiami.com/song/1925%^&*http://www.xiami.com/song/1926%^&*http://www.xiami.com/song/1927%^&*http://www.xiami.com/song/1928%^&*http://www.xiami.com/song/1921%^&*

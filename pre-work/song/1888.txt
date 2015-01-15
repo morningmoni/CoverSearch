@@ -1,0 +1,6 @@
+number 1888
+name Goodbye My Friend
+artist 蔡济文%^&*
+artistURL http://www.xiami.com/artist/44%^&*
+album You&#039;re The Only
+albumURL http://www.xiami.com/album/152

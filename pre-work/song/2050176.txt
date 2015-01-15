@@ -1,0 +1,6 @@
+number 2050176
+name 浮沉
+artist 唢呐%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%94%A2%E5%91%90%^&*
+album 孤恋花电影原声带
+albumURL http://www.xiami.com/album/167371

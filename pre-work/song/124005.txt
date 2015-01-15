@@ -1,0 +1,6 @@
+number 124005
+name 半梦半醒
+artist 李跃君%^&*
+artistURL http://www.xiami.com/artist/1830%^&*
+album 寂寞公路
+albumURL http://www.xiami.com/album/10052

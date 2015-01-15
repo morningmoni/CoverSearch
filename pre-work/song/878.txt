@@ -1,0 +1,6 @@
+number 878
+name 二胡与合奏
+artist 闵惠芬%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%97%B5%E6%83%A0%E8%8A%AC%^&*
+album 二泉映月
+albumURL http://www.xiami.com/album/75

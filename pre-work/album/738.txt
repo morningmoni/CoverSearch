@@ -1,0 +1,7 @@
+number 738
+name 失物待领
+artist 邓建明
+introduction 
+picture http://img.xiami.net/images/album/img80/180/738.jpg
+songs Prologue%^&*Beautiful City%^&*Wasted Time%^&*Heart Beat%^&*花蟹%^&*Epilogue%^&*你快乐吗?%^&*Beautiful City (Extended Remix)%^&*Wasted Time (Gyy Remix)%^&*Heart Beat (Pixel Toy Remix)%^&*花蟹 (亚里安中彩票 Remake)(Remixed By 亚里安@人山人海)%^&*童谣%^&*
+songURLs http://www.xiami.com/song/8978%^&*http://www.xiami.com/song/8979%^&*http://www.xiami.com/song/8980%^&*http://www.xiami.com/song/8981%^&*http://www.xiami.com/song/8982%^&*http://www.xiami.com/song/8983%^&*http://www.xiami.com/song/8984%^&*http://www.xiami.com/song/8985%^&*http://www.xiami.com/song/8986%^&*http://www.xiami.com/song/8987%^&*http://www.xiami.com/song/8988%^&*http://www.xiami.com/song/8989%^&*

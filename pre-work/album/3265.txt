@@ -1,0 +1,7 @@
+number 3265
+name 咱老百姓
+artist 吕继宏
+introduction 1998年首版,2003年再版.
+picture http://img.xiami.net/images/pic/04/04/10132443516m_2.jpg
+songs 咱老百姓%^&*中华美,中华亲%^&*国泰民安%^&*好男儿纵横天下%^&*唱给爸爸的歌%^&*百里漓江,百里画廊%^&*我为黄河来%^&*你幸福,我祝福%^&*从军报国歌%^&*在那水天相连的地方%^&*水兵的祝福%^&*走进春天%^&*妈妈的歌谣%^&*妈妈的歌谣(伴奏)%^&*我的女兵老乡%^&*
+songURLs http://www.xiami.com/song/40124%^&*http://www.xiami.com/song/40125%^&*http://www.xiami.com/song/40126%^&*http://www.xiami.com/song/40127%^&*http://www.xiami.com/song/40128%^&*http://www.xiami.com/song/40129%^&*http://www.xiami.com/song/40130%^&*http://www.xiami.com/song/40131%^&*http://www.xiami.com/song/40132%^&*http://www.xiami.com/song/40133%^&*http://www.xiami.com/song/40134%^&*http://www.xiami.com/song/40135%^&*http://www.xiami.com/song/40136%^&*http://www.xiami.com/song/40137%^&*http://www.xiami.com/song/40138%^&*

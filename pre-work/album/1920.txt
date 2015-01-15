@@ -1,0 +1,6 @@
+number 1920
+name 江明学的心情盒子I
+artist 江明学
+introduction picture http://img.xiami.net/images/album/img40/440/19201413985208.jpg
+songs 情已逝%^&*等你在雨过天晴那一天%^&*爱上你是我一生的错%^&*初恋%^&*堆积情感%^&*最后的恋人%^&*拢是为着你啦%^&*想你会想我吗%^&*怨苍天变了心%^&*我只在乎你%^&*加州阳光%^&*梦里也缠绵%^&*
+songURLs http://www.xiami.com/song/35823%^&*http://www.xiami.com/song/35824%^&*http://www.xiami.com/song/35825%^&*http://www.xiami.com/song/35826%^&*http://www.xiami.com/song/35827%^&*http://www.xiami.com/song/35828%^&*http://www.xiami.com/song/35829%^&*http://www.xiami.com/song/35830%^&*http://www.xiami.com/song/35831%^&*http://www.xiami.com/song/35832%^&*http://www.xiami.com/song/35833%^&*http://www.xiami.com/song/35834%^&*

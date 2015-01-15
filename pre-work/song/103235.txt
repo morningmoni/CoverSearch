@@ -1,0 +1,6 @@
+number 103235
+name 让我去面对它吧
+artist 方维珍%^&*
+artistURL http://www.xiami.com/artist/1520%^&*
+album 日记
+albumURL http://www.xiami.com/album/8320

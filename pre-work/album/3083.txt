@@ -1,0 +1,7 @@
+number 3083
+name A Boy's Story
+artist 刘恺威
+introduction 
+picture http://img.xiami.net/images/album/img60/660/30831331629440.png
+songs 爱情软件%^&*偷进你的梦%^&*童话%^&*盲头乌绳%^&*情诗%^&*别月%^&*偷进你的梦(Summer Remix)%^&*
+songURLs http://www.xiami.com/song/37845%^&*http://www.xiami.com/song/37846%^&*http://www.xiami.com/song/37847%^&*http://www.xiami.com/song/37848%^&*http://www.xiami.com/song/37849%^&*http://www.xiami.com/song/37850%^&*http://www.xiami.com/song/37851%^&*

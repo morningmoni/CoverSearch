@@ -1,0 +1,7 @@
+number 4404
+name 一生情不绝
+artist 庹宗华
+introduction 
+picture http://img.xiami.net/images/album/img80/880/44041344909618.jpg
+songs 一生情不绝%^&*一半%^&*还有谁像我一样%^&*感谢你为我等候%^&*我还是在这里%^&*所有情爱%^&*还想爱你%^&*习惯有你在%^&*无话可说%^&*一生情不绝(深情伴唱版)%^&*
+songURLs http://www.xiami.com/song/53634%^&*http://www.xiami.com/song/53635%^&*http://www.xiami.com/song/53636%^&*http://www.xiami.com/song/53637%^&*http://www.xiami.com/song/53638%^&*http://www.xiami.com/song/53639%^&*http://www.xiami.com/song/53640%^&*http://www.xiami.com/song/53641%^&*http://www.xiami.com/song/53642%^&*http://www.xiami.com/song/53643%^&*

@@ -1,0 +1,7 @@
+number 3477
+name 达人Show
+artist 罗志祥
+introduction 
+picture http://img.xiami.net/images/album/img20/720/3477.jpg
+songs 机器娃娃%^&*恋爱达人%^&*给你管%^&*小丑鱼%^&*咕噜鸡%^&*瞎搅和%^&*灰色空间%^&*Magic Show%^&*岁堤春晓%^&*刺青%^&*一起走吧%^&*
+songURLs http://www.xiami.com/song/42848%^&*http://www.xiami.com/song/42849%^&*http://www.xiami.com/song/42850%^&*http://www.xiami.com/song/42851%^&*http://www.xiami.com/song/42852%^&*http://www.xiami.com/song/42853%^&*http://www.xiami.com/song/42854%^&*http://www.xiami.com/song/42855%^&*http://www.xiami.com/song/42856%^&*http://www.xiami.com/song/42857%^&*http://www.xiami.com/song/42858%^&*

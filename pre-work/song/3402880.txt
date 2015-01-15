@@ -1,0 +1,6 @@
+number 3402880
+name 爱人不免惊
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 丢丢弹
+albumURL http://www.xiami.com/album/307666

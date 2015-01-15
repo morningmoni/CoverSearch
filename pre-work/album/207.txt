@@ -1,0 +1,7 @@
+number 207
+name 格格Blue
+artist 曹格
+introduction 
+picture http://img.xiami.net/images/album/img58/58/2071388932802.jpg
+songs Superwoman%^&*世界唯一的你%^&*姑娘%^&*情人节快乐%^&*Fall In Love%^&*笑我笨%^&*烛光晚餐%^&*数到五答应我%^&*沉默玩具%^&*刮目相看%^&*Superwoman (伴奏)%^&*
+songURLs http://www.xiami.com/song/2538%^&*http://www.xiami.com/song/2539%^&*http://www.xiami.com/song/2540%^&*http://www.xiami.com/song/2541%^&*http://www.xiami.com/song/2542%^&*http://www.xiami.com/song/2543%^&*http://www.xiami.com/song/2544%^&*http://www.xiami.com/song/2545%^&*http://www.xiami.com/song/2546%^&*http://www.xiami.com/song/2547%^&*http://www.xiami.com/song/2548%^&*

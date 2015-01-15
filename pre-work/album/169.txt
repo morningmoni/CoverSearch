@@ -1,0 +1,7 @@
+number 169
+name 思相枝
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img0/1691284018303.jpg
+songs 思相枝%^&*故乡的地图%^&*褪色的彩笔%^&*意难忘%^&*六月风%^&*曾经拥有%^&*就是对你还有爱%^&*一错再错%^&*过去的温柔%^&*情恨%^&*浪子情深%^&*双头马车%^&*
+songURLs http://www.xiami.com/song/2088%^&*http://www.xiami.com/song/2089%^&*http://www.xiami.com/song/2090%^&*http://www.xiami.com/song/2091%^&*http://www.xiami.com/song/2092%^&*http://www.xiami.com/song/2093%^&*http://www.xiami.com/song/2094%^&*http://www.xiami.com/song/2095%^&*http://www.xiami.com/song/2096%^&*http://www.xiami.com/song/2097%^&*http://www.xiami.com/song/2098%^&*http://www.xiami.com/song/2099%^&*

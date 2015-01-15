@@ -1,0 +1,7 @@
+number 10917
+name With
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109171398070221.jpg
+songs 芳华绝代%^&*约会%^&*花生骚%^&*相爱很难%^&*两个女人%^&*弹弹琴 跳跳舞%^&*夏娃夏娃%^&*路人甲乙%^&*单身女人%^&*两粒糖%^&*先谎夜谈%^&*芳华绝代乱世佳人 (Lego Version)%^&*路人甲乙 (独唱版)%^&*
+songURLs http://www.xiami.com/song/391500%^&*http://www.xiami.com/song/391501%^&*http://www.xiami.com/song/391502%^&*http://www.xiami.com/song/391503%^&*http://www.xiami.com/song/391504%^&*http://www.xiami.com/song/391505%^&*http://www.xiami.com/song/391506%^&*http://www.xiami.com/song/391507%^&*http://www.xiami.com/song/391508%^&*http://www.xiami.com/song/391509%^&*http://www.xiami.com/song/391510%^&*http://www.xiami.com/song/391511%^&*http://www.xiami.com/song/1772939277%^&*

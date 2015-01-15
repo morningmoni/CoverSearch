@@ -1,0 +1,6 @@
+number 1738
+name 夏日终结的恋人
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 蔡国权 同名专辑
+albumURL http://www.xiami.com/album/140

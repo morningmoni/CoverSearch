@@ -1,0 +1,7 @@
+number 11177
+name 狂想曲
+artist 彭海桐
+introduction 
+picture http://img.xiami.net/images/album/img40/2040/11177.jpg
+songs 千载难逢%^&*狂想曲%^&*想一想%^&*好友Vs男友%^&*一个人乐园%^&*星期天的收获%^&*歌舞技乐园%^&*恋爱假期%^&*亲爱的%^&*狂想曲(Unplug Version)%^&*甜蜜空间%^&*失眠%^&*Dark Night%^&*四驱...Let S Go!%^&*
+songURLs http://www.xiami.com/song/137771%^&*http://www.xiami.com/song/137765%^&*http://www.xiami.com/song/137769%^&*http://www.xiami.com/song/137772%^&*http://www.xiami.com/song/137774%^&*http://www.xiami.com/song/137776%^&*http://www.xiami.com/song/137775%^&*http://www.xiami.com/song/137767%^&*http://www.xiami.com/song/137766%^&*http://www.xiami.com/song/137773%^&*http://www.xiami.com/song/137763%^&*http://www.xiami.com/song/137768%^&*http://www.xiami.com/song/137764%^&*http://www.xiami.com/song/137770%^&*

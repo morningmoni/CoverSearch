@@ -1,0 +1,6 @@
+number 153
+name 梦里的爱人
+artist 蔡济文
+introduction picture http://img.xiami.net/images/album/img0/1531284011149.jpg
+songs 美丽的谎言%^&*永远最爱你是谁%^&*Isabella%^&*痴心妄想%^&*Je T&#039;aime%^&*曾经爱过%^&*Home Alone%^&*当天梦己变%^&*褪色片断%^&*童真你好%^&*Say Yes%^&*望窗的季节%^&*情到浓时%^&*再造我%^&*机场%^&*
+songURLs http://www.xiami.com/song/1895%^&*http://www.xiami.com/song/1896%^&*http://www.xiami.com/song/1897%^&*http://www.xiami.com/song/1898%^&*http://www.xiami.com/song/1899%^&*http://www.xiami.com/song/1900%^&*http://www.xiami.com/song/1901%^&*http://www.xiami.com/song/1902%^&*http://www.xiami.com/song/1903%^&*http://www.xiami.com/song/1904%^&*http://www.xiami.com/song/1905%^&*http://www.xiami.com/song/1906%^&*http://www.xiami.com/song/1907%^&*http://www.xiami.com/song/1908%^&*http://www.xiami.com/song/1909%^&*

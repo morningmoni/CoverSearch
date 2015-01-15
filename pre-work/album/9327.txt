@@ -1,0 +1,6 @@
+number 9327
+name 秋风吹谢了春红
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 心声泪影%^&*浮云抱月%^&*孤灯泪影%^&*初初我唔惯%^&*秋风吹谢了春红%^&*明月那里寻%^&*恨悠悠%^&*劲草娇花%^&*我要你忘了我%^&*载歌载舞%^&*梦断情牵%^&*真善美%^&*
+songURLs http://www.xiami.com/song/115673%^&*http://www.xiami.com/song/115674%^&*http://www.xiami.com/song/115675%^&*http://www.xiami.com/song/115676%^&*http://www.xiami.com/song/115677%^&*http://www.xiami.com/song/115678%^&*http://www.xiami.com/song/115679%^&*http://www.xiami.com/song/115680%^&*http://www.xiami.com/song/115681%^&*http://www.xiami.com/song/115682%^&*http://www.xiami.com/song/115683%^&*http://www.xiami.com/song/115684%^&*

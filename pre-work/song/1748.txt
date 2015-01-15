@@ -1,0 +1,6 @@
+number 1748
+name 燃亮我电影&quot;冒牌大贼&quot;主题曲
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 蔡国权 同名专辑
+albumURL http://www.xiami.com/album/140

@@ -1,0 +1,6 @@
+number 14735
+name 桃花朵朵开
+artist 红苹果女子合唱组
+introduction picture http://img.xiami.net/images/pic/06/07/200609071103278528m_2.jpg
+songs 紫竹调%^&*花田错%^&*阿里郎%^&*桃花朵朵开%^&*月亮走我也走%^&*泉水叮咚响%^&*请到天涯海角来%^&*枉凝眉%^&*牡丹之歌%^&*弯弯的月亮%^&*在那桃花盛开的地方%^&*
+songURLs http://www.xiami.com/song/181598%^&*http://www.xiami.com/song/181599%^&*http://www.xiami.com/song/181600%^&*http://www.xiami.com/song/181601%^&*http://www.xiami.com/song/181602%^&*http://www.xiami.com/song/181603%^&*http://www.xiami.com/song/181604%^&*http://www.xiami.com/song/181605%^&*http://www.xiami.com/song/181606%^&*http://www.xiami.com/song/181607%^&*http://www.xiami.com/song/181608%^&*

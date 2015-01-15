@@ -1,0 +1,7 @@
+number 1786038611
+name 农妇之歌
+artist 姚莉
+introduction 姚莉早期的歌曲，声音仍在模仿周璇。背面的周洁以模仿周璇早期声音最像著称。
+picture http://img.xiami.net/images/album/img70/2370/17860386111386038611.jpg
+songs 农妇之歌%^&*春江花月夜%^&*
+songURLs http://www.xiami.com/song/1772381176%^&*http://www.xiami.com/song/1772381177%^&*

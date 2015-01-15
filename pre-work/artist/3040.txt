@@ -1,0 +1,7 @@
+number 3040
+name 水琉璃
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artistlogo/33/12971091643733.jpg
+albums 琉璃仙境%^&*光阴%^&*琉璃海%^&*心灵菩提%^&*
+albumURLs http://www.xiami.com/album/403510%^&*http://www.xiami.com/album/15347%^&*http://www.xiami.com/album/15348%^&*http://www.xiami.com/album/15349%^&*

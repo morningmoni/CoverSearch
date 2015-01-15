@@ -1,0 +1,6 @@
+number 123298
+name 自由 (Instrumental)
+artist 李心洁%^&*
+artistURL http://www.xiami.com/artist/1820%^&*
+album 自由
+albumURL http://www.xiami.com/album/9987

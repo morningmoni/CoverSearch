@@ -1,0 +1,6 @@
+number 58767
+name 保留纯真
+artist 吴秀波%^&*
+artistURL http://www.xiami.com/artist/970%^&*
+album 爱之战
+albumURL http://www.xiami.com/album/4855

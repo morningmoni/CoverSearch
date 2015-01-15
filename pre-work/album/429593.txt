@@ -1,0 +1,7 @@
+number 429593
+name 偷听女人心
+artist 汉洋
+introduction 汉洋，一个在途上的香港男人，用他的理解与歌声尝试去解读女性为每一个女性用歌声怀念旧日时光，感怀曾经爱情。
+picture http://img.xiami.net/images/album/img59/86959/4295931299561907.jpg
+songs 遇见%^&*城里的月光%^&*盛夏的果实%^&*爱是个难题%^&*红豆%^&*相思河畔%^&*至少还有你%^&*不了情%^&*后来%^&*梦一场%^&*橄榄树%^&*亲密爱人%^&*
+songURLs http://www.xiami.com/song/1770077463%^&*http://www.xiami.com/song/1770077464%^&*http://www.xiami.com/song/1770077465%^&*http://www.xiami.com/song/1770077466%^&*http://www.xiami.com/song/1770077467%^&*http://www.xiami.com/song/1770077468%^&*http://www.xiami.com/song/1770077469%^&*http://www.xiami.com/song/1770077470%^&*http://www.xiami.com/song/1770077471%^&*http://www.xiami.com/song/1770077472%^&*http://www.xiami.com/song/1770077473%^&*http://www.xiami.com/song/1770077474%^&*

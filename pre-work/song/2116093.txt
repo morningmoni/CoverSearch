@@ -1,0 +1,6 @@
+number 2116093
+name 爱多一些恨多一些
+artist 阿华%^&*
+artistURL http://www.xiami.com/artist/7%^&*
+album 我最爱的人
+albumURL http://www.xiami.com/album/171300

@@ -1,0 +1,7 @@
+number 42
+name 走出沙漠的刀郎
+artist 艾尔肯
+introduction 诠释真正意义的刀郎，感悟艾尔肯的音乐世界！涌动着&ldquo;木卡姆&rdquo;千年血脉的维族新生代，跨越西域民族音乐界线，呈现Flamenco拉丁原色，迸发出传统与时尚的魅力！新疆维族流行新生代艾尔肯最新单曲！《无可奈何》《巴郎仔》《茶花姑娘》，2004西域情歌力作--走出沙漠的刀郎，刀郎回归西域精良制作，全新原创；纯粹新疆之音，入疆三个月全力炮制，悲情主打，无可奈何！优质推荐《无可奈何》：艾尔肯的招牌吉他声，融入少许MIDI，略带伤感的嗓音，不夸张、不做作，恰倒好处的呼唤着爱情的回归。《巴郎仔》：熟悉的维族音乐节拍、典型的弗拉门戈曲风、带点拉丁风格，跨界民族与流行、古典与现代的音符，从未有过的新鲜叫醒你的耳朵。《茶花姑娘》：俄罗斯经典民谣改编，congas、guitar相互交融，HIP-HOP、RAP吵闹后，再听听艾尔肯的《茶花姑娘》，发现，还是民族情歌更有魅力。
+picture http://img.xiami.net/images/album/img0/421282210268.jpg
+songs 无可奈何%^&*巴郎仔%^&*我的姑娘在哪里%^&*坏女人%^&*花儿为什么这样红%^&*茶花姑娘%^&*跳吧%^&*今天晚上%^&*快乐旅途%^&*爱的要死%^&*涛声依旧%^&*刀郎%^&*
+songURLs http://www.xiami.com/song/504%^&*http://www.xiami.com/song/505%^&*http://www.xiami.com/song/506%^&*http://www.xiami.com/song/507%^&*http://www.xiami.com/song/508%^&*http://www.xiami.com/song/509%^&*http://www.xiami.com/song/510%^&*http://www.xiami.com/song/511%^&*http://www.xiami.com/song/512%^&*http://www.xiami.com/song/513%^&*http://www.xiami.com/song/514%^&*http://www.xiami.com/song/515%^&*

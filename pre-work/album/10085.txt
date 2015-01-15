@@ -1,0 +1,6 @@
+number 10085
+name 浪漫故事
+artist 梁雁翎
+introduction picture http://img.xiami.net/images/album/img40/1840/100851331519388.jpg
+songs 浪漫故事%^&*不应该的爱(Edit Version)%^&*说得轻易%^&*对你的思念总是特别的深(Remix)%^&*该是休息的时候%^&*不信任%^&*若是你真想分开%^&*盼继续爱我%^&*好聚好散%^&*不变的温柔为你守候%^&*不应该的爱%^&*
+songURLs http://www.xiami.com/song/124384%^&*http://www.xiami.com/song/124385%^&*http://www.xiami.com/song/124386%^&*http://www.xiami.com/song/124387%^&*http://www.xiami.com/song/124388%^&*http://www.xiami.com/song/124389%^&*http://www.xiami.com/song/124390%^&*http://www.xiami.com/song/124391%^&*http://www.xiami.com/song/124392%^&*http://www.xiami.com/song/124393%^&*http://www.xiami.com/song/124394%^&*

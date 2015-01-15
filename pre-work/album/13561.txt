@@ -1,0 +1,6 @@
+number 13561
+name 今天天气呵呵呵
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/135611415775756.jpg
+songs 今天天气呵呵呵%^&*外借恋情%^&*怎么启齿%^&*分手%^&*少女心%^&*爱你Forever%^&*试过也算拥有%^&*I Miss You%^&*算了…不紧要%^&*好梦%^&*
+songURLs http://www.xiami.com/song/166942%^&*http://www.xiami.com/song/166943%^&*http://www.xiami.com/song/166944%^&*http://www.xiami.com/song/166945%^&*http://www.xiami.com/song/166946%^&*http://www.xiami.com/song/166947%^&*http://www.xiami.com/song/166948%^&*http://www.xiami.com/song/166949%^&*http://www.xiami.com/song/166950%^&*http://www.xiami.com/song/166951%^&*

@@ -1,0 +1,6 @@
+number 307688
+name COLLECTION
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/307688.jpg
+songs 风儿轻轻吹%^&*却上心头%^&*小雨打在我身上%^&*谁在眨眼精%^&*迟到%^&*若是你在我身边%^&*三月里的小雨%^&*
+songURLs http://www.xiami.com/song/3403122%^&*http://www.xiami.com/song/3403123%^&*http://www.xiami.com/song/3403124%^&*http://www.xiami.com/song/3403125%^&*http://www.xiami.com/song/3403126%^&*http://www.xiami.com/song/3403127%^&*http://www.xiami.com/song/3403128%^&*

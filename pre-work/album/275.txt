@@ -1,0 +1,7 @@
+number 275
+name 无声胜有声
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2751338860977.jpg
+songs 从今以后%^&*一串音符%^&*迷路人%^&*昨日.今日.明日%^&*怨女%^&*Don&#039;t Cry For Me%^&*无声胜有声%^&*孤寂%^&*幻像%^&*令你着迷%^&*
+songURLs http://www.xiami.com/song/3438%^&*http://www.xiami.com/song/3439%^&*http://www.xiami.com/song/3440%^&*http://www.xiami.com/song/3441%^&*http://www.xiami.com/song/3442%^&*http://www.xiami.com/song/3443%^&*http://www.xiami.com/song/3444%^&*http://www.xiami.com/song/3445%^&*http://www.xiami.com/song/3446%^&*http://www.xiami.com/song/3447%^&*

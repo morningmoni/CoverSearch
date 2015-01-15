@@ -1,0 +1,7 @@
+number 199
+name 最新歌曲精选
+artist 曹阿咏
+introduction 增加阿咏最新单曲《丽娟》。歌曲写的是一个真实的情感故事，丽娟也是生活中真实的女孩，男女彼此有爱，因为彼此产生一点误会，草率分开，从此失去了联系，连电话号码也更换了，男友希望她能听到这首发自心底的歌，并通过这首歌呼唤她能够再次回到身边……把这首歌送给大家，也希望朋友们珍惜身边所拥有的真爱！2005年，音乐人阿咏用了半年多的心血，又制作完成2005年最新专集《好朋友》。其中有阿咏词曲的作品，和翻唱邓丽君的《一江春水向东流》，和高胜美的〈潇洒的走〉以及叶凡的〈新水调歌头〉等。由阿咏重新编曲制作，并演唱。让您感受到另一种新的感觉。另外，阿咏演唱粤语歌多年，深爱着粤语歌。这次特别把阿咏演唱的两首粤语送给大家，让歌迷感受阿咏不同的演唱风格！
+picture http://img.xiami.net/
+songs 我的要求很简单%^&*情缘巴士站%^&*一江春水向东流%^&*网络情迷%^&*老天%^&*未来%^&*男人女人%^&*新水调歌头%^&*好朋友%^&*潇洒的走%^&*安琪%^&*丽娟%^&*
+songURLs http://www.xiami.com/song/2443%^&*http://www.xiami.com/song/2444%^&*http://www.xiami.com/song/2445%^&*http://www.xiami.com/song/2446%^&*http://www.xiami.com/song/2447%^&*http://www.xiami.com/song/2448%^&*http://www.xiami.com/song/2449%^&*http://www.xiami.com/song/2450%^&*http://www.xiami.com/song/2451%^&*http://www.xiami.com/song/2452%^&*http://www.xiami.com/song/2453%^&*http://www.xiami.com/song/2454%^&*

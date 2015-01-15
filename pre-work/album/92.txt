@@ -1,0 +1,6 @@
+number 92
+name 情歌玛奇朵
+artist 鲍比达
+introduction picture http://img.xiami.net/images/album/img32/32/92.jpg
+songs Everlasting Love%^&*Winter%^&*Past Love%^&*Bad Boy%^&*First Love%^&*Yeliya%^&*Tides Of Love%^&*Last Night%^&*Friend Or Lover%^&*Prodigal Love Song%^&*Love Trap%^&*Leave The Sadness Behind%^&*
+songURLs http://www.xiami.com/song/1051%^&*http://www.xiami.com/song/1052%^&*http://www.xiami.com/song/1053%^&*http://www.xiami.com/song/1054%^&*http://www.xiami.com/song/1055%^&*http://www.xiami.com/song/1056%^&*http://www.xiami.com/song/1057%^&*http://www.xiami.com/song/1058%^&*http://www.xiami.com/song/1059%^&*http://www.xiami.com/song/1060%^&*http://www.xiami.com/song/1061%^&*http://www.xiami.com/song/1062%^&*

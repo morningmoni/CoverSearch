@@ -1,0 +1,6 @@
+number 543547
+name 民歌贴心
+artist 陈良泉
+introduction picture http://img.xiami.net/images/album/img4/104/5435471348119644.jpg
+songs 故乡的风%^&*一串心%^&*归人%^&*电动玩具%^&*我家在那里%^&*橄榄树%^&*贴心%^&*小草%^&*欢喜再相聚%^&*三月里的小雨%^&*清新组曲%^&*
+songURLs http://www.xiami.com/song/1771326834%^&*http://www.xiami.com/song/1771326835%^&*http://www.xiami.com/song/1771326836%^&*http://www.xiami.com/song/1771326837%^&*http://www.xiami.com/song/1771326838%^&*http://www.xiami.com/song/1771326839%^&*http://www.xiami.com/song/1771326840%^&*http://www.xiami.com/song/1771326841%^&*http://www.xiami.com/song/1771326842%^&*http://www.xiami.com/song/1771326843%^&*http://www.xiami.com/song/1771326844%^&*

@@ -1,0 +1,7 @@
+number 160
+name 久久才见到你的好
+artist 蔡荣祖
+introduction 
+picture http://img.xiami.net/images/album/img0/1601284011554.jpg
+songs 一个人的话%^&*久久才见到你的好%^&*事到如今%^&*答应我相信我%^&*云淡风轻%^&*细说从头%^&*爱易变情易留恋%^&*情海的鱼%^&*和梦想靠的那么近%^&*我的小天使%^&*
+songURLs http://www.xiami.com/song/1994%^&*http://www.xiami.com/song/1995%^&*http://www.xiami.com/song/1996%^&*http://www.xiami.com/song/1997%^&*http://www.xiami.com/song/1998%^&*http://www.xiami.com/song/1999%^&*http://www.xiami.com/song/2000%^&*http://www.xiami.com/song/2001%^&*http://www.xiami.com/song/2002%^&*http://www.xiami.com/song/2003%^&*

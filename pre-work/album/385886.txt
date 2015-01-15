@@ -1,0 +1,6 @@
+number 385886
+name 风飘飘
+artist 陈浩德
+introduction picture http://img.xiami.net/images/album/img85/85/3858861277097647.jpg
+songs 风飘飘%^&*莫烦恼%^&*娉婷%^&*路直路弯%^&*雾中花%^&*秋枫%^&*东方之珠%^&*千愁记旧情%^&*鸳鸯江%^&*问君知否%^&*难寻旧时梦%^&*留香恨%^&*旧欢如梦%^&*
+songURLs http://www.xiami.com/song/1769580174%^&*http://www.xiami.com/song/1769580175%^&*http://www.xiami.com/song/1769580176%^&*http://www.xiami.com/song/1769580177%^&*http://www.xiami.com/song/1769580178%^&*http://www.xiami.com/song/1769580179%^&*http://www.xiami.com/song/1769580180%^&*http://www.xiami.com/song/1769580181%^&*http://www.xiami.com/song/1769580182%^&*http://www.xiami.com/song/1769580183%^&*http://www.xiami.com/song/1769580184%^&*http://www.xiami.com/song/1769580185%^&*http://www.xiami.com/song/1769580186%^&*

@@ -1,0 +1,6 @@
+number 32715
+name 在彩虹上
+artist 杜冲
+introduction picture http://img.xiami.net/images/album/img0/200/32715.jpg
+songs 马萨在冰冷的黄土中%^&*路边情歌%^&*雄鹰%^&*宁静的湖水%^&*小雪花%^&*Sailing%^&*莫斯科近郊的晚上%^&*小河淌水%^&*你就是幸福%^&*牧歌%^&*你%^&*在彩虹上%^&*
+songURLs http://www.xiami.com/song/390142%^&*http://www.xiami.com/song/390143%^&*http://www.xiami.com/song/390144%^&*http://www.xiami.com/song/390145%^&*http://www.xiami.com/song/390146%^&*http://www.xiami.com/song/390147%^&*http://www.xiami.com/song/390148%^&*http://www.xiami.com/song/390149%^&*http://www.xiami.com/song/390150%^&*http://www.xiami.com/song/390151%^&*http://www.xiami.com/song/390152%^&*http://www.xiami.com/song/390153%^&*

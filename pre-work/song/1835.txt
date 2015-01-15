@@ -1,0 +1,6 @@
+number 1835
+name 苍天的安排
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 海底针
+albumURL http://www.xiami.com/album/149

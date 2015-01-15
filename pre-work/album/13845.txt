@@ -1,0 +1,7 @@
+number 13845
+name 没有忘掉的面容
+artist 周美茵
+introduction 
+picture http://img.xiami.net/images/album/img50/2550/138451353304207.jpg
+songs 没有忘掉的面容%^&*热情人%^&*两心知%^&*失恋季节%^&*心醉%^&*记念%^&*绝情面具%^&*终于发生%^&*谁在意%^&*梦中情人%^&*
+songURLs http://www.xiami.com/song/170911%^&*http://www.xiami.com/song/170912%^&*http://www.xiami.com/song/170913%^&*http://www.xiami.com/song/170914%^&*http://www.xiami.com/song/170915%^&*http://www.xiami.com/song/170916%^&*http://www.xiami.com/song/170917%^&*http://www.xiami.com/song/170918%^&*http://www.xiami.com/song/170919%^&*http://www.xiami.com/song/170920%^&*

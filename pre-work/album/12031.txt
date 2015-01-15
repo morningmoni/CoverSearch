@@ -1,0 +1,7 @@
+number 12031
+name I Love My Name
+artist 王菀之
+introduction 
+picture http://img.xiami.net/images/album/img0/2200/120311368080145.jpg
+songs 手望%^&*小心易碎%^&*雷电%^&*面斥不雅%^&*忽然起舞%^&*Love Has It All (英)%^&*多得你梦%^&*爱自己%^&*小天使 (国)%^&*我想不起 (国)%^&*手望 (守望版)%^&*
+songURLs http://www.xiami.com/song/148114%^&*http://www.xiami.com/song/148115%^&*http://www.xiami.com/song/148116%^&*http://www.xiami.com/song/148117%^&*http://www.xiami.com/song/148118%^&*http://www.xiami.com/song/148119%^&*http://www.xiami.com/song/148120%^&*http://www.xiami.com/song/148121%^&*http://www.xiami.com/song/148122%^&*http://www.xiami.com/song/148123%^&*http://www.xiami.com/song/148124%^&*

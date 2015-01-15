@@ -1,0 +1,7 @@
+number 385884
+name 金碟精选
+artist 陈浩德
+introduction 自小喜爱音乐的陈浩德，並曾组织乐队。因为唱片公司监制的一个构想－长头发乐队唱广东歌，结果在一九七三年演绎了他第一首粤语歌《悲秋风》而大受欢迎，其后的《劲草娇花》和《分飞燕》（合唱：甄秀仪），更为他带来了大批蓝领听众。可以说是是1970年代初期香港粵語流行曲的先行者之一
+picture http://img.xiami.net/images/album/img85/85/3858841277097578.jpg
+songs 分飞燕%^&*悲秋风%^&*劲草娇花%^&*月是故乡明%^&*春花秋月%^&*来迟了%^&*月夜乌啼%^&*盼知音%^&*黎明%^&*秋月%^&*小夜曲%^&*断肠红%^&*
+songURLs http://www.xiami.com/song/1769580152%^&*http://www.xiami.com/song/1769580153%^&*http://www.xiami.com/song/1769580154%^&*http://www.xiami.com/song/1769580155%^&*http://www.xiami.com/song/1769580156%^&*http://www.xiami.com/song/1769580157%^&*http://www.xiami.com/song/1769580158%^&*http://www.xiami.com/song/1769580159%^&*http://www.xiami.com/song/1769580160%^&*http://www.xiami.com/song/1769580161%^&*http://www.xiami.com/song/1769580162%^&*http://www.xiami.com/song/1769580163%^&*

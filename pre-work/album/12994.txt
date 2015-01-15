@@ -1,0 +1,6 @@
+number 12994
+name 安妮的音乐盒Ⅲ-乖女孩大战Bad Girl
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/12994.jpg
+songs 乖女孩大战Bad Girl%^&*落入凡间的精灵(粤语版)%^&*怪盗亚森罗苹(粤语版)%^&*深夜的Cinderella%^&*悲伤的Juliet%^&*说谎与变心%^&*最佳男主角%^&*从侧面爱你%^&*为何不是我%^&*上帝妈咪%^&*星星的梦%^&*华丽的冒险%^&*青春伤痕%^&*成熟少女心%^&*
+songURLs http://www.xiami.com/song/159857%^&*http://www.xiami.com/song/159858%^&*http://www.xiami.com/song/159859%^&*http://www.xiami.com/song/159860%^&*http://www.xiami.com/song/159861%^&*http://www.xiami.com/song/159862%^&*http://www.xiami.com/song/159863%^&*http://www.xiami.com/song/159864%^&*http://www.xiami.com/song/159865%^&*http://www.xiami.com/song/159866%^&*http://www.xiami.com/song/159867%^&*http://www.xiami.com/song/159868%^&*http://www.xiami.com/song/159869%^&*http://www.xiami.com/song/159870%^&*

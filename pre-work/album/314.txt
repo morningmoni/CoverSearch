@@ -1,0 +1,7 @@
+number 314
+name 伤心的小鹦鹉
+artist 陈迪匡
+introduction 
+picture http://img.xiami.net/images/album/img0/3141288862772.jpg
+songs 伤心的小鹦鹉%^&*床前明月光%^&*夜静%^&*共你那一天%^&*到天边去%^&*我问句天%^&*寻觅新志向%^&*十字路%^&*这个都市%^&*任前行%^&*湖上吟%^&*
+songURLs http://www.xiami.com/song/3812%^&*http://www.xiami.com/song/3813%^&*http://www.xiami.com/song/3814%^&*http://www.xiami.com/song/3815%^&*http://www.xiami.com/song/3816%^&*http://www.xiami.com/song/3817%^&*http://www.xiami.com/song/3818%^&*http://www.xiami.com/song/3819%^&*http://www.xiami.com/song/3820%^&*http://www.xiami.com/song/3821%^&*http://www.xiami.com/song/3822%^&*

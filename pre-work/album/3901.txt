@@ -1,0 +1,6 @@
+number 3901
+name 侠客
+artist 施孝荣
+introduction picture http://img.xiami.net/images/album/img20/820/39011418558117.jpg
+songs 侠客%^&*摇橹的人%^&*不要再对我说%^&*除非%^&*无限的爱%^&*起跑线%^&*草原儿女%^&*纪念%^&*切莫等楼%^&*秋暮%^&*无言的路%^&*
+songURLs http://www.xiami.com/song/47794%^&*http://www.xiami.com/song/47795%^&*http://www.xiami.com/song/47796%^&*http://www.xiami.com/song/47797%^&*http://www.xiami.com/song/47798%^&*http://www.xiami.com/song/47799%^&*http://www.xiami.com/song/47800%^&*http://www.xiami.com/song/47801%^&*http://www.xiami.com/song/47802%^&*http://www.xiami.com/song/47803%^&*http://www.xiami.com/song/47804%^&*

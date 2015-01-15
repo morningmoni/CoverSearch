@@ -1,0 +1,7 @@
+number 118903
+name 20世纪中华歌坛名人百集珍藏版
+artist 朱明瑛
+introduction 本系列系统介绍二十世纪中国歌坛的名人名歌、收录了百余名演唱者的曲目，每位演唱者均选收其代表作品。按民族、美声、通俗不同风格精心编排，曲曲动人，它可以说是本世纪中国声乐发展的缩影，无论欣赏、收藏决不会令您失望！
+picture http://img.xiami.net/images/album/img70/2570/1189031282039148.jpg
+songs 明亮的眼睛%^&*回娘家%^&*摇篮曲%^&*田野之歌%^&*大海啊,故乡%^&*猜谜语%^&*感谢你啊,生活%^&*百斯布撒%^&*白发吟%^&*伊呀呀欧雷欧%^&*我爱你至死不渝%^&*愉快的旅行%^&*莫愁啊,莫愁%^&*愿大家都成功%^&*紫竹调%^&*万水千山总是情%^&*
+songURLs http://www.xiami.com/song/1769704199%^&*http://www.xiami.com/song/1769704200%^&*http://www.xiami.com/song/1769704201%^&*http://www.xiami.com/song/1769704202%^&*http://www.xiami.com/song/1769704203%^&*http://www.xiami.com/song/1769704204%^&*http://www.xiami.com/song/1769704205%^&*http://www.xiami.com/song/1769704206%^&*http://www.xiami.com/song/1769704207%^&*http://www.xiami.com/song/1769704208%^&*http://www.xiami.com/song/1769704209%^&*http://www.xiami.com/song/1769704210%^&*http://www.xiami.com/song/1769704211%^&*http://www.xiami.com/song/1769704212%^&*http://www.xiami.com/song/1769704213%^&*http://www.xiami.com/song/1769704214%^&*

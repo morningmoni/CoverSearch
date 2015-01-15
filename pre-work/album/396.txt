@@ -1,0 +1,7 @@
+number 396
+name 拚出头
+artist 陈雷
+introduction 
+picture http://img.xiami.net/images/album/img0/100/396.jpg
+songs 拚出头%^&*靠站%^&*天天醉%^&*有你真好%^&*伤心小巷%^&*自然风%^&*看乎开%^&*无后悔%^&*夜夜想到你%^&*渡时机%^&*
+songURLs http://www.xiami.com/song/4747%^&*http://www.xiami.com/song/4748%^&*http://www.xiami.com/song/4749%^&*http://www.xiami.com/song/4751%^&*http://www.xiami.com/song/4750%^&*http://www.xiami.com/song/4754%^&*http://www.xiami.com/song/4752%^&*http://www.xiami.com/song/4753%^&*http://www.xiami.com/song/4756%^&*http://www.xiami.com/song/4755%^&*

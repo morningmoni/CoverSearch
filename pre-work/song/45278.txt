@@ -1,0 +1,6 @@
+number 45278
+name 我试过
+artist 潘协庆%^&*
+artistURL http://www.xiami.com/artist/770%^&*
+album 爱情当铺
+albumURL http://www.xiami.com/album/3681

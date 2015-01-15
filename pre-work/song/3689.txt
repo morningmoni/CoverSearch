@@ -1,0 +1,7 @@
+number 3689
+name 嫦娥
+artist 陈彼得%^&*陈欣怡%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%BD%BC%E5%BE%97%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E6%AC%A3%E6%80%A1%^&*
+album 嫦娥·让我…
+albumURL http://www.xiami.com/album/302

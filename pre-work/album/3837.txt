@@ -1,0 +1,6 @@
+number 3837
+name 雄鹰在飞翔
+artist 容中尔甲
+introduction picture http://img.xiami.net/images/pic/04/04/10124999157m_2.jpg
+songs 凤凰天堂%^&*神奇的九寨%^&*玛呢之歌%^&*雄鹰在飞翔%^&*背水姑娘%^&*心中的恋人%^&*天上拉萨%^&*雪域之光%^&*心中的歌%^&*九寨之恋%^&*雪域魂%^&*香格里拉%^&*九寨情缘%^&*故乡恋%^&*
+songURLs http://www.xiami.com/song/47180%^&*http://www.xiami.com/song/47181%^&*http://www.xiami.com/song/47182%^&*http://www.xiami.com/song/47183%^&*http://www.xiami.com/song/47184%^&*http://www.xiami.com/song/47185%^&*http://www.xiami.com/song/47186%^&*http://www.xiami.com/song/47187%^&*http://www.xiami.com/song/47188%^&*http://www.xiami.com/song/47189%^&*http://www.xiami.com/song/47190%^&*http://www.xiami.com/song/47191%^&*http://www.xiami.com/song/47192%^&*http://www.xiami.com/song/47193%^&*

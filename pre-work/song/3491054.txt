@@ -1,0 +1,6 @@
+number 3491054
+name 不能这样活
+artist 曹玉荣%^&*
+artistURL http://www.xiami.com/artist/64%^&*
+album 来生缘
+albumURL http://www.xiami.com/album/220

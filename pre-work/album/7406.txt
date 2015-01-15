@@ -1,0 +1,7 @@
+number 7406
+name 萝拉
+artist 陈洁仪
+introduction 
+picture http://img.xiami.net/images/album/img90/1390/74061410844195.jpg
+songs 萝拉%^&*一个人的圆舞曲%^&*你酷%^&*他不适合你%^&*终于忘记了你的生日%^&*分不开%^&*出现%^&*手套情书%^&*Don&#039;t Let Me Down%^&*走过%^&*
+songURLs http://www.xiami.com/song/91454%^&*http://www.xiami.com/song/91455%^&*http://www.xiami.com/song/91456%^&*http://www.xiami.com/song/91457%^&*http://www.xiami.com/song/91458%^&*http://www.xiami.com/song/91459%^&*http://www.xiami.com/song/91460%^&*http://www.xiami.com/song/91461%^&*http://www.xiami.com/song/91462%^&*http://www.xiami.com/song/91463%^&*

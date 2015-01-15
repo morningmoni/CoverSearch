@@ -1,0 +1,7 @@
+number 340
+name 洪一平
+place China 中国大陆
+introduction 小档案&nbsp;生日：11月19日身高：1.80cm体重：70kg个性：乐观、幽默兴趣：跳舞、唱歌、看电影喜爱的运动：游泳、健身、打篮球喜爱的音乐： R&B;、pop rock、house喜爱的歌手：Craig David、dj sasha喜爱的乐团：maroon5最喜欢的颜色：蓝色、黑色音乐历程2001年 担任民族学院劲舞协会会长担任广州幻影舞队队长担任&ldquo;能见度&rdquo;乐队主唱2002年 广东高校巡回演出2002年 赴韩国进修舞蹈、音乐课程一年2003年 应邀参加华南理工大学慈善晚会担任特邀表演嘉宾应邀广州电视台参加其举办的迎新晚会做特邀表演嘉宾2004年 应邀参加广州各大公司艺术团的表演嘉宾担任王老吉艺术团的舞蹈编排2005年 担任中国电信DV大赛网络剧男一号2006年 2月14日单曲《单身》情人节全球首播2006年 单曲《单身》获得21cn网络最受欢迎歌曲评选第一
+picture http://img.xiami.net/images/artist/11994148365546.jpg
+albums 五千年%^&*尼罗河的眼泪%^&*圆月缘%^&*平步倾云%^&*单身(限量预售版)%^&*
+albumURLs http://www.xiami.com/album/172312%^&*http://www.xiami.com/album/1520%^&*http://www.xiami.com/album/1521%^&*http://www.xiami.com/album/1522%^&*http://www.xiami.com/album/1523%^&*

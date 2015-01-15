@@ -1,0 +1,7 @@
+number 10
+name 我没读书
+artist 阿弟仔
+introduction 
+picture http://img.xiami.net/images/album/img4/4/101413886604.jpg
+songs Intro%^&*我没读书%^&*你在叼位%^&*我在这%^&*找无人爱%^&*我是阿弟仔%^&*心爱的欧拖卖%^&*甘愿为你苦%^&*呒知影人%^&*醉生梦死%^&*
+songURLs http://www.xiami.com/song/113%^&*http://www.xiami.com/song/114%^&*http://www.xiami.com/song/115%^&*http://www.xiami.com/song/116%^&*http://www.xiami.com/song/117%^&*http://www.xiami.com/song/118%^&*http://www.xiami.com/song/119%^&*http://www.xiami.com/song/120%^&*http://www.xiami.com/song/121%^&*http://www.xiami.com/song/122%^&*

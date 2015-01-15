@@ -1,0 +1,7 @@
+number 32754
+name 北纬66度
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/327541366018129.jpg
+songs 看完烟火再回去%^&*男人女人%^&*手写爱%^&*我绝对不说我爱你%^&*爱人动物%^&*乐天市场%^&*飞行时光%^&*爱情·进站%^&*见过永远%^&*北纬六十六度%^&*
+songURLs http://www.xiami.com/song/390828%^&*http://www.xiami.com/song/390829%^&*http://www.xiami.com/song/390830%^&*http://www.xiami.com/song/390831%^&*http://www.xiami.com/song/390832%^&*http://www.xiami.com/song/390833%^&*http://www.xiami.com/song/390834%^&*http://www.xiami.com/song/390835%^&*http://www.xiami.com/song/390836%^&*http://www.xiami.com/song/390837%^&*

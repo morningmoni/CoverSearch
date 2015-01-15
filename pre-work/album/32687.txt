@@ -1,0 +1,7 @@
+number 32687
+name 双龙出海
+artist 陈国平
+introduction 
+picture http://img.xiami.net/images/album/img83/83/32687.jpg
+songs 方圆芳源 I%^&*方圆芳源 II%^&*方圆芳源 III%^&*双龙出海 I%^&*双龙出海 II%^&*来自地球　第一乐章＂气＂%^&*来自地球　第二乐章＂水＂%^&*来自地球　第三乐章＂土＂I%^&*来自地球　第三乐章＂土＂II%^&*来自地球　第三乐章＂土＂ III%^&*环声影变 I%^&*环声影变 II%^&*环声影变 III%^&*
+songURLs http://www.xiami.com/song/389593%^&*http://www.xiami.com/song/389594%^&*http://www.xiami.com/song/389595%^&*http://www.xiami.com/song/389596%^&*http://www.xiami.com/song/389597%^&*http://www.xiami.com/song/389598%^&*http://www.xiami.com/song/389599%^&*http://www.xiami.com/song/389600%^&*http://www.xiami.com/song/389601%^&*http://www.xiami.com/song/389602%^&*http://www.xiami.com/song/389603%^&*http://www.xiami.com/song/389604%^&*http://www.xiami.com/song/389605%^&*

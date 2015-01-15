@@ -1,0 +1,7 @@
+number 2550
+name 周美茵
+place Hongkong 香港
+introduction 周美茵，曾任职香港电台节目助理，后转至商业电台任职唱片骑师，并曾参与电影和廣告演出及TVB音乐节目「周末任你点」主持。于商业电台任职期间，推出过两张专辑。 现时她任职公关工作，并于香港电台第一台主持经典外语歌节目「恬淡情怀」。最为人熟识的歌曲有「谁在意」、「没有忘掉的面容」和「只因喜欢你」。
+picture http://img.xiami.net/images/artist/12060855295622.jpg
+albums 没有忘掉的面容%^&*谁在意%^&*
+albumURLs http://www.xiami.com/album/13845%^&*http://www.xiami.com/album/451209%^&*

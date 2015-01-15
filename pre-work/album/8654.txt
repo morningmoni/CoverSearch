@@ -1,0 +1,7 @@
+number 8654
+name 璇曲蔓地2
+artist 古璇
+introduction 
+picture http://img.xiami.net/images/album/img60/1560/8654.jpg
+songs 听妈妈讲那过去的事情%^&*打起手鼓唱起歌%^&*送别%^&*我爱你,塞北的雪%^&*飞吧,鸽子%^&*尼罗河畔的歌声%^&*驼玲%^&*小燕子%^&*我爱祖国的蓝天%^&*人说山西好风光%^&*小草%^&*潜海姑娘%^&*二月里来%^&*游子吟%^&*世世代代铭记毛主席的恩情%^&*
+songURLs http://www.xiami.com/song/107485%^&*http://www.xiami.com/song/107486%^&*http://www.xiami.com/song/107487%^&*http://www.xiami.com/song/107488%^&*http://www.xiami.com/song/107489%^&*http://www.xiami.com/song/107490%^&*http://www.xiami.com/song/107491%^&*http://www.xiami.com/song/107492%^&*http://www.xiami.com/song/107493%^&*http://www.xiami.com/song/107494%^&*http://www.xiami.com/song/107495%^&*http://www.xiami.com/song/107496%^&*http://www.xiami.com/song/107497%^&*http://www.xiami.com/song/107498%^&*http://www.xiami.com/song/107499%^&*

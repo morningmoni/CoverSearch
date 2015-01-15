@@ -1,0 +1,7 @@
+number 11880
+name 散热
+artist 汪佩蓉
+introduction 滚石国际超级预告，震撼乐坛火焰，挑战 1999女超新人。随心所欲全配备，高热能骇效果的超值音乐力，POWER DJ/舞林圣手必备舞曲 。首批限量精装版，加赠 '98全球视觉最眩电影 "刀锋战士 "VCD。精彩全纪录幕后大秘辛连续放送足足35分钟。
+picture http://img.xiami.net/images/album/img70/2170/118801389936314.jpg
+songs 散热%^&*散热 (Funky Beat Version Remix)%^&*散热 (House Version Remix)%^&*散热 (Euro-Electronic Version Remix)%^&*飞吻%^&*
+songURLs http://www.xiami.com/song/146167%^&*http://www.xiami.com/song/146168%^&*http://www.xiami.com/song/146169%^&*http://www.xiami.com/song/146170%^&*http://www.xiami.com/song/146171%^&*

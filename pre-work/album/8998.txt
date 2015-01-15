@@ -1,0 +1,6 @@
+number 8998
+name 她是谁
+artist 黄宝欣
+introduction picture http://img.xiami.net/images/album/img40/1640/89981334200318.jpg
+songs 她是谁%^&*恋爱猎人%^&*心事有谁知%^&*一见钟情的意外%^&*然后%^&*苦闷Bye Bye%^&*雨巷%^&*请勿贴身%^&*情浓原是痛%^&*灰姑娘%^&*Morning Call%^&*
+songURLs http://www.xiami.com/song/111694%^&*http://www.xiami.com/song/111695%^&*http://www.xiami.com/song/111696%^&*http://www.xiami.com/song/111697%^&*http://www.xiami.com/song/111698%^&*http://www.xiami.com/song/111699%^&*http://www.xiami.com/song/111700%^&*http://www.xiami.com/song/111701%^&*http://www.xiami.com/song/111702%^&*http://www.xiami.com/song/111703%^&*http://www.xiami.com/song/111704%^&*

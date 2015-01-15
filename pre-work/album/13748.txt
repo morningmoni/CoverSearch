@@ -1,0 +1,7 @@
+number 13748
+name 情系红楼梦
+artist 郑绪岚
+introduction 
+picture http://img.xiami.net/images/album/img30/2530/13748.jpg
+songs 引子%^&*葬花吟%^&*红豆曲%^&*枉凝眉%^&*紫菱洲歌%^&*聪明累%^&*叹香菱%^&*晴雯歌%^&*题帕三绝%^&*秋窗风雨夕%^&*分骨肉%^&*枉凝眉(伴奏)%^&*葬花吟(伴奏)%^&*
+songURLs http://www.xiami.com/song/169809%^&*http://www.xiami.com/song/169810%^&*http://www.xiami.com/song/169811%^&*http://www.xiami.com/song/169812%^&*http://www.xiami.com/song/169813%^&*http://www.xiami.com/song/169814%^&*http://www.xiami.com/song/169815%^&*http://www.xiami.com/song/169816%^&*http://www.xiami.com/song/169817%^&*http://www.xiami.com/song/169818%^&*http://www.xiami.com/song/169819%^&*http://www.xiami.com/song/169820%^&*http://www.xiami.com/song/169821%^&*

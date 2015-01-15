@@ -1,0 +1,6 @@
+number 366
+name 电视剧主题曲集
+artist 陈浩民
+introduction picture http://img.xiami.net/images/album/img0/3661288866300.jpg
+songs 我不放弃%^&*人龙传说%^&*取一念%^&*遇强愈强%^&*宠物小灵精%^&*数数小灵精%^&*
+songURLs http://www.xiami.com/song/4425%^&*http://www.xiami.com/song/4426%^&*http://www.xiami.com/song/4427%^&*http://www.xiami.com/song/4428%^&*http://www.xiami.com/song/4429%^&*http://www.xiami.com/song/4430%^&*

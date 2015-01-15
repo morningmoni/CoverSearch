@@ -1,0 +1,6 @@
+number 2085368828
+name 空中的梦想家
+artist 张惠妹
+introduction picture http://img.xiami.net/images/album/img50/2450/20853688281385368828.jpg
+songs 就爱电你(Rock Version)%^&*空中的梦想家(Love Version)%^&*就爱电你(Kid Version)%^&*空中的梦想家(Rock Version)%^&*就爱电你(Chorus Version)%^&*空中的梦想家(Dance Version)%^&*
+songURLs http://www.xiami.com/song/1772361998%^&*http://www.xiami.com/song/1772361999%^&*http://www.xiami.com/song/1772362000%^&*http://www.xiami.com/song/1772362001%^&*http://www.xiami.com/song/1772362002%^&*http://www.xiami.com/song/1772362003%^&*

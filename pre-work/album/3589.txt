@@ -1,0 +1,6 @@
+number 3589
+name 牵绊一生的爱
+artist 莫少聪
+introduction picture http://img.xiami.net/images/album/img50/750/3589.jpg
+songs 牵绊一生的爱%^&*放心不下的情人%^&*等你心回意转%^&*爱过以后%^&*你编织我的爱情%^&*愈陷愈深%^&*感情用事的人%^&*爱到这一晚%^&*把全部的爱给我%^&*爱不能再错%^&*
+songURLs http://www.xiami.com/song/44056%^&*http://www.xiami.com/song/44057%^&*http://www.xiami.com/song/44058%^&*http://www.xiami.com/song/44059%^&*http://www.xiami.com/song/44060%^&*http://www.xiami.com/song/44061%^&*http://www.xiami.com/song/44062%^&*http://www.xiami.com/song/44063%^&*http://www.xiami.com/song/44064%^&*http://www.xiami.com/song/44065%^&*

@@ -1,0 +1,7 @@
+number 10547
+name 情冷却
+artist 刘嘉玲
+introduction 
+picture http://img.xiami.net/images/album/img20/1920/105471312878461.jpg
+songs 情冷却%^&*不留余情%^&*装扮%^&*专情%^&*等待厮守一生%^&*占有%^&*为爱而逃%^&*作朋友就好%^&*猜忌%^&*忘了一切忘了我%^&*
+songURLs http://www.xiami.com/song/130182%^&*http://www.xiami.com/song/130183%^&*http://www.xiami.com/song/130184%^&*http://www.xiami.com/song/130185%^&*http://www.xiami.com/song/130186%^&*http://www.xiami.com/song/130187%^&*http://www.xiami.com/song/130188%^&*http://www.xiami.com/song/130189%^&*http://www.xiami.com/song/130190%^&*http://www.xiami.com/song/130191%^&*

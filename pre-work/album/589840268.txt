@@ -1,0 +1,7 @@
+number 589840268
+name 唱响海南精彩飞扬
+artist 阿正
+introduction 
+picture http://img.xiami.net/images/album/img14/14/5898402681389840268.jpg
+songs 爱的天真%^&*文笔峰%^&*地球妈妈%^&*唱响海南 精彩飞扬%^&*聊斋%^&*呀喏哒%^&*美酒力加%^&*我今年正好十八岁%^&*有神马了不起%^&*
+songURLs http://www.xiami.com/song/1772485334%^&*http://www.xiami.com/song/1772485335%^&*http://www.xiami.com/song/1772485336%^&*http://www.xiami.com/song/1772485337%^&*http://www.xiami.com/song/1772485338%^&*http://www.xiami.com/song/1772485339%^&*http://www.xiami.com/song/1772485340%^&*http://www.xiami.com/song/1772485341%^&*http://www.xiami.com/song/1772485342%^&*

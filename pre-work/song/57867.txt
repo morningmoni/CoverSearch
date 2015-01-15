@@ -1,0 +1,6 @@
+number 57867
+name 当一个男人碰上另一个女人
+artist 吴大卫%^&*
+artistURL http://www.xiami.com/artist/950%^&*
+album 飞行男人
+albumURL http://www.xiami.com/album/4780

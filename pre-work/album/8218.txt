@@ -1,0 +1,7 @@
+number 8218
+name 千古情
+artist 董文华
+introduction 董文华：1977年加入沈阳军区前进歌舞团。1984年底结婚，丈夫张楠。1987年，董文华以优异成绩考入解放军艺术学院，1989年，董文华从解放军艺术学院毕业后，进入总政歌舞团担任独唱演员。总政歌舞团一级演员，全国政协委员，中华全国青年联合会常委，中国音乐家协会会员，中国轻音乐家协会常务理事，中华海外联谊会理事，华东师范大学音乐系兼职教授曾是党的“十三大”代表。国家一级演员，她演唱的《十五的月亮》、《血染的风采》《望星空》《长城长》《春天的故事》等歌曲风靡全国，她的民族唱法和美声唱法技巧相结合，以演唱抒情歌曲而擅长，她音质纯净，音色甜美，声情并茂，富有较强的表现力和艺术感染力。
+picture http://img.xiami.net/images/album/img0/1500/82181324275083.jpg
+songs 孔子之歌%^&*相聚别离两依依%^&*雁南飞%^&*千古情%^&*望星空%^&*道路%^&*不朽的黄河%^&*十五的月亮%^&*春天的故事%^&*真情永远%^&*走进春天%^&*孔子之歌(伴奏音乐)%^&*
+songURLs http://www.xiami.com/song/102060%^&*http://www.xiami.com/song/102061%^&*http://www.xiami.com/song/102062%^&*http://www.xiami.com/song/102063%^&*http://www.xiami.com/song/102064%^&*http://www.xiami.com/song/102065%^&*http://www.xiami.com/song/102066%^&*http://www.xiami.com/song/102067%^&*http://www.xiami.com/song/102068%^&*http://www.xiami.com/song/102069%^&*http://www.xiami.com/song/102070%^&*http://www.xiami.com/song/102071%^&*

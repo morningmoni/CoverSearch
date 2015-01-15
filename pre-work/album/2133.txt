@@ -1,0 +1,6 @@
+number 2133
+name 一个梦
+artist 黎骏
+introduction picture http://img.xiami.net/images/pic/04/03/10100557954m_2.jpg
+songs 现在的爱情都背叛了永远%^&*爱情不是游戏%^&*有了你%^&*最怕听见自己在哭泣%^&*我有一个梦%^&*爱你一生不变%^&*对不起!我自私%^&*我在等你说爱我%^&*Oh Oh又是一天%^&*好运会继续来%^&*
+songURLs http://www.xiami.com/song/14224%^&*http://www.xiami.com/song/14225%^&*http://www.xiami.com/song/14226%^&*http://www.xiami.com/song/14227%^&*http://www.xiami.com/song/14228%^&*http://www.xiami.com/song/14229%^&*http://www.xiami.com/song/14230%^&*http://www.xiami.com/song/14231%^&*http://www.xiami.com/song/14232%^&*http://www.xiami.com/song/14233%^&*

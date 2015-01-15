@@ -1,0 +1,6 @@
+number 56482
+name 最爱的人
+artist 王中平%^&*
+artistURL http://www.xiami.com/artist/930%^&*
+album 等你
+albumURL http://www.xiami.com/album/4658

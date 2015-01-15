@@ -1,0 +1,7 @@
+number 4855
+name 爱之战
+artist 吴秀波
+introduction 
+picture http://img.xiami.net/images/album/img70/970/48551369652509.jpg
+songs 跳舞女孩%^&*爱之战%^&*昨夜听到花开的声音%^&*殉情%^&*抓不住的你%^&*感激你还能让我哭%^&*刻骨铭心%^&*让你爱上我是我的罪%^&*不属于我的宝贝%^&*保留纯真%^&*
+songURLs http://www.xiami.com/song/58758%^&*http://www.xiami.com/song/58759%^&*http://www.xiami.com/song/58760%^&*http://www.xiami.com/song/58761%^&*http://www.xiami.com/song/58762%^&*http://www.xiami.com/song/58763%^&*http://www.xiami.com/song/58764%^&*http://www.xiami.com/song/58765%^&*http://www.xiami.com/song/58766%^&*http://www.xiami.com/song/58767%^&*

@@ -1,0 +1,6 @@
+number 505
+name 巴郎仔
+artist 艾尔肯%^&*
+artistURL http://www.xiami.com/artist/16%^&*
+album 走出沙漠的刀郎
+albumURL http://www.xiami.com/album/42

@@ -1,0 +1,7 @@
+number 58
+name 我爱阿亮
+artist 卜学亮
+introduction 
+picture http://img.xiami.net/images/album/img21/21/581389176020.jpg
+songs 子曰%^&*我想做个好男人%^&*火车顶的心情%^&*恭喜发财歌%^&*小怜%^&*超级任务%^&*痛哭的人%^&*HOBO%^&*刻骨铭心%^&*动物的悲歌%^&*
+songURLs http://www.xiami.com/song/691%^&*http://www.xiami.com/song/692%^&*http://www.xiami.com/song/693%^&*http://www.xiami.com/song/694%^&*http://www.xiami.com/song/695%^&*http://www.xiami.com/song/696%^&*http://www.xiami.com/song/697%^&*http://www.xiami.com/song/698%^&*http://www.xiami.com/song/699%^&*http://www.xiami.com/song/700%^&*

@@ -1,0 +1,7 @@
+number 7798
+name 不经意
+artist 戴恩玲
+introduction 
+picture http://img.xiami.net/images/album/img70/1470/7798.jpg
+songs 查你的天使%^&*无痛分手%^&*不经意%^&*浓情咖啡%^&*爱心一百次%^&*查你的天使(Anna Met Karl Mix)%^&*
+songURLs http://www.xiami.com/song/95934%^&*http://www.xiami.com/song/95935%^&*http://www.xiami.com/song/95936%^&*http://www.xiami.com/song/95937%^&*http://www.xiami.com/song/95938%^&*http://www.xiami.com/song/95939%^&*

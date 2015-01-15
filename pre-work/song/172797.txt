@@ -1,0 +1,6 @@
+number 172797
+name 两个人的西洋棋
+artist 183Club%^&*
+artistURL http://www.xiami.com/artist/2590%^&*
+album 183Club 首张同名专辑
+albumURL http://www.xiami.com/album/13997

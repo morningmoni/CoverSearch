@@ -1,0 +1,6 @@
+number 1229
+name 中国足球战歌
+artist 群星%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BE%A4%E6%98%9F%^&*
+album 中国足球战歌
+albumURL http://www.xiami.com/album/105

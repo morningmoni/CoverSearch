@@ -1,0 +1,7 @@
+number 170872
+name 水晶音乐4 曹俊鸿是爱的魔法师
+artist 曹俊鸿
+introduction 
+picture http://img.xiami.net/images/album/img59/59/170872.jpg
+songs Forever in love%^&*Everything I do(I do it for you)%^&*Cinema Paradiso%^&*I&#039;ll always love you%^&*Heal the world%^&*When I fall in love%^&*Beauty and beast%^&*Can&#039;t help falling in love with you%^&*Tears in heaven%^&*Wind of change%^&*
+songURLs http://www.xiami.com/song/2110536%^&*http://www.xiami.com/song/2110537%^&*http://www.xiami.com/song/2110538%^&*http://www.xiami.com/song/2110539%^&*http://www.xiami.com/song/2110540%^&*http://www.xiami.com/song/2110541%^&*http://www.xiami.com/song/2110542%^&*http://www.xiami.com/song/2110543%^&*http://www.xiami.com/song/2110544%^&*http://www.xiami.com/song/2110545%^&*

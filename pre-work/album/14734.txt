@@ -1,0 +1,7 @@
+number 14734
+name 民歌甜
+artist 红苹果女子合唱组
+introduction 
+picture http://img.xiami.net/images/album/img0/2800/14734.jpg
+songs 瑶山乐%^&*羞答答的玫瑰静悄悄地开%^&*陌上归人%^&*请到天涯海角来%^&*花田错%^&*旧梦不须记%^&*小河淌水%^&*风中有朵雨做的云%^&*祝福%^&*茉莉花%^&*雨中的旋律%^&*万水千山总是情%^&*月亮走我也走%^&*柠檬树%^&*相认也是缘%^&*
+songURLs http://www.xiami.com/song/181584%^&*http://www.xiami.com/song/181585%^&*http://www.xiami.com/song/181586%^&*http://www.xiami.com/song/181587%^&*http://www.xiami.com/song/181588%^&*http://www.xiami.com/song/181589%^&*http://www.xiami.com/song/181590%^&*http://www.xiami.com/song/181591%^&*http://www.xiami.com/song/181592%^&*http://www.xiami.com/song/181593%^&*http://www.xiami.com/song/181594%^&*http://www.xiami.com/song/181595%^&*http://www.xiami.com/song/181596%^&*http://www.xiami.com/song/181597%^&*http://www.xiami.com/song/2128900%^&*

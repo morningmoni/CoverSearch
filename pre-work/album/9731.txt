@@ -1,0 +1,6 @@
+number 9731
+name 不再一样
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/9731.jpg
+songs 心痛的感觉%^&*离别之前%^&*前夕%^&*吃不消%^&*我是潇洒%^&*左邻右里%^&*不再一样%^&*激流%^&*不过是偶然%^&*破裂%^&*相见欢%^&*
+songURLs http://www.xiami.com/song/120273%^&*http://www.xiami.com/song/120274%^&*http://www.xiami.com/song/120275%^&*http://www.xiami.com/song/120276%^&*http://www.xiami.com/song/120277%^&*http://www.xiami.com/song/120278%^&*http://www.xiami.com/song/120279%^&*http://www.xiami.com/song/120280%^&*http://www.xiami.com/song/120281%^&*http://www.xiami.com/song/120282%^&*http://www.xiami.com/song/120283%^&*

@@ -1,0 +1,6 @@
+number 4423
+name 宠物小精灵
+artist 陈浩民%^&*
+artistURL http://www.xiami.com/artist/87%^&*
+album A Day With Benny
+albumURL http://www.xiami.com/album/365

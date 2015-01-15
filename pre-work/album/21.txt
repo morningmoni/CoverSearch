@@ -1,0 +1,7 @@
+number 21
+name 好花不常开
+artist 阿华
+introduction 
+picture http://img.xiami.net/images/album/img0/211281605683.jpg
+songs 好花不常开%^&*再点一支烟%^&*我爱你%^&*再见我的爱%^&*谁的眼泪%^&*等待%^&*也许%^&*坐台小姐%^&*你是否会想起我%^&*不要太完美%^&*
+songURLs http://www.xiami.com/song/279%^&*http://www.xiami.com/song/280%^&*http://www.xiami.com/song/281%^&*http://www.xiami.com/song/282%^&*http://www.xiami.com/song/283%^&*http://www.xiami.com/song/284%^&*http://www.xiami.com/song/285%^&*http://www.xiami.com/song/286%^&*http://www.xiami.com/song/287%^&*http://www.xiami.com/song/288%^&*

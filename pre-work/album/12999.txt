@@ -1,0 +1,7 @@
+number 12999
+name 十九岁的最后一天 生日快乐
+artist 伊能静
+introduction 伊能静的第二张专辑《十九岁的最后一天》，在1987 年推出的时候，奠定了她在流行乐坛中的才华美少女的地位。专辑中的歌曲大部分都由她亲自填词，造型也由她自己打造。特别一提的是这张专辑还是由已故的摇滚歌手薛岳亲自制作，更点名了十九岁的伊能静未来会在乐坛大放光芒。
+picture http://img.xiami.net/images/album/img90/2390/129991316568644.jpg
+songs 生日快乐%^&*十九岁的最后一天%^&*骄傲的面具%^&*爱的日记%^&*我们是最好的朋友%^&*加一些想像%^&*我累了%^&*三月的秘密%^&*带我去月亮%^&*我就是年轻%^&*
+songURLs http://www.xiami.com/song/159913%^&*http://www.xiami.com/song/159914%^&*http://www.xiami.com/song/159915%^&*http://www.xiami.com/song/159916%^&*http://www.xiami.com/song/159917%^&*http://www.xiami.com/song/159918%^&*http://www.xiami.com/song/159919%^&*http://www.xiami.com/song/159920%^&*http://www.xiami.com/song/159921%^&*http://www.xiami.com/song/159922%^&*

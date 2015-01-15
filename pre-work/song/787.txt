@@ -1,0 +1,6 @@
+number 787
+name 没钱没镭
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 我们一家都是人
+albumURL http://www.xiami.com/album/66

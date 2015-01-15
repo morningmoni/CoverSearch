@@ -1,0 +1,6 @@
+number 135025
+name 爱我的只有我
+artist 梅艳芳%^&*
+artistURL http://www.xiami.com/artist/2000%^&*
+album 歌之女
+albumURL http://www.xiami.com/album/10930

@@ -1,0 +1,7 @@
+number 4661
+name 天知道我爱你
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/46611375424185.jpg
+songs 天知道我爱你%^&*我要头也不回的走%^&*梦有多长有多远%^&*She La La的歌%^&*风与飞%^&*少了一边的月亮%^&*第二个太阳%^&*为我找个码头%^&*爱我所爱%^&*今夜最伤心的人%^&*
+songURLs http://www.xiami.com/song/56504%^&*http://www.xiami.com/song/56505%^&*http://www.xiami.com/song/56506%^&*http://www.xiami.com/song/56507%^&*http://www.xiami.com/song/56508%^&*http://www.xiami.com/song/56509%^&*http://www.xiami.com/song/56510%^&*http://www.xiami.com/song/56511%^&*http://www.xiami.com/song/56512%^&*http://www.xiami.com/song/56513%^&*

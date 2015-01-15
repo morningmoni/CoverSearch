@@ -1,0 +1,6 @@
+number 8652
+name 向经典宣战
+artist 古璇
+introduction picture http://img.xiami.net/images/album/img60/1560/8652.jpg
+songs 眼泪为谁流%^&*沉默的夜空%^&*走远路%^&*往事只能回味%^&*半梦半醒之间%^&*人生舞台%^&*一杯咖啡%^&*相逢在小树林%^&*丑小鸭%^&*沿着湖畔找你%^&*卖馄钝%^&*不会再回头%^&*
+songURLs http://www.xiami.com/song/107459%^&*http://www.xiami.com/song/107460%^&*http://www.xiami.com/song/107461%^&*http://www.xiami.com/song/107462%^&*http://www.xiami.com/song/107463%^&*http://www.xiami.com/song/107464%^&*http://www.xiami.com/song/107465%^&*http://www.xiami.com/song/107466%^&*http://www.xiami.com/song/107467%^&*http://www.xiami.com/song/107468%^&*http://www.xiami.com/song/107469%^&*http://www.xiami.com/song/107470%^&*

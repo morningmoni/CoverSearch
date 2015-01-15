@@ -1,0 +1,7 @@
+number 391501
+name 约会MV
+artist 梅艳芳%^&*黄耀明%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%85%E8%89%B3%E8%8A%B3%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E8%80%80%E6%98%8E%^&*
+album With
+albumURL http://www.xiami.com/album/10917

@@ -1,0 +1,6 @@
+number 2401
+name 爱在虚无飘渺间
+artist 蔡镇冲%^&*
+artistURL http://www.xiami.com/artist/52%^&*
+album 金曲会知音
+albumURL http://www.xiami.com/album/195

@@ -1,0 +1,7 @@
+number 9552
+name 心得精选
+artist 金海心
+introduction 
+picture http://img.xiami.net/images/album/img20/1720/9552.jpg
+songs 把耳朵叫醒%^&*毫无保留%^&*猫咪森林%^&*睡不着的海%^&*那么骄傲 (R&amp;B版)%^&*把鞋子甩掉%^&*红帆船%^&*翅膀%^&*可惜你不快乐%^&*情窦初开%^&*来不及%^&*心感觉%^&*胡思乱想%^&*与爱情有关%^&*过去%^&*天天%^&*
+songURLs http://www.xiami.com/song/384195%^&*http://www.xiami.com/song/384196%^&*http://www.xiami.com/song/384197%^&*http://www.xiami.com/song/384198%^&*http://www.xiami.com/song/384199%^&*http://www.xiami.com/song/384200%^&*http://www.xiami.com/song/384201%^&*http://www.xiami.com/song/384202%^&*http://www.xiami.com/song/384203%^&*http://www.xiami.com/song/384204%^&*http://www.xiami.com/song/384205%^&*http://www.xiami.com/song/384206%^&*http://www.xiami.com/song/384207%^&*http://www.xiami.com/song/384208%^&*http://www.xiami.com/song/384209%^&*http://www.xiami.com/song/384210%^&*

@@ -1,0 +1,7 @@
+number 32680
+name Night Groove
+artist 鲍比达
+introduction 
+picture http://img.xiami.net/images/album/img32/32/32680.jpg
+songs 01. Night City Drive%^&*Funk, Jazz &amp; Blues%^&*Giving You All My Love%^&*Heat Of The Night%^&*The Touch Of Words%^&*Will You Ever See Me Again%^&*I Know You Know%^&*Dark Alleys%^&*Late Night Drink%^&*Dreams And Fantasies%^&*When Dawn Comes%^&*
+songURLs http://www.xiami.com/song/389416%^&*http://www.xiami.com/song/389417%^&*http://www.xiami.com/song/389418%^&*http://www.xiami.com/song/389419%^&*http://www.xiami.com/song/389420%^&*http://www.xiami.com/song/389421%^&*http://www.xiami.com/song/389422%^&*http://www.xiami.com/song/389423%^&*http://www.xiami.com/song/389424%^&*http://www.xiami.com/song/389425%^&*http://www.xiami.com/song/389426%^&*

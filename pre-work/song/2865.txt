@@ -1,0 +1,6 @@
+number 2865
+name 苹果熟了
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 奔向爱的怀抱
+albumURL http://www.xiami.com/album/235

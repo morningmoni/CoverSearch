@@ -1,0 +1,7 @@
+number 1620
+name 洪百慧
+place Taiwan 台湾
+introduction 洪百慧，台语女歌手，1999年出道。个性：无厘头所以造就了一箩筐的糗事最爱听的音乐：英文歌、日语歌最欣赏的歌手：席林狄翁最难忘的经验：参加广播剧的演出,一句台词NG数十次愿望：有一天能参加戏剧的演出最爱吃的食物：超级肉食主义者最不爱吃的食物：青菜&nbsp;
+picture http://img.xiami.net/images/artistlogo/4/13864306055804.jpg
+albums 情歌百慧%^&*将阮爱一半%^&*台湾红．百慧%^&*寄袂到的情批%^&*忘情茶%^&*痴情%^&*伤心啥滋味%^&*女主角不是我%^&*多桑%^&*
+albumURLs http://www.xiami.com/album/1116278272%^&*http://www.xiami.com/album/162445049%^&*http://www.xiami.com/album/485057%^&*http://www.xiami.com/album/401340%^&*http://www.xiami.com/album/316938%^&*http://www.xiami.com/album/167440%^&*http://www.xiami.com/album/8946%^&*http://www.xiami.com/album/8947%^&*http://www.xiami.com/album/8948%^&*

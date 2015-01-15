@@ -1,0 +1,6 @@
+number 383405
+name Today
+artist 许茹芸%^&*
+artistURL http://www.xiami.com/artist/2330%^&*
+album 真爱无敌
+albumURL http://www.xiami.com/album/12580

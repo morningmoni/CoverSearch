@@ -1,0 +1,7 @@
+number 43787
+name 谢谢你MV
+artist 满江%^&*李绍继%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%BB%A1%E6%B1%9F%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%8E%E7%BB%8D%E7%BB%A7%^&*
+album 秘密花园
+albumURL http://www.xiami.com/album/3557

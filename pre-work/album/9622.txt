@@ -1,0 +1,7 @@
+number 9622
+name 情动
+artist 侃侃
+introduction 侃侃,从网络走下来的美女歌手.几年前红遍各地的<网络情缘>的原创者,也是中国的第一个网络歌手.她拥有一张精致耐看的五官,散发着江南女子的朦胧和神秘.本以为这样娇美的女子会有一付花瓶嗓子.但人不能以貌取声,侃侃打破了美女不会唱歌的观点.第一次听她唱歌的人有的会说她像田震,有的会说她像那英.而侃侃自己说,她谁也不像,自己就是自己,没有必要去模仿别人.其实仔细听她的歌,你会发现她的独特之处.每一个发音都是非常动听,非常干净.用心去听侃侃的歌其实是在净化自己的思想,给大脑和疲惫的心灵洗澡.那种声音是灵魂最深处,也是最能触动心弦的声音.侃侃唱歌听似有点拥懒,有点不经心的感觉,其实那恰是抒发情感的一种方式.她一直是在用心去演唱,用灵魂去演唱.
+picture http://img.xiami.net/images/album/img40/1740/96221328845843.jpg
+songs 大礼堂%^&*追%^&*蝴蝶%^&*逆水寒%^&*快乐不多%^&*冬眠%^&*爱开始%^&*生日圆舞%^&*感…%^&*这样活着%^&*声声慢%^&*
+songURLs http://www.xiami.com/song/119103%^&*http://www.xiami.com/song/119104%^&*http://www.xiami.com/song/119105%^&*http://www.xiami.com/song/119106%^&*http://www.xiami.com/song/119107%^&*http://www.xiami.com/song/119108%^&*http://www.xiami.com/song/119109%^&*http://www.xiami.com/song/119110%^&*http://www.xiami.com/song/119111%^&*http://www.xiami.com/song/119112%^&*http://www.xiami.com/song/119113%^&*

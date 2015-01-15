@@ -1,0 +1,7 @@
+number 2738
+name 惊天锣鼓
+artist 林曜
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10114168584m_2.jpg
+songs 龙腾虎跃%^&*将军得胜令%^&*满庭芳%^&*魂冲九宵%^&*夺丰收%^&*将军令%^&*闹元宵%^&*夜深沉%^&*喜迎春%^&*
+songURLs http://www.xiami.com/song/21596%^&*http://www.xiami.com/song/21597%^&*http://www.xiami.com/song/21598%^&*http://www.xiami.com/song/21599%^&*http://www.xiami.com/song/21600%^&*http://www.xiami.com/song/21601%^&*http://www.xiami.com/song/21602%^&*http://www.xiami.com/song/21603%^&*http://www.xiami.com/song/21604%^&*

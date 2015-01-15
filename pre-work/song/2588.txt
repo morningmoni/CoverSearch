@@ -1,0 +1,6 @@
+number 2588
+name 永不放弃
+artist 曹松章%^&*
+artistURL http://www.xiami.com/artist/60%^&*
+album 精选集
+albumURL http://www.xiami.com/album/211

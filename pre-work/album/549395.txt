@@ -1,0 +1,7 @@
+number 549395
+name 名字
+artist 曹松章
+introduction 
+picture http://img.xiami.net/images/album/img60/60/5493951350619779.jpg
+songs 伤心的丽莎%^&*告诉罗拉我爱她%^&*隔壁的爱莉丝%^&*贝丝%^&*苏珊妮%^&*苏珊！我的爱%^&*甜蜜的卡罗拉%^&*迪克和珍%^&*密雪儿%^&*女孩，你是我的歌%^&*
+songURLs http://www.xiami.com/song/1771386135%^&*http://www.xiami.com/song/1771386136%^&*http://www.xiami.com/song/1771386137%^&*http://www.xiami.com/song/1771386138%^&*http://www.xiami.com/song/1771386139%^&*http://www.xiami.com/song/1771386140%^&*http://www.xiami.com/song/1771386141%^&*http://www.xiami.com/song/1771386142%^&*http://www.xiami.com/song/1771386143%^&*http://www.xiami.com/song/1771386144%^&*

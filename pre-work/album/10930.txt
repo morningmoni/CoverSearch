@@ -1,0 +1,7 @@
+number 10930
+name 歌之女
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109301387341729.jpg
+songs Overture%^&*爱我的只有我%^&*爱没有余地%^&*Big Bad Girl%^&*相逢一笑%^&*明天当我想起你%^&*心全蚀%^&*爱情甜蜜债%^&*得不到怎么好%^&*歌之女%^&*
+songURLs http://www.xiami.com/song/135024%^&*http://www.xiami.com/song/135025%^&*http://www.xiami.com/song/135026%^&*http://www.xiami.com/song/135027%^&*http://www.xiami.com/song/135028%^&*http://www.xiami.com/song/135029%^&*http://www.xiami.com/song/135030%^&*http://www.xiami.com/song/135031%^&*http://www.xiami.com/song/135032%^&*http://www.xiami.com/song/135033%^&*

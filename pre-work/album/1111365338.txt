@@ -1,0 +1,6 @@
+number 1111365338
+name 经典重温2
+artist 陈浩德
+introduction picture http://img.xiami.net/images/album/img85/85/11113653381411365338.jpg
+songs 娇花翠蝶%^&*快乐伴侣%^&*榴莲飘香%^&*旧欢如梦%^&*禅院钟声%^&*相识也是缘份%^&*红豆相思%^&*畅饮在今宵%^&*海韵%^&*世事如棋%^&*思乡泪%^&*赌仔自叹%^&*
+songURLs http://www.xiami.com/song/1773557224%^&*http://www.xiami.com/song/1773557225%^&*http://www.xiami.com/song/1773557226%^&*http://www.xiami.com/song/1773557227%^&*http://www.xiami.com/song/1773557228%^&*http://www.xiami.com/song/1773557229%^&*http://www.xiami.com/song/1773557230%^&*http://www.xiami.com/song/1773557231%^&*http://www.xiami.com/song/1773557232%^&*http://www.xiami.com/song/1773557233%^&*http://www.xiami.com/song/1773557234%^&*http://www.xiami.com/song/1773557235%^&*

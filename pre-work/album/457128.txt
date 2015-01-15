@@ -1,0 +1,6 @@
+number 457128
+name 情变挂
+artist 慕钰华
+introduction picture http://img.xiami.net/images/album/img48/510848/1312510848.jpg
+songs 情变挂%^&*无你我抹活%^&*将真情来表示%^&*请问芳名%^&*好酒伴%^&*嫁妆%^&*秋风恋梦%^&*相思树%^&*想甲归暗瞑%^&*变色情%^&*
+songURLs http://www.xiami.com/song/1770389916%^&*http://www.xiami.com/song/1770389917%^&*http://www.xiami.com/song/1770389918%^&*http://www.xiami.com/song/1770389919%^&*http://www.xiami.com/song/1770389920%^&*http://www.xiami.com/song/1770389921%^&*http://www.xiami.com/song/1770389922%^&*http://www.xiami.com/song/1770389923%^&*http://www.xiami.com/song/1770389924%^&*http://www.xiami.com/song/1770389925%^&*

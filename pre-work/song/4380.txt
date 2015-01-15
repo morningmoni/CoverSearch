@@ -1,0 +1,6 @@
+number 4380
+name 携着你双手
+artist 陈浩德%^&*
+artistURL http://www.xiami.com/artist/85%^&*
+album 百花亭
+albumURL http://www.xiami.com/album/362

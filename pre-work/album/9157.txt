@@ -1,0 +1,6 @@
+number 9157
+name 一条冷颈巾
+artist 黄杏秀
+introduction picture http://img.xiami.net/images/pic/04/03/10090591837m_2.jpg
+songs 一条冷颈巾%^&*明日未必相聚%^&*风雨鍊真情%^&*爱河多苦恼%^&*不怕路遥远%^&*我爱春天%^&*路在你心中%^&*幽兰%^&*心中要爱就爱%^&*青山洗闷愁%^&*思亲%^&*
+songURLs http://www.xiami.com/song/113675%^&*http://www.xiami.com/song/113676%^&*http://www.xiami.com/song/113677%^&*http://www.xiami.com/song/113678%^&*http://www.xiami.com/song/113679%^&*http://www.xiami.com/song/113680%^&*http://www.xiami.com/song/113681%^&*http://www.xiami.com/song/113682%^&*http://www.xiami.com/song/113683%^&*http://www.xiami.com/song/113684%^&*http://www.xiami.com/song/113685%^&*

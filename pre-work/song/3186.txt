@@ -1,0 +1,6 @@
+number 3186
+name 疾风
+artist 郭富城%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%83%AD%E5%AF%8C%E5%9F%8E%^&*
+album 紫色的回忆
+albumURL http://www.xiami.com/album/257

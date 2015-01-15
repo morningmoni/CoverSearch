@@ -1,0 +1,6 @@
+number 698
+name HOBO
+artist 卜学亮%^&*
+artistURL http://www.xiami.com/artist/21%^&*
+album 我爱阿亮
+albumURL http://www.xiami.com/album/58

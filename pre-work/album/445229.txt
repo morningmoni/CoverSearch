@@ -1,0 +1,7 @@
+number 445229
+name 出运
+artist 陈雷
+introduction 
+picture http://img.xiami.net/images/album/img0/100/4452291336974778.jpg
+songs 出运%^&*重逢酒%^&*浪子心%^&*约定%^&*何苦再留恋%^&*爱的伤痕%^&*独一无二%^&*痴情的我%^&*心冷%^&*母子情泪%^&*
+songURLs http://www.xiami.com/song/1770260185%^&*http://www.xiami.com/song/1770260186%^&*http://www.xiami.com/song/1770260187%^&*http://www.xiami.com/song/1770260188%^&*http://www.xiami.com/song/1770260189%^&*http://www.xiami.com/song/1770260190%^&*http://www.xiami.com/song/1770260191%^&*http://www.xiami.com/song/1770260192%^&*http://www.xiami.com/song/1770260193%^&*http://www.xiami.com/song/1770260194%^&*

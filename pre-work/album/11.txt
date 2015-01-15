@@ -1,0 +1,7 @@
+number 11
+name 小城故事 电视剧原声音乐大碟
+artist 阿杜
+introduction 
+picture http://img.xiami.net/images/album/img5/5/11.jpg
+songs 惠安之春(演唱会版)%^&*惠安之春%^&*太阳泪珠%^&*解语花%^&*我已经爱上你%^&*为青春喝彩%^&*一生一世情不渝%^&*惠安之春(演唱会版伴奏)%^&*惠安之春(录音室版伴奏)%^&*太阳泪珠(伴奏)%^&*解语花(伴奏)%^&*我已经爱上你(伴奏)%^&*为青春喝彩(伴奏)%^&*一生一世情不渝(伴奏)%^&*
+songURLs http://www.xiami.com/song/123%^&*http://www.xiami.com/song/124%^&*http://www.xiami.com/song/125%^&*http://www.xiami.com/song/126%^&*http://www.xiami.com/song/127%^&*http://www.xiami.com/song/128%^&*http://www.xiami.com/song/129%^&*http://www.xiami.com/song/130%^&*http://www.xiami.com/song/131%^&*http://www.xiami.com/song/132%^&*http://www.xiami.com/song/133%^&*http://www.xiami.com/song/134%^&*http://www.xiami.com/song/135%^&*http://www.xiami.com/song/136%^&*

@@ -1,0 +1,6 @@
+number 102568
+name 爱曾经来过
+artist 范文芳%^&*
+artistURL http://www.xiami.com/artist/1510%^&*
+album 一个人生活
+albumURL http://www.xiami.com/album/8255

@@ -1,0 +1,6 @@
+number 152225
+name Angle (抒情版)
+artist 辛夷%^&*
+artistURL http://www.xiami.com/artist/2310%^&*
+album Angel
+albumURL http://www.xiami.com/album/12383

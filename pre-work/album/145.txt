@@ -1,0 +1,7 @@
+number 145
+name 蔡国权精选
+artist 蔡国权
+introduction 蔡国权成就最丰盛的一年是85年，为别人写了不少好歌，自己也出了三张唱片，其中《蔡国权精选》更是一张白金唱片。
+picture http://img.xiami.net/images/album/img43/43/1451334021546.jpg
+songs 我的爱神%^&*无心快语%^&*追忆%^&*不应再犹豫%^&*长夜%^&*是谁在我耳边唱%^&*海底针%^&*爱情傀儡%^&*一生爱你一个%^&*寒傲似冰%^&*童年%^&*歌声背后%^&*再见也许不再会%^&*
+songURLs http://www.xiami.com/song/1785%^&*http://www.xiami.com/song/1786%^&*http://www.xiami.com/song/1787%^&*http://www.xiami.com/song/1788%^&*http://www.xiami.com/song/1789%^&*http://www.xiami.com/song/1790%^&*http://www.xiami.com/song/1791%^&*http://www.xiami.com/song/1792%^&*http://www.xiami.com/song/1793%^&*http://www.xiami.com/song/1794%^&*http://www.xiami.com/song/1795%^&*http://www.xiami.com/song/1796%^&*http://www.xiami.com/song/1797%^&*

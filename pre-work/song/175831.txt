@@ -1,0 +1,6 @@
+number 175831
+name 罗蕾莱
+artist 北京天使合唱团%^&*
+artistURL http://www.xiami.com/artist/2650%^&*
+album 野玫瑰
+albumURL http://www.xiami.com/album/14240

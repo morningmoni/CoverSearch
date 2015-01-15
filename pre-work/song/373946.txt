@@ -1,0 +1,6 @@
+number 373946
+name 一阵风MV
+artist 乱弹阿翔%^&*
+artistURL http://www.xiami.com/artist/160%^&*
+album 一阵风
+albumURL http://www.xiami.com/album/679

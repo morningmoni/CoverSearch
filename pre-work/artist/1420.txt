@@ -1,0 +1,7 @@
+number 1420
+name 陈圣萍
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11982065175095.jpg
+albums 都是我把你想得太好%^&*
+albumURLs http://www.xiami.com/album/7584%^&*

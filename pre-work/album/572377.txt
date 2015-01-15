@@ -1,0 +1,6 @@
+number 572377
+name 奚秀兰演唱会专辑
+artist 奚秀兰
+introduction picture http://img.xiami.net/images/album/img70/2270/5723771358409792.jpg
+songs 我的祖国%^&*船歌%^&*香格里拉%^&*龙的传人%^&*苏州河边%^&*礼貌歌%^&*天涯歌女%^&*月儿弯弯照九州%^&*酒干倘卖无%^&*夏日的黃昏%^&*渔家女%^&*望郎归%^&*
+songURLs http://www.xiami.com/song/1771614256%^&*http://www.xiami.com/song/1771614257%^&*http://www.xiami.com/song/1771614258%^&*http://www.xiami.com/song/1771614259%^&*http://www.xiami.com/song/1771614260%^&*http://www.xiami.com/song/1771614261%^&*http://www.xiami.com/song/1771614262%^&*http://www.xiami.com/song/1771614263%^&*http://www.xiami.com/song/1771614264%^&*http://www.xiami.com/song/1771614265%^&*http://www.xiami.com/song/1771614266%^&*http://www.xiami.com/song/1771614267%^&*

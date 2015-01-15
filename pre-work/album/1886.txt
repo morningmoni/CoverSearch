@@ -1,0 +1,7 @@
+number 1886
+name 纪宏仁的舞夜电话
+artist 纪宏仁
+introduction 纪宏仁精选辑1 :纪宏仁的舞夜电话
+picture http://img.xiami.net/images/album/img30/430/18861398487850.jpg
+songs 音乐盒%^&*夜深了%^&*柠檬汁%^&*午夜电话%^&*亚热带%^&*回魂曲%^&*柠檬雨%^&*怪我自己%^&*紫外线%^&*四月三日%^&*太多太多%^&*那是英雄%^&*音乐盒II%^&*
+songURLs http://www.xiami.com/song/35458%^&*http://www.xiami.com/song/35459%^&*http://www.xiami.com/song/35460%^&*http://www.xiami.com/song/35461%^&*http://www.xiami.com/song/35462%^&*http://www.xiami.com/song/35463%^&*http://www.xiami.com/song/35464%^&*http://www.xiami.com/song/35465%^&*http://www.xiami.com/song/35466%^&*http://www.xiami.com/song/35467%^&*http://www.xiami.com/song/35468%^&*http://www.xiami.com/song/35469%^&*http://www.xiami.com/song/35470%^&*

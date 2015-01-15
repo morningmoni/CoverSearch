@@ -1,0 +1,6 @@
+number 426
+name 哥哥当兵走(合唱)
+artist 阿振%^&*
+artistURL http://www.xiami.com/artist/13%^&*
+album 兵心
+albumURL http://www.xiami.com/album/36

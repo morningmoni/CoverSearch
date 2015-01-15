@@ -1,0 +1,6 @@
+number 57088
+name 似曾相识
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 清晨
+albumURL http://www.xiami.com/album/4715

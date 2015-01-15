@@ -1,0 +1,6 @@
+number 322413
+name 真心话
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/3224131344575949.jpg
+songs 打不开的门等不到的人%^&*刻骨的爱%^&*今晚撒点野好吗%^&*你的吻是一个句点吗%^&*背叛%^&*有时真心话让人害怕%^&*当爱穿过时光隧道%^&*虽然我很想哭%^&*我是你的人鱼公主%^&*我总是不懂拒绝%^&*
+songURLs http://www.xiami.com/song/3588756%^&*http://www.xiami.com/song/3588757%^&*http://www.xiami.com/song/3588758%^&*http://www.xiami.com/song/3588759%^&*http://www.xiami.com/song/3588760%^&*http://www.xiami.com/song/3588761%^&*http://www.xiami.com/song/3588762%^&*http://www.xiami.com/song/3588763%^&*http://www.xiami.com/song/3588764%^&*http://www.xiami.com/song/3588765%^&*

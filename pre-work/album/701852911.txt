@@ -1,0 +1,7 @@
+number 701852911
+name 相思
+artist 付娜
+introduction 弹筝奋逸响，新声妙入神。群声之主，众乐之师，百转千回，悠悠雅雅，古筝带给我们的静谧，让我们在喧嚣的都市中寻得一方宁静。聆听之中，让我们忘记烦扰，神闲气定。
+picture http://img.xiami.net/images/album/img40/1540/7018529111401852912.jpg
+songs 顺流逆流%^&*枕着你的名字入眠%^&*想把我唱给你听%^&*新小城故事%^&*偏偏喜欢你%^&*明月千里寄相思%^&*城里的月光%^&*一场游戏一场梦%^&*梨涡浅笑%^&*月朦胧鸟朦胧%^&*弯弯的月亮%^&*烟雨蒙蒙%^&*
+songURLs http://www.xiami.com/song/1773241409%^&*http://www.xiami.com/song/1773241410%^&*http://www.xiami.com/song/1773241411%^&*http://www.xiami.com/song/1773241412%^&*http://www.xiami.com/song/1773241413%^&*http://www.xiami.com/song/1773241414%^&*http://www.xiami.com/song/1773241415%^&*http://www.xiami.com/song/1773241416%^&*http://www.xiami.com/song/1773241417%^&*http://www.xiami.com/song/1773241418%^&*http://www.xiami.com/song/1773241419%^&*http://www.xiami.com/song/1773241420%^&*

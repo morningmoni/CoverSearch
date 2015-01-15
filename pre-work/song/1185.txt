@@ -1,0 +1,6 @@
+number 1185
+name 轻轻地告诉你
+artist 杨钰莹%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%A8%E9%92%B0%E8%8E%B9%^&*
+album 毕晓世的音乐之旅 全心作品集
+albumURL http://www.xiami.com/album/102

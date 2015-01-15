@@ -1,0 +1,6 @@
+number 3435510
+name 习惯了MV
+artist 林心如%^&*
+artistURL http://www.xiami.com/artist/1890%^&*
+album 新如主义
+albumURL http://www.xiami.com/album/310358

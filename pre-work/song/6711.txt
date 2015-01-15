@@ -1,0 +1,6 @@
+number 6711
+name 山峰之巅
+artist 陈旭%^&*
+artistURL http://www.xiami.com/artist/128%^&*
+album 告诉我你还爱我吗
+albumURL http://www.xiami.com/album/555

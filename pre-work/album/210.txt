@@ -1,0 +1,6 @@
+number 210
+name 水晶杂货店-玻璃音符I
+artist 曹俊鸿
+introduction picture http://img.xiami.net/images/album/img59/59/2101406193005.jpg
+songs 也算是奇迹%^&*是爱人还是朋友%^&*下一个男人也许会更好(演奏曲)%^&*只有分离%^&*风的一生(演奏曲)%^&*太阳一样%^&*雪在烧%^&*帘后%^&*只好放你行%^&*是爱人还是朋友(演奏曲)%^&*
+songURLs http://www.xiami.com/song/2569%^&*http://www.xiami.com/song/2570%^&*http://www.xiami.com/song/2571%^&*http://www.xiami.com/song/2572%^&*http://www.xiami.com/song/2573%^&*http://www.xiami.com/song/2574%^&*http://www.xiami.com/song/2575%^&*http://www.xiami.com/song/2576%^&*http://www.xiami.com/song/2577%^&*http://www.xiami.com/song/2578%^&*

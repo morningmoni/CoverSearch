@@ -1,0 +1,6 @@
+number 2549854
+name 弹一支凉凉的歌
+artist 洪邵轩%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B4%AA%E9%82%B5%E8%BD%A9%^&*
+album 我们的歌在哪里
+albumURL http://www.xiami.com/album/215713

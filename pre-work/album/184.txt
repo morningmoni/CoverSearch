@@ -1,0 +1,6 @@
+number 184
+name 蔡兴麟 同名专辑
+artist 蔡兴麟
+introduction picture http://img.xiami.net/images/album/img49/49/184.jpg
+songs 为了你·为了我%^&*伤心约会%^&*真的想你%^&*像你这般的温柔%^&*让我流入你的生命%^&*原来%^&*寂寞就是默默为你狂%^&*不寄的信%^&*只为你%^&*离开情网%^&*
+songURLs http://www.xiami.com/song/2250%^&*http://www.xiami.com/song/2251%^&*http://www.xiami.com/song/2252%^&*http://www.xiami.com/song/2253%^&*http://www.xiami.com/song/2254%^&*http://www.xiami.com/song/2255%^&*http://www.xiami.com/song/2256%^&*http://www.xiami.com/song/2257%^&*http://www.xiami.com/song/2258%^&*http://www.xiami.com/song/2259%^&*

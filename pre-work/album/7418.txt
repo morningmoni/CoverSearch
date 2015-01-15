@@ -1,0 +1,7 @@
+number 7418
+name 有你爱过
+artist 陈洁仪
+introduction 1998年5月，推出第二张粤语专辑《有你爱过》，第一主打为雷颂德作曲的《有你爱过我》，第二主打为《转弯抹角》，第三主打为《冰山一角》，第四主打为《伤爱》。同时此专辑的星马特别版还收录《迷信》国语版《看月亮》及《精挑细选》国语版《开车上路》，这两首歌分别是新加坡新视电视连续剧《欲望街车》的主题曲及插曲。
+picture http://img.xiami.net/images/album/img90/1390/74181410844433.jpg
+songs 有你爱过我%^&*转弯抹角%^&*捉迷藏%^&*好说话%^&*冰山一角%^&*神奇%^&*伤爱%^&*迷信%^&*等我说爱你%^&*精挑细选%^&*
+songURLs http://www.xiami.com/song/91585%^&*http://www.xiami.com/song/91586%^&*http://www.xiami.com/song/91587%^&*http://www.xiami.com/song/91588%^&*http://www.xiami.com/song/91589%^&*http://www.xiami.com/song/91590%^&*http://www.xiami.com/song/91591%^&*http://www.xiami.com/song/91592%^&*http://www.xiami.com/song/91593%^&*http://www.xiami.com/song/91594%^&*

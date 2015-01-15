@@ -1,0 +1,7 @@
+number 2800
+name 红苹果女子合唱组
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/12064334495146.jpg
+albums 天籁%^&*民歌甜·奥运特别版%^&*极度烧Ⅱ%^&*民歌甜%^&*桃花朵朵开%^&*昨天·今天·下雨天%^&*
+albumURLs http://www.xiami.com/album/473401%^&*http://www.xiami.com/album/474356%^&*http://www.xiami.com/album/14733%^&*http://www.xiami.com/album/14734%^&*http://www.xiami.com/album/14735%^&*http://www.xiami.com/album/14736%^&*

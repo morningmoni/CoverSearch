@@ -1,0 +1,6 @@
+number 2448
+name 未来
+artist 曹阿咏%^&*
+artistURL http://www.xiami.com/artist/55%^&*
+album 最新歌曲精选
+albumURL http://www.xiami.com/album/199

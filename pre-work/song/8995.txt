@@ -1,0 +1,6 @@
+number 8995
+name 安静
+artist 许志安%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%AE%B8%E5%BF%97%E5%AE%89%^&*
+album Joey Music Factory
+albumURL http://www.xiami.com/album/739

@@ -1,0 +1,7 @@
+number 6652
+name 八度空间
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/66521387132541.jpg
+songs 半兽人%^&*半岛铁盒%^&*暗号%^&*龙拳%^&*火车叨位去%^&*分裂（离开）%^&*爷爷泡的茶%^&*回到过去%^&*米兰的小铁匠%^&*最后的战役%^&*
+songURLs http://www.xiami.com/song/376025%^&*http://www.xiami.com/song/376026%^&*http://www.xiami.com/song/376027%^&*http://www.xiami.com/song/376028%^&*http://www.xiami.com/song/376029%^&*http://www.xiami.com/song/376030%^&*http://www.xiami.com/song/376031%^&*http://www.xiami.com/song/376032%^&*http://www.xiami.com/song/376033%^&*http://www.xiami.com/song/376034%^&*

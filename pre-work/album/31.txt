@@ -1,0 +1,7 @@
+number 31
+name 戏梦
+artist 阿木
+introduction 
+picture http://img.xiami.net/images/album/img0/311282209731.jpg
+songs 隐形的翅膀%^&*香水有毒%^&*爱情复兴%^&*爸爸妈妈%^&*戏梦%^&*曾经最美%^&*一直很安静%^&*上海滩%^&*紫藤花%^&*一剪梅%^&*如果没有你%^&*不要用我的爱来伤害我%^&*
+songURLs http://www.xiami.com/song/369%^&*http://www.xiami.com/song/370%^&*http://www.xiami.com/song/371%^&*http://www.xiami.com/song/372%^&*http://www.xiami.com/song/373%^&*http://www.xiami.com/song/374%^&*http://www.xiami.com/song/375%^&*http://www.xiami.com/song/376%^&*http://www.xiami.com/song/377%^&*http://www.xiami.com/song/378%^&*http://www.xiami.com/song/379%^&*http://www.xiami.com/song/380%^&*

@@ -1,0 +1,6 @@
+number 1771829713
+name 每天一首歌电影《天生一对》插曲
+artist 侧田%^&*
+artistURL http://www.xiami.com/artist/65%^&*
+album 每天一首歌
+albumURL http://www.xiami.com/album/566687179

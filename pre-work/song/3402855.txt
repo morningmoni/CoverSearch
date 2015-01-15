@@ -1,0 +1,6 @@
+number 3402855
+name 坎站MV
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 伤情过路人
+albumURL http://www.xiami.com/album/307664

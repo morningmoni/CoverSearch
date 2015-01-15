@@ -1,0 +1,6 @@
+number 3592
+name 半个情人
+artist 莫少聪
+introduction picture http://img.xiami.net/images/album/img50/750/35921394010295.jpg
+songs 半个情人%^&*乖乖的回家%^&*Someday%^&*唱给一个人%^&*梦寐以求%^&*你的眼读我一生%^&*爱到看见自己错%^&*欠你一个吻%^&*记住你的笑%^&*你还在哭吗%^&*
+songURLs http://www.xiami.com/song/44086%^&*http://www.xiami.com/song/44087%^&*http://www.xiami.com/song/44088%^&*http://www.xiami.com/song/44089%^&*http://www.xiami.com/song/44090%^&*http://www.xiami.com/song/44091%^&*http://www.xiami.com/song/44092%^&*http://www.xiami.com/song/44093%^&*http://www.xiami.com/song/44094%^&*http://www.xiami.com/song/44095%^&*

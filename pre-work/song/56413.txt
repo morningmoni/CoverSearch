@@ -1,0 +1,7 @@
+number 56413
+name 我们的那一年
+artist 王中平%^&*苏儿真%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%8E%8B%E4%B8%AD%E5%B9%B3%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%8B%8F%E5%84%BF%E7%9C%9F%^&*
+album 我们的那一年
+albumURL http://www.xiami.com/album/4652

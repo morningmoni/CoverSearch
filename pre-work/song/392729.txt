@@ -1,0 +1,6 @@
+number 392729
+name 奈斯男孩
+artist 曹格%^&*
+artistURL http://www.xiami.com/artist/58%^&*
+album Super Sunshine
+albumURL http://www.xiami.com/album/32908

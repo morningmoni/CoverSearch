@@ -1,0 +1,6 @@
+number 323176
+name 心甘情愿
+artist 梁雁翎
+introduction picture http://img.xiami.net/images/album/img40/1840/3231761238056992.jpg
+songs 心甘情愿%^&*我和你%^&*情爱%^&*忘了吧%^&*让爱的感觉回来%^&*谁也没有赢%^&*说走就走%^&*遗忘过去%^&*我想一定有人比你更爱我%^&*寂寞的时候想想我%^&*
+songURLs http://www.xiami.com/song/3598777%^&*http://www.xiami.com/song/3598778%^&*http://www.xiami.com/song/3598779%^&*http://www.xiami.com/song/3598780%^&*http://www.xiami.com/song/3598781%^&*http://www.xiami.com/song/3598782%^&*http://www.xiami.com/song/3598783%^&*http://www.xiami.com/song/3598784%^&*http://www.xiami.com/song/3598785%^&*http://www.xiami.com/song/3598786%^&*

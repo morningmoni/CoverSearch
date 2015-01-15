@@ -1,0 +1,6 @@
+number 1194
+name 让我再唱一首歌MV
+artist 韩晓%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%9F%A9%E6%99%93%^&*
+album 毕晓世的音乐之旅 全心作品集
+albumURL http://www.xiami.com/album/102

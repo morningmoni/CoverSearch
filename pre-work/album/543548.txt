@@ -1,0 +1,6 @@
+number 543548
+name 爱是人世间唯一的永恒
+artist 陈良泉
+introduction picture http://img.xiami.net/images/album/img4/104/5435481348119673.jpg
+songs 黑夜的泪珠%^&*某一个早晨%^&*爱是人世间唯一的永恒%^&*想要忘了你%^&*爱人不见了%^&*午夜的故事%^&*爱情的漩涡%^&*纠缠的雨%^&*说的不是时候%^&*你侬我侬%^&*与你共舞%^&*最爱是你%^&*
+songURLs http://www.xiami.com/song/1771326845%^&*http://www.xiami.com/song/1771326846%^&*http://www.xiami.com/song/1771326847%^&*http://www.xiami.com/song/1771326848%^&*http://www.xiami.com/song/1771326849%^&*http://www.xiami.com/song/1771326850%^&*http://www.xiami.com/song/1771326851%^&*http://www.xiami.com/song/1771326852%^&*http://www.xiami.com/song/1771326853%^&*http://www.xiami.com/song/1771326854%^&*http://www.xiami.com/song/1771326855%^&*http://www.xiami.com/song/1771326856%^&*

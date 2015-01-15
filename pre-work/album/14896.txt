@@ -1,0 +1,7 @@
+number 14896
+name 那个季节里的歌1
+artist 刘罡
+introduction 
+picture http://img.xiami.net/images/pic/04/03/10099564147m_2.jpg
+songs 最浪漫的事%^&*让我欢喜让我忧%^&*记事本%^&*梦醒时分%^&*吻和泪%^&*别怕我伤心%^&*冰雨%^&*我等到花儿也谢了%^&*至少还有你%^&*伤心太平洋%^&*我终于失去了你%^&*月亮惹的祸%^&*为什么你背着我爱别人%^&*
+songURLs http://www.xiami.com/song/183255%^&*http://www.xiami.com/song/183256%^&*http://www.xiami.com/song/183257%^&*http://www.xiami.com/song/183258%^&*http://www.xiami.com/song/183259%^&*http://www.xiami.com/song/183260%^&*http://www.xiami.com/song/183261%^&*http://www.xiami.com/song/183262%^&*http://www.xiami.com/song/183263%^&*http://www.xiami.com/song/183264%^&*http://www.xiami.com/song/183265%^&*http://www.xiami.com/song/183266%^&*http://www.xiami.com/song/183267%^&*

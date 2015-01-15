@@ -1,0 +1,6 @@
+number 57102
+name 破晓时刻
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 古月照今尘
+albumURL http://www.xiami.com/album/4717

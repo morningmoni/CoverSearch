@@ -1,0 +1,7 @@
+number 13313
+name 美梦
+artist 张米亚
+introduction 
+picture http://img.xiami.net/images/album/img60/2460/13313.jpg
+songs July 26th%^&*Sleep Tight%^&*First Spring Day%^&*Second Chance%^&*Night Song%^&*Waiting%^&*Secret Dream%^&*Remember When%^&*Sweet Dreams%^&*Angel Hair%^&*Blue Lantern%^&*Loving The Unknown%^&*No Return%^&*Silent Song%^&*
+songURLs http://www.xiami.com/song/163832%^&*http://www.xiami.com/song/163833%^&*http://www.xiami.com/song/163834%^&*http://www.xiami.com/song/163835%^&*http://www.xiami.com/song/163836%^&*http://www.xiami.com/song/163837%^&*http://www.xiami.com/song/163838%^&*http://www.xiami.com/song/163839%^&*http://www.xiami.com/song/163840%^&*http://www.xiami.com/song/163841%^&*http://www.xiami.com/song/163842%^&*http://www.xiami.com/song/163843%^&*http://www.xiami.com/song/163844%^&*http://www.xiami.com/song/163845%^&*

@@ -1,0 +1,6 @@
+number 12106
+name 解放
+artist 韦绮姗
+introduction picture http://img.xiami.net/images/album/img20/2220/121061418974222.jpg
+songs 女人梦%^&*金色%^&*你我他%^&*玻璃心%^&*再走近%^&*解放%^&*当爱变习惯%^&*一晚六晚七晚%^&*我疯我痴%^&*迷情%^&*
+songURLs http://www.xiami.com/song/148937%^&*http://www.xiami.com/song/148938%^&*http://www.xiami.com/song/148939%^&*http://www.xiami.com/song/148940%^&*http://www.xiami.com/song/148941%^&*http://www.xiami.com/song/148942%^&*http://www.xiami.com/song/148943%^&*http://www.xiami.com/song/148944%^&*http://www.xiami.com/song/148945%^&*http://www.xiami.com/song/148946%^&*

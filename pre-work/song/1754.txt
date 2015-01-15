@@ -1,0 +1,6 @@
+number 1754
+name 飘忽的爱
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 梦的预言
+albumURL http://www.xiami.com/album/141

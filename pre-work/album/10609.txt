@@ -1,0 +1,7 @@
+number 10609
+name 到处乱走
+artist 刘若英
+introduction 
+picture http://img.xiami.net/images/album/img30/1930/106091394677273.jpg
+songs 到处乱走%^&*爱人说话%^&*门的声音(演奏)%^&*墨镜%^&*小精灵%^&*玫瑰天空%^&*失恋 PARTY%^&*阁楼%^&*门%^&*H.K.%^&*
+songURLs http://www.xiami.com/song/130868%^&*http://www.xiami.com/song/130869%^&*http://www.xiami.com/song/130870%^&*http://www.xiami.com/song/130871%^&*http://www.xiami.com/song/130872%^&*http://www.xiami.com/song/130873%^&*http://www.xiami.com/song/130874%^&*http://www.xiami.com/song/130875%^&*http://www.xiami.com/song/130876%^&*http://www.xiami.com/song/130877%^&*

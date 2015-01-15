@@ -1,0 +1,7 @@
+number 14
+name 阿正
+place 内地
+introduction 
+picture http://img.xiami.net/images/artist/67.jpg
+albums 舞动记忆%^&*我想要%^&*唱响海南精彩飞扬%^&*牵手%^&*我多想%^&*给力%^&*我今年正好十八岁%^&*
+albumURLs http://www.xiami.com/album/109823216%^&*http://www.xiami.com/album/496252419%^&*http://www.xiami.com/album/589840268%^&*http://www.xiami.com/album/1384507450%^&*http://www.xiami.com/album/372130848%^&*http://www.xiami.com/album/555337%^&*http://www.xiami.com/album/37%^&*

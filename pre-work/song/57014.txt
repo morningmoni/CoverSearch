@@ -1,0 +1,6 @@
+number 57014
+name 曾经为爱
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 不让你看见我哭泣
+albumURL http://www.xiami.com/album/4707

@@ -1,0 +1,6 @@
+number 4155
+name 爱的箴言
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱II
+albumURL http://www.xiami.com/album/342

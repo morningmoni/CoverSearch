@@ -1,0 +1,7 @@
+number 3112
+name 天碟大赏
+artist 刘文正
+introduction 
+picture http://img.xiami.net/images/album/img70/670/3112.jpg
+songs 小雨打在我身上%^&*诺言%^&*若是你在我身边%^&*不要告别%^&*睡莲%^&*奈何%^&*闪亮的日子%^&*喜气洋洋%^&*可爱的女孩%^&*风儿轻轻吹%^&*为青春欢唱%^&*寻%^&*金色大地%^&*星语%^&*浮萍%^&*绿色大地%^&*沉思%^&*海誓%^&*
+songURLs http://www.xiami.com/song/38301%^&*http://www.xiami.com/song/38302%^&*http://www.xiami.com/song/38303%^&*http://www.xiami.com/song/38304%^&*http://www.xiami.com/song/38305%^&*http://www.xiami.com/song/38306%^&*http://www.xiami.com/song/38307%^&*http://www.xiami.com/song/38308%^&*http://www.xiami.com/song/38309%^&*http://www.xiami.com/song/38310%^&*http://www.xiami.com/song/38311%^&*http://www.xiami.com/song/38312%^&*http://www.xiami.com/song/38313%^&*http://www.xiami.com/song/38314%^&*http://www.xiami.com/song/38315%^&*http://www.xiami.com/song/38316%^&*http://www.xiami.com/song/38317%^&*http://www.xiami.com/song/38318%^&*

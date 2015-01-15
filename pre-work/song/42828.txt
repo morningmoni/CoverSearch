@@ -1,0 +1,6 @@
+number 42828
+name 幸福猎人MV
+artist 罗志祥%^&*
+artistURL http://www.xiami.com/artist/720%^&*
+album Speshow
+albumURL http://www.xiami.com/album/3475

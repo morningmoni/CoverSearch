@@ -1,0 +1,7 @@
+number 200
+name 一个人去闯
+artist 曹阿咏
+introduction 
+picture http://img.xiami.net/images/album/img0/2001284099530.jpg
+songs 一个人去闯%^&*天知我爱%^&*浪迹江湖%^&*路过的心%^&*往日的你%^&*爱人不要天天见面%^&*寂寞午夜%^&*情难断%^&*今夜的星光%^&*天高海也深%^&*藕断丝连%^&*寻梦%^&*
+songURLs http://www.xiami.com/song/2455%^&*http://www.xiami.com/song/2456%^&*http://www.xiami.com/song/2457%^&*http://www.xiami.com/song/2458%^&*http://www.xiami.com/song/2459%^&*http://www.xiami.com/song/2460%^&*http://www.xiami.com/song/2461%^&*http://www.xiami.com/song/2462%^&*http://www.xiami.com/song/2463%^&*http://www.xiami.com/song/2464%^&*http://www.xiami.com/song/2465%^&*http://www.xiami.com/song/2466%^&*

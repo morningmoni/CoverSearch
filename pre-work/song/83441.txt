@@ -1,0 +1,6 @@
+number 83441
+name 不想再拥有
+artist 柏安妮%^&*
+artistURL http://www.xiami.com/artist/1320%^&*
+album 开心教堂
+albumURL http://www.xiami.com/album/6824

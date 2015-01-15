@@ -1,0 +1,7 @@
+number 820
+name 施孝荣
+place Taiwan 台湾
+introduction 民歌手之一，同名专辑入选了台湾百大唱片。唱了许多很豪迈、有气节的民歌。《归人沙城》是他的成名作；《拜访春天》非常有诗意；《七月的心情》是他自己的创作，当时还身为教师的他写出了那份离别时的纯真感情，歌词特别优美，很适合即将离校的学子们来聆听。
+picture http://img.xiami.net/images/artist/12030528224192.jpg
+albums 重逢。施孝荣民歌精选辑%^&*现在的我·矛盾的爱%^&*施孝荣名歌精选集%^&*来去之间%^&*你的眼睛%^&*千年之旅%^&*侠客%^&*拜访春天·往明月多处走·赤壁赋%^&*
+albumURLs http://www.xiami.com/album/3904%^&*http://www.xiami.com/album/3903%^&*http://www.xiami.com/album/33415%^&*http://www.xiami.com/album/3898%^&*http://www.xiami.com/album/3899%^&*http://www.xiami.com/album/318490%^&*http://www.xiami.com/album/3901%^&*http://www.xiami.com/album/3902%^&*

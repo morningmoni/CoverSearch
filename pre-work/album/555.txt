@@ -1,0 +1,7 @@
+number 555
+name 告诉我你还爱我吗
+artist 陈旭
+introduction 
+picture http://img.xiami.net/images/album/img28/128/555.jpg
+songs 告诉我你还爱我吗%^&*谁不服?单挑!%^&*边做边爱%^&*老鼠爱大米(韩文版)%^&*东北特产(二)爷们%^&*山峰之巅%^&*半条腿%^&*报答%^&*花瓶%^&*触电%^&*猪头%^&*笑到最后%^&*启示录%^&*东北特产不是黑社会%^&*不让你伤心%^&*旭曲%^&*
+songURLs http://www.xiami.com/song/6706%^&*http://www.xiami.com/song/6707%^&*http://www.xiami.com/song/6708%^&*http://www.xiami.com/song/6709%^&*http://www.xiami.com/song/6710%^&*http://www.xiami.com/song/6711%^&*http://www.xiami.com/song/6712%^&*http://www.xiami.com/song/6713%^&*http://www.xiami.com/song/6714%^&*http://www.xiami.com/song/6715%^&*http://www.xiami.com/song/6716%^&*http://www.xiami.com/song/6717%^&*http://www.xiami.com/song/6718%^&*http://www.xiami.com/song/6719%^&*http://www.xiami.com/song/6720%^&*http://www.xiami.com/song/6721%^&*

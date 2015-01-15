@@ -1,0 +1,6 @@
+number 3100918
+name 最好
+artist 陈洁仪%^&*
+artistURL http://www.xiami.com/artist/1390%^&*
+album 私房歌
+albumURL http://www.xiami.com/album/275244

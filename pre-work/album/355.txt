@@ -1,0 +1,7 @@
+number 355
+name 心意
+artist 陈国平
+introduction 
+picture http://img.xiami.net/images/album/img83/83/355.jpg
+songs 惬意%^&*诗意%^&*极意%^&*心意%^&*禅意%^&*源意%^&*无意%^&*玄意%^&*静意%^&*心意(吉他独奏)%^&*惬意(混音版)%^&*
+songURLs http://www.xiami.com/song/4295%^&*http://www.xiami.com/song/4296%^&*http://www.xiami.com/song/4297%^&*http://www.xiami.com/song/4298%^&*http://www.xiami.com/song/4299%^&*http://www.xiami.com/song/4300%^&*http://www.xiami.com/song/4301%^&*http://www.xiami.com/song/4302%^&*http://www.xiami.com/song/4303%^&*http://www.xiami.com/song/4304%^&*http://www.xiami.com/song/4305%^&*

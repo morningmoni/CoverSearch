@@ -1,0 +1,6 @@
+number 57036
+name 谁是你最爱
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 喜新恋旧
+albumURL http://www.xiami.com/album/4710

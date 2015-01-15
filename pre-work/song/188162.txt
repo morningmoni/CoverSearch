@@ -1,0 +1,6 @@
+number 188162
+name 绣红旗
+artist 圣女合唱组%^&*
+artistURL http://www.xiami.com/artist/3030%^&*
+album 情深谊长
+albumURL http://www.xiami.com/album/15329

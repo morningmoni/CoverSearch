@@ -1,0 +1,6 @@
+number 1729
+name 天地情MV
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 投向未来
+albumURL http://www.xiami.com/album/139

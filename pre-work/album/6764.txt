@@ -1,0 +1,7 @@
+number 6764
+name 我的1997 (宣传EP)
+artist 艾敬
+introduction 
+picture http://img.xiami.net/images/album/img0/1300/6764.jpg
+songs 我的1997 (英文版)%^&*东京餐馆里的 China Girl%^&*黑猫白猫%^&*岛上%^&*我的1997 (现场版)%^&*
+songURLs http://www.xiami.com/song/82770%^&*http://www.xiami.com/song/82771%^&*http://www.xiami.com/song/82772%^&*http://www.xiami.com/song/82773%^&*http://www.xiami.com/song/82774%^&*

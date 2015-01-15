@@ -1,0 +1,7 @@
+number 1652
+name 爱到浓时电影
+artist 蔡国权%^&*张淑玲%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%9B%BD%E6%9D%83%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BC%A0%E6%B7%91%E7%8E%B2%^&*
+album 环球真经典系列
+albumURL http://www.xiami.com/album/133

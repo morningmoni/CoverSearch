@@ -1,0 +1,7 @@
+number 158
+name 这个世界
+artist 蔡蓝钦
+introduction 
+picture http://img.xiami.net/images/album/img45/45/1581314600597.jpg
+songs 出发%^&*他的话%^&*少男日记%^&*同样的路%^&*校园美女%^&*以为%^&*谜%^&*老师的话%^&*联考族的假期%^&*逝去%^&*告别忧伤%^&*这个世界%^&*
+songURLs http://www.xiami.com/song/1972%^&*http://www.xiami.com/song/1973%^&*http://www.xiami.com/song/1974%^&*http://www.xiami.com/song/1975%^&*http://www.xiami.com/song/1976%^&*http://www.xiami.com/song/1977%^&*http://www.xiami.com/song/1978%^&*http://www.xiami.com/song/1979%^&*http://www.xiami.com/song/1980%^&*http://www.xiami.com/song/1981%^&*http://www.xiami.com/song/1982%^&*http://www.xiami.com/song/1983%^&*

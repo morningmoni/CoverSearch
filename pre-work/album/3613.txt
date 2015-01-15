@@ -1,0 +1,7 @@
+number 3613
+name 欧阳德勋 同名专辑
+artist 欧阳德勋
+introduction 
+picture http://img.xiami.net/images/album/img60/760/3613.jpg
+songs 情不弃%^&*困%^&*求别再爱他%^&*情是太真%^&*月夜隔世缘%^&*爱得苦涩%^&*困(Confused Beat)%^&*听夜涛%^&*你好野%^&*寂寞与浪漫%^&*
+songURLs http://www.xiami.com/song/44330%^&*http://www.xiami.com/song/44331%^&*http://www.xiami.com/song/44332%^&*http://www.xiami.com/song/44333%^&*http://www.xiami.com/song/44334%^&*http://www.xiami.com/song/44335%^&*http://www.xiami.com/song/44336%^&*http://www.xiami.com/song/44337%^&*http://www.xiami.com/song/44338%^&*http://www.xiami.com/song/44339%^&*

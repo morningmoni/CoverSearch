@@ -1,0 +1,7 @@
+number 4085
+name 痴心的我
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40851321797141.jpg
+songs 痴心的我%^&*最爱你哭泣时候的眼睛%^&*因为有你我不怕%^&*你听我说%^&*月光海洋%^&*风中之火%^&*你的爱是一个温暖的房间%^&*似梦迷离%^&*阳光住在我心里%^&*你紧握我的手%^&*
+songURLs http://www.xiami.com/song/49976%^&*http://www.xiami.com/song/49977%^&*http://www.xiami.com/song/49978%^&*http://www.xiami.com/song/49979%^&*http://www.xiami.com/song/49980%^&*http://www.xiami.com/song/49981%^&*http://www.xiami.com/song/49982%^&*http://www.xiami.com/song/49983%^&*http://www.xiami.com/song/49984%^&*http://www.xiami.com/song/49985%^&*

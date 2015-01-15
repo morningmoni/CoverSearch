@@ -1,0 +1,6 @@
+number 1837
+name 常在我身边
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 海底针
+albumURL http://www.xiami.com/album/149

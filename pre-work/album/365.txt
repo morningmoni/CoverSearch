@@ -1,0 +1,7 @@
+number 365
+name A Day With Benny
+artist 陈浩民
+introduction 
+picture http://img.xiami.net/images/album/img87/87/365.jpg
+songs 封神%^&*三角共震%^&*如果难忍%^&*取一念%^&*遇强愈强%^&*人龙传说%^&*我不放弃%^&*宠物小精灵%^&*数数小精灵%^&*
+songURLs http://www.xiami.com/song/4416%^&*http://www.xiami.com/song/4417%^&*http://www.xiami.com/song/4418%^&*http://www.xiami.com/song/4419%^&*http://www.xiami.com/song/4420%^&*http://www.xiami.com/song/4421%^&*http://www.xiami.com/song/4422%^&*http://www.xiami.com/song/4423%^&*http://www.xiami.com/song/4424%^&*

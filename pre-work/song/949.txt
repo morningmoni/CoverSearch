@@ -1,0 +1,6 @@
+number 949
+name 玫瑰花和小姑娘
+artist 百川%^&*
+artistURL http://www.xiami.com/artist/28%^&*
+album 百川的音乐旅程-楼兰情歌
+albumURL http://www.xiami.com/album/82

@@ -1,0 +1,7 @@
+number 13264
+name A级娱乐 2002世界巡回演唱会
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132641395976828.jpg
+songs A级娱乐 (Live)%^&*Yes Or No (Live)%^&*狠角色 (Live)%^&*别去打扰他的心 (Live)%^&*Guitar Interlude (Live)%^&*一无所有 (Live)%^&*了不起 (Live)%^&*感应 (Live)%^&*Katsu (Live)%^&*我的未来不是梦 (Live)%^&*鼓声若响 (Live)%^&*记得 (Live)%^&*知道 (Live)%^&*Player Solo (Live)%^&*发烧 (Live)%^&*Ending Chaser (Live)%^&*每天爱你多一些 (Live)%^&*沙滩 (Live)%^&*原来的我 (Live)%^&*不可能错过你 (Live)%^&*发烧 (Fever Remix)%^&*
+songURLs http://www.xiami.com/song/163270%^&*http://www.xiami.com/song/163271%^&*http://www.xiami.com/song/163272%^&*http://www.xiami.com/song/163273%^&*http://www.xiami.com/song/163274%^&*http://www.xiami.com/song/163275%^&*http://www.xiami.com/song/163276%^&*http://www.xiami.com/song/163277%^&*http://www.xiami.com/song/163278%^&*http://www.xiami.com/song/163279%^&*http://www.xiami.com/song/163280%^&*http://www.xiami.com/song/163281%^&*http://www.xiami.com/song/163282%^&*http://www.xiami.com/song/163283%^&*http://www.xiami.com/song/163284%^&*http://www.xiami.com/song/163285%^&*http://www.xiami.com/song/163286%^&*http://www.xiami.com/song/163287%^&*http://www.xiami.com/song/163288%^&*http://www.xiami.com/song/163289%^&*http://www.xiami.com/song/163290%^&*

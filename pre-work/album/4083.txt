@@ -1,0 +1,6 @@
+number 4083
+name 找一个字代替
+artist 邰正宵
+introduction picture http://img.xiami.net/images/album/img50/850/40831387371725.jpg
+songs 找一个字代替%^&*九百九十九朵玫瑰%^&*情人之间的情人%^&*你是我一生漂漂荡荡的唯一%^&*A Spaceman Came Travelling%^&*别再怪我痴情%^&*我怎么舍得你哭%^&*你眼里的深情%^&*笑看情字也难%^&*靠近一些多情一些%^&*
+songURLs http://www.xiami.com/song/49956%^&*http://www.xiami.com/song/49957%^&*http://www.xiami.com/song/49958%^&*http://www.xiami.com/song/49959%^&*http://www.xiami.com/song/49960%^&*http://www.xiami.com/song/49961%^&*http://www.xiami.com/song/49962%^&*http://www.xiami.com/song/49963%^&*http://www.xiami.com/song/49964%^&*http://www.xiami.com/song/49965%^&*

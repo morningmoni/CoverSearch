@@ -1,0 +1,7 @@
+number 13169
+name 无情的花蕊
+artist 詹曼铃
+introduction 
+picture http://img.xiami.net/images/album/img40/2440/13169.jpg
+songs 别恨我无情%^&*谢去的花蕊%^&*无情歌%^&*为你心袂清%^&*爱无值得%^&*毋通惹我寂寞心%^&*思念你的爱%^&*迷人的探戈%^&*心爱的紧返来%^&*看乎伊开%^&*
+songURLs http://www.xiami.com/song/162029%^&*http://www.xiami.com/song/162030%^&*http://www.xiami.com/song/162031%^&*http://www.xiami.com/song/162032%^&*http://www.xiami.com/song/162033%^&*http://www.xiami.com/song/162034%^&*http://www.xiami.com/song/162035%^&*http://www.xiami.com/song/162036%^&*http://www.xiami.com/song/162037%^&*http://www.xiami.com/song/162038%^&*

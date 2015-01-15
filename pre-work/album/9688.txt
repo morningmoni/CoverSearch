@@ -1,0 +1,7 @@
+number 9688
+name 完美的一秒钟
+artist Lily C
+introduction 六年前，萧亚轩（Elva）曾与两名女子蜜雪、Lily C组团发片，发片不成，她独自单飞，一炮而红。继蜜雪以「蜜雪薇琪」团体的方式出道后，Lily C昨也发了张新专辑《完美的一秒钟》，正式成了歌手。3年前放弃ICRT（台北国际社区广播电台）和Power989电台主持工作的DJLily C，消失3年后，换上歌手身分重新出发。昨天她现场演唱自己的创作展现实力，Lily C说：「6年前会离开加拿大到台湾，原本是要跟萧亚轩和蜜雪薇琪的蜜雪一起组团出片，没想到最后萧亚轩单飞，我的歌手梦落空，觉得自己真的满衰的。」当不成歌手，Lily C当美语老师赚生活费，因此阴错阳差当上电台DJ，但她最爱还是唱歌，才会在主持事业发展正顺利时退出，重新组团，游走在台北PUB间表演。
+picture http://img.xiami.net/images/album/img50/1750/9688.jpg
+songs Falling%^&*秋天%^&*Tia Bo 听呒%^&*Perfect Moment 完美的一秒钟%^&*Just To Be%^&*Happy Day%^&*Forget About Cinderella%^&*Starry Love%^&*Oh 我的心%^&*My Corner Of Thre Sky%^&*Mama%^&*
+songURLs http://www.xiami.com/song/119878%^&*http://www.xiami.com/song/119879%^&*http://www.xiami.com/song/119880%^&*http://www.xiami.com/song/119881%^&*http://www.xiami.com/song/119882%^&*http://www.xiami.com/song/119883%^&*http://www.xiami.com/song/119884%^&*http://www.xiami.com/song/119885%^&*http://www.xiami.com/song/119886%^&*http://www.xiami.com/song/119887%^&*http://www.xiami.com/song/119888%^&*

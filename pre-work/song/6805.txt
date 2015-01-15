@@ -1,0 +1,6 @@
+number 6805
+name 爱太浓
+artist 陈耀川%^&*
+artistURL http://www.xiami.com/artist/132%^&*
+album 赤子心
+albumURL http://www.xiami.com/album/563

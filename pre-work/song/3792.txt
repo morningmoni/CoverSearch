@@ -1,0 +1,6 @@
+number 3792
+name 街中那是我
+artist 陈迪匡%^&*
+artistURL http://www.xiami.com/artist/76%^&*
+album 古刹铜钟
+albumURL http://www.xiami.com/album/312

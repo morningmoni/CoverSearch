@@ -1,0 +1,7 @@
+number 376
+name 东清村三号
+artist 陈建年
+introduction 
+picture http://img.xiami.net/images/album/img91/91/3761348204524.jpg
+songs 出航%^&*老船长的心声%^&*甘苦的外籍船员%^&*船员的槟榔摊%^&*火车小站%^&*回台东的火车%^&*拥抱兰屿岛%^&*兰屿情歌%^&*翱翔的珠光凤蝶%^&*复育兰屿野生动植物%^&*想你一切都好%^&*要去钓鱼吗 + Rarawood%^&*
+songURLs http://www.xiami.com/song/4556%^&*http://www.xiami.com/song/4557%^&*http://www.xiami.com/song/4558%^&*http://www.xiami.com/song/4559%^&*http://www.xiami.com/song/4560%^&*http://www.xiami.com/song/4561%^&*http://www.xiami.com/song/4562%^&*http://www.xiami.com/song/4563%^&*http://www.xiami.com/song/4564%^&*http://www.xiami.com/song/4565%^&*http://www.xiami.com/song/4566%^&*http://www.xiami.com/song/4567%^&*

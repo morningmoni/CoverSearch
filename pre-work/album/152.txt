@@ -1,0 +1,6 @@
+number 152
+name You're The Only
+artist 蔡济文
+introduction picture http://img.xiami.net/images/album/img44/44/1521418268402.jpeg
+songs 抛弃梦里人%^&*猜猜%^&*朝思晚想%^&*Goodbye My Friend%^&*慢慢地陪着你走%^&*You&#039;re The Only%^&*掉眼泪%^&*一颗真心真的深爱着你%^&*唯有你最Cute%^&*Hey Paula%^&*
+songURLs http://www.xiami.com/song/1885%^&*http://www.xiami.com/song/1886%^&*http://www.xiami.com/song/1887%^&*http://www.xiami.com/song/1888%^&*http://www.xiami.com/song/1889%^&*http://www.xiami.com/song/1890%^&*http://www.xiami.com/song/1891%^&*http://www.xiami.com/song/1892%^&*http://www.xiami.com/song/1893%^&*http://www.xiami.com/song/1894%^&*

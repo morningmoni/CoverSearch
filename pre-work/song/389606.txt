@@ -1,0 +1,6 @@
+number 389606
+name 暗涌
+artist 王菲%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%8E%8B%E8%8F%B2%^&*
+album 鼓舞辉阳
+albumURL http://www.xiami.com/album/32688

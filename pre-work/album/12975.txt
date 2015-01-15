@@ -1,0 +1,7 @@
+number 12975
+name 关不住
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/129751383709478.jpg
+songs 关不住%^&*你是我的幸福吗%^&*暗花%^&*好好的过%^&*分裂%^&*相处%^&*ㄛㄛ%^&*冰箱里的玫瑰%^&*聪明%^&*假面的告白%^&*暗花(粤)%^&*
+songURLs http://www.xiami.com/song/374100%^&*http://www.xiami.com/song/374101%^&*http://www.xiami.com/song/374102%^&*http://www.xiami.com/song/374103%^&*http://www.xiami.com/song/374104%^&*http://www.xiami.com/song/374105%^&*http://www.xiami.com/song/374106%^&*http://www.xiami.com/song/374107%^&*http://www.xiami.com/song/374108%^&*http://www.xiami.com/song/374109%^&*http://www.xiami.com/song/374110%^&*

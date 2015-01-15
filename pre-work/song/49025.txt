@@ -1,0 +1,6 @@
+number 49025
+name 再谈一次恋爱
+artist 孙国庆%^&*
+artistURL http://www.xiami.com/artist/840%^&*
+album 完美石刻
+albumURL http://www.xiami.com/album/3998

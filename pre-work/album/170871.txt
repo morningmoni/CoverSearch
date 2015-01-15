@@ -1,0 +1,7 @@
+number 170871
+name 水晶音乐3 曹俊鸿是爱的魔法师
+artist 曹俊鸿
+introduction 
+picture http://img.xiami.net/images/album/img59/59/170871.jpg
+songs 我愿意%^&*花心%^&*爱如潮水%^&*有一点动心%^&*出嫁%^&*燃烧一瞬间%^&*明明白白我的心%^&*情网%^&*让我欢喜让我忧%^&*为爱落泪%^&*
+songURLs http://www.xiami.com/song/2110526%^&*http://www.xiami.com/song/2110527%^&*http://www.xiami.com/song/2110528%^&*http://www.xiami.com/song/2110529%^&*http://www.xiami.com/song/2110530%^&*http://www.xiami.com/song/2110531%^&*http://www.xiami.com/song/2110532%^&*http://www.xiami.com/song/2110533%^&*http://www.xiami.com/song/2110534%^&*http://www.xiami.com/song/2110535%^&*

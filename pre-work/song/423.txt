@@ -1,0 +1,6 @@
+number 423
+name 战士和平鸽
+artist 阿振%^&*
+artistURL http://www.xiami.com/artist/13%^&*
+album 兵心
+albumURL http://www.xiami.com/album/36

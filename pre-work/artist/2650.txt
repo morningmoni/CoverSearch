@@ -1,0 +1,7 @@
+number 2650
+name 北京天使合唱团
+place China 中国大陆
+introduction 小简介北京天使合唱团是国内少有的专业童声合唱团体，成立于北京，是风潮唱片&ldquo;东方的天使之音系列&rdquo;专属合唱团。该团囊括了北京各少年合唱团的精英，是世界知名的儿童合唱团，被西方乐评家誉为东方的维也纳合唱团，以清澈优美的和声享誉国内外。&ldquo;东方的天使之音系列&rdquo;由美国儿童音乐奖及台湾金曲奖制作群制作，曾获国内外多项奖项，是发烧友寻找童声合唱的指向制作。优美的和声带领你找到属于自己的快乐天堂。&ldquo;北京天使合唱团&rdquo;是世界知名的儿童合唱团，向来以歌声纯净甜美著称，在《东方的天使之音》系列中，集细腻、乾净、甜美、无邪之大成，有股让人心头不自持的美丽悸动。乐评家甚至认为与BBC&ldquo;天使之音&rdquo;（英国圣菲力浦男童合唱团）相比，有过之而无不及
+picture http://img.xiami.net/images/artist/12061562428014.jpg
+albums 光阴的故事%^&*浮云游子%^&*我的快乐天堂%^&*祈祷%^&*童年%^&*西北雨%^&*阿拉木汗%^&*野玫瑰%^&*山上的孩子%^&*乘着歌声的翅膀%^&*月儿明 风儿静%^&*闭上蓝色眼睛%^&*
+albumURLs http://www.xiami.com/album/14233%^&*http://www.xiami.com/album/14234%^&*http://www.xiami.com/album/14235%^&*http://www.xiami.com/album/14236%^&*http://www.xiami.com/album/14237%^&*http://www.xiami.com/album/14238%^&*http://www.xiami.com/album/14239%^&*http://www.xiami.com/album/14240%^&*http://www.xiami.com/album/32188%^&*http://www.xiami.com/album/14241%^&*http://www.xiami.com/album/14243%^&*http://www.xiami.com/album/14244%^&*

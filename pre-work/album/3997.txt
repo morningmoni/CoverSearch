@@ -1,0 +1,7 @@
+number 3997
+name 但愿人长久
+artist 孙国庆
+introduction 
+picture http://img.xiami.net/images/album/img40/840/3997.jpg
+songs 想和你一起慢慢变老%^&*星愿%^&*我可以抱你吗%^&*但愿人长久%^&*黑发变白发%^&*别问我是谁%^&*雪人%^&*两个人的烟火%^&*太委屈%^&*朋友别哭%^&*暖风%^&*
+songURLs http://www.xiami.com/song/49007%^&*http://www.xiami.com/song/49008%^&*http://www.xiami.com/song/49009%^&*http://www.xiami.com/song/49010%^&*http://www.xiami.com/song/49011%^&*http://www.xiami.com/song/49012%^&*http://www.xiami.com/song/49013%^&*http://www.xiami.com/song/49014%^&*http://www.xiami.com/song/49015%^&*http://www.xiami.com/song/49016%^&*http://www.xiami.com/song/49017%^&*

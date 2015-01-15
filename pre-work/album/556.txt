@@ -1,0 +1,7 @@
+number 556
+name 东北特产2-爷们
+artist 陈旭
+introduction 
+picture http://img.xiami.net/images/album/img28/128/556.jpg
+songs 陈旭%^&*东北特产(二)爷们%^&*东北特产不是黑社会%^&*启示录%^&*山峰之巅%^&*半条腿%^&*报答%^&*花瓶%^&*触电%^&*不让你伤心%^&*猪头%^&*笑到最后%^&*旭曲%^&*
+songURLs http://www.xiami.com/song/6722%^&*http://www.xiami.com/song/6723%^&*http://www.xiami.com/song/6724%^&*http://www.xiami.com/song/6725%^&*http://www.xiami.com/song/6726%^&*http://www.xiami.com/song/6727%^&*http://www.xiami.com/song/6728%^&*http://www.xiami.com/song/6729%^&*http://www.xiami.com/song/6730%^&*http://www.xiami.com/song/6731%^&*http://www.xiami.com/song/6732%^&*http://www.xiami.com/song/6733%^&*http://www.xiami.com/song/6734%^&*

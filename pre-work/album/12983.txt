@@ -1,0 +1,7 @@
+number 12983
+name 安妮的音乐盒
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/12983.jpg
+songs 生日快乐%^&*十九岁的最后一天%^&*悲伤的茱丽叶%^&*亲爱的爹地%^&*猫的恋曲%^&*请相信我%^&*坏女孩%^&*怪盗亚森罗宾%^&*三月的秘密%^&*寻人启事(失踪少女)%^&*我累了%^&*落入凡间的精灵%^&*吵架之后%^&*邱比特的恶作剧%^&*
+songURLs http://www.xiami.com/song/159749%^&*http://www.xiami.com/song/159750%^&*http://www.xiami.com/song/159751%^&*http://www.xiami.com/song/159752%^&*http://www.xiami.com/song/159753%^&*http://www.xiami.com/song/159754%^&*http://www.xiami.com/song/159755%^&*http://www.xiami.com/song/159756%^&*http://www.xiami.com/song/159757%^&*http://www.xiami.com/song/159758%^&*http://www.xiami.com/song/159759%^&*http://www.xiami.com/song/159760%^&*http://www.xiami.com/song/159761%^&*http://www.xiami.com/song/159762%^&*

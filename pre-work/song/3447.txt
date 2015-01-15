@@ -1,0 +1,6 @@
+number 3447
+name 令你着迷
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 无声胜有声
+albumURL http://www.xiami.com/album/275

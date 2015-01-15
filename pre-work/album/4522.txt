@@ -1,0 +1,7 @@
+number 4522
+name 期待
+artist 王洁实
+introduction 王洁实，谢莉斯 黑胶唱片
+picture http://img.xiami.net/images/pic/04/03/10098266395m_2.jpg
+songs 期待%^&*龙龙的笑%^&*满山葡萄红艳艳%^&*脚印%^&*春雨蒙蒙的下%^&*在那小路的尽头%^&*同学%^&*田间蛙声%^&*祝你晚安%^&*缅桂花开十里香%^&*和美家庭%^&*如果%^&*校园多美好%^&*难诉相思%^&*心里话%^&*好跳大河浪飞飞%^&*滴哩滴哩%^&*大家都来打排球%^&*
+songURLs http://www.xiami.com/song/1770989708%^&*http://www.xiami.com/song/1770989709%^&*http://www.xiami.com/song/1770989710%^&*http://www.xiami.com/song/1770989711%^&*http://www.xiami.com/song/1770989712%^&*http://www.xiami.com/song/1770989713%^&*http://www.xiami.com/song/1770989714%^&*http://www.xiami.com/song/1770989715%^&*http://www.xiami.com/song/1770989716%^&*http://www.xiami.com/song/1770989717%^&*http://www.xiami.com/song/1770989718%^&*http://www.xiami.com/song/1770989719%^&*http://www.xiami.com/song/1770989720%^&*http://www.xiami.com/song/1770989721%^&*http://www.xiami.com/song/1770989722%^&*http://www.xiami.com/song/1770989723%^&*http://www.xiami.com/song/1770989724%^&*http://www.xiami.com/song/1770989725%^&*

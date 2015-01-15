@@ -1,0 +1,6 @@
+number 3627952
+name 出发
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 爱可有天荒地老
+albumURL http://www.xiami.com/album/325610

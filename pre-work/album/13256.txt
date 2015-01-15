@@ -1,0 +1,7 @@
+number 13256
+name Star
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132561361786456.jpg
+songs 永远的快乐%^&*你是爱我的%^&*快乐眼泪%^&*薇多莉亚的秘密%^&*知己%^&*一眼瞬间%^&*So Good%^&*Big City%^&*如果你也听说%^&*夏天的浪花%^&*Don&#039;t Sail Away%^&*两端%^&*谁爱我%^&*
+songURLs http://www.xiami.com/song/377705%^&*http://www.xiami.com/song/377706%^&*http://www.xiami.com/song/377707%^&*http://www.xiami.com/song/377708%^&*http://www.xiami.com/song/377709%^&*http://www.xiami.com/song/377710%^&*http://www.xiami.com/song/377711%^&*http://www.xiami.com/song/377712%^&*http://www.xiami.com/song/377713%^&*http://www.xiami.com/song/377714%^&*http://www.xiami.com/song/377715%^&*http://www.xiami.com/song/377716%^&*http://www.xiami.com/song/1770409358%^&*

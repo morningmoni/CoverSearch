@@ -1,0 +1,6 @@
+number 57058
+name Sayonara
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 东方情
+albumURL http://www.xiami.com/album/4712

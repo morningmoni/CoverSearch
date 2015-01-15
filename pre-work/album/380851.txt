@@ -1,0 +1,7 @@
+number 380851
+name 痴情歌
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/3808511388757801.jpg
+songs 痴情歌%^&*爱是一种负担%^&*到时你就知%^&*查某因仔的美丽%^&*父母的心声%^&*不小心爱着你%^&*做家己的女人%^&*为爱来举枷%^&*月光%^&*灵魂也孤单%^&*
+songURLs http://www.xiami.com/song/1769517043%^&*http://www.xiami.com/song/1769517044%^&*http://www.xiami.com/song/1769517045%^&*http://www.xiami.com/song/1769517046%^&*http://www.xiami.com/song/1769517047%^&*http://www.xiami.com/song/1769517048%^&*http://www.xiami.com/song/1769517049%^&*http://www.xiami.com/song/1769517050%^&*http://www.xiami.com/song/1769517051%^&*http://www.xiami.com/song/1769517052%^&*

@@ -1,0 +1,6 @@
+number 1610
+name 真假情话
+artist 关淑怡%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%85%B3%E6%B7%91%E6%80%A1%^&*
+album 完美先生
+albumURL http://www.xiami.com/album/130

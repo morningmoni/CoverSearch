@@ -1,0 +1,6 @@
+number 301
+name 黄昏思情(伴唱)MV
+artist 阿吉仔%^&*
+artistURL http://www.xiami.com/artist/8%^&*
+album 黄昏思情
+albumURL http://www.xiami.com/album/22

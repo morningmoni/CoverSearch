@@ -1,0 +1,7 @@
+number 33073
+name 火花MV
+artist 黄品源%^&*辛晓琪%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E5%93%81%E6%BA%90%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%BE%9B%E6%99%93%E7%90%AA%^&*
+album 简单情歌香港演唱会
+albumURL http://www.xiami.com/album/1717

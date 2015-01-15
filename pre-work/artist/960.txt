@@ -1,0 +1,7 @@
+number 960
+name 吴鹏
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/12036721203616.jpg
+albums 晚霞·落叶·心上人%^&*
+albumURLs http://www.xiami.com/album/4827%^&*

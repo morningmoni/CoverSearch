@@ -1,0 +1,6 @@
+number 142
+name 爱的独白
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1421334021525.jpg
+songs 伤心一吻%^&*爱的独白%^&*冲出这空间%^&*情难舍%^&*理发店%^&*堆梦%^&*漏电%^&*别这样傻%^&*我的志愿%^&*就此分手%^&*尽诉心中情%^&*
+songURLs http://www.xiami.com/song/1760%^&*http://www.xiami.com/song/1761%^&*http://www.xiami.com/song/1762%^&*http://www.xiami.com/song/1763%^&*http://www.xiami.com/song/1764%^&*http://www.xiami.com/song/1765%^&*http://www.xiami.com/song/1766%^&*http://www.xiami.com/song/1767%^&*http://www.xiami.com/song/1768%^&*http://www.xiami.com/song/1769%^&*http://www.xiami.com/song/1770%^&*

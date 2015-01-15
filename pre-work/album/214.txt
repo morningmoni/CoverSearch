@@ -1,0 +1,7 @@
+number 214
+name 小巷阳光
+artist 曹松章
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10002399226m_2.jpg
+songs 小巷阳光%^&*新桃花源记%^&*最后一分钟%^&*上辈子我是少林和尚%^&*月光%^&*一二三四%^&*太阳底下%^&*苏珊我的爱%^&*风林火山%^&*秋风散%^&*
+songURLs http://www.xiami.com/song/2609%^&*http://www.xiami.com/song/2610%^&*http://www.xiami.com/song/2611%^&*http://www.xiami.com/song/2612%^&*http://www.xiami.com/song/2613%^&*http://www.xiami.com/song/2614%^&*http://www.xiami.com/song/2615%^&*http://www.xiami.com/song/2616%^&*http://www.xiami.com/song/2617%^&*http://www.xiami.com/song/2618%^&*

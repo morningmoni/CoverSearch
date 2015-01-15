@@ -1,0 +1,6 @@
+number 469264
+name 保重
+artist 王中平
+introduction picture http://img.xiami.net/images/album/img30/930/4692641318044285.jpg
+songs 你的伤是我的痛%^&*满穗稻仔%^&*保重%^&*爱情起大厝%^&*爱情银行%^&*悔不当初%^&*盖世英雄%^&*爱情是这回事%^&*退后%^&*人生心情%^&*
+songURLs http://www.xiami.com/song/1770527246%^&*http://www.xiami.com/song/1770527247%^&*http://www.xiami.com/song/1770527248%^&*http://www.xiami.com/song/1770527249%^&*http://www.xiami.com/song/1770527250%^&*http://www.xiami.com/song/1770527251%^&*http://www.xiami.com/song/1770527252%^&*http://www.xiami.com/song/1770527253%^&*http://www.xiami.com/song/1770527254%^&*http://www.xiami.com/song/1770527255%^&*

@@ -1,0 +1,6 @@
+number 120850
+name 我喜欢我自己这样
+artist 李艾%^&*
+artistURL http://www.xiami.com/artist/1770%^&*
+album 我喜欢我自己这样
+albumURL http://www.xiami.com/album/9778

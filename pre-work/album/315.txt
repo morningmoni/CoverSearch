@@ -1,0 +1,7 @@
+number 315
+name 疯筝
+artist 陈弘礼
+introduction 我认为音乐最原始的含义应该是声音之乐章的意思，包括自然界所有的声音，是人们对岁月和声音的复杂的感悟。真正的音乐应该是声音和岁月碰撞的伤痕，是内心的呐喊，是从邃远的灵魂深处飘荡出的一种震撼！我喜欢声音的艺术，用我的情感去实验不同的声音，从声音的角度来思考我们生存的意义，并以此来表达我对生活的态度。实验音乐，就是实验人生！
+picture http://img.xiami.net/images/album/img0/3151288862837.jpg
+songs 德胜门之夜%^&*白日梦%^&*最后的欢乐%^&*幸福%^&*我要抓你的手%^&*座爱%^&*新的戏剧时代%^&*独%^&*宝贝%^&*人间就是地狱%^&*无聊%^&*
+songURLs http://www.xiami.com/song/3823%^&*http://www.xiami.com/song/3824%^&*http://www.xiami.com/song/3825%^&*http://www.xiami.com/song/3826%^&*http://www.xiami.com/song/3827%^&*http://www.xiami.com/song/3828%^&*http://www.xiami.com/song/3829%^&*http://www.xiami.com/song/3830%^&*http://www.xiami.com/song/3831%^&*http://www.xiami.com/song/3832%^&*http://www.xiami.com/song/3833%^&*

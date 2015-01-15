@@ -1,0 +1,6 @@
+number 4167
+name 想飞
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱III 跟我说爱我
+albumURL http://www.xiami.com/album/343

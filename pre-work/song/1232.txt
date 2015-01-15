@@ -1,0 +1,6 @@
+number 1232
+name 欢乐现在时
+artist 心跳男孩%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BF%83%E8%B7%B3%E7%94%B7%E5%AD%A9%^&*
+album 中国足球战歌
+albumURL http://www.xiami.com/album/105

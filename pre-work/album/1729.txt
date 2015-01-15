@@ -1,0 +1,7 @@
+number 1729
+name 黄品源生活精选
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17291398489201.jpg
+songs 它给我不同的快乐%^&*雨后的彩虹%^&*兄弟情%^&*城市的日子%^&*流浪的心%^&*大海的烦恼%^&*路边一支草%^&*无言的山丘%^&*唯一的路%^&*我要来去做兵%^&*别再回首%^&*是否能够飞到未来%^&*依旧的我%^&*兄弟情(台北演唱会版)%^&*
+songURLs http://www.xiami.com/song/33212%^&*http://www.xiami.com/song/33213%^&*http://www.xiami.com/song/33214%^&*http://www.xiami.com/song/33215%^&*http://www.xiami.com/song/33216%^&*http://www.xiami.com/song/33217%^&*http://www.xiami.com/song/33218%^&*http://www.xiami.com/song/33219%^&*http://www.xiami.com/song/33220%^&*http://www.xiami.com/song/33221%^&*http://www.xiami.com/song/33222%^&*http://www.xiami.com/song/33223%^&*http://www.xiami.com/song/33224%^&*http://www.xiami.com/song/33225%^&*

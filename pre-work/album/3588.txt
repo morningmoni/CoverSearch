@@ -1,0 +1,6 @@
+number 3588
+name 你在九月离开
+artist 莫少聪
+introduction picture http://img.xiami.net/images/album/img50/750/3588.jpg
+songs 你在九月离开%^&*疯要疯的精采%^&*情是那么深%^&*庞克夜晚(Funky Night)%^&*如果今生来世还有爱%^&*别笑别说别懂%^&*痴心和勇气%^&*悲剧中的人%^&*给你的歌%^&*你在九月离开(演奏曲)%^&*
+songURLs http://www.xiami.com/song/44046%^&*http://www.xiami.com/song/44047%^&*http://www.xiami.com/song/44048%^&*http://www.xiami.com/song/44049%^&*http://www.xiami.com/song/44050%^&*http://www.xiami.com/song/44051%^&*http://www.xiami.com/song/44052%^&*http://www.xiami.com/song/44053%^&*http://www.xiami.com/song/44054%^&*http://www.xiami.com/song/44055%^&*

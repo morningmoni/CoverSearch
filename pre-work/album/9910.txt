@@ -1,0 +1,6 @@
+number 9910
+name 深爱您
+artist 李美凤
+introduction picture http://img.xiami.net/images/album/img0/1800/99101360151095.jpg
+songs 热爱Can&#039;t Let You Go%^&*深爱您%^&*Color Of Love%^&*偏偏是你%^&*醉吧!醉吧!%^&*全部爱全为您%^&*只需要留下你%^&*不了情(1991)%^&*当天怎去远%^&*独来独往%^&*晚安…等你的晚安%^&*
+songURLs http://www.xiami.com/song/122375%^&*http://www.xiami.com/song/122376%^&*http://www.xiami.com/song/122377%^&*http://www.xiami.com/song/122378%^&*http://www.xiami.com/song/122379%^&*http://www.xiami.com/song/122380%^&*http://www.xiami.com/song/122381%^&*http://www.xiami.com/song/122382%^&*http://www.xiami.com/song/122383%^&*http://www.xiami.com/song/122384%^&*http://www.xiami.com/song/122385%^&*

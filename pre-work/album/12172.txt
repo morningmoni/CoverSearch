@@ -1,0 +1,6 @@
+number 12172
+name 望爱
+artist 吴倩莲
+introduction picture http://img.xiami.net/images/album/img50/2250/121721418271215.jpg
+songs 望爱%^&*夜%^&*我有我爱你%^&*自由不自在%^&*谜%^&*麻木%^&*合照%^&*体温%^&*爱…过后%^&*40摄氏度接触%^&*
+songURLs http://www.xiami.com/song/149578%^&*http://www.xiami.com/song/149579%^&*http://www.xiami.com/song/149580%^&*http://www.xiami.com/song/149581%^&*http://www.xiami.com/song/149582%^&*http://www.xiami.com/song/149583%^&*http://www.xiami.com/song/149584%^&*http://www.xiami.com/song/149585%^&*http://www.xiami.com/song/149586%^&*http://www.xiami.com/song/149587%^&*

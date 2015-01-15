@@ -1,0 +1,7 @@
+number 3084
+name LaLaLa我爱你
+artist 刘恺威
+introduction 
+picture http://img.xiami.net/images/album/img60/660/30841419997710.jpg
+songs 相爱的理由%^&*La La La 我爱你%^&*我们的拥抱%^&*爱情三日游%^&*Why Why Why%^&*寂寞夜未眠%^&*选择题%^&*我喜欢你的笑%^&*新引擎%^&*你不懂爱%^&*
+songURLs http://www.xiami.com/song/37852%^&*http://www.xiami.com/song/37853%^&*http://www.xiami.com/song/37854%^&*http://www.xiami.com/song/37855%^&*http://www.xiami.com/song/37856%^&*http://www.xiami.com/song/37857%^&*http://www.xiami.com/song/37858%^&*http://www.xiami.com/song/37859%^&*http://www.xiami.com/song/37860%^&*http://www.xiami.com/song/37861%^&*

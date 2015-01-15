@@ -1,0 +1,6 @@
+number 3526549
+name 就把我忘掉
+artist 蔡兴麟%^&*
+artistURL http://www.xiami.com/artist/49%^&*
+album 未完再续
+albumURL http://www.xiami.com/album/317545

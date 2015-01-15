@@ -1,0 +1,6 @@
+number 84083
+name 等了又等
+artist 贝贝%^&*
+artistURL http://www.xiami.com/artist/1330%^&*
+album 贝贝3
+albumURL http://www.xiami.com/album/6887

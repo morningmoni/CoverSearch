@@ -1,0 +1,6 @@
+number 1592
+name 让我假设有你
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 完美先生
+albumURL http://www.xiami.com/album/130

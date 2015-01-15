@@ -1,0 +1,6 @@
+number 555341
+name 冬雪
+artist 姜鹏
+introduction picture http://img.xiami.net/images/album/img15/767715/1352767716.jpg
+songs 冬雪%^&*
+songURLs http://www.xiami.com/song/1771447684%^&*

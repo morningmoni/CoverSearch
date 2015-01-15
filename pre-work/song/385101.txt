@@ -1,0 +1,6 @@
+number 385101
+name 情到深处
+artist 陈耀川%^&*
+artistURL http://www.xiami.com/artist/132%^&*
+album 我始终爱你
+albumURL http://www.xiami.com/album/564

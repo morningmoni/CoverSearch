@@ -1,0 +1,7 @@
+number 4660
+name 你要我等你多久
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/46601375423802.jpg
+songs 你要我等你多久%^&*大地勇士%^&*心在说爱你%^&*专情%^&*爱如果能让你这样的离开%^&*梦找到了家%^&*天意要我们分开%^&*越来越少这样的朋友%^&*寂寞的脚步好忙%^&*你的名字伴我一生%^&*
+songURLs http://www.xiami.com/song/56494%^&*http://www.xiami.com/song/56495%^&*http://www.xiami.com/song/56496%^&*http://www.xiami.com/song/56497%^&*http://www.xiami.com/song/56498%^&*http://www.xiami.com/song/56499%^&*http://www.xiami.com/song/56500%^&*http://www.xiami.com/song/56501%^&*http://www.xiami.com/song/56502%^&*http://www.xiami.com/song/56503%^&*

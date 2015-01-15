@@ -1,0 +1,6 @@
+number 33125
+name 晚安,我的爱
+artist 黄品源%^&*
+artistURL http://www.xiami.com/artist/390%^&*
+album 十年浓情 情歌精选
+albumURL http://www.xiami.com/album/1721

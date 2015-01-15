@@ -1,0 +1,7 @@
+number 3034
+name 约会
+artist 陈百强%^&*陈美玲%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E7%99%BE%E5%BC%BA%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E7%BE%8E%E7%8E%B2%^&*
+album 完全 陈百强
+albumURL http://www.xiami.com/album/248

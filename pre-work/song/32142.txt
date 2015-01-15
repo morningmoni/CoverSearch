@@ -1,0 +1,6 @@
+number 32142
+name 我不想说
+artist 黄金成%^&*
+artistURL http://www.xiami.com/artist/380%^&*
+album 远走他乡
+albumURL http://www.xiami.com/album/1654

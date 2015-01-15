@@ -1,0 +1,6 @@
+number 1770264618
+name 盛夏的果实
+artist 蔡国庆%^&*
+artistURL http://www.xiami.com/artist/42%^&*
+album 花开在旅途
+albumURL http://www.xiami.com/album/445631

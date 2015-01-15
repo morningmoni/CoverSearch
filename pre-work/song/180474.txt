@@ -1,0 +1,6 @@
+number 180474
+name 黑夜摇滚星
+artist 骨肉皮%^&*
+artistURL http://www.xiami.com/artist/2770%^&*
+album 骨肉皮Ⅱ-快乐玩
+albumURL http://www.xiami.com/album/14634

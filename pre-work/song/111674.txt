@@ -1,0 +1,6 @@
+number 111674
+name 贴身情人
+artist 黄宝欣%^&*
+artistURL http://www.xiami.com/artist/1640%^&*
+album 贴身情人
+albumURL http://www.xiami.com/album/8996

@@ -1,0 +1,7 @@
+number 2508
+name 人声检测线
+artist 李雪
+introduction 
+picture http://img.xiami.net/images/album/img60/560/2508.jpg
+songs 为爱痴狂%^&*说好见面%^&*又走到那个路口%^&*最后一夜%^&*一生爱你千百回%^&*昨夜星辰%^&*你那好冷的小手%^&*爱你十分泪七分%^&*再次拥有%^&*惜别的海岸%^&*梦醒时分%^&*你的眼神%^&*
+songURLs http://www.xiami.com/song/18853%^&*http://www.xiami.com/song/18854%^&*http://www.xiami.com/song/18855%^&*http://www.xiami.com/song/18856%^&*http://www.xiami.com/song/18857%^&*http://www.xiami.com/song/18858%^&*http://www.xiami.com/song/18859%^&*http://www.xiami.com/song/18860%^&*http://www.xiami.com/song/18861%^&*http://www.xiami.com/song/18862%^&*http://www.xiami.com/song/18863%^&*http://www.xiami.com/song/18864%^&*

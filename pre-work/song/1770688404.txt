@@ -1,0 +1,6 @@
+number 1770688404
+name 如何对他说
+artist 玖建%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%8E%96%E5%BB%BA%^&*
+album 细水长流 经典作品大全
+albumURL http://www.xiami.com/album/3865

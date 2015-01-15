@@ -1,0 +1,6 @@
+number 359
+name 黎明
+artist 陈浩德
+introduction picture http://img.xiami.net/
+songs 黎明%^&*爱誓%^&*孤雁凌霄%^&*夫妻相骂%^&*星运人生%^&*花影%^&*洪佛颂%^&*青春乐%^&*婚姻大事%^&*一世中意你%^&*十大刺客%^&*德仔有钱%^&*
+songURLs http://www.xiami.com/song/4342%^&*http://www.xiami.com/song/4343%^&*http://www.xiami.com/song/4344%^&*http://www.xiami.com/song/4345%^&*http://www.xiami.com/song/4346%^&*http://www.xiami.com/song/4347%^&*http://www.xiami.com/song/4348%^&*http://www.xiami.com/song/4349%^&*http://www.xiami.com/song/4350%^&*http://www.xiami.com/song/4351%^&*http://www.xiami.com/song/4352%^&*http://www.xiami.com/song/4353%^&*

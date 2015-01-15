@@ -1,0 +1,6 @@
+number 1771635156
+name 爱情啊
+artist 侃侃%^&*
+artistURL http://www.xiami.com/artist/1740%^&*
+album 爱唱蓝调的鱼
+albumURL http://www.xiami.com/album/574614

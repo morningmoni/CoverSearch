@@ -1,0 +1,7 @@
+number 156955
+name 爱相思
+artist 姚敏%^&*姚莉%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%A7%9A%E6%95%8F%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%A7%9A%E8%8E%89%^&*
+album 流星岁月精华珍藏集
+albumURL http://www.xiami.com/album/12774

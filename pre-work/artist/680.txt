@@ -1,0 +1,7 @@
+number 680
+name 刘志荣
+place Hongkong 香港
+introduction 绰号《娇娇女》，原为国语歌手，粤语流行曲振兴后，灌过不少粤语唱片，其中《问问你》一曲曾风行一时。
+picture http://img.xiami.net/images/artistlogo/42/13071667151942.jpg
+albums 再会太平山%^&*
+albumURLs http://www.xiami.com/album/3181%^&*

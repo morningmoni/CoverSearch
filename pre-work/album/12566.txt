@@ -1,0 +1,7 @@
+number 12566
+name 好听
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125661366018279.jpg
+songs 好听%^&*好听 (Demo Version 原创版)%^&*好听 (Karaoke Version)%^&*
+songURLs http://www.xiami.com/song/383363%^&*http://www.xiami.com/song/383364%^&*http://www.xiami.com/song/383365%^&*

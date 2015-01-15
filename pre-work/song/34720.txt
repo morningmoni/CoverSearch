@@ -1,0 +1,7 @@
+number 34720
+name 兄弟
+artist 黄阅%^&*纪佳松%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E9%98%85%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BA%AA%E4%BD%B3%E6%9D%BE%^&*
+album 我们都是害怕寂寞的人
+albumURL http://www.xiami.com/album/1829

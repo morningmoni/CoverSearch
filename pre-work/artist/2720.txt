@@ -1,0 +1,7 @@
+number 2720
+name Echo
+place Hongkong 香港
+introduction 小简介由李蕙敏及区海伦组成的二人组合，以唱大路情歌为主，但若论组合风格，则以《第四者》、《舌战》等借二人组合发挥的作品，最为突出。拆夥之后李蕙敏继续其歌唱事业，而区海伦则转到电视发展。
+picture http://img.xiami.net/images/artist/12061642804216.jpg
+albums 精选回响%^&*Goodbye Summer%^&*Ja Ja Jammin On A Groovy Wave%^&*不再纠缠 Best Romance%^&*你是爱我还是需要我%^&*准许我爱你%^&*Echo%^&*
+albumURLs http://www.xiami.com/album/14513%^&*http://www.xiami.com/album/14514%^&*http://www.xiami.com/album/14515%^&*http://www.xiami.com/album/14516%^&*http://www.xiami.com/album/14517%^&*http://www.xiami.com/album/14518%^&*http://www.xiami.com/album/14519%^&*

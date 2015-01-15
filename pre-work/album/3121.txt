@@ -1,0 +1,7 @@
+number 3121
+name 太阳一样
+artist 刘文正
+introduction 《太阳一样》金声版和宝丽金版曲目略有不同，宝丽金版多了一曲《台北细雨》，且曲序也不一样。宝丽金版曲序A: 1.太阳一样、2.热线你和我、3.爱像什么、4.耶利亚女郎、5.想念、6.爱的绿洲B: 1.星星永恒、2.飞行船、3.约会、4.痕迹、5.谁流下的眼泪、6.台北细雨金声版曲序A: 1.Openning、2.太阳一样、3.热线你和我、4.爱像什么、4.约会、5.爱的绿洲、6.爱的绿洲、7.痕迹B: 1.星之永恒、2.飞行船、3.谁流下的眼泪、4.想念、5.耶利亚女郎、6.Ending
+picture http://img.xiami.net/images/album/img70/670/31211394074836.jpg
+songs 太阳一样%^&*热线你和我%^&*爱像什么%^&*耶利亚女郎%^&*想念%^&*爱的绿洲%^&*星之永恒%^&*飞行船%^&*约会%^&*痕迹%^&*谁留下的眼泪%^&*台北细雨%^&*
+songURLs http://www.xiami.com/song/38538%^&*http://www.xiami.com/song/38539%^&*http://www.xiami.com/song/38540%^&*http://www.xiami.com/song/38548%^&*http://www.xiami.com/song/38547%^&*http://www.xiami.com/song/38542%^&*http://www.xiami.com/song/38544%^&*http://www.xiami.com/song/38545%^&*http://www.xiami.com/song/38541%^&*http://www.xiami.com/song/38543%^&*http://www.xiami.com/song/38546%^&*http://www.xiami.com/song/38549%^&*

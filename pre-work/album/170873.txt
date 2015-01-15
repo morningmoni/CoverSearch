@@ -1,0 +1,6 @@
+number 170873
+name 水晶音乐V 纯净感觉
+artist 曹俊鸿
+introduction picture http://img.xiami.net/images/album/img59/59/170873.jpg
+songs 突然而来的爱情故事%^&*情书%^&*SAY YES%^&*别来无恙%^&*橄榄树%^&*天空%^&*无人熟识%^&*过火%^&*真爱%^&*伤痕%^&*
+songURLs http://www.xiami.com/song/2110546%^&*http://www.xiami.com/song/2110547%^&*http://www.xiami.com/song/2110548%^&*http://www.xiami.com/song/2110549%^&*http://www.xiami.com/song/2110550%^&*http://www.xiami.com/song/2110551%^&*http://www.xiami.com/song/2110552%^&*http://www.xiami.com/song/2110553%^&*http://www.xiami.com/song/2110554%^&*http://www.xiami.com/song/2110555%^&*

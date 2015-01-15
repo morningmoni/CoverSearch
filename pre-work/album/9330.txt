@@ -1,0 +1,6 @@
+number 9330
+name 情话绵绵
+artist 丽莎
+introduction picture http://img.xiami.net/images/pic/04/03/10092607353m_2.jpg
+songs 情话绵绵%^&*一段情%^&*彩云追月%^&*惜光阴%^&*雨中花%^&*忘了当初爱情吧%^&*忆良人%^&*心上的微笑%^&*郊游乐%^&*祝福%^&*山盟海誓%^&*绿水青山%^&*何处觅知音%^&*十八姑娘思婚嫁%^&*
+songURLs http://www.xiami.com/song/115711%^&*http://www.xiami.com/song/115712%^&*http://www.xiami.com/song/115713%^&*http://www.xiami.com/song/115714%^&*http://www.xiami.com/song/115715%^&*http://www.xiami.com/song/115716%^&*http://www.xiami.com/song/115717%^&*http://www.xiami.com/song/115718%^&*http://www.xiami.com/song/115719%^&*http://www.xiami.com/song/115720%^&*http://www.xiami.com/song/115721%^&*http://www.xiami.com/song/115722%^&*http://www.xiami.com/song/115723%^&*http://www.xiami.com/song/115724%^&*

@@ -1,0 +1,6 @@
+number 60074
+name 马小灵
+artist 夏金城%^&*
+artistURL http://www.xiami.com/artist/990%^&*
+album 为了靓靓
+albumURL http://www.xiami.com/album/4959

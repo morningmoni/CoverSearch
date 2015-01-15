@@ -1,0 +1,6 @@
+number 389513
+name 我和你
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 精装陈百强
+albumURL http://www.xiami.com/album/271

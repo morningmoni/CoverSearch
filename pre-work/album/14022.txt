@@ -1,0 +1,7 @@
+number 14022
+name Fall In Love
+artist 4 In Love
+introduction 
+picture http://img.xiami.net/images/album/img0/2600/140221345450860.jpg
+songs Fall In Love%^&*你休想%^&*Print My Heart%^&*爱还在%^&*爱情魔法书%^&*莫非%^&*爱的祈祷%^&*超时空要爱%^&*借我你的手%^&*再见中国海%^&*
+songURLs http://www.xiami.com/song/173045%^&*http://www.xiami.com/song/173046%^&*http://www.xiami.com/song/173047%^&*http://www.xiami.com/song/173048%^&*http://www.xiami.com/song/173049%^&*http://www.xiami.com/song/173050%^&*http://www.xiami.com/song/173051%^&*http://www.xiami.com/song/173052%^&*http://www.xiami.com/song/173053%^&*http://www.xiami.com/song/173054%^&*

@@ -1,0 +1,6 @@
+number 3414397
+name 爱在西元前
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album Partners 拍档
+albumURL http://www.xiami.com/album/308550

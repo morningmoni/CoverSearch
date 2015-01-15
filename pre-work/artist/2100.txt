@@ -1,0 +1,7 @@
+number 2100
+name 史辰兰
+place China 中国大陆
+introduction 小档案史辰兰自1989年起发表音乐作品，1994年以为河左岸剧团演出所做的配乐&ldquo;海洋告别&rdquo;获得金曲奖最佳录音、最佳演奏曲专辑制作人。并参与许多电影电视及剧场的配乐工作，包括黄明川&ldquo;宝岛大梦&rdquo;、蒋文慈服装发表会现场演出配乐、Just Diamond广告配乐等。
+picture http://img.xiami.net/images/artist/19/12523991406919.jpg
+albums 荒芜记%^&*自己的房间%^&*
+albumURLs http://www.xiami.com/album/11473%^&*http://www.xiami.com/album/169098%^&*

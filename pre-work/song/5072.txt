@@ -1,0 +1,6 @@
+number 5072
+name 静静的河边
+artist 陈任%^&*
+artistURL http://www.xiami.com/artist/112%^&*
+album Joe Chan 2nd Impression
+albumURL http://www.xiami.com/album/425

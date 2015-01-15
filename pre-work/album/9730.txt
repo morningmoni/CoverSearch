@@ -1,0 +1,6 @@
+number 9730
+name 太阳留住我
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/9730.jpg
+songs 爱的热泪%^&*太阳留住我%^&*那个愿清醒%^&*每一天%^&*跳出掌声背后%^&*谁愿意孤单%^&*再开始%^&*醺醺醉梦乡%^&*恋爱热潮%^&*白衣天使%^&*
+songURLs http://www.xiami.com/song/120263%^&*http://www.xiami.com/song/120264%^&*http://www.xiami.com/song/120265%^&*http://www.xiami.com/song/120266%^&*http://www.xiami.com/song/120267%^&*http://www.xiami.com/song/120268%^&*http://www.xiami.com/song/120269%^&*http://www.xiami.com/song/120270%^&*http://www.xiami.com/song/120271%^&*http://www.xiami.com/song/120272%^&*

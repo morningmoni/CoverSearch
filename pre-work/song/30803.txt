@@ -1,0 +1,6 @@
+number 30803
+name 单身(完全播放版)
+artist 洪一平%^&*
+artistURL http://www.xiami.com/artist/340%^&*
+album 单身(限量预售版)
+albumURL http://www.xiami.com/album/1523

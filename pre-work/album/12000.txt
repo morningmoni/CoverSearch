@@ -1,0 +1,6 @@
+number 12000
+name 偷哭的日子
+artist 王默君
+introduction picture http://img.xiami.net/images/album/img90/2190/12000.jpg
+songs 偷哭的日子%^&*那一夜好冷%^&*彩虹心%^&*最后的一季%^&*给我一个答案%^&*让思念伴着我%^&*白色的沙滩%^&*向忧郁说再见%^&*最后的决定%^&*假装我可以没有你%^&*
+songURLs http://www.xiami.com/song/147778%^&*http://www.xiami.com/song/147779%^&*http://www.xiami.com/song/147780%^&*http://www.xiami.com/song/147781%^&*http://www.xiami.com/song/147782%^&*http://www.xiami.com/song/147783%^&*http://www.xiami.com/song/147784%^&*http://www.xiami.com/song/147785%^&*http://www.xiami.com/song/147786%^&*http://www.xiami.com/song/147787%^&*

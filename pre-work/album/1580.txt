@@ -1,0 +1,6 @@
+number 1580
+name 胡越山 同名专辑
+artist 胡越山
+introduction picture http://img.xiami.net/images/pic/04/03/10083747446m_2.jpg
+songs 心窝不再痛%^&*痛一次换来一个梦%^&*就是寂寞吧%^&*谁令爱受伤%^&*分手再重逢%^&*热恋不夜天%^&*Amani%^&*你一声不向走了%^&*背起书包的日子%^&*如果收到花%^&*难舍难分%^&*
+songURLs http://www.xiami.com/song/31412%^&*http://www.xiami.com/song/31413%^&*http://www.xiami.com/song/31414%^&*http://www.xiami.com/song/31415%^&*http://www.xiami.com/song/31416%^&*http://www.xiami.com/song/31417%^&*http://www.xiami.com/song/31418%^&*http://www.xiami.com/song/31419%^&*http://www.xiami.com/song/31420%^&*http://www.xiami.com/song/31421%^&*http://www.xiami.com/song/31422%^&*

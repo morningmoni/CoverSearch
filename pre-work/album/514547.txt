@@ -1,0 +1,6 @@
+number 514547
+name 家
+artist 陈洁仪
+introduction picture http://img.xiami.net/images/album/img90/1390/5145471337562685.jpg
+songs Home%^&*家%^&*家(Instrumental)%^&*
+songURLs http://www.xiami.com/song/1771020886%^&*http://www.xiami.com/song/1771020887%^&*http://www.xiami.com/song/1771020888%^&*

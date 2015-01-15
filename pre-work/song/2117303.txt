@@ -1,0 +1,6 @@
+number 2117303
+name 异国恋人
+artist 长田%^&*
+artistURL http://www.xiami.com/artist/66%^&*
+album 一部跑车
+albumURL http://www.xiami.com/album/171399

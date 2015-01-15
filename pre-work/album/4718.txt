@@ -1,0 +1,7 @@
+number 4718
+name 三百六十五里路
+artist 文章
+introduction 
+picture http://img.xiami.net/images/album/img40/940/47181396282525.jpg
+songs 三百六十五里路%^&*犹豫的希望%^&*泛黄的书签%^&*爱可%^&*冬韵%^&*故乡的云%^&*交换%^&*晚风轻轻%^&*迷蒙%^&*匆%^&*
+songURLs http://www.xiami.com/song/57106%^&*http://www.xiami.com/song/57107%^&*http://www.xiami.com/song/57108%^&*http://www.xiami.com/song/57109%^&*http://www.xiami.com/song/57110%^&*http://www.xiami.com/song/57111%^&*http://www.xiami.com/song/57112%^&*http://www.xiami.com/song/57113%^&*http://www.xiami.com/song/57114%^&*http://www.xiami.com/song/57115%^&*

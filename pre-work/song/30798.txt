@@ -1,0 +1,6 @@
+number 30798
+name 奇境
+artist 洪一平%^&*
+artistURL http://www.xiami.com/artist/340%^&*
+album 平步倾云
+albumURL http://www.xiami.com/album/1522

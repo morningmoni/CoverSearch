@@ -1,0 +1,7 @@
+number 1654
+name 远走他乡
+artist 黄金成
+introduction 
+picture http://img.xiami.net/images/pic/06/17/50_20070330_134718_1997m_2.jpg
+songs 望乡%^&*我不想说%^&*远走他乡%^&*小微%^&*一个真实的故事%^&*离家的孩子%^&*青藏高原%^&*铁窗情%^&*天涯%^&*绒花%^&*月亮%^&*哭砂%^&*声音测试%^&*音效测试%^&*
+songURLs http://www.xiami.com/song/32141%^&*http://www.xiami.com/song/32142%^&*http://www.xiami.com/song/32143%^&*http://www.xiami.com/song/32144%^&*http://www.xiami.com/song/32145%^&*http://www.xiami.com/song/32146%^&*http://www.xiami.com/song/32147%^&*http://www.xiami.com/song/32148%^&*http://www.xiami.com/song/32149%^&*http://www.xiami.com/song/32150%^&*http://www.xiami.com/song/32151%^&*http://www.xiami.com/song/32152%^&*http://www.xiami.com/song/32153%^&*http://www.xiami.com/song/32154%^&*

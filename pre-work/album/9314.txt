@@ -1,0 +1,6 @@
+number 9314
+name 名曲金典1
+artist 丽莎
+introduction picture http://img.xiami.net/images/pic/04/03/10092631161m_2.jpg
+songs 相思泪%^&*啤酒女郎%^&*相思梦难圆%^&*一水隔天涯%^&*禅院钟声%^&*情如梦%^&*啼笑因缘%^&*为何不爱我%^&*分飞燕%^&*难忘旧爱%^&*百花亭花之恋%^&*思君怨%^&*为了爱%^&*卖花女%^&*恨绵绵%^&*夜夜寄相思%^&*
+songURLs http://www.xiami.com/song/115501%^&*http://www.xiami.com/song/115502%^&*http://www.xiami.com/song/115503%^&*http://www.xiami.com/song/115504%^&*http://www.xiami.com/song/115505%^&*http://www.xiami.com/song/115506%^&*http://www.xiami.com/song/115507%^&*http://www.xiami.com/song/115508%^&*http://www.xiami.com/song/115509%^&*http://www.xiami.com/song/115510%^&*http://www.xiami.com/song/115511%^&*http://www.xiami.com/song/115512%^&*http://www.xiami.com/song/115513%^&*http://www.xiami.com/song/115514%^&*http://www.xiami.com/song/115515%^&*http://www.xiami.com/song/115516%^&*

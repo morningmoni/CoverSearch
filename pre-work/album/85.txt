@@ -1,0 +1,7 @@
+number 85
+name 客途秋恨
+artist 白驹荣
+introduction 
+picture http://img.xiami.net/images/album/img29/29/85.jpg
+songs 客途秋恨%^&*梁天来之东来和尚抱不平%^&*泣荆花之参禅%^&*长生殿之密誓%^&*
+songURLs http://www.xiami.com/song/985%^&*http://www.xiami.com/song/983%^&*http://www.xiami.com/song/984%^&*http://www.xiami.com/song/982%^&*

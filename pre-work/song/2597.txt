@@ -1,0 +1,6 @@
+number 2597
+name 乘着阳光的翅膀
+artist 曹松章%^&*
+artistURL http://www.xiami.com/artist/60%^&*
+album 走出孤独
+albumURL http://www.xiami.com/album/212

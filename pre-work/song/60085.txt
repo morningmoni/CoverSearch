@@ -1,0 +1,6 @@
+number 60085
+name 又一首情爱歌
+artist 夏金城%^&*
+artistURL http://www.xiami.com/artist/990%^&*
+album 七招
+albumURL http://www.xiami.com/album/4960

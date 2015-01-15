@@ -1,0 +1,6 @@
+number 356
+name 雨的启示
+artist 陈浩德
+introduction picture http://img.xiami.net/images/album/img85/85/356.jpg
+songs 雨的启示%^&*父子情%^&*沧海一粟%^&*浮世无绝望%^&*爱的季节%^&*点样讲你知%^&*揾食做人难%^&*何处是岸%^&*烦恼再见%^&*梦里情%^&*思乡泪%^&*愿你我足够%^&*
+songURLs http://www.xiami.com/song/4306%^&*http://www.xiami.com/song/4307%^&*http://www.xiami.com/song/4308%^&*http://www.xiami.com/song/4309%^&*http://www.xiami.com/song/4310%^&*http://www.xiami.com/song/4311%^&*http://www.xiami.com/song/4312%^&*http://www.xiami.com/song/4313%^&*http://www.xiami.com/song/4314%^&*http://www.xiami.com/song/4315%^&*http://www.xiami.com/song/4316%^&*http://www.xiami.com/song/4317%^&*

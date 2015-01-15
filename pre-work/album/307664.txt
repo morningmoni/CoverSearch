@@ -1,0 +1,7 @@
+number 307664
+name 伤情过路人
+artist 陈雷
+introduction 
+picture http://img.xiami.net/images/album/img0/100/3076641318840345.jpg
+songs 伤情过路人%^&*伊啊啰伊%^&*坎站%^&*命运棋%^&*搥心肝凝心肝%^&*心内的话%^&*心锁%^&*冷烧酒%^&*孤单%^&*梦中祝福你%^&*
+songURLs http://www.xiami.com/song/3402853%^&*http://www.xiami.com/song/3402854%^&*http://www.xiami.com/song/3402855%^&*http://www.xiami.com/song/3402856%^&*http://www.xiami.com/song/3402857%^&*http://www.xiami.com/song/3402858%^&*http://www.xiami.com/song/3402859%^&*http://www.xiami.com/song/3402860%^&*http://www.xiami.com/song/3402861%^&*http://www.xiami.com/song/3402862%^&*

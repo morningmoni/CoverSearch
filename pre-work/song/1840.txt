@@ -1,0 +1,6 @@
+number 1840
+name 心中的秘密
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 海底针
+albumURL http://www.xiami.com/album/149

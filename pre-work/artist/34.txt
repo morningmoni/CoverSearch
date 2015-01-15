@@ -1,0 +1,7 @@
+number 34
+name 毕国勇
+place Taiwan 台湾
+introduction 小档案星座：金牛座嗜好：和朋友聊天、唱歌、工作梦想：歌手－词曲创作人－制作人最喜欢的颜色：黑、白、蓝最喜欢的音乐：ROCK、FOLK、ACIDJAZZ、DRUMNBASS、HIPHOP&TRANCE;最喜欢的运动：篮球、高尔夫最喜欢的亚洲艺人：张学友、王菲、林青霞、夏文汐、我爸、我妈最喜欢的国外艺人：ASHLEYJUDD、EDWARDNORTON最喜欢的季节：瘦的时候夏天、胖的时候冬天最喜欢的食物：日本料理最喜欢的电影：UNUSUALSUSPECT、MICHEALCOLLINS最欣赏的音乐人：黄大炜、陈伟、贾敏恕、林暐哲最欣赏的团体：RADIOHEAD、GARBAGE、PRODIGY最崇拜的人：父、母最难忘的事：三次大便在裤子里最讨厌的人：臭屁、做作、迷信
+picture http://img.xiami.net/images/artist/11976030297486.jpg
+albums 爱好痛,心不苦%^&*
+albumURLs http://www.xiami.com/album/101%^&*

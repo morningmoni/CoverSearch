@@ -1,0 +1,6 @@
+number 9313
+name 缘份
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 缘份%^&*在水中央%^&*桑为媒%^&*亲情%^&*青春之恋%^&*路上遇见你%^&*愿随风飘送%^&*海风寄我情%^&*爱的枷锁%^&*樱花恋%^&*春色无边%^&*用爱将心偷%^&*
+songURLs http://www.xiami.com/song/115489%^&*http://www.xiami.com/song/115490%^&*http://www.xiami.com/song/115491%^&*http://www.xiami.com/song/115492%^&*http://www.xiami.com/song/115493%^&*http://www.xiami.com/song/115494%^&*http://www.xiami.com/song/115495%^&*http://www.xiami.com/song/115496%^&*http://www.xiami.com/song/115497%^&*http://www.xiami.com/song/115498%^&*http://www.xiami.com/song/115499%^&*http://www.xiami.com/song/115500%^&*

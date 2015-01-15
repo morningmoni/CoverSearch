@@ -1,0 +1,8 @@
+number 1606
+name 爱情组曲MV
+artist 钟镇涛%^&*张学友%^&*蔡国权%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%92%9F%E9%95%87%E6%B6%9B%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BC%A0%E5%AD%A6%E5%8F%8B%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%9B%BD%E6%9D%83%^&*
+album 完美先生
+albumURL http://www.xiami.com/album/130

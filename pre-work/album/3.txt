@@ -1,0 +1,7 @@
+number 3
+name 想亲亲想在心眼眼上
+artist 阿宝
+introduction 
+picture http://img.xiami.net/images/album/img0/31281603232.jpg
+songs 圪梁梁%^&*走西口%^&*青藏高原%^&*想亲亲想在心眼眼上%^&*篱笆墙的影子%^&*绣荷包%^&*咱们的领袖毛泽东%^&*杨柳青%^&*大海%^&*爱你在心口难开%^&*民歌大联唱: 山歌好比春江水 / 信天游 / 八路军拉大栓 / 山路十八弯 / 花儿少年 / 青春舞曲 / 沂蒙山小调 / 山丹丹花开红艳艳%^&*
+songURLs http://www.xiami.com/song/16%^&*http://www.xiami.com/song/17%^&*http://www.xiami.com/song/18%^&*http://www.xiami.com/song/19%^&*http://www.xiami.com/song/20%^&*http://www.xiami.com/song/21%^&*http://www.xiami.com/song/22%^&*http://www.xiami.com/song/23%^&*http://www.xiami.com/song/24%^&*http://www.xiami.com/song/25%^&*http://www.xiami.com/song/26%^&*

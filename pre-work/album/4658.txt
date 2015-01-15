@@ -1,0 +1,7 @@
+number 4658
+name 等你
+artist 王中平
+introduction 1992年9月，王中平推出第一张专辑，以稻草人的质朴特色风靡了俊男美女当道的艺坛。因为他亲切和绝对认真的态度，新人无法在电视媒体上曝光的致命伤并没有在他身上出现，反而王中平上遍大小通告，被封为电视节目的公务员和救火队。1994年5月，王中平推出专辑《等你》，才出道短短一年半，王中平形象和歌声已烙印在每条大街小巷了。王中平闪耀着光芒，宛如歌坛一股活跃的清流，他的欢喜自在与知足，却是深植每一个人心中，没有丝毫改变。
+picture http://img.xiami.net/images/album/img30/930/4658.jpg
+songs 等你%^&*停停走走%^&*谁家的孩子%^&*把爱放下来%^&*回家的路%^&*这一生爱过你%^&*梦里飞走的人%^&*好梦难圆%^&*最爱的人%^&*停停走走 (吉他自弹自唱)%^&*
+songURLs http://www.xiami.com/song/56474%^&*http://www.xiami.com/song/56475%^&*http://www.xiami.com/song/56476%^&*http://www.xiami.com/song/56478%^&*http://www.xiami.com/song/56477%^&*http://www.xiami.com/song/56479%^&*http://www.xiami.com/song/56480%^&*http://www.xiami.com/song/56481%^&*http://www.xiami.com/song/56482%^&*http://www.xiami.com/song/56483%^&*

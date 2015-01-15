@@ -1,0 +1,7 @@
+number 405040
+name 民歌皇后
+artist 宋祖英
+introduction 
+picture http://img.xiami.net/images/album/img10/2110/4050401287592170.jpg
+songs 大地飞歌%^&*古丈茶歌%^&*辣妹子%^&*十八弯水路到我家%^&*侗锦芒笙和兰花%^&*小背篓%^&*兵哥哥%^&*我爱你巴颜喀拉%^&*苗岭连北京%^&*月亮花儿开%^&*筒花谣%^&*阿公的酒碗%^&*等你来%^&*归乡的路%^&*又唱浏阳河%^&*
+songURLs http://www.xiami.com/song/1769800923%^&*http://www.xiami.com/song/1769800924%^&*http://www.xiami.com/song/1769800925%^&*http://www.xiami.com/song/1769800926%^&*http://www.xiami.com/song/1769800927%^&*http://www.xiami.com/song/1769800928%^&*http://www.xiami.com/song/1769800929%^&*http://www.xiami.com/song/1769800930%^&*http://www.xiami.com/song/1769800931%^&*http://www.xiami.com/song/1769800932%^&*http://www.xiami.com/song/1769800933%^&*http://www.xiami.com/song/1769800934%^&*http://www.xiami.com/song/1769800935%^&*http://www.xiami.com/song/1769800936%^&*http://www.xiami.com/song/1769800937%^&*

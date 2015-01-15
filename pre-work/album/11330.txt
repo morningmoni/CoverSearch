@@ -1,0 +1,7 @@
+number 11330
+name 2 In One
+artist 丘采桦
+introduction 1997年，上华唱片把来自马来西亚的丘采桦和姚琇龄组成一个组合，出了张《2 in ONE》试探香港市场。当时粤语歌坛的原创力还处于旺盛期尽，香港歌手到台湾发片属强势，而台湾歌手去香港，除了周华健、巫启贤、王杰，其它大多数还上不了台面。但在这种情况下，《2 in ONE》成了炮灰，毫无反应。但是这张专辑留下了一首传奇般的歌曲&mdash;&mdash;《海觅天》。
+picture http://img.xiami.net/images/album/img60/2060/113301376929939.jpg
+songs 重大发现%^&*狡辩%^&*对对错错%^&*我不是双鱼座%^&*闯祸%^&*情字这条路之不归路%^&*海觅天%^&*十二月的某夜%^&*绿色的日子%^&*
+songURLs http://www.xiami.com/song/2048679%^&*http://www.xiami.com/song/2048680%^&*http://www.xiami.com/song/2048681%^&*http://www.xiami.com/song/2048682%^&*http://www.xiami.com/song/2048683%^&*http://www.xiami.com/song/2048684%^&*http://www.xiami.com/song/2048685%^&*http://www.xiami.com/song/2048686%^&*http://www.xiami.com/song/2048687%^&*

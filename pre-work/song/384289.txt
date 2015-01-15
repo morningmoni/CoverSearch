@@ -1,0 +1,6 @@
+number 384289
+name 我是你的小小狗MV
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 无尾熊抱抱
+albumURL http://www.xiami.com/album/61

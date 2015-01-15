@@ -1,0 +1,6 @@
+number 120291
+name 彩云曲MV电影《彩云曲》主题曲
+artist 雷安娜%^&*
+artistURL http://www.xiami.com/artist/1760%^&*
+album 雷安娜精选
+albumURL http://www.xiami.com/album/9732

@@ -1,0 +1,7 @@
+number 4071
+name 月光 海洋 梦
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40711387372921.jpg
+songs 发掘话题%^&*所以%^&*月光 海洋 梦%^&*寂寞玩具%^&*真自由%^&*早餐%^&*不想知道%^&*自恋%^&*最爱的戏%^&*用情太深 (粤语版)%^&*
+songURLs http://www.xiami.com/song/49827%^&*http://www.xiami.com/song/49828%^&*http://www.xiami.com/song/49829%^&*http://www.xiami.com/song/49830%^&*http://www.xiami.com/song/49831%^&*http://www.xiami.com/song/49832%^&*http://www.xiami.com/song/49833%^&*http://www.xiami.com/song/49834%^&*http://www.xiami.com/song/49835%^&*http://www.xiami.com/song/49836%^&*

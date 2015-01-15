@@ -1,0 +1,6 @@
+number 2134
+name 骏新人
+artist 黎骏
+introduction picture http://img.xiami.net/images/album/img0/500/21341401158981.jpg
+songs 爱一生都不够%^&*不认·不认(第二代)%^&*十万八千种鲜花%^&*害怕·逃避·以后%^&*浪子心情%^&*心痛%^&*逃%^&*一厢情愿%^&*情不自禁%^&*十万八千种鲜花(Slowly Version)%^&*不认不认还须认%^&*爱一生都不够(情陷篇)%^&*
+songURLs http://www.xiami.com/song/14234%^&*http://www.xiami.com/song/14235%^&*http://www.xiami.com/song/14236%^&*http://www.xiami.com/song/14237%^&*http://www.xiami.com/song/14238%^&*http://www.xiami.com/song/14239%^&*http://www.xiami.com/song/14240%^&*http://www.xiami.com/song/14241%^&*http://www.xiami.com/song/14242%^&*http://www.xiami.com/song/14243%^&*http://www.xiami.com/song/14244%^&*http://www.xiami.com/song/14245%^&*

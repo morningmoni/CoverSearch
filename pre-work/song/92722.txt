@@ -1,0 +1,6 @@
+number 92722
+name 醉过以后一起飞(Karaoke)
+artist 陈铭洲%^&*
+artistURL http://www.xiami.com/artist/1410%^&*
+album 这样的夜晚你需不需要我
+albumURL http://www.xiami.com/album/7523

@@ -1,0 +1,6 @@
+number 1770182001
+name 我的草帽
+artist 阿强%^&*
+artistURL http://www.xiami.com/artist/11%^&*
+album 老男孩
+albumURL http://www.xiami.com/album/438600

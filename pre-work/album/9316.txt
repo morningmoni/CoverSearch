@@ -1,0 +1,6 @@
+number 9316
+name 喜庆歌曲
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 今年发大财%^&*春光普照%^&*年年大吉庆%^&*心愿%^&*情花开满枝%^&*除旧布新贺新春%^&*一年笑到晚%^&*新春如意%^&*青春恋曲%^&*佳期近%^&*初恋%^&*春日情歌%^&*
+songURLs http://www.xiami.com/song/115529%^&*http://www.xiami.com/song/115530%^&*http://www.xiami.com/song/115531%^&*http://www.xiami.com/song/115532%^&*http://www.xiami.com/song/115533%^&*http://www.xiami.com/song/115534%^&*http://www.xiami.com/song/115535%^&*http://www.xiami.com/song/115536%^&*http://www.xiami.com/song/115537%^&*http://www.xiami.com/song/115538%^&*http://www.xiami.com/song/115539%^&*http://www.xiami.com/song/115540%^&*

@@ -1,0 +1,7 @@
+number 15552
+name A Wishful Way
+artist 跳房子
+introduction 
+picture http://img.xiami.net/images/album/img80/3080/155521386729929.jpg
+songs A Wishful Way%^&*Soldier%^&*Sometimes%^&*A Faker%^&*Animal Fazenda%^&*When I think of you%^&*She%^&*Fragile Inside%^&*Try to%^&*Swim%^&*
+songURLs http://www.xiami.com/song/190795%^&*http://www.xiami.com/song/190796%^&*http://www.xiami.com/song/190797%^&*http://www.xiami.com/song/190798%^&*http://www.xiami.com/song/190799%^&*http://www.xiami.com/song/190800%^&*http://www.xiami.com/song/190801%^&*http://www.xiami.com/song/190802%^&*http://www.xiami.com/song/190803%^&*http://www.xiami.com/song/190804%^&*

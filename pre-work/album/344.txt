@@ -1,0 +1,7 @@
+number 344
+name 钢琴之爱5
+artist 陈冠宇
+introduction EI-5019
+picture http://img.xiami.net/images/album/img81/81/3441379824327.jpg
+songs 让我欢喜让我忧%^&*美丽花蝴蝶%^&*爱上一个不回家的人%^&*情关%^&*特别的爱给特别的你%^&*为了爱梦一生%^&*钟爱一生%^&*认错%^&*你怎么舍得我难过%^&*哭砂%^&*
+songURLs http://www.xiami.com/song/4170%^&*http://www.xiami.com/song/4171%^&*http://www.xiami.com/song/4172%^&*http://www.xiami.com/song/4173%^&*http://www.xiami.com/song/4174%^&*http://www.xiami.com/song/4175%^&*http://www.xiami.com/song/4176%^&*http://www.xiami.com/song/4177%^&*http://www.xiami.com/song/4178%^&*http://www.xiami.com/song/4179%^&*

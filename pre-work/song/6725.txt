@@ -1,0 +1,6 @@
+number 6725
+name 启示录
+artist 陈旭%^&*
+artistURL http://www.xiami.com/artist/128%^&*
+album 东北特产2-爷们
+albumURL http://www.xiami.com/album/556

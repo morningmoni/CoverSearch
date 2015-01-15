@@ -1,0 +1,6 @@
+number 47225
+name 神奇的九寨MV
+artist 容中尔甲%^&*
+artistURL http://www.xiami.com/artist/800%^&*
+album 九寨沟之歌
+albumURL http://www.xiami.com/album/3840

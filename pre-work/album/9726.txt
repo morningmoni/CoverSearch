@@ -1,0 +1,7 @@
+number 9726
+name 环球真经典系列
+artist 雷安娜
+introduction 
+picture http://img.xiami.net/images/album/img60/1760/97261418268061.jpeg
+songs 旧梦不须记%^&*无奈我心乱如麻%^&*真的喜欢你%^&*美丽的童话%^&*暂别%^&*停不了的爱%^&*痴情劫%^&*浊世暖流清%^&*做个木头人%^&*人在旅途洒泪时%^&*别了忧郁%^&*彩云曲%^&*太阳留住我%^&*白衣天使%^&*心痛的感觉%^&*爱的热泪%^&*
+songURLs http://www.xiami.com/song/120208%^&*http://www.xiami.com/song/120209%^&*http://www.xiami.com/song/120210%^&*http://www.xiami.com/song/120211%^&*http://www.xiami.com/song/120212%^&*http://www.xiami.com/song/120213%^&*http://www.xiami.com/song/120214%^&*http://www.xiami.com/song/120215%^&*http://www.xiami.com/song/120216%^&*http://www.xiami.com/song/120217%^&*http://www.xiami.com/song/120218%^&*http://www.xiami.com/song/120219%^&*http://www.xiami.com/song/120220%^&*http://www.xiami.com/song/120221%^&*http://www.xiami.com/song/120222%^&*http://www.xiami.com/song/120223%^&*

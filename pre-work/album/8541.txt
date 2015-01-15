@@ -1,0 +1,7 @@
+number 8541
+name 渔光曲
+artist 付娜
+introduction 
+picture http://img.xiami.net/images/album/img40/1540/8541.jpg
+songs 渔光曲%^&*逝去的诺言%^&*我有一段情%^&*九九艳阳天%^&*天涯歌女%^&*红梅赞%^&*平湖秋月%^&*摘下满天星%^&*北国之春%^&*风含情、水含笑%^&*葬花吟%^&*梅花三弄%^&*一帘幽梦%^&*女儿情%^&*梦江南%^&*
+songURLs http://www.xiami.com/song/106304%^&*http://www.xiami.com/song/106305%^&*http://www.xiami.com/song/106306%^&*http://www.xiami.com/song/106307%^&*http://www.xiami.com/song/106308%^&*http://www.xiami.com/song/106309%^&*http://www.xiami.com/song/106310%^&*http://www.xiami.com/song/106311%^&*http://www.xiami.com/song/106312%^&*http://www.xiami.com/song/106313%^&*http://www.xiami.com/song/106314%^&*http://www.xiami.com/song/106315%^&*http://www.xiami.com/song/106316%^&*http://www.xiami.com/song/106317%^&*http://www.xiami.com/song/106318%^&*

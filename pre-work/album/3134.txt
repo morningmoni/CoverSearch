@@ -1,0 +1,6 @@
+number 3134
+name 闪亮的日子
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3134.jpg
+songs 飞翔%^&*闪亮的日子%^&*浮萍%^&*水上人家%^&*歌%^&*The End Of The World%^&*一个我喜欢的女孩%^&*嘿!嘿!%^&*爱的小船%^&*可爱的明天%^&*蝴蝶谷%^&*跳吧!今宵%^&*
+songURLs http://www.xiami.com/song/38688%^&*http://www.xiami.com/song/38689%^&*http://www.xiami.com/song/38690%^&*http://www.xiami.com/song/38691%^&*http://www.xiami.com/song/38692%^&*http://www.xiami.com/song/38693%^&*http://www.xiami.com/song/38694%^&*http://www.xiami.com/song/38695%^&*http://www.xiami.com/song/38696%^&*http://www.xiami.com/song/38697%^&*http://www.xiami.com/song/38698%^&*http://www.xiami.com/song/38699%^&*

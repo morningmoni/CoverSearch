@@ -1,0 +1,7 @@
+number 102
+name 毕晓世的音乐之旅 全心作品集
+artist 毕晓世
+introduction 
+picture http://img.xiami.net/images/album/img0/1021282280338.jpg
+songs 总会等到那一天%^&*轻轻地告诉你%^&*真爱一回%^&*生疏的情感%^&*蓝蓝的夜蓝蓝的梦%^&*原来爱过以后%^&*山沟沟%^&*从前有座山%^&*我的心等着你%^&*拥抱明天%^&*让我再唱一首歌%^&*一壶好茶%^&*爵士鼓手%^&*叫三毛的女孩%^&*兄弟情%^&*父亲%^&*
+songURLs http://www.xiami.com/song/1184%^&*http://www.xiami.com/song/1185%^&*http://www.xiami.com/song/1186%^&*http://www.xiami.com/song/1187%^&*http://www.xiami.com/song/1188%^&*http://www.xiami.com/song/1189%^&*http://www.xiami.com/song/1190%^&*http://www.xiami.com/song/1191%^&*http://www.xiami.com/song/1192%^&*http://www.xiami.com/song/1193%^&*http://www.xiami.com/song/1194%^&*http://www.xiami.com/song/1195%^&*http://www.xiami.com/song/1196%^&*http://www.xiami.com/song/1197%^&*http://www.xiami.com/song/1198%^&*http://www.xiami.com/song/1199%^&*

@@ -1,0 +1,7 @@
+number 15330
+name 圣母颂
+artist 圣女合唱组
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10142818986m_2.jpg
+songs 祝你圣诞快乐%^&*圣母颂%^&*绿袖子%^&*铃儿响叮当%^&*圣诞的钟声%^&*乘雪橇%^&*圣母颂%^&*叮,当,圣诞钟声响%^&*三博士%^&*我心爱的一切%^&*平安夜%^&*哈利路亚%^&*
+songURLs http://www.xiami.com/song/188170%^&*http://www.xiami.com/song/188171%^&*http://www.xiami.com/song/188172%^&*http://www.xiami.com/song/188173%^&*http://www.xiami.com/song/188174%^&*http://www.xiami.com/song/188175%^&*http://www.xiami.com/song/188176%^&*http://www.xiami.com/song/188177%^&*http://www.xiami.com/song/188178%^&*http://www.xiami.com/song/188179%^&*http://www.xiami.com/song/188180%^&*http://www.xiami.com/song/188181%^&*

@@ -1,0 +1,6 @@
+number 1769098766
+name 拥有
+artist 鲍比达%^&*
+artistURL http://www.xiami.com/artist/32%^&*
+album 夜半歌声 电影原声大碟
+albumURL http://www.xiami.com/album/345435

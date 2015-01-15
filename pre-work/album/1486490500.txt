@@ -1,0 +1,7 @@
+number 1486490500
+name 情歌唱尽
+artist 阿吉仔
+introduction 2013年最动听的情歌阿吉仔 情歌唱尽 隆重发行首波主打 爱你呀二波主打 情歌唱尽一张结合台语和国语的双声带专辑让您一次拥有双重享受＊ 全力推荐 ＊首波｢爱你呀｣  爱你呀 爱你呀爱你的明明就是我 又抹倘来讲破｢情歌唱尽｣  你的髮丝从我手中 轻轻的滑落 当爱离开后才知心痛 情歌唱尽后才寂寞｢我是你的伴｣  你问我是你的啥 我讲我是你的伴 讲好后半世人甲你作伙拼｢相见｣  相见不如常怀念 把爱放在心裡面 往事一切都如烟 何苦再去说从前｢心爱再会｣  啊~心爱的再会  啊~心爱的再会 我不敢越头看你离开抹
+picture http://img.xiami.net/images/album/img8/8/14864905001387173573.jpg
+songs 爱你呀%^&*情歌唱尽 (国语)%^&*我是你的伴%^&*相见 (国语)%^&*心爱再会%^&*为一仙钱%^&*爱你的勇气%^&*是谁无心肝%^&*好来好去%^&*下一个人生 (国语)%^&*
+songURLs http://www.xiami.com/song/1772393079%^&*http://www.xiami.com/song/1772393080%^&*http://www.xiami.com/song/1772393081%^&*http://www.xiami.com/song/1772393082%^&*http://www.xiami.com/song/1772393083%^&*http://www.xiami.com/song/1772393084%^&*http://www.xiami.com/song/1772393085%^&*http://www.xiami.com/song/1772393086%^&*http://www.xiami.com/song/1772393087%^&*http://www.xiami.com/song/1772393088%^&*

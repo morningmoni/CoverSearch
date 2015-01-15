@@ -1,0 +1,7 @@
+number 215713
+name 我们的歌在哪里
+artist 梁文福
+introduction 
+picture http://img.xiami.net/images/album/img90/590/215713.jpg
+songs 写一首歌给你%^&*水的话%^&*初涉%^&*摇摇民谣%^&*排排坐%^&*夜的眩晕%^&*阿Ben阿Ben%^&*新衣哪有旧衣好%^&*弹一支凉凉的歌%^&*我们的歌在哪里？%^&*门%^&*岁月的另一张脸%^&*你有珠帘一袭%^&*17:00的心情%^&*莫提永远%^&*门内（音乐）%^&*
+songURLs http://www.xiami.com/song/2549846%^&*http://www.xiami.com/song/2549847%^&*http://www.xiami.com/song/2549848%^&*http://www.xiami.com/song/2549849%^&*http://www.xiami.com/song/2549850%^&*http://www.xiami.com/song/2549851%^&*http://www.xiami.com/song/2549852%^&*http://www.xiami.com/song/2549853%^&*http://www.xiami.com/song/2549854%^&*http://www.xiami.com/song/2549855%^&*http://www.xiami.com/song/2549856%^&*http://www.xiami.com/song/2549857%^&*http://www.xiami.com/song/2549858%^&*http://www.xiami.com/song/2549859%^&*http://www.xiami.com/song/2549860%^&*http://www.xiami.com/song/2549861%^&*

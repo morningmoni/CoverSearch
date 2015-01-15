@@ -1,0 +1,7 @@
+number 161
+name 你是否记得我
+artist 蔡荣祖
+introduction 
+picture http://img.xiami.net/images/album/img0/1611284011614.jpg
+songs 你是否记得我%^&*找寻你%^&*有些话我没说你也会懂%^&*时间不等待%^&*旅%^&*跟我到海边%^&*感情的事很难说%^&*我的梦想和别人不一样%^&*永远的情人%^&*黑夜的魔力%^&*
+songURLs http://www.xiami.com/song/2004%^&*http://www.xiami.com/song/2005%^&*http://www.xiami.com/song/2006%^&*http://www.xiami.com/song/2007%^&*http://www.xiami.com/song/2008%^&*http://www.xiami.com/song/2009%^&*http://www.xiami.com/song/2010%^&*http://www.xiami.com/song/2011%^&*http://www.xiami.com/song/2012%^&*http://www.xiami.com/song/2013%^&*

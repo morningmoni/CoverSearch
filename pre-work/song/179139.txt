@@ -1,0 +1,6 @@
+number 179139
+name 半个他
+artist Echo%^&*
+artistURL http://www.xiami.com/artist/2720%^&*
+album Goodbye Summer
+albumURL http://www.xiami.com/album/14514

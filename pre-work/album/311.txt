@@ -1,0 +1,6 @@
+number 311
+name 24Kiss
+artist 陈迪匡
+introduction picture http://img.xiami.net/
+songs 24Kiss%^&*Crying%^&*信是偶然%^&*风的浪漫%^&*始终不是我%^&*求能原谅我%^&*Masquerade%^&*懒惰其实错%^&*雨夜女神%^&*
+songURLs http://www.xiami.com/song/3781%^&*http://www.xiami.com/song/3782%^&*http://www.xiami.com/song/3783%^&*http://www.xiami.com/song/3784%^&*http://www.xiami.com/song/3785%^&*http://www.xiami.com/song/3786%^&*http://www.xiami.com/song/3787%^&*http://www.xiami.com/song/3788%^&*http://www.xiami.com/song/3789%^&*

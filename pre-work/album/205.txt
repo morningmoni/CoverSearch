@@ -1,0 +1,7 @@
+number 205
+name Superman
+artist 曹格
+introduction 
+picture http://img.xiami.net/images/album/img58/58/2051388932469.jpg
+songs SUPERMAN%^&*两只恋人%^&*GIRLFRIEND%^&*背叛%^&*你是我的宝贝%^&*3-7-20-1%^&*保护你%^&*爱到底%^&*我的甜蜜蜜%^&*天使忌妒的生活%^&*
+songURLs http://www.xiami.com/song/378643%^&*http://www.xiami.com/song/378644%^&*http://www.xiami.com/song/378645%^&*http://www.xiami.com/song/378646%^&*http://www.xiami.com/song/378647%^&*http://www.xiami.com/song/378648%^&*http://www.xiami.com/song/378649%^&*http://www.xiami.com/song/378650%^&*http://www.xiami.com/song/378651%^&*http://www.xiami.com/song/378652%^&*

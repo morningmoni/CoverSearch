@@ -1,0 +1,7 @@
+number 3124
+name 三月里的小雨
+artist 刘文正
+introduction 
+picture http://img.xiami.net/images/album/img70/670/31241393813872.jpg
+songs 三月里的小雨%^&*飞鹰%^&*忆%^&*爱情%^&*春夏秋冬%^&*散场%^&*跟夏天说再见%^&*无语%^&*正当你年轻%^&*小秘密%^&*如果你在心中%^&*不再孤寂%^&*
+songURLs http://www.xiami.com/song/38571%^&*http://www.xiami.com/song/38572%^&*http://www.xiami.com/song/38573%^&*http://www.xiami.com/song/38574%^&*http://www.xiami.com/song/38575%^&*http://www.xiami.com/song/38576%^&*http://www.xiami.com/song/38577%^&*http://www.xiami.com/song/38578%^&*http://www.xiami.com/song/38579%^&*http://www.xiami.com/song/38580%^&*http://www.xiami.com/song/38581%^&*http://www.xiami.com/song/38582%^&*

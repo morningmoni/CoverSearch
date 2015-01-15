@@ -1,0 +1,6 @@
+number 1769308488
+name 书呆子
+artist 艾成%^&*
+artistURL http://www.xiami.com/artist/15%^&*
+album 万人迷
+albumURL http://www.xiami.com/album/362853

@@ -1,0 +1,7 @@
+number 1206
+name 西部狂想
+artist 那英%^&*解晓东%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%82%A3%E8%8B%B1%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%A7%A3%E6%99%93%E4%B8%9C%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

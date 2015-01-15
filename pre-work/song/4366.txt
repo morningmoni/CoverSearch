@@ -1,0 +1,6 @@
+number 4366
+name 我为你心碎
+artist 陈浩德%^&*
+artistURL http://www.xiami.com/artist/85%^&*
+album 我为你心碎
+albumURL http://www.xiami.com/album/361

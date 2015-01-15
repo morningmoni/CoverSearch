@@ -1,0 +1,7 @@
+number 9987
+name 自由
+artist 李心洁
+introduction 
+picture http://img.xiami.net/images/album/img20/1820/99871398070446.jpg
+songs 自由 (Vocal)%^&*自由 (Remix)%^&*自由 (Instrumental)%^&*
+songURLs http://www.xiami.com/song/123296%^&*http://www.xiami.com/song/123297%^&*http://www.xiami.com/song/123298%^&*

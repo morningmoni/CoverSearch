@@ -1,0 +1,6 @@
+number 20291
+name 君自远海来
+artist 潘盈%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%BD%98%E7%9B%88%^&*
+album 东方情思录
+albumURL http://www.xiami.com/album/2623

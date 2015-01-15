@@ -1,0 +1,7 @@
+number 10610
+name 雨季
+artist 刘若英
+introduction 
+picture http://img.xiami.net/images/album/img30/1930/106101385607620.jpg
+songs 打了一把钥匙给你%^&*雨季%^&*蒲公英%^&*骂你%^&*Monica%^&*男人的皮衣%^&*歌词给我%^&*背影%^&*单车失窃记%^&*说话%^&*
+songURLs http://www.xiami.com/song/130878%^&*http://www.xiami.com/song/130879%^&*http://www.xiami.com/song/130880%^&*http://www.xiami.com/song/130881%^&*http://www.xiami.com/song/130882%^&*http://www.xiami.com/song/130883%^&*http://www.xiami.com/song/130884%^&*http://www.xiami.com/song/130885%^&*http://www.xiami.com/song/130886%^&*http://www.xiami.com/song/130887%^&*

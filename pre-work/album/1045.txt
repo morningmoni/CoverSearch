@@ -1,0 +1,6 @@
+number 1045
+name 换季情人
+artist 甘子辉
+introduction picture http://img.xiami.net/images/pic/04/03/10083834540m_2.jpg
+songs Ophelia%^&*人在深秋%^&*换季情人%^&*旧梦%^&*你说过日夜念着我%^&*相恋一个晚上%^&*每当日落时%^&*拨个电话%^&*Angie%^&*不必回信%^&*
+songURLs http://www.xiami.com/song/25502%^&*http://www.xiami.com/song/25503%^&*http://www.xiami.com/song/25504%^&*http://www.xiami.com/song/25505%^&*http://www.xiami.com/song/25506%^&*http://www.xiami.com/song/25507%^&*http://www.xiami.com/song/25508%^&*http://www.xiami.com/song/25509%^&*http://www.xiami.com/song/25510%^&*http://www.xiami.com/song/25511%^&*

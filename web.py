@@ -9,6 +9,7 @@ from flask import Flask, request,\
 from werkzeug import secure_filename
 import random,os
 from LSH import imgProcess
+from resort import resortalbum
 def run(searcher, analyzer,command):
     querys=BooleanQuery()
 
@@ -203,7 +204,8 @@ def search2():
                                'albumsongURLs': urls,\
                                'albumpicURL':doc.get('albumpicURL'),\
                                 'albumartistURL':doc.get('albumartistURL'),\
-                                'albumURL':doc.get('albumURL')}]                   
+                                'albumURL':doc.get('albumURL'),\
+                               'rank':100}]
             else:
                 print  request.form.values()
                 print 'sr=',sr
@@ -228,7 +230,8 @@ def search2():
                                'albumsongURLs': urls,\
                                'albumpicURL':doc.get('albumpicURL'),\
                                 'albumartistURL':doc.get('albumartistURL'),\
-                                'albumURL':doc.get('albumURL')}] 
+                                'albumURL':doc.get('albumURL'),\
+                               'rank':100}] 
                     results0=results2
                 else:
                     scoreDocs=run2(searcher2, analyzer,sr,20) #search 20 albums
@@ -250,32 +253,32 @@ def search2():
                                 'albumURL':doc.get('albumURL'),\
                                     'rank':rank}]
                         rank-=5
+            conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8") 
+            # conn = MySQLdb.connect(host='localhost', user='ee208',passwd='ee208',charset="utf8")
+            conn.select_db('coversearch');
+            cursor = conn.cursor()
+            
+            for i in results2:
+                try:
+                    cursor.execute("select zan from albums where id="+i['albumnum'])
+                    zan=cursor.fetchone()[0]
+                    i['zan']=zan
+                    i['rank']+=int(zan)
+                except:
+                    i['zan']=0
+            results2.sort(key=lambda x:x['rank'],reverse=True)
+            results2=resortalbum(results2,sr)
+            conn.commit()
+            cursor.close() 
+            conn.close()
             searcher2.close()
         except Exception,e:
             print 2,e
       
 #tmp为单字符highlight
-    conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8") 
-    conn.select_db('coversearch');
-    cursor = conn.cursor()
-    
-    for i in results2:
-        try:
-            cursor.execute("select zan from albums where id="+i['albumnum'])
-            zan=cursor.fetchone()[0]
-##            print 'zan',zan
-            i['zan']=zan
-            i['rank']+=int(zan)
-        except:
-            i['zan']=0
 
-
-
-    conn.commit()
-    cursor.close() 
-    conn.close()
 ##    print results2
-    results2.sort(key=lambda x:x['rank'],reverse=True)
+    
     return results0,results2,tmp
 
 
@@ -300,8 +303,8 @@ def album():
 @app.route('/comment', methods=['GET', 'POST'])
 def comment():
     try:
-        # conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8")
-        conn = MySQLdb.connect(host='localhost', user='ee208',passwd='ee208',charset="utf8") 
+        conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8")
+        # conn = MySQLdb.connect(host='localhost', user='ee208',passwd='ee208',charset="utf8") 
         conn.select_db('coversearch');
         cursor = conn.cursor()
         cursor.execute("select * from comments ")
@@ -394,6 +397,7 @@ def add_numbers():
     print num ,albumnum
     try:
         conn = MySQLdb.connect(host='localhost', user='root',passwd='1234',charset="utf8") 
+        # conn = MySQLdb.connect(host='localhost', user='ee208',passwd='ee208',charset="utf8")
         conn.select_db('coversearch');
         cursor = conn.cursor()
         cursor.execute("select count(1) from albums where id="+str(albumnum))

@@ -1,0 +1,6 @@
+number 376571
+name 斗地主
+artist 安琥%^&*
+artistURL http://www.xiami.com/artist/18%^&*
+album 天使的翅膀
+albumURL http://www.xiami.com/album/44

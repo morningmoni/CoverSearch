@@ -1,0 +1,7 @@
+number 26
+name Bjack
+place Taiwan 台湾
+introduction 姓名 ： Bjack性别 ： 男生日 ： 1970/11/25星座 ： 射手座身高 ： 174体重 ： 60语言 ： 国语,台语,英语专长 ： 作曲,编曲,唱片制作,电影制作,歌唱表演,乐器弹奏嗜好 ： 滑板,直排轮,雪滑板,乐器表演Bjack的大事记1970 台湾出生1976 移民美国1998 重返台湾1998 张克帆-恋爱假期 作曲1998 王菲-醒不来 作曲1999 瘐澄庆-冷冻人 作曲1999 范晓萱-在飞机上的几小时 制作 作曲 编曲1999 莫文蔚-今天星期几 作Rap 配唱Rap2000 面饱堡 疯狂美眉&一样 制作 作曲 编曲2001 我只在乎你 制作 演唱 编曲
+picture http://img.xiami.net/images/artist/11919625918018.jpg
+albums Funk%^&*
+albumURLs http://www.xiami.com/album/80%^&*

@@ -1,0 +1,7 @@
+number 1039
+name L'a Mour 2000
+artist 蔡兴麟
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10027903551m_2.jpg
+songs L&#039;a Mour 2000%^&*舍掉%^&*说爱%^&*
+songURLs http://www.xiami.com/song/25448%^&*http://www.xiami.com/song/25449%^&*http://www.xiami.com/song/25450%^&*

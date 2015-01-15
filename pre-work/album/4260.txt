@@ -1,0 +1,7 @@
+number 4260
+name 狼爱上羊
+artist 汤潮
+introduction 
+picture http://img.xiami.net/images/pic/04/05/10146061501m_2.jpg
+songs 爱你我不后悔%^&*狼爱上羊%^&*愤怒的情人%^&*用你的名字取暖%^&*小美%^&*我能给你幸福%^&*人一旦变了心%^&*受伤%^&*大雁飞%^&*想你的时候你是否会想我%^&*骏马%^&*狼爱上羊(二胡版)%^&*
+songURLs http://www.xiami.com/song/52258%^&*http://www.xiami.com/song/52259%^&*http://www.xiami.com/song/52260%^&*http://www.xiami.com/song/52261%^&*http://www.xiami.com/song/52262%^&*http://www.xiami.com/song/52263%^&*http://www.xiami.com/song/52264%^&*http://www.xiami.com/song/52265%^&*http://www.xiami.com/song/52266%^&*http://www.xiami.com/song/52267%^&*http://www.xiami.com/song/52268%^&*http://www.xiami.com/song/52269%^&*

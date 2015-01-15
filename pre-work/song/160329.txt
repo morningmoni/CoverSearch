@@ -1,0 +1,6 @@
+number 160329
+name 陪你哭的不是我
+artist 泳儿%^&*
+artistURL http://www.xiami.com/artist/2400%^&*
+album 感应
+albumURL http://www.xiami.com/album/13031

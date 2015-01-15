@@ -1,0 +1,6 @@
+number 3528526
+name 新长安
+artist B6%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=B6%^&*
+album 走失的主人
+albumURL http://www.xiami.com/album/317714

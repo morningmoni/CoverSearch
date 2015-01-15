@@ -1,0 +1,7 @@
+number 278
+name 梦里人
+artist 陈百强
+introduction 《梦里人》是香港歌手陈百强发行的第十四张专辑。在这张专辑中重新编曲的《梦里人》，曲谱来自陈百强在1980年所作的一首《我爱白云》由陈海琪填上新词，陈百强将它演绎得清新流畅，美不胜收。对比同曲的《我爱白云》，后者是稚嫩时的纯真，《梦里人》则透出成熟后的优雅，显现出一个歌者音乐与人生的成长过程。大碟中的《我的故事》，陈百强在作曲过程中感到艰难，需时6个月才能写出副歌部分。因为向雪怀所填歌词贴切表达出他的心声，陈百强曾提及此曲是他前半生的写照。另外一首歌曲《未唱的歌》，陈百强找来关正杰合唱，二人声音配合得天衣无缝，此曲是少有的男声对唱歌曲中的经典之作。1987年度十大中文金曲颁奖典礼&ldquo;十大中文金曲&rdquo;：《我的故事》1987年度十大劲歌金曲颁奖典礼&ldquo;十大劲歌金曲第三季季选&rdquo;：《错爱》&ldquo;十大劲歌金曲第四季季选&rdquo;：《我的故事》1987年度香港金唱片颁奖典礼&ldquo;白金唱片&rdquo;：《梦里人》
+picture http://img.xiami.net/images/album/img70/70/2781410352134.jpg
+songs 我的故事%^&*水手物语%^&*地下裁判团%^&*细想%^&*求求你%^&*梦里人%^&*未唱的歌%^&*错爱%^&*我想你%^&*挥不去的你%^&*我的故事 (Instrumental)%^&*
+songURLs http://www.xiami.com/song/3468%^&*http://www.xiami.com/song/3469%^&*http://www.xiami.com/song/3470%^&*http://www.xiami.com/song/3471%^&*http://www.xiami.com/song/3472%^&*http://www.xiami.com/song/3473%^&*http://www.xiami.com/song/3474%^&*http://www.xiami.com/song/3475%^&*http://www.xiami.com/song/3476%^&*http://www.xiami.com/song/3477%^&*http://www.xiami.com/song/3478%^&*

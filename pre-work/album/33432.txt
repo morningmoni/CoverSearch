@@ -1,0 +1,6 @@
+number 33432
+name 幸运儿
+artist 邰正宵
+introduction picture http://img.xiami.net/images/album/img50/850/33432.jpg
+songs 幸运儿%^&*我喜欢%^&*源来是爱%^&*祈祷%^&*你就是我要的%^&*纸飞机%^&*火车快飞%^&*有人关心你%^&*欲擒故纵%^&*爱情十字架%^&*空虚%^&*想你想得好孤寂 [千禧年版]%^&*Hallelujah%^&*
+songURLs http://www.xiami.com/song/399951%^&*http://www.xiami.com/song/399952%^&*http://www.xiami.com/song/399953%^&*http://www.xiami.com/song/399954%^&*http://www.xiami.com/song/399955%^&*http://www.xiami.com/song/399956%^&*http://www.xiami.com/song/399957%^&*http://www.xiami.com/song/399958%^&*http://www.xiami.com/song/399959%^&*http://www.xiami.com/song/399960%^&*http://www.xiami.com/song/399961%^&*http://www.xiami.com/song/399962%^&*http://www.xiami.com/song/399963%^&*

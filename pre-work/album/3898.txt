@@ -1,0 +1,6 @@
+number 3898
+name 来去之间
+artist 施孝荣
+introduction picture http://img.xiami.net/images/album/img20/820/38981418557874.jpg
+songs 来去之间%^&*谁来晚餐%^&*金字塔%^&*冰冷的箭%^&*田径,你的名字叫勇敢%^&*战士%^&*时代的巨轮%^&*走过的路%^&*国事演义%^&*痴迷%^&*战士序曲%^&*
+songURLs http://www.xiami.com/song/47762%^&*http://www.xiami.com/song/47763%^&*http://www.xiami.com/song/47764%^&*http://www.xiami.com/song/47765%^&*http://www.xiami.com/song/47766%^&*http://www.xiami.com/song/47767%^&*http://www.xiami.com/song/47768%^&*http://www.xiami.com/song/47769%^&*http://www.xiami.com/song/47770%^&*http://www.xiami.com/song/47771%^&*http://www.xiami.com/song/47772%^&*

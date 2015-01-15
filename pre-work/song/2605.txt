@@ -1,0 +1,6 @@
+number 2605
+name 珍惜你所看到的
+artist 曹松章%^&*
+artistURL http://www.xiami.com/artist/60%^&*
+album 让我的心靠近你的梦
+albumURL http://www.xiami.com/album/213

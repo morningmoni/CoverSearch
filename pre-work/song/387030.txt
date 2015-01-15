@@ -1,0 +1,6 @@
+number 387030
+name 天天想你
+artist 韩红%^&*
+artistURL http://www.xiami.com/artist/1590%^&*
+album 红
+albumURL http://www.xiami.com/album/8852

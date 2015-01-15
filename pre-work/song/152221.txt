@@ -1,0 +1,6 @@
+number 152221
+name 水果恋人MV
+artist 辛夷%^&*
+artistURL http://www.xiami.com/artist/2310%^&*
+album Angel
+albumURL http://www.xiami.com/album/12383

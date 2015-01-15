@@ -1,0 +1,7 @@
+number 9024
+name 爱已升天
+artist 黄嘉千
+introduction 
+picture http://img.xiami.net/images/album/img50/1650/90241419578691.jpg
+songs 爱已升天%^&*爱已经满满的%^&*爱都给我%^&*
+songURLs http://www.xiami.com/song/111946%^&*http://www.xiami.com/song/111947%^&*http://www.xiami.com/song/111948%^&*

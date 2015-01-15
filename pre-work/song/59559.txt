@@ -1,0 +1,6 @@
+number 59559
+name 一步一生
+artist 许志安%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%AE%B8%E5%BF%97%E5%AE%89%^&*
+album 展览(作品集及钢琴集)
+albumURL http://www.xiami.com/album/4915

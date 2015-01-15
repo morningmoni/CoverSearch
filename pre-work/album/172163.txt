@@ -1,0 +1,7 @@
+number 172163
+name MOOV LIVE
+artist 侧田
+introduction 
+picture http://img.xiami.net/images/album/img65/65/172163.jpg
+songs Stuck On U (Live)%^&*一句 (Live)%^&*卡通歌 (Live)%^&*Live Jam (Live)%^&*两个女人 (Live)%^&*路人甲 (Live)%^&*难关 (Live)%^&*贝壳 (Live)%^&*男人KTV (Live)%^&*Morning After (Live)%^&*贝壳 (Live)%^&*MOOV Live侧田足本重温%^&*
+songURLs http://www.xiami.com/song/2127088%^&*http://www.xiami.com/song/2127089%^&*http://www.xiami.com/song/2127090%^&*http://www.xiami.com/song/2127091%^&*http://www.xiami.com/song/2127092%^&*http://www.xiami.com/song/2127093%^&*http://www.xiami.com/song/2127094%^&*http://www.xiami.com/song/2127095%^&*http://www.xiami.com/song/2127096%^&*http://www.xiami.com/song/2127097%^&*http://www.xiami.com/song/2127098%^&*http://www.xiami.com/song/2127099%^&*

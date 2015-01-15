@@ -1,0 +1,7 @@
+number 357037
+name 甘愿
+artist 詹曼铃
+introduction 女人的歌 心甘情愿放乎痛爱阮爱一半 作你去快活爱阮爱一半 【三立29台八点档 天下父母心 片头曲】为情苦 【八大27台 第一剧场 片头曲】不可思议 【三立29台五点档 我一定要成功 片头曲】三世香 【八大27台 第一剧场 片尾曲】
+picture http://img.xiami.net/images/album/img0/3570371259548645.jpg
+songs 爱阮爱一半%^&*不可思议%^&*为情苦%^&*三世香%^&*总有一天%^&*不爱我乎我离开%^&*你咁有了解我%^&*别再想从前 (国)%^&*恋爱巴士 (国)%^&*相思折磨 (国)%^&*
+songURLs http://www.xiami.com/song/1769235477%^&*http://www.xiami.com/song/1769235478%^&*http://www.xiami.com/song/1769235479%^&*http://www.xiami.com/song/1769235480%^&*http://www.xiami.com/song/1769235481%^&*http://www.xiami.com/song/1769235482%^&*http://www.xiami.com/song/1769235483%^&*http://www.xiami.com/song/1769235484%^&*http://www.xiami.com/song/1769235485%^&*http://www.xiami.com/song/1769235486%^&*

@@ -1,0 +1,6 @@
+number 53656
+name 请你仔细听这一句
+artist 庹宗华%^&*
+artistURL http://www.xiami.com/artist/880%^&*
+album 怀抱
+albumURL http://www.xiami.com/album/4406

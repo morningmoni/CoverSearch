@@ -1,0 +1,6 @@
+number 2981
+name 热舞太奇妙
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 完全 陈百强
+albumURL http://www.xiami.com/album/248

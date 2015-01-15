@@ -1,0 +1,6 @@
+number 1533
+name 一双一对
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 青春三重奏
+albumURL http://www.xiami.com/album/125

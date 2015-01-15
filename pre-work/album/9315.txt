@@ -1,0 +1,6 @@
+number 9315
+name 思乡曲
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 思乡曲%^&*爱诗%^&*雨点像情泪%^&*落霞思情%^&*春风似笑%^&*相思债%^&*犹如一幕戏%^&*情海风波%^&*月高照%^&*花开等郎来%^&*离恨%^&*情话绵绵%^&*
+songURLs http://www.xiami.com/song/115517%^&*http://www.xiami.com/song/115518%^&*http://www.xiami.com/song/115519%^&*http://www.xiami.com/song/115520%^&*http://www.xiami.com/song/115521%^&*http://www.xiami.com/song/115522%^&*http://www.xiami.com/song/115523%^&*http://www.xiami.com/song/115524%^&*http://www.xiami.com/song/115525%^&*http://www.xiami.com/song/115526%^&*http://www.xiami.com/song/115527%^&*http://www.xiami.com/song/115528%^&*

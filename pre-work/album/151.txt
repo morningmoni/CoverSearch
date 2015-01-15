@@ -1,0 +1,6 @@
+number 151
+name 独来独往
+artist 蔡济文
+introduction picture http://img.xiami.net/images/album/img44/44/1511408963282.jpg
+songs 独来独往%^&*时间冲不淡思念%^&*情深的心%^&*专一是否傻瓜%^&*替旧情人祝福%^&*Hey Girls%^&*明天%^&*不要躲 (国)%^&*红苹果%^&*Far Away%^&*
+songURLs http://www.xiami.com/song/1875%^&*http://www.xiami.com/song/1876%^&*http://www.xiami.com/song/1877%^&*http://www.xiami.com/song/1878%^&*http://www.xiami.com/song/1879%^&*http://www.xiami.com/song/1880%^&*http://www.xiami.com/song/1881%^&*http://www.xiami.com/song/1882%^&*http://www.xiami.com/song/1883%^&*http://www.xiami.com/song/1884%^&*

@@ -1,0 +1,7 @@
+number 308688
+name 最佳男主角
+artist 陈雷
+introduction 请在此填写该专辑的相关信息，或标注该专辑的相关信息的网址，便于我们确认。
+picture http://img.xiami.net/images/album/img0/100/3086881315216219.jpg
+songs 最佳男主角%^&*前世缘%^&*心爱的人%^&*恨我无志气%^&*无解%^&*爱情的憨子%^&*台湾安啦%^&*少年的心声%^&*凭兜的代志%^&*爱真的不是爱假的%^&*
+songURLs http://www.xiami.com/song/3416115%^&*http://www.xiami.com/song/3416116%^&*http://www.xiami.com/song/3416117%^&*http://www.xiami.com/song/3416118%^&*http://www.xiami.com/song/3416119%^&*http://www.xiami.com/song/3416120%^&*http://www.xiami.com/song/3416121%^&*http://www.xiami.com/song/3416122%^&*http://www.xiami.com/song/3416123%^&*http://www.xiami.com/song/3416124%^&*

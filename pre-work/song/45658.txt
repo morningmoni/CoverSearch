@@ -1,0 +1,6 @@
+number 45658
+name 盼仔假兄弟
+artist 七郎%^&*
+artistURL http://www.xiami.com/artist/780%^&*
+album 盼仔假兄弟·苦酒
+albumURL http://www.xiami.com/album/3718

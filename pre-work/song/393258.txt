@@ -1,0 +1,6 @@
+number 393258
+name 最后的风度
+artist 罗志祥%^&*
+artistURL http://www.xiami.com/artist/720%^&*
+album 舞所不在
+albumURL http://www.xiami.com/album/32948

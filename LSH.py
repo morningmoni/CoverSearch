@@ -48,15 +48,10 @@ def caclHist(imgname):
     row=img.shape[0]
 ##    print col,row
     ls=[]
-    imgLT=img[:row/2,:col/2]
-    ls+=myCaclHist(imgLT)
-    imgLB=img[row/2:,:col/2]
-    ls+=myCaclHist(imgLB)
-    imgRT=img[:row/2,col/2:]
-    ls+=myCaclHist(imgRT)
-    imgRB=img[row/2:,col/2:]
-    ls+=myCaclHist(imgRB)
-##    print ls
+    for i in range(8):
+        for j in range(8):
+            ls += myCaclHist(img[row/8*i:row/8*(i+1),col/8*j:col/8*(j+1)])
+            ##    print ls
     return ls
 
 
@@ -93,6 +88,17 @@ def create_index():
     f.close()
     return dic
 
+def similar(que,lab):
+    diff = 0
+    for i in range(len(que)):
+        if que[i] != lab[i]:
+            diff += 1
+    if diff < 20:
+        return True
+    else:
+        return False
+    
+
 #match
 def imgProcess(query):
     dic=create_index()
@@ -108,8 +114,8 @@ def imgProcess(query):
     bf = cv2.BFMatcher(cv2.NORM_HAMMING)
     mim=-1
     name=''
-    for v in dic.keys():    
-        if tar==dic[v]:
+    for v in dic.keys():
+        if similar(tar,dic[v]):
             a=v.rfind('\\')
             v=v[:a]+'/'+v[a+1:]
             print v

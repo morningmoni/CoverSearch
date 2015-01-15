@@ -1,0 +1,6 @@
+number 13565
+name 狠心女子
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/135651415775221.jpg
+songs 狠心女子%^&*小人物%^&*梦快车%^&*狠心女子 (忧怨混音版)%^&*
+songURLs http://www.xiami.com/song/166983%^&*http://www.xiami.com/song/166984%^&*http://www.xiami.com/song/166985%^&*http://www.xiami.com/song/166986%^&*

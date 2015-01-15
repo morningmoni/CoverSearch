@@ -1,0 +1,6 @@
+number 188179
+name 我心爱的一切
+artist 圣女合唱组%^&*
+artistURL http://www.xiami.com/artist/3030%^&*
+album 圣母颂
+albumURL http://www.xiami.com/album/15330

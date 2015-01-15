@@ -1,0 +1,6 @@
+number 12383
+name Angel
+artist 辛夷
+introduction picture http://img.xiami.net/images/pic/04/01/10027115348m_2.jpg
+songs Angel%^&*GAN BA RE%^&*受不了%^&*亚热带的雪%^&*水果恋人%^&*好花不常开%^&*航空日志%^&*你好吗？%^&*Angle (抒情版)%^&*恋爱 GAN BA RE (Club Remix)%^&*心愿%^&*
+songURLs http://www.xiami.com/song/152217%^&*http://www.xiami.com/song/152218%^&*http://www.xiami.com/song/152219%^&*http://www.xiami.com/song/152220%^&*http://www.xiami.com/song/152221%^&*http://www.xiami.com/song/152222%^&*http://www.xiami.com/song/152223%^&*http://www.xiami.com/song/152224%^&*http://www.xiami.com/song/152225%^&*http://www.xiami.com/song/152226%^&*http://www.xiami.com/song/152227%^&*

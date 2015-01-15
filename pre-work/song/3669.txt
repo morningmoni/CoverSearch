@@ -1,0 +1,6 @@
+number 3669
+name 一颗不再属于我的心
+artist 陈柏全%^&*
+artistURL http://www.xiami.com/artist/72%^&*
+album 关于昨夜
+albumURL http://www.xiami.com/album/299

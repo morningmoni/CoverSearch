@@ -1,0 +1,7 @@
+number 6904
+name 淳佳精选17首
+artist 蔡淳佳
+introduction 
+picture http://img.xiami.net/images/album/img40/1340/69041378352639.jpg
+songs 等一个晴天%^&*陪我看日出%^&*恋之憩%^&*风铃%^&*我想快乐些%^&*有一天我会%^&*突发奇想%^&*对不起, 我爱你%^&*小夫妻%^&*有你多好%^&*雨天%^&*有心人, 有情人%^&*永远的愚人%^&*星星眼睛%^&*爱如潮水%^&*看见%^&*未知的以后%^&*
+songURLs http://www.xiami.com/song/84275%^&*http://www.xiami.com/song/84276%^&*http://www.xiami.com/song/84277%^&*http://www.xiami.com/song/84278%^&*http://www.xiami.com/song/84279%^&*http://www.xiami.com/song/84280%^&*http://www.xiami.com/song/84281%^&*http://www.xiami.com/song/84282%^&*http://www.xiami.com/song/84283%^&*http://www.xiami.com/song/84284%^&*http://www.xiami.com/song/84285%^&*http://www.xiami.com/song/84286%^&*http://www.xiami.com/song/84287%^&*http://www.xiami.com/song/84288%^&*http://www.xiami.com/song/84289%^&*http://www.xiami.com/song/84290%^&*http://www.xiami.com/song/84291%^&*

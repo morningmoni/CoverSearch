@@ -1,0 +1,6 @@
+number 2254
+name 让我流入你的生命
+artist 蔡兴麟%^&*
+artistURL http://www.xiami.com/artist/49%^&*
+album 蔡兴麟 同名专辑
+albumURL http://www.xiami.com/album/184

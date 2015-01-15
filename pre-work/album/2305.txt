@@ -1,0 +1,6 @@
+number 2305
+name 李俊杰 同名专辑
+artist 李俊杰
+introduction picture http://img.xiami.net/images/pic/04/03/10086238919m_2.jpg
+songs 雨中情怀%^&*岸%^&*海角伊人%^&*火花共发%^&*内心的祷告%^&*天意若何%^&*许多愁%^&*雾夜晚空%^&*留下了什么%^&*小桥、流水、人家%^&*
+songURLs http://www.xiami.com/song/16147%^&*http://www.xiami.com/song/16148%^&*http://www.xiami.com/song/16149%^&*http://www.xiami.com/song/16150%^&*http://www.xiami.com/song/16151%^&*http://www.xiami.com/song/16152%^&*http://www.xiami.com/song/16153%^&*http://www.xiami.com/song/16154%^&*http://www.xiami.com/song/16155%^&*http://www.xiami.com/song/16156%^&*

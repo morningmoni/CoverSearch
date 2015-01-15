@@ -1,0 +1,7 @@
+number 2083
+name 爱你用生命MV
+artist 蔡小虎%^&*黄思婷%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%B0%8F%E8%99%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E6%80%9D%E5%A9%B7%^&*
+album 蝴蝶梦
+albumURL http://www.xiami.com/album/168

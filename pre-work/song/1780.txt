@@ -1,0 +1,7 @@
+number 1780
+name 每篇爱诗
+artist 蔡国权%^&*露云娜%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%9B%BD%E6%9D%83%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%9C%B2%E4%BA%91%E5%A8%9C%^&*
+album 风中暖流
+albumURL http://www.xiami.com/album/144

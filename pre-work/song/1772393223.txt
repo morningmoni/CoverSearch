@@ -1,0 +1,6 @@
+number 1772393223
+name 再燃一支烟
+artist 吴大卫%^&*
+artistURL http://www.xiami.com/artist/950%^&*
+album 一线之间
+albumURL http://www.xiami.com/album/466944

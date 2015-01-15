@@ -1,0 +1,6 @@
+number 1771386581
+name 十字路口
+artist 张秀卿%^&*
+artistURL http://www.xiami.com/artist/2480%^&*
+album 半杯情
+albumURL http://www.xiami.com/album/549434

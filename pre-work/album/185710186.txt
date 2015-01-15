@@ -1,0 +1,7 @@
+number 185710186
+name 二胡
+artist 曹玉荣
+introduction 
+picture http://img.xiami.net/images/album/img64/64/1857101861385710186.jpg
+songs 二泉映月%^&*听松%^&*平湖秋月%^&*江河水%^&*喜唱丰收%^&*阳关三叠%^&*汉宫秋月%^&*闲居吟%^&*烛影摇红%^&*赛马%^&*
+songURLs http://www.xiami.com/song/1772375549%^&*http://www.xiami.com/song/1772375550%^&*http://www.xiami.com/song/1772375551%^&*http://www.xiami.com/song/1772375552%^&*http://www.xiami.com/song/1772375553%^&*http://www.xiami.com/song/1772375554%^&*http://www.xiami.com/song/1772375555%^&*http://www.xiami.com/song/1772375556%^&*http://www.xiami.com/song/1772375557%^&*http://www.xiami.com/song/1772375558%^&*

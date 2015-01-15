@@ -1,0 +1,6 @@
+number 4142
+name 守着阳光守着你
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱
+albumURL http://www.xiami.com/album/341

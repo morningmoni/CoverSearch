@@ -1,0 +1,6 @@
+number 739
+name Joey Music Factory
+artist 邓建明
+introduction picture http://img.xiami.net/images/album/img80/180/739.jpg
+songs 朋友二号(Baby Mix)%^&*让爱%^&*野孩子%^&*你爱我%^&*取消资格%^&*安静%^&*一家一减你%^&*朋友二号%^&*朋友二号(结他乐谱练习)%^&*让爱(结他乐谱练习)%^&*野孩子(结他乐谱练习)%^&*你爱我(结他乐谱练习)%^&*取消资格(结他乐谱练习)%^&*一家一减你(结他乐谱练习)%^&*
+songURLs http://www.xiami.com/song/8990%^&*http://www.xiami.com/song/8991%^&*http://www.xiami.com/song/8992%^&*http://www.xiami.com/song/8993%^&*http://www.xiami.com/song/8994%^&*http://www.xiami.com/song/8995%^&*http://www.xiami.com/song/8996%^&*http://www.xiami.com/song/8997%^&*http://www.xiami.com/song/8998%^&*http://www.xiami.com/song/8999%^&*http://www.xiami.com/song/9000%^&*http://www.xiami.com/song/9001%^&*http://www.xiami.com/song/9002%^&*http://www.xiami.com/song/9003%^&*

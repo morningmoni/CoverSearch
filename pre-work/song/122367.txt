@@ -1,0 +1,6 @@
+number 122367
+name 没法淡忘
+artist 李美凤%^&*
+artistURL http://www.xiami.com/artist/1800%^&*
+album 情深透 全情歌集
+albumURL http://www.xiami.com/album/9909

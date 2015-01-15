@@ -1,0 +1,7 @@
+number 13
+name 醇情歌
+artist 阿杜
+introduction 
+picture http://img.xiami.net/images/album/img5/5/131382949712.png
+songs 一首情歌%^&*爱字怎么写%^&*天涯海角%^&*认真%^&*他一定很爱你%^&*小说%^&*你就像个小孩%^&*离别%^&*走向前%^&*撕夜%^&*坚持到底%^&*一个人住%^&*下雨的时候会想你%^&*天黑(弦乐版)%^&*Andy%^&*天天看到你%^&*祝你快乐%^&*他一定很爱你(Demo版)%^&*
+songURLs http://www.xiami.com/song/147%^&*http://www.xiami.com/song/148%^&*http://www.xiami.com/song/149%^&*http://www.xiami.com/song/150%^&*http://www.xiami.com/song/151%^&*http://www.xiami.com/song/152%^&*http://www.xiami.com/song/153%^&*http://www.xiami.com/song/154%^&*http://www.xiami.com/song/155%^&*http://www.xiami.com/song/156%^&*http://www.xiami.com/song/157%^&*http://www.xiami.com/song/158%^&*http://www.xiami.com/song/159%^&*http://www.xiami.com/song/160%^&*http://www.xiami.com/song/161%^&*http://www.xiami.com/song/162%^&*http://www.xiami.com/song/163%^&*http://www.xiami.com/song/164%^&*

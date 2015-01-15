@@ -1,0 +1,6 @@
+number 763
+name 另成一个家
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 各位男人辛苦晒
+albumURL http://www.xiami.com/album/63

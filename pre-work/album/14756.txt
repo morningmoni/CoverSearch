@@ -1,0 +1,7 @@
+number 14756
+name 八王子广播剧音乐原声
+artist 坏碑唇
+introduction 
+picture http://img.xiami.net/images/album/img10/2810/14756.jpg
+songs 思念%^&*第八个%^&*去了那里%^&*如果%^&*那一年%^&*记黄纸%^&*
+songURLs http://www.xiami.com/song/181836%^&*http://www.xiami.com/song/181837%^&*http://www.xiami.com/song/181838%^&*http://www.xiami.com/song/181839%^&*http://www.xiami.com/song/181840%^&*http://www.xiami.com/song/181841%^&*

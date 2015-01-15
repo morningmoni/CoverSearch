@@ -1,0 +1,6 @@
+number 13456
+name 量贩金曲集(历年金曲)
+artist 张秀卿
+introduction picture http://img.xiami.net/images/album/img80/2480/134561388378056.jpg
+songs 车站%^&*想厝的心情%^&*思念%^&*爱你的心肝啥人知%^&*青春%^&*满面春风%^&*海风海涌海茫茫%^&*伤心往事%^&*春夏秋冬%^&*一阵风一阵雨%^&*老情歌旧情人%^&*甘愿无人知%^&*
+songURLs http://www.xiami.com/song/165754%^&*http://www.xiami.com/song/165755%^&*http://www.xiami.com/song/165756%^&*http://www.xiami.com/song/165757%^&*http://www.xiami.com/song/165758%^&*http://www.xiami.com/song/165759%^&*http://www.xiami.com/song/165760%^&*http://www.xiami.com/song/165761%^&*http://www.xiami.com/song/165762%^&*http://www.xiami.com/song/165763%^&*http://www.xiami.com/song/165764%^&*http://www.xiami.com/song/165765%^&*

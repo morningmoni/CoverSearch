@@ -1,0 +1,7 @@
+number 1530
+name 费星
+place China 中国大陆
+introduction 个人简介亚洲音乐节中国赛区金奖获得者。穿越璀璨的星空，聆听深秋里最醇厚的，足以荡涤灵魂的声音&hellip;&hellip;
+picture http://img.xiami.net/images/artist/11975222922124.jpg
+albums 紫惑%^&*秋夜%^&*
+albumURLs http://www.xiami.com/album/8360%^&*http://www.xiami.com/album/8361%^&*

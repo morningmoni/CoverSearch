@@ -1,0 +1,7 @@
+number 13458
+name 青春
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/134581388306625.jpg
+songs 青春%^&*老情歌旧情人%^&*春夏秋冬%^&*已经拢乎汝%^&*伤心彼段情%^&*春风相思调%^&*故乡的爱%^&*往事甭提起%^&*寂寞的暗暝%^&*新都市恋情%^&*
+songURLs http://www.xiami.com/song/165778%^&*http://www.xiami.com/song/165779%^&*http://www.xiami.com/song/165780%^&*http://www.xiami.com/song/165781%^&*http://www.xiami.com/song/165782%^&*http://www.xiami.com/song/165783%^&*http://www.xiami.com/song/165784%^&*http://www.xiami.com/song/165785%^&*http://www.xiami.com/song/165786%^&*http://www.xiami.com/song/165787%^&*

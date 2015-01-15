@@ -1,0 +1,7 @@
+number 52
+name 蔡镇冲
+place Taiwan 台湾
+introduction 
+picture 
+albums 金曲会知音%^&*
+albumURLs http://www.xiami.com/album/195%^&*

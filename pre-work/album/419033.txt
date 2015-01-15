@@ -1,0 +1,7 @@
+number 419033
+name 选择·不能想你
+artist 王默君
+introduction 
+picture http://img.xiami.net/images/album/img0/4190331294283461.jpg
+songs 选择%^&*不能想你%^&*也许你可以%^&*从此别来看我%^&*爱的回顾%^&*选择(伴奏音乐男)%^&*不能想你(伴奏音乐男)%^&*曾经尝试%^&*绛雪玄霜%^&*情变%^&*今夜的雨%^&*让我想你%^&*不能想你(伴奏音乐女)%^&*选择(伴奏音乐女)%^&*
+songURLs http://www.xiami.com/song/1769956492%^&*http://www.xiami.com/song/1769956493%^&*http://www.xiami.com/song/1769956494%^&*http://www.xiami.com/song/1769956495%^&*http://www.xiami.com/song/1769956496%^&*http://www.xiami.com/song/1769956497%^&*http://www.xiami.com/song/1769956498%^&*http://www.xiami.com/song/1769956499%^&*http://www.xiami.com/song/1769956500%^&*http://www.xiami.com/song/1769956501%^&*http://www.xiami.com/song/1769956502%^&*http://www.xiami.com/song/1769956503%^&*http://www.xiami.com/song/1769956504%^&*http://www.xiami.com/song/1769956505%^&*

@@ -1,0 +1,7 @@
+number 13108
+name 扣人心弦
+artist 云凯弦
+introduction 
+picture http://img.xiami.net/images/album/img30/2430/13108.jpg
+songs 月半小夜曲%^&*雨夜的浪漫%^&*今天我非常寂寞%^&*卡门%^&*酒干淌卖无%^&*梁祝%^&*晚风%^&*世事何曾是绝对%^&*零时十分%^&*随想曲%^&*流金岁月%^&*银色的月光下(塔塔尔民族歌)%^&*禁色%^&*Meditation%^&*城里的月光%^&*Danny Boy%^&*Carddle Song%^&*
+songURLs http://www.xiami.com/song/161241%^&*http://www.xiami.com/song/161242%^&*http://www.xiami.com/song/161243%^&*http://www.xiami.com/song/161244%^&*http://www.xiami.com/song/161245%^&*http://www.xiami.com/song/161246%^&*http://www.xiami.com/song/161247%^&*http://www.xiami.com/song/161248%^&*http://www.xiami.com/song/161249%^&*http://www.xiami.com/song/161250%^&*http://www.xiami.com/song/161251%^&*http://www.xiami.com/song/161252%^&*http://www.xiami.com/song/161253%^&*http://www.xiami.com/song/161254%^&*http://www.xiami.com/song/161255%^&*http://www.xiami.com/song/161256%^&*http://www.xiami.com/song/161257%^&*

@@ -1,0 +1,7 @@
+number 500
+name 黎骏
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artistlogo/55/13908397531355.jpg
+albums 求婚%^&*一个梦%^&*骏新人%^&*
+albumURLs http://www.xiami.com/album/2132%^&*http://www.xiami.com/album/2133%^&*http://www.xiami.com/album/2134%^&*

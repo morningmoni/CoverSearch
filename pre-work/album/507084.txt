@@ -1,0 +1,7 @@
+number 507084
+name 伤心
+artist 长田
+introduction 唱片号：局版台音字第0794号
+picture http://img.xiami.net/images/album/img66/66/5070841334293568.png
+songs 伤心%^&*一点也不可惜%^&*灰姑娘Station%^&*全世界最快乐%^&*满面春风%^&*窗外的雨%^&*Taxi%^&*宁愿相信%^&*Just For Love%^&*Without You%^&*
+songURLs http://www.xiami.com/song/1770942316%^&*http://www.xiami.com/song/1770942317%^&*http://www.xiami.com/song/1770942318%^&*http://www.xiami.com/song/1770942319%^&*http://www.xiami.com/song/1770942320%^&*http://www.xiami.com/song/1770942321%^&*http://www.xiami.com/song/1770942322%^&*http://www.xiami.com/song/1770942323%^&*http://www.xiami.com/song/1770942324%^&*http://www.xiami.com/song/1770942325%^&*

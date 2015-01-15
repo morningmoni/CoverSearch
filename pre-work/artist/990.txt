@@ -1,0 +1,7 @@
+number 990
+name 夏金城
+place Hongkong 香港
+introduction 夏金城，原职是的士司机，于70年代自资推出唱片，以先填词后作曲的方式制作，突破了当时流行曲的制作模式，曲风突出，虽然唱片销量平平，但得了「的士歌王」的称号，到了90年代，香港电台邀请他演出电视剧及制作电台节目「无大无细」的开首音乐，而新城电台和香港旅游协会合办的音乐会中，邀请他献唱，以介绍香港本土文化。
+picture http://img.xiami.net/images/artistlogo/63/13075304495763.jpeg
+albums 七招%^&*98作品集%^&*为了靓靓%^&*
+albumURLs http://www.xiami.com/album/4960%^&*http://www.xiami.com/album/4958%^&*http://www.xiami.com/album/4959%^&*

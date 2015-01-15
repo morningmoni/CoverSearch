@@ -1,0 +1,6 @@
+number 3130
+name 旷野中的人
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3130.jpg
+songs 旷野中的人%^&*仲夏绮梦%^&*海誓%^&*问流水%^&*山茶之歌%^&*谁也不能欺侮它%^&*别以为我在说笑%^&*梧桐叶落的时候%^&*她像朵彩霞%^&*自由钟声%^&*春风随着你的歌声来%^&*
+songURLs http://www.xiami.com/song/38643%^&*http://www.xiami.com/song/38644%^&*http://www.xiami.com/song/38645%^&*http://www.xiami.com/song/38646%^&*http://www.xiami.com/song/38647%^&*http://www.xiami.com/song/38648%^&*http://www.xiami.com/song/38649%^&*http://www.xiami.com/song/38650%^&*http://www.xiami.com/song/38651%^&*http://www.xiami.com/song/38652%^&*http://www.xiami.com/song/38653%^&*

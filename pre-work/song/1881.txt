@@ -1,0 +1,8 @@
+number 1881
+name 明天
+artist 蔡济文%^&*陈奕%^&*冯晓文%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E6%B5%8E%E6%96%87%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%A5%95%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%86%AF%E6%99%93%E6%96%87%^&*
+album 独来独往
+albumURL http://www.xiami.com/album/151

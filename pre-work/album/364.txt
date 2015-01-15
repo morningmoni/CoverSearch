@@ -1,0 +1,7 @@
+number 364
+name 爱海滔滔
+artist 陈浩民
+introduction 
+picture http://img.xiami.net/images/album/img87/87/3641385565932.jpg
+songs 默契%^&*爱海滔滔%^&*默默%^&*相爱太难%^&*爱情傻瓜%^&*爱你真好%^&*高攀不起%^&*相欠%^&*一触即发%^&*爱海滔滔 (Kala版)%^&*默默 (Kala版)%^&*相爱太难 (Kala版)%^&*
+songURLs http://www.xiami.com/song/4401%^&*http://www.xiami.com/song/4402%^&*http://www.xiami.com/song/4403%^&*http://www.xiami.com/song/4404%^&*http://www.xiami.com/song/4405%^&*http://www.xiami.com/song/4406%^&*http://www.xiami.com/song/4407%^&*http://www.xiami.com/song/4408%^&*http://www.xiami.com/song/4409%^&*http://www.xiami.com/song/4410%^&*http://www.xiami.com/song/4411%^&*http://www.xiami.com/song/4412%^&*

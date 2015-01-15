@@ -1,0 +1,6 @@
+number 3672
+name 不要问我爱不爱你
+artist 陈柏全%^&*
+artistURL http://www.xiami.com/artist/72%^&*
+album 关于昨夜
+albumURL http://www.xiami.com/album/299

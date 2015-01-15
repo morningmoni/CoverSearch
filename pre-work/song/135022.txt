@@ -1,0 +1,6 @@
+number 135022
+name 我们都哭了(Karaoke)
+artist 梅艳芳%^&*
+artistURL http://www.xiami.com/artist/2000%^&*
+album 我们不哭了
+albumURL http://www.xiami.com/album/10929

@@ -1,0 +1,6 @@
+number 185699
+name 全体出动
+artist 扭曲的机器%^&*
+artistURL http://www.xiami.com/artist/2940%^&*
+album 重返地下
+albumURL http://www.xiami.com/album/15103

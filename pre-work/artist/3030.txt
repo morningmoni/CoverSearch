@@ -1,0 +1,7 @@
+number 3030
+name 圣女合唱组
+place China 中国大陆
+introduction 小简介1994年春，南京艺术学院音乐系，对多声部演唱艺术情有独钟的青年讲师腾缔弦从本院及附中挑选出几位酷爱音乐的纯情女孩，揭起了圣女合唱组的旗帜，而她本人也负责该合唱级的中音部分。一首首歌曲经她们清纯自然、质朴无华的演绎，使听者犹如酒至微酣，得到至纯至美的享受。
+picture http://img.xiami.net/images/artist/12065271918098.jpg
+albums 海滨之歌%^&*乘着歌声的翅膀%^&*摇篮曲%^&*绣荷包%^&*圣母颂%^&*情深谊长%^&*
+albumURLs http://www.xiami.com/album/15328%^&*http://www.xiami.com/album/15327%^&*http://www.xiami.com/album/15332%^&*http://www.xiami.com/album/15331%^&*http://www.xiami.com/album/15330%^&*http://www.xiami.com/album/15329%^&*

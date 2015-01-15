@@ -1,0 +1,7 @@
+number 12977
+name 我很勇敢
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/129771355364495.jpg
+songs 我很勇敢%^&*你对我的好%^&*河岸%^&*深海%^&*想离你再近一点%^&*害怕%^&*续杯%^&*我加上我加上我的%^&*简单喜欢你%^&*烦！懒？呆。%^&*数数字%^&*
+songURLs http://www.xiami.com/song/374166%^&*http://www.xiami.com/song/374167%^&*http://www.xiami.com/song/374168%^&*http://www.xiami.com/song/374169%^&*http://www.xiami.com/song/374170%^&*http://www.xiami.com/song/374171%^&*http://www.xiami.com/song/374172%^&*http://www.xiami.com/song/374173%^&*http://www.xiami.com/song/374174%^&*http://www.xiami.com/song/374175%^&*http://www.xiami.com/song/374176%^&*

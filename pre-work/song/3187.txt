@@ -1,0 +1,6 @@
+number 3187
+name 眼泪为你流
+artist 苏有朋%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%8B%8F%E6%9C%89%E6%9C%8B%^&*
+album 紫色的回忆
+albumURL http://www.xiami.com/album/257

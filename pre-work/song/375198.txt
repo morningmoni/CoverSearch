@@ -1,0 +1,7 @@
+number 375198
+name LoveMV
+artist 刘若英%^&*梁静茹%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%88%98%E8%8B%A5%E8%8B%B1%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%81%E9%9D%99%E8%8C%B9%^&*
+album 我等你
+albumURL http://www.xiami.com/album/10606

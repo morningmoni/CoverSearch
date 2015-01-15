@@ -1,0 +1,7 @@
+number 346
+name 钢琴之爱7
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img0/3461288864146.jpg
+songs 梦不到你%^&*情网%^&*爱如潮水%^&*孤枕难眠%^&*决定%^&*问%^&*不必在乎我是谁%^&*你让我孤孤单单%^&*当爱已成往事%^&*梦不到你(音乐版)%^&*
+songURLs http://www.xiami.com/song/4190%^&*http://www.xiami.com/song/4191%^&*http://www.xiami.com/song/4192%^&*http://www.xiami.com/song/4193%^&*http://www.xiami.com/song/4194%^&*http://www.xiami.com/song/4195%^&*http://www.xiami.com/song/4196%^&*http://www.xiami.com/song/4197%^&*http://www.xiami.com/song/4198%^&*http://www.xiami.com/song/4199%^&*

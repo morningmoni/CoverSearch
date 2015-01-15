@@ -1,0 +1,7 @@
+number 168961
+name 爱情炉丹
+artist 蔡小虎
+introduction 台语情歌王子蔡小虎2008年全新个人专辑【爱情炉丹】，，爱情炉丹是蔡小虎出道以来第二十张的作品，他在歌坛17年唱过许多脍炙人口的歌曲；小虎的虎式情歌堪称是抚慰人心的最佳炉丹！
+picture http://img.xiami.net/images/album/img47/47/168961.jpg
+songs 爱情炉丹%^&*买醉的人%^&*不应该爱你%^&*爱你到老%^&*不是我无情%^&*天黑黑%^&*若是失去你%^&*今生最爱%^&*愈潦愈深%^&*想袂靠岸%^&*
+songURLs http://www.xiami.com/song/2086221%^&*http://www.xiami.com/song/2086222%^&*http://www.xiami.com/song/2086223%^&*http://www.xiami.com/song/2086224%^&*http://www.xiami.com/song/2086225%^&*http://www.xiami.com/song/2086226%^&*http://www.xiami.com/song/2086227%^&*http://www.xiami.com/song/2086228%^&*http://www.xiami.com/song/2086229%^&*http://www.xiami.com/song/2086230%^&*

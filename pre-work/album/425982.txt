@@ -1,0 +1,7 @@
+number 425982
+name 独一无二
+artist 罗志祥
+introduction 
+picture http://img.xiami.net/images/album/img20/720/4259821298367621.jpg
+songs 独一无二 Only you%^&*美丽的误会%^&*拼什么%^&*Touch My Heart%^&*舞所遁形%^&*怕安静%^&*强出头%^&*忍住%^&*口头缠%^&*爱享瘦%^&*拼什么 (独秀知音版)%^&*一万零一夜%^&*陪你到最后%^&*独一无二(Japanese Version)%^&*
+songURLs http://www.xiami.com/song/1770005419%^&*http://www.xiami.com/song/1770036468%^&*http://www.xiami.com/song/1770036469%^&*http://www.xiami.com/song/1770036470%^&*http://www.xiami.com/song/1770036471%^&*http://www.xiami.com/song/1770036472%^&*http://www.xiami.com/song/1770036473%^&*http://www.xiami.com/song/1770036474%^&*http://www.xiami.com/song/1770036475%^&*http://www.xiami.com/song/1770036476%^&*http://www.xiami.com/song/1770036477%^&*http://www.xiami.com/song/1770084519%^&*http://www.xiami.com/song/1770084520%^&*http://www.xiami.com/song/1770553418%^&*

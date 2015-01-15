@@ -1,0 +1,6 @@
+number 1770123756
+name 其实一个人过也很好
+artist 马郁%^&*
+artistURL http://www.xiami.com/artist/1990%^&*
+album 其实一个人过也很好
+albumURL http://www.xiami.com/album/433546

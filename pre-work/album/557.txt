@@ -1,0 +1,7 @@
+number 557
+name 陈旭Vs花瓶
+artist 陈旭
+introduction 
+picture http://img.xiami.net/images/album/img28/128/557.jpg
+songs 陈旭%^&*花瓶%^&*半条腿%^&*报答%^&*山峰之巅%^&*触电%^&*不让你伤心%^&*猪头%^&*笑到最后%^&*东北特产不是黑社会%^&*旭曲%^&*
+songURLs http://www.xiami.com/song/6735%^&*http://www.xiami.com/song/6736%^&*http://www.xiami.com/song/6737%^&*http://www.xiami.com/song/6738%^&*http://www.xiami.com/song/6739%^&*http://www.xiami.com/song/6740%^&*http://www.xiami.com/song/6741%^&*http://www.xiami.com/song/6742%^&*http://www.xiami.com/song/6743%^&*http://www.xiami.com/song/6744%^&*http://www.xiami.com/song/6745%^&*

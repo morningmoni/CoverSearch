@@ -1,0 +1,7 @@
+number 819308165
+name My First Piano Book
+artist 王菀之
+introduction My First Piano Book + 钢琴演奏CD包括:王菀之亲自编制12首乐谱王菀之亲自弹奏12首作品CD王菀之手绘插画
+picture http://img.xiami.net/images/album/img0/2200/8193081651419308165.jpg
+songs 我真的受伤了 (Piano Version)%^&*把戏 (Piano Version)%^&*一秒感动 (Piano Version)%^&*手望 (Piano Version)%^&*画意 (Piano Version)%^&*(巴黎没有) 摩天轮 (Piano Version)%^&*月亮说 (Piano Version)%^&*小团圆 (Piano Version)%^&*末日 (Piano Version)%^&*安妮.法兰克 (Piano Version)%^&*哥歌 (Piano Version)%^&*星空 (Piano Version)%^&*
+songURLs http://www.xiami.com/song/1773827430%^&*http://www.xiami.com/song/1773827431%^&*http://www.xiami.com/song/1773827432%^&*http://www.xiami.com/song/1773827433%^&*http://www.xiami.com/song/1773827434%^&*http://www.xiami.com/song/1773827435%^&*http://www.xiami.com/song/1773827436%^&*http://www.xiami.com/song/1773827437%^&*http://www.xiami.com/song/1773827438%^&*http://www.xiami.com/song/1773827439%^&*http://www.xiami.com/song/1773827440%^&*http://www.xiami.com/song/1773834848%^&*

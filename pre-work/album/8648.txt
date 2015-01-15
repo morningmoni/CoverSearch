@@ -1,0 +1,7 @@
+number 8648
+name 璇曲蔓地4-水流红
+artist 古璇
+introduction 
+picture http://img.xiami.net/images/album/img60/1560/8648.jpg
+songs 情已逝%^&*水流红%^&*人间烟火%^&*丁香花%^&*每当变幻时%^&*蔓珠莎华%^&*情网%^&*月亮可以代表我的心%^&*夜雨%^&*忘尽心中情%^&*我会守候你%^&*花语%^&*
+songURLs http://www.xiami.com/song/107410%^&*http://www.xiami.com/song/107411%^&*http://www.xiami.com/song/107412%^&*http://www.xiami.com/song/107413%^&*http://www.xiami.com/song/107414%^&*http://www.xiami.com/song/107415%^&*http://www.xiami.com/song/107416%^&*http://www.xiami.com/song/107417%^&*http://www.xiami.com/song/107418%^&*http://www.xiami.com/song/107419%^&*http://www.xiami.com/song/107420%^&*http://www.xiami.com/song/107421%^&*

@@ -1,0 +1,6 @@
+number 179188
+name 你有你·我有我
+artist Echo%^&*
+artistURL http://www.xiami.com/artist/2720%^&*
+album Echo
+albumURL http://www.xiami.com/album/14519

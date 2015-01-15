@@ -1,0 +1,7 @@
+number 191
+name 多桑电影原声带
+artist 蔡振南
+introduction 主题曲《多桑》荣获第31届金马奖最佳电影歌曲
+picture http://img.xiami.net/images/album/img0/1911284094856.JPG
+songs 太阳%^&*流浪之歌%^&*暗淡的月%^&*快乐碳矿夫%^&*多桑%^&*男儿哀歌%^&*望朗早归%^&*牛会哺棕蓑%^&*
+songURLs http://www.xiami.com/song/2359%^&*http://www.xiami.com/song/2360%^&*http://www.xiami.com/song/2361%^&*http://www.xiami.com/song/2362%^&*http://www.xiami.com/song/2363%^&*http://www.xiami.com/song/2364%^&*http://www.xiami.com/song/2365%^&*http://www.xiami.com/song/2366%^&*

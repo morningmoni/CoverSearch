@@ -1,0 +1,7 @@
+number 42858
+name 一起走吧MV
+artist Energy%^&*罗志祥%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Energy%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BD%97%E5%BF%97%E7%A5%A5%^&*
+album 达人Show
+albumURL http://www.xiami.com/album/3477

@@ -1,0 +1,7 @@
+number 12583
+name 我依然爱你
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125831366018622.jpg
+songs 我依然爱你%^&*不爱我放了我%^&*啤酒咖啡%^&*我们都寂寞%^&*情人的画像%^&*欲哭无泪%^&*我是你的药%^&*月光的祈祷%^&*失去%^&*Ending%^&*
+songURLs http://www.xiami.com/song/383376%^&*http://www.xiami.com/song/383377%^&*http://www.xiami.com/song/383378%^&*http://www.xiami.com/song/383379%^&*http://www.xiami.com/song/383380%^&*http://www.xiami.com/song/383381%^&*http://www.xiami.com/song/383382%^&*http://www.xiami.com/song/383383%^&*http://www.xiami.com/song/383384%^&*http://www.xiami.com/song/383385%^&*

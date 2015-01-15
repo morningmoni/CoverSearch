@@ -1,0 +1,6 @@
+number 9989
+name 成全我
+artist 李心洁
+introduction picture http://img.xiami.net/images/album/img20/1820/99891398070478.jpg
+songs 成全我%^&*Don&#039;t make me cry, 谁要你赞乖 (合唱版)%^&*对面的男孩看过来%^&*Don&#039;t make me cry, 谁要你赞乖 (独唱版)%^&*
+songURLs http://www.xiami.com/song/123300%^&*http://www.xiami.com/song/123301%^&*http://www.xiami.com/song/123302%^&*http://www.xiami.com/song/123303%^&*

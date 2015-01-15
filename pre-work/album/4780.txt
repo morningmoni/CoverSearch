@@ -1,0 +1,7 @@
+number 4780
+name 飞行男人
+artist 吴大卫
+introduction 
+picture http://img.xiami.net/images/album/img50/950/47801407291748.jpg
+songs 飞行男人%^&*电话答录机%^&*Fly Away%^&*一切从结束开始%^&*为爱慌张%^&*领带与香水%^&*夜色%^&*当一个男人碰上另一个女人%^&*不要再爱他%^&*拥抱着我%^&*
+songURLs http://www.xiami.com/song/57869%^&*http://www.xiami.com/song/57868%^&*http://www.xiami.com/song/57865%^&*http://www.xiami.com/song/57873%^&*http://www.xiami.com/song/57871%^&*http://www.xiami.com/song/57870%^&*http://www.xiami.com/song/57872%^&*http://www.xiami.com/song/57867%^&*http://www.xiami.com/song/57866%^&*http://www.xiami.com/song/57874%^&*

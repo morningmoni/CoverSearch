@@ -1,0 +1,7 @@
+number 127711
+name 爱再靠近一点
+artist 林心如%^&*汤钧禧%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E5%BF%83%E5%A6%82%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B1%A4%E9%92%A7%E7%A6%A7%^&*
+album 半生缘 电视原声带
+albumURL http://www.xiami.com/album/10347

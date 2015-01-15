@@ -1,0 +1,6 @@
+number 15194
+name 危险游戏
+artist Raidas
+introduction picture http://img.xiami.net/images/album/img80/2980/151941334199664.jpg
+songs 危险游戏%^&*人海中我是谁%^&*突发事件%^&*第三者%^&*饮马江湖%^&*没有路人的都市%^&*热闹过后%^&*压轴%^&*苦恋%^&*夜航 (音乐)%^&*
+songURLs http://www.xiami.com/song/186799%^&*http://www.xiami.com/song/186800%^&*http://www.xiami.com/song/186801%^&*http://www.xiami.com/song/186802%^&*http://www.xiami.com/song/186803%^&*http://www.xiami.com/song/186804%^&*http://www.xiami.com/song/186805%^&*http://www.xiami.com/song/186806%^&*http://www.xiami.com/song/186807%^&*http://www.xiami.com/song/186808%^&*

@@ -1,0 +1,6 @@
+number 377761
+name 让你飞
+artist 张惠妹%^&*
+artistURL http://www.xiami.com/artist/2450%^&*
+album 旅程
+albumURL http://www.xiami.com/album/13269

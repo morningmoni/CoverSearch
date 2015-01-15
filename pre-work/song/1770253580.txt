@@ -1,0 +1,6 @@
+number 1770253580
+name 这是不可能
+artist 七郎%^&*
+artistURL http://www.xiami.com/artist/780%^&*
+album 温泉乡的恋歌
+albumURL http://www.xiami.com/album/444717

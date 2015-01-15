@@ -1,0 +1,7 @@
+number 32188
+name 山上的孩子
+artist 北京天使合唱团
+introduction 从黄河南北唱到台湾乡村，北京天使合唱团为中国各地民歌做了最动人的发声。收录知名的救国团团歌〈台湾邵族民歌〉，亦有难得听闻的蒙古、云南佤族、土家族、彝族、藏族&hellip;民歌。
+picture http://img.xiami.net/images/album/img50/2650/32188.jpg
+songs 山上的孩子%^&*丰年歌%^&*月光光%^&*八骏赞%^&*白花水%^&*女儿盼嫁%^&*咚咚奎%^&*茉莉花%^&*美丽的家乡日喀则%^&*女儿阿诗玛%^&*月琴弹起来%^&*这里有我可爱的家乡%^&*落水天%^&*
+songURLs http://www.xiami.com/song/375230%^&*http://www.xiami.com/song/375231%^&*http://www.xiami.com/song/375232%^&*http://www.xiami.com/song/375233%^&*http://www.xiami.com/song/375234%^&*http://www.xiami.com/song/375235%^&*http://www.xiami.com/song/375236%^&*http://www.xiami.com/song/375237%^&*http://www.xiami.com/song/375238%^&*http://www.xiami.com/song/375239%^&*http://www.xiami.com/song/375240%^&*http://www.xiami.com/song/375241%^&*http://www.xiami.com/song/375242%^&*

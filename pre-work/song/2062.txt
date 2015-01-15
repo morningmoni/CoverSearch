@@ -1,0 +1,7 @@
+number 2062
+name 醉千年MV
+artist 蔡小虎%^&*张秀卿%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%B0%8F%E8%99%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BC%A0%E7%A7%80%E5%8D%BF%^&*
+album 再生缘
+albumURL http://www.xiami.com/album/166

@@ -1,0 +1,6 @@
+number 2048193
+name 流星(新曲)1997-1998年
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 璀璨专辑
+albumURL http://www.xiami.com/album/167245

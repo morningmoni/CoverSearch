@@ -1,0 +1,7 @@
+number 310
+name selected
+artist 陈迪匡
+introduction 
+picture http://img.xiami.net/
+songs 渡过黑暗%^&*泰山也着迷%^&*一切自愿%^&*魔女Shirley%^&*Help Me%^&*Christina%^&*身边的一个%^&*流星一颗%^&*公路66%^&*
+songURLs http://www.xiami.com/song/3772%^&*http://www.xiami.com/song/3773%^&*http://www.xiami.com/song/3774%^&*http://www.xiami.com/song/3775%^&*http://www.xiami.com/song/3776%^&*http://www.xiami.com/song/3777%^&*http://www.xiami.com/song/3778%^&*http://www.xiami.com/song/3779%^&*http://www.xiami.com/song/3780%^&*

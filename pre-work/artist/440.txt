@@ -1,0 +1,7 @@
+number 440
+name 江明学
+place Taiwan 台湾
+introduction 小档案艺名：江明学英文名：Kwong Ming Hok, Kenny籍贯：台湾职业：歌手，街头艺人代表作品《歌》往事悠悠地在耳边唱着这那首歌那首曾经是你最爱的歌你总是轻轻唱我跟着慢慢和在我们拥有年轻的时刻任凭那时光悄悄的走来又走远我永远记得你的容颜虽然一别几年你纯真的笑脸总是常常在我梦中浮现do you remember me我最想念的朋友你是否偶尔也会想起我do you remember me我最亲爱的朋友何时才与我共唱那首歌*repeat往事悠悠地在耳边唱着这那首歌那首曾经是你最爱的歌你总是轻轻唱我跟着慢慢和在我们拥有年轻的时刻任凭那时光悄悄的走来又走远我永远记得你的容颜虽然一别几年你纯真的笑脸总是常常在我梦中浮现* repeat
+picture http://img.xiami.net/images/artist/11996826732254.jpg
+albums 成名精品辑1%^&*情歌风情画%^&*离别纪念册%^&*心事放乎伊飞%^&*月亮代表我的心%^&*歌%^&*江明学的心情盒子II%^&*江明学的心情盒子I%^&*萍聚%^&*爱的泪珠%^&*秋意上心头%^&*零点10分%^&*
+albumURLs http://www.xiami.com/album/558928%^&*http://www.xiami.com/album/1917%^&*http://www.xiami.com/album/1918%^&*http://www.xiami.com/album/1919%^&*http://www.xiami.com/album/558927%^&*http://www.xiami.com/album/1923%^&*http://www.xiami.com/album/1921%^&*http://www.xiami.com/album/1920%^&*http://www.xiami.com/album/559994%^&*http://www.xiami.com/album/1922%^&*http://www.xiami.com/album/32835%^&*http://www.xiami.com/album/1924%^&*

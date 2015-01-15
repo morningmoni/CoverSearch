@@ -1,0 +1,6 @@
+number 1477
+name 无奈只有恨MV
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 无奈只有恨
+albumURL http://www.xiami.com/album/121

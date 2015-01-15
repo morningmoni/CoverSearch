@@ -1,0 +1,7 @@
+number 302
+name 嫦娥·让我…
+artist 陈彼得
+introduction 流行音乐界最重要的舵手&mdash;&mdash;陈彼得跨足演唱界最成功的专辑《嫦娥》陈彼得、陈欣怡父女经典对唱歌曲呈现创作歌手最淋漓尽致的质感
+picture http://img.xiami.net/images/album/img73/73/3021410750224.jpg
+songs 嫦娥%^&*让我…%^&*司机摇滚%^&*痴情%^&*知音难寻%^&*Words%^&*问%^&*旅路%^&*忘不了你%^&*慕情%^&*离情%^&*旅路(演奏曲)%^&*
+songURLs http://www.xiami.com/song/3689%^&*http://www.xiami.com/song/3690%^&*http://www.xiami.com/song/3691%^&*http://www.xiami.com/song/3692%^&*http://www.xiami.com/song/3693%^&*http://www.xiami.com/song/3694%^&*http://www.xiami.com/song/3695%^&*http://www.xiami.com/song/3696%^&*http://www.xiami.com/song/3697%^&*http://www.xiami.com/song/3698%^&*http://www.xiami.com/song/3699%^&*http://www.xiami.com/song/3700%^&*

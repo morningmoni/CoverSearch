@@ -1,0 +1,6 @@
+number 3055
+name 对酒当歌
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 完全 陈百强
+albumURL http://www.xiami.com/album/248

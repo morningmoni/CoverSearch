@@ -1,0 +1,7 @@
+number 375
+name 痛到感觉不到
+artist 陈加洛
+introduction 
+picture http://img.xiami.net/images/album/img90/90/375.jpg
+songs 用情太深%^&*痛到感觉不到%^&*放心靠在我这里%^&*让爱情有氧%^&*最后的音符%^&*你我之间%^&*我等你一夜一夜又一夜%^&*对与错%^&*特别想你%^&*留住你的泪滴%^&*
+songURLs http://www.xiami.com/song/4546%^&*http://www.xiami.com/song/4547%^&*http://www.xiami.com/song/4548%^&*http://www.xiami.com/song/4549%^&*http://www.xiami.com/song/4550%^&*http://www.xiami.com/song/4551%^&*http://www.xiami.com/song/4552%^&*http://www.xiami.com/song/4553%^&*http://www.xiami.com/song/4554%^&*http://www.xiami.com/song/4555%^&*

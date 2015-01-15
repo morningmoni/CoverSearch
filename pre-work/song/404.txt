@@ -1,0 +1,6 @@
+number 404
+name 此情可待
+artist 阿强%^&*
+artistURL http://www.xiami.com/artist/11%^&*
+album 此情可待
+albumURL http://www.xiami.com/album/34

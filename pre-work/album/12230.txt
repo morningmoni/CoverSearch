@@ -1,0 +1,6 @@
+number 12230
+name 中国电影歌曲集
+artist 奚秀兰
+introduction picture http://img.xiami.net/images/album/img70/2270/12230.jpg
+songs 我的祖国%^&*谁不说俺家乡好%^&*花儿为什么这样红%^&*妹妹找哥泪花流%^&*草原之夜%^&*送别%^&*在那遥远的地方%^&*洪湖水浪打浪%^&*蝴蝶泉边%^&*珊瑚颂%^&*九九艳阳天%^&*康定情歌%^&*五哥放羊%^&*花伞舞%^&*兰花花%^&*
+songURLs http://www.xiami.com/song/150315%^&*http://www.xiami.com/song/150316%^&*http://www.xiami.com/song/150317%^&*http://www.xiami.com/song/150318%^&*http://www.xiami.com/song/150319%^&*http://www.xiami.com/song/150320%^&*http://www.xiami.com/song/150321%^&*http://www.xiami.com/song/150322%^&*http://www.xiami.com/song/150323%^&*http://www.xiami.com/song/150324%^&*http://www.xiami.com/song/150325%^&*http://www.xiami.com/song/150326%^&*http://www.xiami.com/song/150327%^&*http://www.xiami.com/song/150328%^&*http://www.xiami.com/song/150329%^&*

@@ -1,0 +1,7 @@
+number 2960
+name 瓢虫
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artistlogo/67/12806702483067.jpg
+albums 让太空人跳舞%^&*Ladybug 1997%^&*
+albumURLs http://www.xiami.com/album/419301%^&*http://www.xiami.com/album/15154%^&*

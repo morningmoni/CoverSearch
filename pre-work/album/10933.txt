@@ -1,0 +1,7 @@
+number 10933
+name 是这样的
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/10933.jpg
+songs 情归何处%^&*感激%^&*请你快回来%^&*爱是个传奇%^&*悲情城市%^&*如夜%^&*蝶舞%^&*爱情来了报佳音%^&*是这样的%^&*朦胧夜雨里%^&*
+songURLs http://www.xiami.com/song/135068%^&*http://www.xiami.com/song/135069%^&*http://www.xiami.com/song/135070%^&*http://www.xiami.com/song/135071%^&*http://www.xiami.com/song/135072%^&*http://www.xiami.com/song/135073%^&*http://www.xiami.com/song/135074%^&*http://www.xiami.com/song/135075%^&*http://www.xiami.com/song/135076%^&*http://www.xiami.com/song/135077%^&*

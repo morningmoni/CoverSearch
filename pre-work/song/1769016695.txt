@@ -1,0 +1,6 @@
+number 1769016695
+name 白纸
+artist 泳儿%^&*
+artistURL http://www.xiami.com/artist/2400%^&*
+album 多一点 泳儿
+albumURL http://www.xiami.com/album/338891

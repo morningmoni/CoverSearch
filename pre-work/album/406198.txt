@@ -1,0 +1,6 @@
+number 406198
+name 选择你
+artist 张秀卿
+introduction picture http://img.xiami.net/images/album/img80/2480/4061981287040433.jpg
+songs 情弦%^&*选择你%^&*今生无缘%^&*情人泪%^&*情人节%^&*正妹%^&*千年情%^&*落叶%^&*恨你无情%^&*爱你这个时阵%^&*
+songURLs http://www.xiami.com/song/1769815185%^&*http://www.xiami.com/song/1769815186%^&*http://www.xiami.com/song/1769815187%^&*http://www.xiami.com/song/1769815188%^&*http://www.xiami.com/song/1769815189%^&*http://www.xiami.com/song/1769815190%^&*http://www.xiami.com/song/1769815191%^&*http://www.xiami.com/song/1769815192%^&*http://www.xiami.com/song/1769815193%^&*http://www.xiami.com/song/1769815194%^&*

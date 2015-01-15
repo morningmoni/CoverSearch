@@ -1,0 +1,6 @@
+number 4123
+name 101次求婚
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 白日梦
+albumURL http://www.xiami.com/album/339

@@ -1,0 +1,6 @@
+number 11097
+name 滚滚红尘
+artist 方奕%^&*
+artistURL http://www.xiami.com/artist/220%^&*
+album 多想
+albumURL http://www.xiami.com/album/921

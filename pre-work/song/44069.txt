@@ -1,0 +1,6 @@
+number 44069
+name 我要就要更多
+artist 莫少聪%^&*
+artistURL http://www.xiami.com/artist/750%^&*
+album 与你相逢
+albumURL http://www.xiami.com/album/3590

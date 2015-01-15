@@ -1,0 +1,6 @@
+number 113
+name Kenneth Today
+artist 蔡枫华
+introduction picture http://img.xiami.net/images/album/img41/41/1131334642495.jpg
+songs 诱惑%^&*爱难减价%^&*爱海%^&*美梦的肖像%^&*新世界%^&*一代人%^&*一水隔天涯%^&*热恋中%^&*寄不出的信%^&*落叶漫天的冬季%^&*
+songURLs http://www.xiami.com/song/1396%^&*http://www.xiami.com/song/1397%^&*http://www.xiami.com/song/1398%^&*http://www.xiami.com/song/1399%^&*http://www.xiami.com/song/1400%^&*http://www.xiami.com/song/1401%^&*http://www.xiami.com/song/1402%^&*http://www.xiami.com/song/1403%^&*http://www.xiami.com/song/1404%^&*http://www.xiami.com/song/1405%^&*

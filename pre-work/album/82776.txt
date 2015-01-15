@@ -1,0 +1,7 @@
+number 82776
+name 韩红精选
+artist 韩红
+introduction 韩红音乐里总是有着那种都市的细腻情感与高原的辽阔胸怀交织的乐境， 韩红日臻成熟的创作手法和无懈可击的演绎技巧赋予了她音乐饱满的色彩。 本碟精选了韩红一路走来的代表作品， 在或高昂、或婉转、或激越、或温柔的歌声中， 我们听到了溪流般的清澈和彩虹般的清新。
+picture http://img.xiami.net/images/album/img90/1590/827761274760024.jpg
+songs 那片海%^&*北京的金山上%^&*醒了%^&*天亮了%^&*家乡%^&*风雨中的美丽%^&*穿行%^&*青藏高原%^&*喜玛拉雅%^&*漂%^&*情人%^&*你不会回来%^&*格桑花开%^&*雪域光芒%^&*
+songURLs http://www.xiami.com/song/1769532278%^&*http://www.xiami.com/song/1769532279%^&*http://www.xiami.com/song/1769532280%^&*http://www.xiami.com/song/1769532281%^&*http://www.xiami.com/song/1769532282%^&*http://www.xiami.com/song/1769532283%^&*http://www.xiami.com/song/1769532284%^&*http://www.xiami.com/song/1769532285%^&*http://www.xiami.com/song/1769532286%^&*http://www.xiami.com/song/1769532287%^&*http://www.xiami.com/song/1769532288%^&*http://www.xiami.com/song/1769532289%^&*http://www.xiami.com/song/1769532290%^&*http://www.xiami.com/song/1769532291%^&*

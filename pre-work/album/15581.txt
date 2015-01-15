@@ -1,0 +1,6 @@
+number 15581
+name 城市之歌
+artist 威镇
+introduction picture http://img.xiami.net/images/album/img0/3100/155811379131397.jpg
+songs 寂寂凄风冷%^&*闯荡四方%^&*快到我面前%^&*夜己静%^&*宽恕我%^&*离别故乡%^&*偶遇%^&*湿湿碎%^&*寻觅我路向%^&*阳光空气%^&*开开心心唱首歌%^&*晚空%^&*
+songURLs http://www.xiami.com/song/191088%^&*http://www.xiami.com/song/191089%^&*http://www.xiami.com/song/191090%^&*http://www.xiami.com/song/191091%^&*http://www.xiami.com/song/191092%^&*http://www.xiami.com/song/191093%^&*http://www.xiami.com/song/191094%^&*http://www.xiami.com/song/191095%^&*http://www.xiami.com/song/191096%^&*http://www.xiami.com/song/191097%^&*http://www.xiami.com/song/191098%^&*http://www.xiami.com/song/191099%^&*

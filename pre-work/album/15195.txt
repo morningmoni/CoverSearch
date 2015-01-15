@@ -1,0 +1,7 @@
+number 15195
+name 传说
+artist Raidas
+introduction 《吸烟的女人》是Raidas的成名作，也可以说是掀开80 年代中后期Band风潮的开山之作。1986年，Raidas凭借着这首歌获得当年的嘉士伯音乐会大奖崭露头角，也让大家看到了香港歌坛的另一股力量--乐队组合。《传说》这首是比较典型的Raidas风格的歌曲，而不像《别人的歌》那样深情款款。歌曲具有明显的节奏感，非常强烈的舞曲化风格。《别人的歌》在曲调却属于他们作品当中的例外，也是他们经典曲目之一。这首歌没有跳跃的节奏，取而代之的是无奈和蹉跎。除了这三首代表作，还有《倾心》《不愿置评》《杯中冷巷》《没有路人的都市》等佳作值得一再倾听。尤其是那首《倾听》，一首与乐队风格不甚接近的慢板情歌，听来却是动听委婉，曾入选当年的十大中文金曲，更值得一提的是，这首歌的作词若愚便是日后在歌坛取得不错成绩的歌手黄凯芹的笔名。
+picture http://img.xiami.net/images/album/img80/2980/151951416834456.jpg
+songs 传说%^&*别人的歌%^&*人海写真%^&*倾心%^&*某月某日%^&*穿黑衣的少年%^&*再见朋友%^&*低调感觉%^&*Raidas Re-Mix%^&*
+songURLs http://www.xiami.com/song/186809%^&*http://www.xiami.com/song/186810%^&*http://www.xiami.com/song/186811%^&*http://www.xiami.com/song/186812%^&*http://www.xiami.com/song/186813%^&*http://www.xiami.com/song/186814%^&*http://www.xiami.com/song/186815%^&*http://www.xiami.com/song/186816%^&*http://www.xiami.com/song/186817%^&*

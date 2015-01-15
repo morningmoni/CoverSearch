@@ -1,0 +1,7 @@
+number 6655
+name 范特西
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/66551387132341.jpg
+songs 爱在西元前%^&*爸我回来了%^&*简单爱%^&*忍者%^&*开不了口%^&*上海一九四三%^&*对不起%^&*威廉古堡%^&*双截棍%^&*安静%^&*
+songURLs http://www.xiami.com/song/376062%^&*http://www.xiami.com/song/376063%^&*http://www.xiami.com/song/376064%^&*http://www.xiami.com/song/376065%^&*http://www.xiami.com/song/376066%^&*http://www.xiami.com/song/376067%^&*http://www.xiami.com/song/376068%^&*http://www.xiami.com/song/376069%^&*http://www.xiami.com/song/376070%^&*http://www.xiami.com/song/376071%^&*

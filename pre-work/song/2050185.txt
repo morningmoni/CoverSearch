@@ -1,0 +1,6 @@
+number 2050185
+name 青色山脉
+artist 米七偶%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%B1%B3%E4%B8%83%E5%81%B6%^&*
+album 孤恋花电影原声带
+albumURL http://www.xiami.com/album/167371

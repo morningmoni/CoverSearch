@@ -1,0 +1,6 @@
+number 3129
+name 情奔
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/31291352182147.jpg
+songs 风儿轻轻吹%^&*情奔%^&*小小百合%^&*往日情%^&*情人石%^&*爱的风儿吹过来%^&*旅程%^&*你从何处来%^&*青春年华%^&*九月风起时%^&*流水年华%^&*
+songURLs http://www.xiami.com/song/38632%^&*http://www.xiami.com/song/38633%^&*http://www.xiami.com/song/38634%^&*http://www.xiami.com/song/38635%^&*http://www.xiami.com/song/38636%^&*http://www.xiami.com/song/38637%^&*http://www.xiami.com/song/38638%^&*http://www.xiami.com/song/38639%^&*http://www.xiami.com/song/38640%^&*http://www.xiami.com/song/38641%^&*http://www.xiami.com/song/38642%^&*

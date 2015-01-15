@@ -1,0 +1,6 @@
+number 84346
+name 你的未来
+artist 蔡淳佳%^&*
+artistURL http://www.xiami.com/artist/1340%^&*
+album 日出
+albumURL http://www.xiami.com/album/6907

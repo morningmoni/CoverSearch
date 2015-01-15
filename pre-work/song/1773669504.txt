@@ -1,0 +1,6 @@
+number 1773669504
+name 总会有一个人
+artist 陈浩民%^&*
+artistURL http://www.xiami.com/artist/87%^&*
+album 总会有一个人
+albumURL http://www.xiami.com/album/515089255

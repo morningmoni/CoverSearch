@@ -1,0 +1,7 @@
+number 3127
+name 阿美!阿美!
+artist 刘文正
+introduction 
+picture http://img.xiami.net/images/album/img70/670/3127.jpg
+songs 阿美阿美%^&*电动玩具%^&*爱情%^&*纷纷飘坠的音符%^&*思念总在分手后%^&*祈祷%^&*外婆的澎湖湾%^&*不要告别%^&*如果%^&*踏着夕阳归去%^&*乡间的小路%^&*风儿轻轻吹%^&*
+songURLs http://www.xiami.com/song/38608%^&*http://www.xiami.com/song/38609%^&*http://www.xiami.com/song/38610%^&*http://www.xiami.com/song/38611%^&*http://www.xiami.com/song/38612%^&*http://www.xiami.com/song/38613%^&*http://www.xiami.com/song/38614%^&*http://www.xiami.com/song/38615%^&*http://www.xiami.com/song/38616%^&*http://www.xiami.com/song/38617%^&*http://www.xiami.com/song/38618%^&*http://www.xiami.com/song/38619%^&*

@@ -1,0 +1,6 @@
+number 3131
+name 风
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/31311373862979.jpg
+songs 风%^&*浪花%^&*你说的%^&*我找到自己%^&*晨光%^&*野姜花的回忆%^&*落叶寄相思%^&*热带鱼%^&*飞鹰%^&*那一天%^&*爱你一万年%^&*白木屋%^&*
+songURLs http://www.xiami.com/song/38654%^&*http://www.xiami.com/song/38655%^&*http://www.xiami.com/song/38656%^&*http://www.xiami.com/song/38657%^&*http://www.xiami.com/song/38658%^&*http://www.xiami.com/song/38659%^&*http://www.xiami.com/song/38660%^&*http://www.xiami.com/song/38661%^&*http://www.xiami.com/song/1772023257%^&*http://www.xiami.com/song/38663%^&*http://www.xiami.com/song/38664%^&*http://www.xiami.com/song/38665%^&*

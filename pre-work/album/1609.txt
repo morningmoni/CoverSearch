@@ -1,0 +1,7 @@
+number 1609
+name 重逢。黄大城民歌精选辑
+artist 黄大城
+introduction 
+picture http://img.xiami.net/images/album/img70/370/1609.jpg
+songs 今山古道%^&*渔唱%^&*唐山子民%^&*弥度山歌%^&*寄%^&*盼卿卿%^&*秋风词%^&*愉快的归途%^&*牛郎牛女%^&*林梢月影%^&*江边吟%^&*歌唱在春天%^&*明潭泛舟%^&*六月新娘%^&*你就这么离去%^&*静夜%^&*祝英台%^&*大河涨水沙浪沙%^&*昨日情%^&*看花%^&*
+songURLs http://www.xiami.com/song/31681%^&*http://www.xiami.com/song/31682%^&*http://www.xiami.com/song/31683%^&*http://www.xiami.com/song/31684%^&*http://www.xiami.com/song/31685%^&*http://www.xiami.com/song/31686%^&*http://www.xiami.com/song/31687%^&*http://www.xiami.com/song/31688%^&*http://www.xiami.com/song/31689%^&*http://www.xiami.com/song/31690%^&*http://www.xiami.com/song/31691%^&*http://www.xiami.com/song/31692%^&*http://www.xiami.com/song/31693%^&*http://www.xiami.com/song/31694%^&*http://www.xiami.com/song/31695%^&*http://www.xiami.com/song/31696%^&*http://www.xiami.com/song/31697%^&*http://www.xiami.com/song/31698%^&*http://www.xiami.com/song/31699%^&*http://www.xiami.com/song/31700%^&*

@@ -1,0 +1,6 @@
+number 2880
+name 决定
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 高仓健快走开
+albumURL http://www.xiami.com/album/237

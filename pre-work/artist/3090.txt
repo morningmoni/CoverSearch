@@ -1,0 +1,7 @@
+number 3090
+name VRF
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artist/12065996061466.jpg
+albums 新世界%^&*VRF%^&*
+albumURLs http://www.xiami.com/album/15565%^&*http://www.xiami.com/album/15566%^&*

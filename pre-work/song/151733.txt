@@ -1,0 +1,6 @@
+number 151733
+name 暗示只能给这么多
+artist 谢丽金%^&*
+artistURL http://www.xiami.com/artist/2300%^&*
+album 永远的女孩
+albumURL http://www.xiami.com/album/12338

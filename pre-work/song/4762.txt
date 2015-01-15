@@ -1,0 +1,6 @@
+number 4762
+name 台湾话
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 南方金点系列-福建风云金典
+albumURL http://www.xiami.com/album/397

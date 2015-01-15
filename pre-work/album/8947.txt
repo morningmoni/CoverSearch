@@ -1,0 +1,7 @@
+number 8947
+name 女主角不是我
+artist 洪百慧
+introduction 
+picture http://img.xiami.net/images/album/img20/1620/89471392632434.jpg
+songs 漂浪的心情%^&*女主角不是我%^&*等你啦%^&*爱的证据%^&*钻石手指%^&*无聊的晚暝%^&*思念的天线%^&*爱过恨过%^&*变色情%^&*梦醒总是空%^&*
+songURLs http://www.xiami.com/song/111168%^&*http://www.xiami.com/song/111169%^&*http://www.xiami.com/song/111170%^&*http://www.xiami.com/song/111171%^&*http://www.xiami.com/song/111172%^&*http://www.xiami.com/song/111173%^&*http://www.xiami.com/song/111174%^&*http://www.xiami.com/song/111175%^&*http://www.xiami.com/song/111176%^&*http://www.xiami.com/song/111177%^&*

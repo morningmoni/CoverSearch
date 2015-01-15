@@ -1,0 +1,7 @@
+number 337
+name 爱是我们的
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img81/81/337.jpg
+songs 街角的祝福 情诗版%^&*恋上另一个人%^&*爱情太短，遗忘太长%^&*绝不能失去你%^&*爱是我们的%^&*你给我多少时间%^&*我在这里爱你%^&*爱情抗体%^&*烟火的季节%^&*一个人的冬季%^&*Te Amo 我爱你%^&*
+songURLs http://www.xiami.com/song/1769120234%^&*http://www.xiami.com/song/1769120235%^&*http://www.xiami.com/song/1769120236%^&*http://www.xiami.com/song/1769120237%^&*http://www.xiami.com/song/1769120238%^&*http://www.xiami.com/song/1769120239%^&*http://www.xiami.com/song/1769120240%^&*http://www.xiami.com/song/1769120241%^&*http://www.xiami.com/song/1769120242%^&*http://www.xiami.com/song/1769120243%^&*http://www.xiami.com/song/1769120244%^&*

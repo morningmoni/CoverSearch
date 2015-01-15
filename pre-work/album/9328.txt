@@ -1,0 +1,6 @@
+number 9328
+name 啼笑因缘
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 啼笑因缘%^&*大江东去%^&*怕记旧日情%^&*泪痕%^&*相思曲%^&*晚景%^&*想郎%^&*杨翠喜%^&*你轻呼我%^&*湖畔四季%^&*红楼琴断%^&*花残梦断%^&*
+songURLs http://www.xiami.com/song/115685%^&*http://www.xiami.com/song/115686%^&*http://www.xiami.com/song/115687%^&*http://www.xiami.com/song/115688%^&*http://www.xiami.com/song/115689%^&*http://www.xiami.com/song/115690%^&*http://www.xiami.com/song/115691%^&*http://www.xiami.com/song/115692%^&*http://www.xiami.com/song/115693%^&*http://www.xiami.com/song/115694%^&*http://www.xiami.com/song/115695%^&*http://www.xiami.com/song/115696%^&*

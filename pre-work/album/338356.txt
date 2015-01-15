@@ -1,0 +1,7 @@
+number 338356
+name 月光下的思念
+artist 董文华
+introduction 
+picture http://img.xiami.net/images/album/img0/3383561248404589.jpg
+songs 月光下的思念%^&*愿你心想事成%^&*心儿伴你走天涯%^&*亲亲的茉莉花%^&*乡情哪里找%^&*长城长%^&*没有飞回的大雁%^&*哥哥你慢走%^&*小城有支歌%^&*我们的心并不遥远%^&*小背篓%^&*秋水伊人%^&*渔光曲%^&*
+songURLs http://www.xiami.com/song/1769009810%^&*http://www.xiami.com/song/1769009811%^&*http://www.xiami.com/song/1769009812%^&*http://www.xiami.com/song/1769009813%^&*http://www.xiami.com/song/1769009814%^&*http://www.xiami.com/song/1769009815%^&*http://www.xiami.com/song/1769009816%^&*http://www.xiami.com/song/1769009817%^&*http://www.xiami.com/song/1769009818%^&*http://www.xiami.com/song/1769009819%^&*http://www.xiami.com/song/1769009820%^&*http://www.xiami.com/song/1769009821%^&*http://www.xiami.com/song/1769009822%^&*

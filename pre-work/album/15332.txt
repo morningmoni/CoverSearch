@@ -1,0 +1,7 @@
+number 15332
+name 摇篮曲
+artist 圣女合唱组
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10142824482m_2.jpg
+songs 摇篮曲%^&*摇篮曲%^&*摇篮曲%^&*摇篮曲%^&*摇篮曲%^&*摇篮曲%^&*暴风雨中的催眠曲%^&*摇篮曲%^&*摇篮歌%^&*摇篮歌%^&*摇篮%^&*秋夜摇篮曲%^&*秋夜摇篮曲%^&*
+songURLs http://www.xiami.com/song/188192%^&*http://www.xiami.com/song/188193%^&*http://www.xiami.com/song/188194%^&*http://www.xiami.com/song/188195%^&*http://www.xiami.com/song/188196%^&*http://www.xiami.com/song/188197%^&*http://www.xiami.com/song/188198%^&*http://www.xiami.com/song/188199%^&*http://www.xiami.com/song/188200%^&*http://www.xiami.com/song/188201%^&*http://www.xiami.com/song/188202%^&*http://www.xiami.com/song/188203%^&*http://www.xiami.com/song/188204%^&*

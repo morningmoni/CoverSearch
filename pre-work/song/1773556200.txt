@@ -1,0 +1,6 @@
+number 1773556200
+name 男人唱的歌
+artist 安琥%^&*
+artistURL http://www.xiami.com/artist/18%^&*
+album 男人的歌
+albumURL http://www.xiami.com/album/375402

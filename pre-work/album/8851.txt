@@ -1,0 +1,7 @@
+number 8851
+name 红歌汇
+artist 韩红
+introduction ISRC CN-A51-05-302-00/A.J6经过2004年的酝酿，2005年的韩红又有了她的“大动作”，其签约公司———京文唱片有限公司隆重推出韩红作品精选集———《红歌汇》。这不仅是韩红多年来的首张精选集，更是韩红2005年演艺事业的“当头炮”。这张精选集中，收录的不但有韩红的经典传唱曲目，更有很多热门歌曲的不同版本，比如《醒了》、《那片海》等歌曲的现场演绎版，《天亮了》的Unplugged版；歌迷互动版《家乡》；Encore版《青藏高原》、特别版《香格里拉》等都带给大家非常特别的味道。在推出《红歌汇》之后，韩红的新专辑《感动》也很快会和歌迷朋友们见面。在年底，韩红的又一新专辑也将面市。值得一提的是，这张唱片的制作将会空前开放，吸纳更多海内外的优秀音乐人，一起合作，实在让人期待。
+picture http://img.xiami.net/images/album/img90/1590/88511379672060.jpg
+songs 天空 (Live)%^&*穿行 (Live)%^&*醒了 (Live)%^&*来吧%^&*雪 (Live)%^&*天亮了 (Unplugged)%^&*绒花%^&*歌唱2002%^&*茶马古道%^&*天涯 (藏文版)%^&*那片海 (Live)%^&*思念谁%^&*香格里拉 (特别版)%^&*家乡 (歌迷互动版)%^&*青藏高原 (Encore版)%^&*
+songURLs http://www.xiami.com/song/110137%^&*http://www.xiami.com/song/110138%^&*http://www.xiami.com/song/110139%^&*http://www.xiami.com/song/110140%^&*http://www.xiami.com/song/110141%^&*http://www.xiami.com/song/110142%^&*http://www.xiami.com/song/110143%^&*http://www.xiami.com/song/110144%^&*http://www.xiami.com/song/110145%^&*http://www.xiami.com/song/110146%^&*http://www.xiami.com/song/110147%^&*http://www.xiami.com/song/110148%^&*http://www.xiami.com/song/110149%^&*http://www.xiami.com/song/110150%^&*http://www.xiami.com/song/110151%^&*

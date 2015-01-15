@@ -1,0 +1,7 @@
+number 532030
+name 唱给妈妈的歌
+artist 刘一祯
+introduction 
+picture http://img.xiami.net/images/album/img40/1940/5320301343879045.png
+songs 沁园春·长沙%^&*唱给妈妈的歌%^&*蝶恋花·母亲%^&*太阳颂歌%^&*人生最美第二春%^&*神州%^&*快乐360度%^&*瑞雪丰年%^&*感恩%^&*山高水长%^&*不是我没勇气%^&*温暖从头说%^&*锦绣潇湘等你来%^&*美在水月间%^&*沁园春·长沙(伴奏)%^&*唱给妈妈的歌(伴奏)%^&*人生最美第二春(伴奏)%^&*
+songURLs http://www.xiami.com/song/1771204720%^&*http://www.xiami.com/song/1771204721%^&*http://www.xiami.com/song/1771204722%^&*http://www.xiami.com/song/1771204723%^&*http://www.xiami.com/song/1771204724%^&*http://www.xiami.com/song/1771204725%^&*http://www.xiami.com/song/1771204726%^&*http://www.xiami.com/song/1771204727%^&*http://www.xiami.com/song/1771204728%^&*http://www.xiami.com/song/1771204729%^&*http://www.xiami.com/song/1771204730%^&*http://www.xiami.com/song/1771204731%^&*http://www.xiami.com/song/1771204732%^&*http://www.xiami.com/song/1771204733%^&*http://www.xiami.com/song/1771204734%^&*http://www.xiami.com/song/1771204735%^&*http://www.xiami.com/song/1771204736%^&*

@@ -1,0 +1,6 @@
+number 1770579086
+name 孤帆
+artist 乱弹阿翔%^&*
+artistURL http://www.xiami.com/artist/160%^&*
+album 最近的我
+albumURL http://www.xiami.com/album/473933

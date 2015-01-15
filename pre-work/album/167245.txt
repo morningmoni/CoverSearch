@@ -1,0 +1,7 @@
+number 167245
+name 璀璨专辑
+artist 文章
+introduction 文章经典老歌重新编曲演绎
+picture http://img.xiami.net/images/album/img40/940/167245.jpg
+songs 故乡的云%^&*三百六十五里路%^&*古月照今尘%^&*千千万万个爱你%^&*望天%^&*原谅我的心%^&*情商%^&*一个人的时候%^&*放不下%^&*流星%^&*
+songURLs http://www.xiami.com/song/2048184%^&*http://www.xiami.com/song/2048185%^&*http://www.xiami.com/song/2048186%^&*http://www.xiami.com/song/2048187%^&*http://www.xiami.com/song/2048188%^&*http://www.xiami.com/song/2048189%^&*http://www.xiami.com/song/2048190%^&*http://www.xiami.com/song/2048191%^&*http://www.xiami.com/song/2048192%^&*http://www.xiami.com/song/2048193%^&*

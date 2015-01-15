@@ -1,0 +1,6 @@
+number 5018
+name 纯洁
+artist 陈其钢%^&*
+artistURL http://www.xiami.com/artist/108%^&*
+album 蝶恋花
+albumURL http://www.xiami.com/album/420

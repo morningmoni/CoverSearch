@@ -1,0 +1,6 @@
+number 498510706
+name 如果我能飞
+artist 蔡兴国
+introduction picture http://img.xiami.net/images/album/img5/510705/5107051398510705.jpg
+songs 香榭大道%^&*如果我能飞%^&*第二次%^&*新天堂乐园%^&*女孩中的女孩%^&*另一种古典%^&*因为有你%^&*舞%^&*吉他与我%^&*宝宝的歌%^&*
+songURLs http://www.xiami.com/song/1772938581%^&*http://www.xiami.com/song/1772938582%^&*http://www.xiami.com/song/1772938583%^&*http://www.xiami.com/song/1772938584%^&*http://www.xiami.com/song/1772938585%^&*http://www.xiami.com/song/1772938586%^&*http://www.xiami.com/song/1772938587%^&*http://www.xiami.com/song/1772938588%^&*http://www.xiami.com/song/1772938589%^&*http://www.xiami.com/song/1772938590%^&*

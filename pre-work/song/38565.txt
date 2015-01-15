@@ -1,0 +1,6 @@
+number 38565
+name 那一句话
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 云且留住
+albumURL http://www.xiami.com/album/3123

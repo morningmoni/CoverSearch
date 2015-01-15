@@ -1,0 +1,6 @@
+number 35471
+name 紫外线
+artist 纪宏仁%^&*
+artistURL http://www.xiami.com/artist/430%^&*
+album 恋舞情结
+albumURL http://www.xiami.com/album/1888

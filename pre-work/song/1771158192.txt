@@ -1,0 +1,6 @@
+number 1771158192
+name 谣言
+artist 陈冠希%^&*
+artistURL http://www.xiami.com/artist/80%^&*
+album 三角度
+albumURL http://www.xiami.com/album/531133

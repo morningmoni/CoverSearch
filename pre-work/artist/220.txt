@@ -1,0 +1,7 @@
+number 220
+name 方奕
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11983175467760.jpg
+albums 多想%^&*
+albumURLs http://www.xiami.com/album/921%^&*

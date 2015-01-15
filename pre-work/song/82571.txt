@@ -1,0 +1,6 @@
+number 82571
+name 祭日之星
+artist 左小祖咒%^&*
+artistURL http://www.xiami.com/artist/1290%^&*
+album 庙会之旅
+albumURL http://www.xiami.com/album/6746

@@ -1,0 +1,6 @@
+number 394505
+name 是爱
+artist 王菀之%^&*
+artistURL http://www.xiami.com/artist/2200%^&*
+album 首张国语创作专辑
+albumURL http://www.xiami.com/album/33039

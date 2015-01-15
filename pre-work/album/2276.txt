@@ -1,0 +1,6 @@
+number 2276
+name 不老的情人
+artist 李家明
+introduction picture http://img.xiami.net/images/pic/04/03/10084296536m_2.jpg
+songs 不老的情人%^&*紧握你手%^&*爱情女杀手%^&*一生只给你%^&*你爱的人不是我%^&*请别过问%^&*来吧!去吧%^&*你的心可有我%^&*缘尽%^&*单恋的不幸%^&*信是有缘%^&*
+songURLs http://www.xiami.com/song/15890%^&*http://www.xiami.com/song/15891%^&*http://www.xiami.com/song/15892%^&*http://www.xiami.com/song/15893%^&*http://www.xiami.com/song/15894%^&*http://www.xiami.com/song/15895%^&*http://www.xiami.com/song/15896%^&*http://www.xiami.com/song/15897%^&*http://www.xiami.com/song/15898%^&*http://www.xiami.com/song/15899%^&*http://www.xiami.com/song/15900%^&*

@@ -1,0 +1,6 @@
+number 3119
+name 镭射唱片珍藏版
+artist 刘文正
+introduction picture http://img.xiami.net/images/pic/04/04/10116975244m_2.jpg
+songs 风%^&*舞在今宵%^&*心恋%^&*找一个下雨天%^&*我家在哪里%^&*雨中的故事%^&*海边恋歌%^&*人生的车站%^&*别和我说再见%^&*忘不了的你%^&*雾%^&*夜走在小镇上%^&*野姜花的回忆%^&*爱的播种%^&*绿色的初恋%^&*
+songURLs http://www.xiami.com/song/38483%^&*http://www.xiami.com/song/38484%^&*http://www.xiami.com/song/38485%^&*http://www.xiami.com/song/38486%^&*http://www.xiami.com/song/38487%^&*http://www.xiami.com/song/38488%^&*http://www.xiami.com/song/38489%^&*http://www.xiami.com/song/38490%^&*http://www.xiami.com/song/38491%^&*http://www.xiami.com/song/38492%^&*http://www.xiami.com/song/38493%^&*http://www.xiami.com/song/38494%^&*http://www.xiami.com/song/38495%^&*http://www.xiami.com/song/38496%^&*http://www.xiami.com/song/38497%^&*

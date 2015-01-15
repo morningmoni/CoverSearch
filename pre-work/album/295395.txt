@@ -1,0 +1,7 @@
+number 295395
+name 二十岁的独白
+artist 常宽
+introduction 
+picture http://img.xiami.net/images/album/img68/68/2953951390188297.jpg
+songs 序%^&*人生轨迹%^&*冬天的感觉%^&*无尽头的路%^&*回过头%^&*新世纪新天地%^&*人%^&*儿歌%^&*就当我错了%^&*蓝眼睛的姑娘%^&*酒店%^&*无怨的青春%^&*
+songURLs http://www.xiami.com/song/3276643%^&*http://www.xiami.com/song/3276644%^&*http://www.xiami.com/song/3276645%^&*http://www.xiami.com/song/3276646%^&*http://www.xiami.com/song/3276647%^&*http://www.xiami.com/song/3276648%^&*http://www.xiami.com/song/3276649%^&*http://www.xiami.com/song/3276650%^&*http://www.xiami.com/song/3276651%^&*http://www.xiami.com/song/3276652%^&*http://www.xiami.com/song/3276653%^&*http://www.xiami.com/song/3276654%^&*

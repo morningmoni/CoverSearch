@@ -1,0 +1,6 @@
+number 383365
+name 好听 (Karaoke Version)
+artist 许茹芸%^&*
+artistURL http://www.xiami.com/artist/2330%^&*
+album 好听
+albumURL http://www.xiami.com/album/12566

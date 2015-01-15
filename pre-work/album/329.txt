@@ -1,0 +1,7 @@
+number 329
+name Peace and Love
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/3291387530123.png
+songs 坏孩子的天空%^&*生化恋%^&*越来越爱你%^&*恋人勿近%^&*三个人的舞会%^&*分手武器%^&*能见度%^&*破坏王%^&*寒冬%^&*三个人的舞会(E-Bass&#039;mix)%^&*
+songURLs http://www.xiami.com/song/4025%^&*http://www.xiami.com/song/4026%^&*http://www.xiami.com/song/4027%^&*http://www.xiami.com/song/4028%^&*http://www.xiami.com/song/4029%^&*http://www.xiami.com/song/4030%^&*http://www.xiami.com/song/4031%^&*http://www.xiami.com/song/4032%^&*http://www.xiami.com/song/4033%^&*http://www.xiami.com/song/4034%^&*

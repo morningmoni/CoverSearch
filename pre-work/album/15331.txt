@@ -1,0 +1,7 @@
+number 15331
+name 绣荷包
+artist 圣女合唱组
+introduction 
+picture http://img.xiami.net/images/album/img30/3030/15331.jpg
+songs 绣荷包%^&*我想亲亲在梦中%^&*三十里地%^&*可爱的一朵玫瑰花%^&*半个月亮爬上来%^&*兰花花%^&*康定情歌%^&*绣荷包%^&*灯碗碗开花在窗台%^&*小河淌水%^&*
+songURLs http://www.xiami.com/song/188182%^&*http://www.xiami.com/song/188183%^&*http://www.xiami.com/song/188184%^&*http://www.xiami.com/song/188185%^&*http://www.xiami.com/song/188186%^&*http://www.xiami.com/song/188187%^&*http://www.xiami.com/song/188188%^&*http://www.xiami.com/song/188189%^&*http://www.xiami.com/song/188190%^&*http://www.xiami.com/song/188191%^&*

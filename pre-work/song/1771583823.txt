@@ -1,0 +1,6 @@
+number 1771583823
+name 美丽的岛
+artist 孙国庆%^&*
+artistURL http://www.xiami.com/artist/840%^&*
+album 88狂热
+albumURL http://www.xiami.com/album/569260

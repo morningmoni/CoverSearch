@@ -1,0 +1,6 @@
+number 546290
+name 庆团圆
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img28/398528/1349398528.jpg
+songs 庆团圆%^&*妈妈的皱纹%^&*爱情的探戈%^&*依依难捨%^&*有你人生才美丽%^&*为你暗相思%^&*勇敢%^&*一生的最爱%^&*爱你赌生命%^&*烧酒斟乎掷%^&*
+songURLs http://www.xiami.com/song/1771355044%^&*http://www.xiami.com/song/1771355045%^&*http://www.xiami.com/song/1771355046%^&*http://www.xiami.com/song/1771355047%^&*http://www.xiami.com/song/1771355048%^&*http://www.xiami.com/song/1771355049%^&*http://www.xiami.com/song/1771355050%^&*http://www.xiami.com/song/1771355051%^&*http://www.xiami.com/song/1771355052%^&*http://www.xiami.com/song/1771355053%^&*

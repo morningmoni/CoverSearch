@@ -1,0 +1,6 @@
+number 558940
+name 婚变
+artist 林青霞
+introduction picture http://img.xiami.net/images/album/img80/1880/5589401353983646.jpg
+songs 我踏浪而来%^&*小雨我问你%^&*女郎%^&*朵朵彩霞%^&*大海就在前方%^&*我心属于你%^&*野蔷薇之恋%^&*大丈夫%^&*
+songURLs http://www.xiami.com/song/1771483877%^&*http://www.xiami.com/song/1771483878%^&*http://www.xiami.com/song/1771483879%^&*http://www.xiami.com/song/1771483880%^&*http://www.xiami.com/song/1771483881%^&*http://www.xiami.com/song/1771483882%^&*http://www.xiami.com/song/1771483883%^&*http://www.xiami.com/song/1771483884%^&*

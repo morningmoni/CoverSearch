@@ -1,0 +1,7 @@
+number 13270
+name 不顾一切
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132701355205713.jpg
+songs 一夜情%^&*灰姑娘%^&*不顾一切%^&*让每个人都心碎%^&*纯真年代%^&*趁早%^&*I AM AMAZED%^&*奔跑%^&*最后一次%^&*不二法门%^&*
+songURLs http://www.xiami.com/song/377718%^&*http://www.xiami.com/song/377719%^&*http://www.xiami.com/song/377720%^&*http://www.xiami.com/song/377721%^&*http://www.xiami.com/song/377722%^&*http://www.xiami.com/song/377723%^&*http://www.xiami.com/song/377724%^&*http://www.xiami.com/song/377725%^&*http://www.xiami.com/song/377726%^&*http://www.xiami.com/song/377727%^&*

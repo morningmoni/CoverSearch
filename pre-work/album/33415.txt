@@ -1,0 +1,6 @@
+number 33415
+name 施孝荣名歌精选集
+artist 施孝荣
+introduction picture http://img.xiami.net/images/album/img20/820/334151418621915.jpg
+songs 拜访春天%^&*赤壁赋%^&*往明月多处走%^&*归人·沙城%^&*中华之爱%^&*易水寒%^&*摇橹的人%^&*侠客%^&*破晓%^&*把酒%^&*千年之旅%^&*没有时候的时候%^&*盲者之歌%^&*你的眼睛%^&*边城过客%^&*七月的心情%^&*
+songURLs http://www.xiami.com/song/399642%^&*http://www.xiami.com/song/399643%^&*http://www.xiami.com/song/399644%^&*http://www.xiami.com/song/399645%^&*http://www.xiami.com/song/399646%^&*http://www.xiami.com/song/399647%^&*http://www.xiami.com/song/399648%^&*http://www.xiami.com/song/399649%^&*http://www.xiami.com/song/399650%^&*http://www.xiami.com/song/399651%^&*http://www.xiami.com/song/399652%^&*http://www.xiami.com/song/399653%^&*http://www.xiami.com/song/399654%^&*http://www.xiami.com/song/399655%^&*http://www.xiami.com/song/399656%^&*http://www.xiami.com/song/399657%^&*

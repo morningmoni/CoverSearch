@@ -1,0 +1,6 @@
+number 347
+name 钢琴之爱9-爱在星光下
+artist 陈冠宇
+introduction picture http://img.xiami.net/images/pic/04/01/10002208819m_2.jpg
+songs 别怕我伤心%^&*鬼迷心窍%^&*想要你也难,不想你也难%^&*抱紧一点%^&*忘情水%^&*把悲伤留给自己%^&*流言%^&*我情愿%^&*执迷不悔%^&*只要你过的比我好%^&*
+songURLs http://www.xiami.com/song/4200%^&*http://www.xiami.com/song/4201%^&*http://www.xiami.com/song/4202%^&*http://www.xiami.com/song/4203%^&*http://www.xiami.com/song/4204%^&*http://www.xiami.com/song/4205%^&*http://www.xiami.com/song/4206%^&*http://www.xiami.com/song/4207%^&*http://www.xiami.com/song/4208%^&*http://www.xiami.com/song/4209%^&*

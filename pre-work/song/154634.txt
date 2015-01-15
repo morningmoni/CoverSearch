@@ -1,0 +1,7 @@
+number 154634
+name 恒星
+artist 许茹芸%^&*苏永康%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%AE%B8%E8%8C%B9%E8%8A%B8%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%8B%8F%E6%B0%B8%E5%BA%B7%^&*
+album 我就是这么快乐
+albumURL http://www.xiami.com/album/12578

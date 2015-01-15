@@ -1,0 +1,7 @@
+number 483875
+name 写一首歌给你
+artist 梁文福
+introduction 此专辑出自”八方文化“在2004年出版的梁文福“写一首歌给你”词曲选集里，收集了梁文福自1990到2004的精选创作。
+picture http://img.xiami.net/images/album/img90/590/4838751323957394.jpg
+songs 写一首歌给你%^&*水的话%^&*阿Ben阿Ben%^&*新衣哪有旧衣好%^&*弹一支凉凉的歌%^&*一步一步来%^&*历史考试前夕%^&*童谣1987%^&*说时依旧%^&*细水长流%^&*排排坐%^&*太多太多%^&*让夜轻轻落下%^&*新加坡派%^&*麻雀衔竹枝%^&*老张的三个女儿%^&*担心%^&*隐形眼镜%^&*每次醒来%^&*天冷就回来%^&*
+songURLs http://www.xiami.com/song/1770692401%^&*http://www.xiami.com/song/1770692402%^&*http://www.xiami.com/song/1770692403%^&*http://www.xiami.com/song/1770692404%^&*http://www.xiami.com/song/1770692405%^&*http://www.xiami.com/song/1770692406%^&*http://www.xiami.com/song/1770692407%^&*http://www.xiami.com/song/1770692408%^&*http://www.xiami.com/song/1770692409%^&*http://www.xiami.com/song/1770692410%^&*http://www.xiami.com/song/1770692411%^&*http://www.xiami.com/song/1770692412%^&*http://www.xiami.com/song/1770692413%^&*http://www.xiami.com/song/1770692414%^&*http://www.xiami.com/song/1770692415%^&*http://www.xiami.com/song/1770692416%^&*http://www.xiami.com/song/1770692417%^&*http://www.xiami.com/song/1770692418%^&*http://www.xiami.com/song/1770692419%^&*http://www.xiami.com/song/1770692420%^&*

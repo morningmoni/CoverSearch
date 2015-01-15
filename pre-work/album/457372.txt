@@ -1,0 +1,7 @@
+number 457372
+name 我想有个家
+artist 张云儿
+introduction 每当见到《我想有个家》，大家可能先想到的会是潘美唇，因为原唱者就是潘美辰，而很多朋友可能都没有听过张云儿这个歌手也唱过这首歌，其实不单只是这一首，整张专辑里面的10国语歌都是张云儿的翻唱版本，其原版歌曲及原唱者相信大家都很熟识了，因为全都是当年很流行的经典国语歌，不过或者会有很多朋友都会更喜欢张云儿的版本，觉得张云的演绎更超过了原唱版本。她的嗓音清亮细腻又极具穿透力,无疑在那个年代曾经打动过那么一群人
+picture http://img.xiami.net/images/album/img90/2490/4573721312769055.jpg
+songs 我想有个家%^&*恋曲1990%^&*永远不回头%^&*让生命去等候%^&*其实你不懂我的心%^&*等着你，爱着你%^&*悔%^&*是你%^&*你知道我在等你吗？%^&*你是我胸口永远的痛%^&*
+songURLs http://www.xiami.com/song/1770392349%^&*http://www.xiami.com/song/1770392350%^&*http://www.xiami.com/song/1770392351%^&*http://www.xiami.com/song/1770392352%^&*http://www.xiami.com/song/1770392353%^&*http://www.xiami.com/song/1770392354%^&*http://www.xiami.com/song/1770392355%^&*http://www.xiami.com/song/1770392356%^&*http://www.xiami.com/song/1770392357%^&*http://www.xiami.com/song/1770392358%^&*

@@ -1,0 +1,7 @@
+number 1830
+name 李跃君
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11975341848777.jpg
+albums 粤听粤好听·明星%^&*寂寞公路%^&*
+albumURLs http://www.xiami.com/album/452433%^&*http://www.xiami.com/album/10052%^&*

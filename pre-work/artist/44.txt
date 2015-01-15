@@ -1,0 +1,7 @@
+number 44
+name 蔡济文
+place Hongkong 香港
+introduction 蔡济文，前香港歌手及演员，于上海出生，蔡济文于1988年参加香港亚洲电视举办的《未来偶像争霸战》，结果落选，但其出色唱功受新力音乐娱乐青睐。之后于1990年开始出专辑，在BMG时他推出四张个人专辑，而他亦和叶玉卿、刘锡明等人改编黄品源同一国语作品《你怎么&ldquo;舍得&rdquo;我难过》，期间亦参演过无线电视剧集。1993年转投飞图娱乐，推出二张个人专辑。1994年退出乐坛做亚视的电视剧演员。1998年与亚视解约，之后在中国大陆拍剧。1999年在家族经营的灯饰公司在上海开设厂房及门市后淡出娱乐圈。2002年跟电视主持人陈佩珊结婚。
+picture http://img.xiami.net/images/pic/06/18/224508_20070409_003928_737m.jpg
+albums 独来独往%^&*情缘%^&*You&#039;re The Only%^&*梦里的爱人%^&*22%^&*Je T&#039;aime%^&*Day Break%^&*
+albumURLs http://www.xiami.com/album/151%^&*http://www.xiami.com/album/400548%^&*http://www.xiami.com/album/152%^&*http://www.xiami.com/album/153%^&*http://www.xiami.com/album/154%^&*http://www.xiami.com/album/155%^&*http://www.xiami.com/album/156%^&*

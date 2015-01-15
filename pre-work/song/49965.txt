@@ -1,0 +1,6 @@
+number 49965
+name 靠近一些多情一些
+artist 邰正宵%^&*
+artistURL http://www.xiami.com/artist/850%^&*
+album 找一个字代替
+albumURL http://www.xiami.com/album/4083

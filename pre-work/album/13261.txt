@@ -1,0 +1,7 @@
+number 13261
+name 也许明天
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132611360220521.jpg
+songs 爱是唯一%^&*火%^&*发生什么事%^&*你好不好%^&*关键时刻%^&*也许明天%^&*只爱高跟鞋%^&*娜鲁湾情歌%^&*过不去%^&*谁与争锋%^&*神采飞扬%^&*魅力十足%^&*
+songURLs http://www.xiami.com/song/377728%^&*http://www.xiami.com/song/377729%^&*http://www.xiami.com/song/377730%^&*http://www.xiami.com/song/377731%^&*http://www.xiami.com/song/377732%^&*http://www.xiami.com/song/377733%^&*http://www.xiami.com/song/377734%^&*http://www.xiami.com/song/377735%^&*http://www.xiami.com/song/377736%^&*http://www.xiami.com/song/377737%^&*http://www.xiami.com/song/377738%^&*http://www.xiami.com/song/377739%^&*

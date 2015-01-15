@@ -1,0 +1,6 @@
+number 4521
+name 朋友仔
+artist Twins%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Twins%^&*
+album 与音乐谈情
+albumURL http://www.xiami.com/album/373

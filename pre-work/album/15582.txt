@@ -1,0 +1,7 @@
+number 15582
+name 乐在途中
+artist 威镇
+introduction 
+picture http://img.xiami.net/images/album/img0/3100/155821379132455.jpg
+songs 雨%^&*你要多奉献%^&*捉到一身蚁%^&*夜海港%^&*阳光与希望%^&*想念你%^&*马蹄忙%^&*为谁奔波%^&*落叶季节%^&*新歌送旧情%^&*情到深之处%^&*请你回来%^&*
+songURLs http://www.xiami.com/song/191100%^&*http://www.xiami.com/song/191101%^&*http://www.xiami.com/song/191102%^&*http://www.xiami.com/song/191103%^&*http://www.xiami.com/song/191104%^&*http://www.xiami.com/song/191105%^&*http://www.xiami.com/song/191106%^&*http://www.xiami.com/song/191107%^&*http://www.xiami.com/song/191108%^&*http://www.xiami.com/song/191109%^&*http://www.xiami.com/song/191110%^&*http://www.xiami.com/song/191111%^&*

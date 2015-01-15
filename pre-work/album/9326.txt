@@ -1,0 +1,6 @@
+number 9326
+name 快乐新年
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 春来冬去%^&*高歌太平年%^&*快乐新年%^&*歌颂新春%^&*祝君快乐%^&*好春宵%^&*锦绣前程%^&*一寸光阴一寸金%^&*贺年%^&*春之歌%^&*万花禧春%^&*新春愿望%^&*
+songURLs http://www.xiami.com/song/115661%^&*http://www.xiami.com/song/115662%^&*http://www.xiami.com/song/115663%^&*http://www.xiami.com/song/115664%^&*http://www.xiami.com/song/115665%^&*http://www.xiami.com/song/115666%^&*http://www.xiami.com/song/115667%^&*http://www.xiami.com/song/115668%^&*http://www.xiami.com/song/115669%^&*http://www.xiami.com/song/115670%^&*http://www.xiami.com/song/115671%^&*http://www.xiami.com/song/115672%^&*

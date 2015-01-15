@@ -1,0 +1,7 @@
+number 4635
+name 神话·传说
+artist 王威胜
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10005712178m_2.jpg
+songs 神话传说%^&*苍茫%^&*烦恼%^&*星和%^&*单恋%^&*小人与鸟人%^&*那牵强的藉口%^&*生日%^&*求婚曲%^&*乘风一号%^&*吉普赛蓝海鸥%^&*
+songURLs http://www.xiami.com/song/56253%^&*http://www.xiami.com/song/56254%^&*http://www.xiami.com/song/56255%^&*http://www.xiami.com/song/56256%^&*http://www.xiami.com/song/56257%^&*http://www.xiami.com/song/56259%^&*http://www.xiami.com/song/56258%^&*http://www.xiami.com/song/56260%^&*http://www.xiami.com/song/56261%^&*http://www.xiami.com/song/56262%^&*http://www.xiami.com/song/56263%^&*

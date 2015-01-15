@@ -1,0 +1,7 @@
+number 574903
+name 五星红旗
+artist 黄绮珊
+introduction 一直被媒体冠为&ldquo;亚洲最完美声音"！中国的&ldquo;惠特妮休斯顿&rdquo;&mdash;&mdash;黄绮珊，在蛰伏八年后，在发行了奥运单曲《一起歌唱》后在一个月后紧接着推出红色爱国单曲《五星红旗》！这首歌倾注了创作者及演唱者对祖国的深情热爱。歌颂我们伟大的民族！弘扬我国运动员在国际赛场上顽强拼搏的精神和体育道德风尚！
+picture http://img.xiami.net/images/album/img60/1660/5749031359373829.jpg
+songs 五星红旗 (电台版)%^&*五星红旗 (弦乐版)%^&*
+songURLs http://www.xiami.com/song/1771638059%^&*http://www.xiami.com/song/1771638060%^&*

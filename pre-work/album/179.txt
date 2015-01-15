@@ -1,0 +1,6 @@
+number 179
+name 钢琴师的情人
+artist 蔡兴国
+introduction picture http://img.xiami.net/images/album/img48/48/1791398507170.jpg
+songs The Piano%^&*Flashdance%^&*The Wizard of OZ.%^&*The Bodyguard%^&*The Deer Hunter%^&*Beauty And The Beast%^&*Schindler&#039;s List%^&*Chariots of Fire%^&*Ghost%^&*Deep In My Heart%^&*Pocahontas%^&*
+songURLs http://www.xiami.com/song/2197%^&*http://www.xiami.com/song/2198%^&*http://www.xiami.com/song/2199%^&*http://www.xiami.com/song/2200%^&*http://www.xiami.com/song/2201%^&*http://www.xiami.com/song/2202%^&*http://www.xiami.com/song/2203%^&*http://www.xiami.com/song/2204%^&*http://www.xiami.com/song/2205%^&*http://www.xiami.com/song/2206%^&*http://www.xiami.com/song/2207%^&*

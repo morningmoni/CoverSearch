@@ -1,0 +1,7 @@
+number 10936
+name 戏剧人生
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109361375237337.jpg
+songs 歌衫泪影%^&*女人心%^&*莫问一生%^&*笑看风云变%^&*亲密爱人%^&*秋天复秋天%^&*何日%^&*心肝宝贝%^&*俩心未变%^&*似是故人来%^&*是这样的%^&*路…始终告一段%^&*痴痴爱一次%^&*
+songURLs http://www.xiami.com/song/135105%^&*http://www.xiami.com/song/135106%^&*http://www.xiami.com/song/135107%^&*http://www.xiami.com/song/135108%^&*http://www.xiami.com/song/135109%^&*http://www.xiami.com/song/135110%^&*http://www.xiami.com/song/135111%^&*http://www.xiami.com/song/135112%^&*http://www.xiami.com/song/135113%^&*http://www.xiami.com/song/135114%^&*http://www.xiami.com/song/135115%^&*http://www.xiami.com/song/135116%^&*http://www.xiami.com/song/135117%^&*

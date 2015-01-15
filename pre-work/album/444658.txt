@@ -1,0 +1,6 @@
+number 444658
+name 有骨气的男性
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img74/240674/1307240674.jpg
+songs 有骨气的男性%^&*玫瑰我爱你%^&*情债%^&*哈酒%^&*月圆梦也圆%^&*雨乱%^&*浪子的乡愁%^&*庄脚恰有人情味%^&*男性的纯情%^&*七郎仔兄%^&*
+songURLs http://www.xiami.com/song/1770252695%^&*http://www.xiami.com/song/1770252696%^&*http://www.xiami.com/song/1770252697%^&*http://www.xiami.com/song/1770252698%^&*http://www.xiami.com/song/1770252699%^&*http://www.xiami.com/song/1770252700%^&*http://www.xiami.com/song/1770252701%^&*http://www.xiami.com/song/1770252702%^&*http://www.xiami.com/song/1770252703%^&*http://www.xiami.com/song/1770252704%^&*

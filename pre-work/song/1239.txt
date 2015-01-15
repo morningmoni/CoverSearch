@@ -1,0 +1,7 @@
+number 1239
+name 青春新世纪
+artist 羽·泉%^&*赵传%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BE%BD%C2%B7%E6%B3%89%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B5%B5%E4%BC%A0%^&*
+album 中国足球战歌
+albumURL http://www.xiami.com/album/105

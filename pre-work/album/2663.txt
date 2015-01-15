@@ -1,0 +1,7 @@
+number 2663
+name 等待
+artist 汉洋
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10027449743m_2.jpg
+songs 让我紧抱你%^&*等待%^&*睡觉那么难%^&*一时忘记%^&*夺命伤痕%^&*其实我介意%^&*
+songURLs http://www.xiami.com/song/1769032812%^&*http://www.xiami.com/song/1769032813%^&*http://www.xiami.com/song/1769032814%^&*http://www.xiami.com/song/1769032815%^&*http://www.xiami.com/song/1769032816%^&*http://www.xiami.com/song/1769032817%^&*

@@ -1,0 +1,7 @@
+number 657
+name A20高速公路(吉他中国系列唱片4)
+artist 成震
+introduction 
+picture http://img.xiami.net/images/album/img50/150/657.jpg
+songs 火%^&*Hold U%^&*天堂之吻%^&*高速公路%^&*云%^&*无题%^&*落%^&*离开%^&*神之战%^&*Linda Angel%^&*
+songURLs http://www.xiami.com/song/8109%^&*http://www.xiami.com/song/8110%^&*http://www.xiami.com/song/8111%^&*http://www.xiami.com/song/8112%^&*http://www.xiami.com/song/8113%^&*http://www.xiami.com/song/8114%^&*http://www.xiami.com/song/8115%^&*http://www.xiami.com/song/8116%^&*http://www.xiami.com/song/8117%^&*http://www.xiami.com/song/8118%^&*

@@ -1,0 +1,6 @@
+number 3028
+name 二人传奇(刘罡/王浩)
+artist 刘罡
+introduction picture http://img.xiami.net/images/album/img50/650/3028.jpg
+songs 乡间小路%^&*小薇%^&*花房姑娘%^&*爱%^&*虹彩妹妹%^&*情难枕%^&*梦驼铃%^&*冷冷的夏%^&*阿里山的姑娘%^&*失恋十四行%^&*黄昏%^&*
+songURLs http://www.xiami.com/song/37061%^&*http://www.xiami.com/song/37062%^&*http://www.xiami.com/song/37063%^&*http://www.xiami.com/song/37064%^&*http://www.xiami.com/song/37065%^&*http://www.xiami.com/song/37066%^&*http://www.xiami.com/song/37067%^&*http://www.xiami.com/song/37068%^&*http://www.xiami.com/song/37069%^&*http://www.xiami.com/song/37070%^&*http://www.xiami.com/song/37071%^&*

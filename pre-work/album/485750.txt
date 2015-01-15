@@ -1,0 +1,6 @@
+number 485750
+name 爱人仔恰恰
+artist 张秀卿
+introduction picture http://img.xiami.net/images/album/img80/2480/4857501388377825.jpg
+songs 醉醉醉%^&*爱人仔恰恰%^&*亲家%^&*爱情白酒%^&*你我的一生%^&*心连心%^&*快乐的%^&*非常男女%^&*爱到无退路%^&*完美(国)%^&*
+songURLs http://www.xiami.com/song/1770715862%^&*http://www.xiami.com/song/1770715863%^&*http://www.xiami.com/song/1770715864%^&*http://www.xiami.com/song/1770715865%^&*http://www.xiami.com/song/1770715866%^&*http://www.xiami.com/song/1770715867%^&*http://www.xiami.com/song/1770715868%^&*http://www.xiami.com/song/1770715869%^&*http://www.xiami.com/song/1770715870%^&*http://www.xiami.com/song/1770715871%^&*

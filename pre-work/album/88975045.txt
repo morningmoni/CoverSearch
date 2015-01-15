@@ -1,0 +1,6 @@
+number 88975045
+name 爱情陷阱
+artist 曹西平
+introduction picture http://img.xiami.net/images/album/img61/61/889750451388975045.jpg
+songs 爱情陷阱%^&*别让我的视线离开你%^&*星光恋曲%^&*独行的太阳%^&*不再想拥有它%^&*都市摇滚%^&*徘徊边缘%^&*爱无尽期%^&*冲动的活力%^&*出发的方向%^&*
+songURLs http://www.xiami.com/song/1772456339%^&*http://www.xiami.com/song/1772456340%^&*http://www.xiami.com/song/1772456341%^&*http://www.xiami.com/song/1772456342%^&*http://www.xiami.com/song/1772456343%^&*http://www.xiami.com/song/1772456344%^&*http://www.xiami.com/song/1772456345%^&*http://www.xiami.com/song/1772456346%^&*http://www.xiami.com/song/1772456347%^&*http://www.xiami.com/song/1772456348%^&*

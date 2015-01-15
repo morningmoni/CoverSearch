@@ -1,0 +1,6 @@
+number 112257
+name 擦肩而过
+artist 黄绮珊%^&*
+artistURL http://www.xiami.com/artist/1660%^&*
+album 只有你
+albumURL http://www.xiami.com/album/9055

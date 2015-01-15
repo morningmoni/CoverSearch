@@ -1,0 +1,7 @@
+number 372197
+name 快乐畅开
+artist 张惠妹
+introduction 可口可乐 快乐畅开 妹力全开「可口可乐」代言人出炉 重量级天后张惠妹台湾代言开唱主题歌曲「Open Happiness快乐畅开」台湾区中文版3月12日 KKBOX 正式上架世界知名品牌「可口可乐」于11日(四)正式宣布，由台湾重量级天后A-Mei张惠妹担任2010年台湾区品牌代言人，同时由A-Mei 演唱「可口可乐」全球主题曲 &ldquo;Open Happiness&rdquo;台湾区中文版「快乐畅开」，希望透过A-Mei在舞台上所散发的光与热，传达「可口可乐」独一无二的品牌精神。
+picture http://img.xiami.net/images/album/img50/2450/3721971352198593.jpg
+songs 快乐畅开(“可口可乐”版)%^&*快乐畅开(“快乐畅开”版)%^&*
+songURLs http://www.xiami.com/song/1769415393%^&*http://www.xiami.com/song/1769415394%^&*

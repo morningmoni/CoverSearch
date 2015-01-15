@@ -1,0 +1,6 @@
+number 160882
+name 你说的话
+artist 于希平%^&*
+artistURL http://www.xiami.com/artist/2410%^&*
+album 想要你也难,不想你也难
+albumURL http://www.xiami.com/album/13079

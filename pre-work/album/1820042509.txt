@@ -1,0 +1,7 @@
+number 1820042509
+name BRICK
+artist 陈弘礼
+introduction 
+picture http://img.xiami.net/images/album/img77/77/18200425091420042509.jpg
+songs BRICK%^&*
+songURLs http://www.xiami.com/song/1773846825%^&*

@@ -1,0 +1,6 @@
+number 3683
+name 不该认真
+artist 潘协庆
+introduction picture http://img.xiami.net/images/album/img70/770/3683.jpg
+songs 不该认真%^&*多想再问问你%^&*爱不留情%^&*爱禁不起沉默%^&*因为爱%^&*为爱守候%^&*你的白天,我是夜晚%^&*但愿你懂我的心%^&*回到过去%^&*懂爱的人特别温柔%^&*
+songURLs http://www.xiami.com/song/45289%^&*http://www.xiami.com/song/45290%^&*http://www.xiami.com/song/45291%^&*http://www.xiami.com/song/45292%^&*http://www.xiami.com/song/45293%^&*http://www.xiami.com/song/45294%^&*http://www.xiami.com/song/45295%^&*http://www.xiami.com/song/45296%^&*http://www.xiami.com/song/45297%^&*http://www.xiami.com/song/45298%^&*

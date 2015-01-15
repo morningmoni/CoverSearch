@@ -1,0 +1,7 @@
+number 343
+name 钢琴之爱III 跟我说爱我
+artist 陈冠宇
+introduction RD-2004
+picture http://img.xiami.net/images/album/img81/81/3431379824285.jpg
+songs 跟我说爱我%^&*恰似你的温柔%^&*但愿人长久%^&*把握%^&*怎么能%^&*请跟我来%^&*面具%^&*想飞%^&*读你%^&*抉择%^&*
+songURLs http://www.xiami.com/song/4160%^&*http://www.xiami.com/song/4161%^&*http://www.xiami.com/song/4162%^&*http://www.xiami.com/song/4163%^&*http://www.xiami.com/song/4164%^&*http://www.xiami.com/song/4165%^&*http://www.xiami.com/song/4166%^&*http://www.xiami.com/song/4167%^&*http://www.xiami.com/song/4168%^&*http://www.xiami.com/song/4169%^&*

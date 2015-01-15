@@ -1,0 +1,6 @@
+number 10665
+name 期待
+artist 柳影虹
+introduction picture http://img.xiami.net/images/pic/04/03/1008915566m_2.jpg
+songs 幸福人生%^&*相见又相分%^&*怎么得我一个%^&*你心彻悟时%^&*红烛泪%^&*期待%^&*虽知君你难受%^&*忏情%^&*真爱在咫尺间%^&*相见又相分(音乐)%^&*
+songURLs http://www.xiami.com/song/131472%^&*http://www.xiami.com/song/131473%^&*http://www.xiami.com/song/131474%^&*http://www.xiami.com/song/131475%^&*http://www.xiami.com/song/131476%^&*http://www.xiami.com/song/131477%^&*http://www.xiami.com/song/131478%^&*http://www.xiami.com/song/131479%^&*http://www.xiami.com/song/131480%^&*http://www.xiami.com/song/131481%^&*

@@ -1,0 +1,6 @@
+number 134993
+name 她比烟花寂莫
+artist 梅艳芳%^&*
+artistURL http://www.xiami.com/artist/2000%^&*
+album 变奏
+albumURL http://www.xiami.com/album/10925

@@ -1,0 +1,6 @@
+number 33203
+name 别离开我
+artist 黄品源%^&*
+artistURL http://www.xiami.com/artist/390%^&*
+album 爱你到永远
+albumURL http://www.xiami.com/album/1728

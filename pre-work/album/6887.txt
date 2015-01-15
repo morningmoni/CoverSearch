@@ -1,0 +1,7 @@
+number 6887
+name 贝贝3
+artist 贝贝
+introduction 
+picture http://img.xiami.net/images/album/img30/1330/6887.jpg
+songs 感情的段落%^&*挡不住的风情%^&*什么是缘份%^&*痛爱%^&*哭泣游戏%^&*谁愿放手%^&*灰姑娘%^&*亲密关系%^&*等了又等%^&*漫步人生路%^&*点解手牵手%^&*迟来的春天%^&*
+songURLs http://www.xiami.com/song/84075%^&*http://www.xiami.com/song/84076%^&*http://www.xiami.com/song/84077%^&*http://www.xiami.com/song/84078%^&*http://www.xiami.com/song/84079%^&*http://www.xiami.com/song/84080%^&*http://www.xiami.com/song/84081%^&*http://www.xiami.com/song/84082%^&*http://www.xiami.com/song/84083%^&*http://www.xiami.com/song/84084%^&*http://www.xiami.com/song/84085%^&*http://www.xiami.com/song/84086%^&*

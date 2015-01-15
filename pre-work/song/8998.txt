@@ -1,0 +1,6 @@
+number 8998
+name 朋友二号(结他乐谱练习)
+artist 邓建明%^&*
+artistURL http://www.xiami.com/artist/180%^&*
+album Joey Music Factory
+albumURL http://www.xiami.com/album/739

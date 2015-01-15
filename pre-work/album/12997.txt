@@ -1,0 +1,6 @@
+number 12997
+name 悲伤的茱丽叶  安妮的前世今生
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/129971393813367.jpg
+songs 悲伤的茱丽叶 (前世篇)%^&*怪盗亚森罗萍  (前世篇)%^&*舞的发热  (前世篇)%^&*守候  (前世篇)%^&*爱丽丝的日记  (前世篇)%^&*吵架之后  (今世篇)%^&*祈求  (今世篇)%^&*上帝妈咪  (今世篇)%^&*向爱情说声对不起  (今世篇)%^&*从侧面爱你  (今世篇)%^&*
+songURLs http://www.xiami.com/song/374163%^&*http://www.xiami.com/song/374164%^&*http://www.xiami.com/song/374161%^&*http://www.xiami.com/song/374165%^&*http://www.xiami.com/song/374162%^&*http://www.xiami.com/song/374159%^&*http://www.xiami.com/song/374160%^&*http://www.xiami.com/song/374156%^&*http://www.xiami.com/song/374157%^&*http://www.xiami.com/song/374158%^&*

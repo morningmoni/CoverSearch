@@ -1,0 +1,7 @@
+number 110
+name 天边
+artist 布仁巴雅尔
+introduction 
+picture http://img.xiami.net/images/album/img39/39/1101338860303.jpg
+songs 天边%^&*吉祥三宝%^&*父亲的草原母亲的河%^&*阿尔斯楞的眼睛%^&*牧歌%^&*迷人的杭盖%^&*蓝色的蒙古高原%^&*母亲%^&*呼伦贝尔大草原%^&*努力格日玛%^&*我和草原有个约定%^&*布里亚特蒙古族舞曲%^&*
+songURLs http://www.xiami.com/song/1334%^&*http://www.xiami.com/song/1335%^&*http://www.xiami.com/song/1336%^&*http://www.xiami.com/song/1337%^&*http://www.xiami.com/song/1338%^&*http://www.xiami.com/song/1339%^&*http://www.xiami.com/song/1340%^&*http://www.xiami.com/song/1341%^&*http://www.xiami.com/song/1342%^&*http://www.xiami.com/song/1343%^&*http://www.xiami.com/song/1344%^&*http://www.xiami.com/song/1345%^&*

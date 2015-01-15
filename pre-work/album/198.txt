@@ -1,0 +1,7 @@
+number 198
+name Oh My Friend
+artist 苍宇
+introduction 
+picture http://img.xiami.net/images/album/img0/1981284095065.jpg
+songs 我愿意为你%^&*Oh my friend%^&*真想找一个人唱酒%^&*在路上%^&*往事如歌%^&*深蓝星空%^&*星期一早晨%^&*陌生地平线%^&*深红玫瑰%^&*情义无价%^&*
+songURLs http://www.xiami.com/song/2440%^&*http://www.xiami.com/song/2441%^&*http://www.xiami.com/song/2442%^&*http://www.xiami.com/song/387067%^&*http://www.xiami.com/song/387068%^&*http://www.xiami.com/song/387069%^&*http://www.xiami.com/song/387070%^&*http://www.xiami.com/song/387071%^&*http://www.xiami.com/song/387072%^&*http://www.xiami.com/song/387073%^&*

@@ -1,0 +1,8 @@
+number 180289
+name All In
+artist Girl Friends%^&*Big Tone%^&*Esther%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Girl+Friends%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=Big+Tone%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=Esther%^&*
+album Another Myself
+albumURL http://www.xiami.com/album/14620

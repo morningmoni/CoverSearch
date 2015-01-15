@@ -1,0 +1,6 @@
+number 381197
+name 都市冒险家
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3811971274152701.jpg
+songs 都市冒险家%^&*单身汉%^&*流浪汉%^&*白色的谎言%^&*透明的你%^&*生活复制品%^&*忧郁的小丑%^&*何须誓言%^&*爱人配角%^&*伤心的笑话%^&*镜中的人%^&*
+songURLs http://www.xiami.com/song/1769521450%^&*http://www.xiami.com/song/1769521451%^&*http://www.xiami.com/song/1769521452%^&*http://www.xiami.com/song/1769521453%^&*http://www.xiami.com/song/1769521454%^&*http://www.xiami.com/song/1769521455%^&*http://www.xiami.com/song/1769521456%^&*http://www.xiami.com/song/1769521457%^&*http://www.xiami.com/song/1769521458%^&*http://www.xiami.com/song/1769521459%^&*http://www.xiami.com/song/1769521460%^&*

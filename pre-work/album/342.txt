@@ -1,0 +1,7 @@
+number 342
+name 钢琴之爱II
+artist 陈冠宇
+introduction RD-2003
+picture http://img.xiami.net/images/album/img81/81/3421338453777.jpg
+songs 是否%^&*海上花%^&*穿过你的黑发的我的手%^&*将进酒%^&*恋曲1980%^&*爱的箴言%^&*童年%^&*光阴的故事%^&*乡愁四韵%^&*家 I%^&*
+songURLs http://www.xiami.com/song/4150%^&*http://www.xiami.com/song/4151%^&*http://www.xiami.com/song/4152%^&*http://www.xiami.com/song/4153%^&*http://www.xiami.com/song/4154%^&*http://www.xiami.com/song/4155%^&*http://www.xiami.com/song/4156%^&*http://www.xiami.com/song/4157%^&*http://www.xiami.com/song/4158%^&*http://www.xiami.com/song/4159%^&*

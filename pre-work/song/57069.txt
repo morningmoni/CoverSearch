@@ -1,0 +1,6 @@
+number 57069
+name 无非是为了爱你
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 原谅我的心
+albumURL http://www.xiami.com/album/4713

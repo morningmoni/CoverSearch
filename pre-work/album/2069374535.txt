@@ -1,0 +1,6 @@
+number 2069374535
+name 历年精选 畅销主打歌1
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img80/780/20693745351369374535.jpg
+songs 思乡情歌%^&*哈酒%^&*浪子的乡愁%^&*一条披练%^&*包你幸福%^&*一卡手指%^&*湳雨的滋味%^&*船螺三声%^&*有骨气的男性%^&*喜酒甜茶好日子%^&*
+songURLs http://www.xiami.com/song/1771906594%^&*http://www.xiami.com/song/1771906595%^&*http://www.xiami.com/song/1771906596%^&*http://www.xiami.com/song/1771906597%^&*http://www.xiami.com/song/1771906598%^&*http://www.xiami.com/song/1771906599%^&*http://www.xiami.com/song/1771906600%^&*http://www.xiami.com/song/1771906601%^&*http://www.xiami.com/song/1771906602%^&*http://www.xiami.com/song/1771906603%^&*

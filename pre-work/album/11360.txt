@@ -1,0 +1,7 @@
+number 11360
+name 饶嬿婷 新歌+精选
+artist 饶嬿婷
+introduction 
+picture http://img.xiami.net/images/album/img70/2070/11360.jpg
+songs 伊甸园%^&*爱不言累%^&*爱哟%^&*才知道%^&*True Love%^&*饶嬿婷%^&*听我说%^&*没关系%^&*为什么%^&*云开了%^&*因着爱%^&*赞美%^&*
+songURLs http://www.xiami.com/song/139772%^&*http://www.xiami.com/song/139773%^&*http://www.xiami.com/song/139774%^&*http://www.xiami.com/song/139775%^&*http://www.xiami.com/song/139776%^&*http://www.xiami.com/song/139777%^&*http://www.xiami.com/song/139778%^&*http://www.xiami.com/song/139779%^&*http://www.xiami.com/song/139780%^&*http://www.xiami.com/song/139781%^&*http://www.xiami.com/song/139782%^&*http://www.xiami.com/song/139783%^&*

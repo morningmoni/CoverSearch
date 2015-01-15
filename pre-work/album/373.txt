@@ -1,0 +1,7 @@
+number 373
+name 与音乐谈情
+artist 陈辉阳
+introduction 
+picture http://img.xiami.net/images/album/img89/89/373.jpg
+songs 2001太空漫游%^&*孤独探戈%^&*怯%^&*嫌弃%^&*朋友仔%^&*交换温柔%^&*相爱很难%^&*失恋太少%^&*再见我的初恋%^&*抱抱%^&*最后的歌%^&*喜欢恋爱%^&*朋友仔%^&*失恋太少%^&*
+songURLs http://www.xiami.com/song/4517%^&*http://www.xiami.com/song/4518%^&*http://www.xiami.com/song/4519%^&*http://www.xiami.com/song/4520%^&*http://www.xiami.com/song/4521%^&*http://www.xiami.com/song/4522%^&*http://www.xiami.com/song/4523%^&*http://www.xiami.com/song/4524%^&*http://www.xiami.com/song/4525%^&*http://www.xiami.com/song/4526%^&*http://www.xiami.com/song/4527%^&*http://www.xiami.com/song/4528%^&*http://www.xiami.com/song/4529%^&*http://www.xiami.com/song/4530%^&*

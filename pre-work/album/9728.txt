@@ -1,0 +1,6 @@
+number 9728
+name 情永远
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/97281315188817.jpg
+songs 谁愿说Goodbye%^&*妒忌%^&*妄想%^&*人离情不变%^&*昨日的至爱%^&*异国情缘%^&*Anything For You%^&*情永远%^&*别离在秋季%^&*天真%^&*
+songURLs http://www.xiami.com/song/120243%^&*http://www.xiami.com/song/120244%^&*http://www.xiami.com/song/120245%^&*http://www.xiami.com/song/120246%^&*http://www.xiami.com/song/120247%^&*http://www.xiami.com/song/120248%^&*http://www.xiami.com/song/120249%^&*http://www.xiami.com/song/120250%^&*http://www.xiami.com/song/120251%^&*http://www.xiami.com/song/120252%^&*

@@ -1,0 +1,6 @@
+number 446501
+name 曹燕珍歌集
+artist 曹燕珍
+introduction picture http://img.xiami.net/images/album/img60/1360/4465011308280059.jpg
+songs 杨柳青%^&*看龙灯%^&*桃花红杏花白%^&*六月茉莉%^&*想亲亲%^&*银环上山%^&*人生第一次%^&*花香鼓舞%^&*青翠鸟%^&*三笑组曲%^&*十五的月亮%^&*金丝鸟%^&*刘三姐姐曲%^&*月儿弯弯照九州%^&*弥渡山歌%^&*珊瑚颂%^&*绣荷包%^&*兰花花%^&*
+songURLs http://www.xiami.com/song/1770274087%^&*http://www.xiami.com/song/1770274088%^&*http://www.xiami.com/song/1770274089%^&*http://www.xiami.com/song/1770274090%^&*http://www.xiami.com/song/1770274091%^&*http://www.xiami.com/song/1770274092%^&*http://www.xiami.com/song/1770274093%^&*http://www.xiami.com/song/1770274094%^&*http://www.xiami.com/song/1770274095%^&*http://www.xiami.com/song/1770274096%^&*http://www.xiami.com/song/1770274097%^&*http://www.xiami.com/song/1770274098%^&*http://www.xiami.com/song/1770274099%^&*http://www.xiami.com/song/1770274100%^&*http://www.xiami.com/song/1770274101%^&*http://www.xiami.com/song/1770274102%^&*http://www.xiami.com/song/1770274103%^&*http://www.xiami.com/song/1770274104%^&*

@@ -1,0 +1,6 @@
+number 27842
+name 今天还是明天MV
+artist 郭顶%^&*
+artistURL http://www.xiami.com/artist/280%^&*
+album 郭顶 同名专辑
+albumURL http://www.xiami.com/album/1248

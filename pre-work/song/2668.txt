@@ -1,0 +1,6 @@
+number 2668
+name 老鼠爱大米The Rats Love Rice
+artist 曹玉荣%^&*
+artistURL http://www.xiami.com/artist/64%^&*
+album 胡思乱想
+albumURL http://www.xiami.com/album/219

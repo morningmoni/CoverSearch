@@ -1,0 +1,6 @@
+number 106270
+name 沉默是金
+artist 付娜%^&*
+artistURL http://www.xiami.com/artist/1540%^&*
+album 丝丝入扣
+albumURL http://www.xiami.com/album/8538

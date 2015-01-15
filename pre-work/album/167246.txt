@@ -1,0 +1,6 @@
+number 167246
+name 精装的文章
+artist 文章
+introduction picture http://img.xiami.net/images/album/img40/940/1672461374055699.jpg
+songs 古月照今尘%^&*365里路%^&*故乡的云%^&*小雨滴%^&*捉住周末的尾巴%^&*泛黄的书签%^&*交换%^&*挥别的时候%^&*忧郁的希望%^&*你燃烧的眼神%^&*灯塔%^&*爱可%^&*飘%^&*鸿影%^&*西厢情未断%^&*
+songURLs http://www.xiami.com/song/2048194%^&*http://www.xiami.com/song/2048195%^&*http://www.xiami.com/song/2048196%^&*http://www.xiami.com/song/2048197%^&*http://www.xiami.com/song/2048198%^&*http://www.xiami.com/song/2048199%^&*http://www.xiami.com/song/2048200%^&*http://www.xiami.com/song/2048201%^&*http://www.xiami.com/song/2048202%^&*http://www.xiami.com/song/2048203%^&*http://www.xiami.com/song/2048204%^&*http://www.xiami.com/song/2048205%^&*http://www.xiami.com/song/2048206%^&*http://www.xiami.com/song/2048207%^&*http://www.xiami.com/song/2048208%^&*

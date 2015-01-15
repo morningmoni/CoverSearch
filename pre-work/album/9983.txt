@@ -1,0 +1,7 @@
+number 9983
+name 想飞 电影原声带
+artist 李心洁
+introduction 
+picture http://img.xiami.net/images/album/img20/1820/99831387134863.jpg
+songs 想飞%^&*A Nap Slower(音乐)%^&*想飞(音乐版)%^&*Night Breez(音乐)%^&*Garden Of Flowers(音乐)%^&*All Day Long(音乐)%^&*Feelings(音乐)%^&*Starry Night(音乐)%^&*燥热的风(音乐)%^&*Vapor Wave(音乐)%^&*Rainy Room(音乐)%^&*Sounds And Voices(音乐)%^&*Autumn(音乐)%^&*Heart Beat(音乐)%^&*
+songURLs http://www.xiami.com/song/123246%^&*http://www.xiami.com/song/123247%^&*http://www.xiami.com/song/123248%^&*http://www.xiami.com/song/123249%^&*http://www.xiami.com/song/123250%^&*http://www.xiami.com/song/123251%^&*http://www.xiami.com/song/123252%^&*http://www.xiami.com/song/123253%^&*http://www.xiami.com/song/123254%^&*http://www.xiami.com/song/123255%^&*http://www.xiami.com/song/123256%^&*http://www.xiami.com/song/123257%^&*http://www.xiami.com/song/123258%^&*http://www.xiami.com/song/123259%^&*

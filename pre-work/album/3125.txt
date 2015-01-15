@@ -1,0 +1,6 @@
+number 3125
+name 恭喜恭喜
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3125.jpg
+songs 恭喜恭喜%^&*春风吻上我的脸%^&*喜气洋洋%^&*春来了%^&*美好的新年%^&*恭喜恭喜%^&*石油红包%^&*财神到%^&*新年好%^&*我们要欢唱%^&*一张贺年片%^&*万事如意%^&*迎新年%^&*欢乐年年%^&*
+songURLs http://www.xiami.com/song/38583%^&*http://www.xiami.com/song/38584%^&*http://www.xiami.com/song/38585%^&*http://www.xiami.com/song/38586%^&*http://www.xiami.com/song/38587%^&*http://www.xiami.com/song/38588%^&*http://www.xiami.com/song/38589%^&*http://www.xiami.com/song/38590%^&*http://www.xiami.com/song/38591%^&*http://www.xiami.com/song/38592%^&*http://www.xiami.com/song/38593%^&*http://www.xiami.com/song/38594%^&*http://www.xiami.com/song/38595%^&*http://www.xiami.com/song/38596%^&*

@@ -1,0 +1,6 @@
+number 2129235
+name 五千年
+artist 洪一平%^&*
+artistURL http://www.xiami.com/artist/340%^&*
+album 五千年
+albumURL http://www.xiami.com/album/172312

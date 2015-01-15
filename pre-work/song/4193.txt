@@ -1,0 +1,6 @@
+number 4193
+name 孤枕难眠
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱7
+albumURL http://www.xiami.com/album/346

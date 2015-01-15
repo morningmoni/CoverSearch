@@ -1,0 +1,6 @@
+number 37081
+name 总有一天等到你
+artist 刘罡%^&*
+artistURL http://www.xiami.com/artist/650%^&*
+album 遗忘的时光
+albumURL http://www.xiami.com/album/3029

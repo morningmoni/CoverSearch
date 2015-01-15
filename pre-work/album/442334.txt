@@ -1,0 +1,6 @@
+number 442334
+name 与雷共舞
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img28/39028/1306039028.jpg
+songs 丑丑啊思相枝(迪斯可)%^&*补空梦(恰恰)%^&*码头酒(探戈)%^&*我是为你好(切仔舞)%^&*迫迫算巧合(伦巴)%^&*罗汉脚仔(迪斯可)%^&*恋恋恋(HALA HALA)%^&*爱情不要卖(吉鲁巴)%^&*吃头路(探戈)%^&*浪子泪(华尔兹)%^&*最后的爱人(恰恰)%^&*怀念的人(普鲁斯)%^&*
+songURLs http://www.xiami.com/song/1770223341%^&*http://www.xiami.com/song/1770223342%^&*http://www.xiami.com/song/1770223343%^&*http://www.xiami.com/song/1770223344%^&*http://www.xiami.com/song/1770223345%^&*http://www.xiami.com/song/1770223346%^&*http://www.xiami.com/song/1770223347%^&*http://www.xiami.com/song/1770223348%^&*http://www.xiami.com/song/1770223349%^&*http://www.xiami.com/song/1770223350%^&*http://www.xiami.com/song/1770223351%^&*http://www.xiami.com/song/1770223352%^&*

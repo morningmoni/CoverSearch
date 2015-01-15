@@ -1,0 +1,7 @@
+number 2360
+name 敬善媛杨小琳
+place China 中国大陆
+introduction 敬善媛，本名杨小琳。是集制作、艺术策划、演唱于一身的中国新世纪音乐演唱的代表人物，被发烧音乐界誉为东方歌坛天后。&nbsp;2007年，她从&ldquo;发烧乐坛天后&rdquo;到&ldquo;清凉妙音天女&rdquo;成功转型。 杨小琳原籍江苏，后随父母赴香港、欧洲学习生活。杨小琳拥有个人专辑唐宋诗词&ldquo;绿蓑衣&rdquo;、世界音乐&ldquo;禧乐&rdquo;、&ldquo;你带来一片温柔&rdquo;以及以她名字命名的爵士唱片&ldquo;杨小琳&rdquo;。唱片远销世界各地，应邀参加海内外各类大型演出，美国、法国、德国、日本等国家广播电视台均有播出，深受各界人士追捧，签售会上半小时售罄上千张唱片。
+picture http://img.xiami.net/images/artistlogo/85/13614229222185.png
+albums 如来云水月%^&*如来妙音天%^&*莲心曲%^&*莲花开放的声音%^&*如来云水月%^&*禧乐(2006 Remix版)%^&*亲爱の我爱你…%^&*你带来一片温柔%^&*杨小琳的真爱%^&*禧乐%^&*绿蓑衣%^&*
+albumURLs http://www.xiami.com/album/961436097%^&*http://www.xiami.com/album/542185%^&*http://www.xiami.com/album/535135%^&*http://www.xiami.com/album/470191%^&*http://www.xiami.com/album/394644%^&*http://www.xiami.com/album/12742%^&*http://www.xiami.com/album/12743%^&*http://www.xiami.com/album/444072%^&*http://www.xiami.com/album/12744%^&*http://www.xiami.com/album/12745%^&*http://www.xiami.com/album/12746%^&*

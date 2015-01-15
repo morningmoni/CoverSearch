@@ -1,0 +1,6 @@
+number 25167
+name 苦涩的歌
+artist 冯晓泉%^&*
+artistURL http://www.xiami.com/artist/230%^&*
+album 秋水长天
+albumURL http://www.xiami.com/album/1015

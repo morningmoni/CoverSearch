@@ -1,0 +1,6 @@
+number 1769532288
+name 情人
+artist 韩红%^&*
+artistURL http://www.xiami.com/artist/1590%^&*
+album 韩红精选
+albumURL http://www.xiami.com/album/82776

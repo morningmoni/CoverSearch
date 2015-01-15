@@ -1,0 +1,7 @@
+number 6908
+name Joi 同名专辑
+artist 蔡淳佳
+introduction 
+picture http://img.xiami.net/images/album/img40/1340/69081383555291.jpg
+songs 爱如潮水%^&*谈心%^&*眼睛%^&*想家%^&*不想你走%^&*自助旅行%^&*有心人, 有情人%^&*他和她%^&*头发%^&*爱从哪里来%^&*Eternal Flame%^&*谈心 (Kala Version)%^&*
+songURLs http://www.xiami.com/song/84352%^&*http://www.xiami.com/song/84353%^&*http://www.xiami.com/song/84354%^&*http://www.xiami.com/song/84355%^&*http://www.xiami.com/song/84356%^&*http://www.xiami.com/song/84357%^&*http://www.xiami.com/song/84358%^&*http://www.xiami.com/song/84359%^&*http://www.xiami.com/song/84360%^&*http://www.xiami.com/song/84361%^&*http://www.xiami.com/song/84362%^&*http://www.xiami.com/song/84363%^&*

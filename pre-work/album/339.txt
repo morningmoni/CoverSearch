@@ -1,0 +1,7 @@
+number 339
+name 白日梦
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img0/3391288863297.jpg
+songs 101次求婚%^&*恋人阿%^&*白色之恋2%^&*禁果%^&*长假%^&*爱情白皮书%^&*东京爱情故事%^&*白昼之月%^&*天使之爱%^&*爱没有明天%^&*
+songURLs http://www.xiami.com/song/4123%^&*http://www.xiami.com/song/4124%^&*http://www.xiami.com/song/4125%^&*http://www.xiami.com/song/4126%^&*http://www.xiami.com/song/4127%^&*http://www.xiami.com/song/4128%^&*http://www.xiami.com/song/4129%^&*http://www.xiami.com/song/4130%^&*http://www.xiami.com/song/4131%^&*http://www.xiami.com/song/4132%^&*

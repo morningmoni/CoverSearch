@@ -1,0 +1,6 @@
+number 380422
+name 原来我们都是如此平凡
+artist 江美琪%^&*
+artistURL http://www.xiami.com/artist/1700%^&*
+album 想起
+albumURL http://www.xiami.com/album/9472

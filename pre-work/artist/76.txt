@@ -1,0 +1,7 @@
+number 76
+name 陈迪匡
+place Hongkong 香港
+introduction 陈迪匡是80年代香港男歌手，他早年曾在TVB当过Camera man，近年自设录音室专注幕后工作，间中也有作幕前演出。他的弟弟陈德彰是二人组合Raidas的成员之一。他早年曾在无线当摄影师，70年代与其弟陈迪文灌录过一张英文唱片。初以业余歌手身份出现，后来专注在音乐方面发展，并亲自监制第二张个人大碟和自设录音室，现为唱片公司监制。陈迪匡擅唱民歌，为人熟知的歌曲有《伤心的小鹦鹉》《偷偷地》等。
+picture http://img.xiami.net/images/artistlogo/12/13929000956312.jpg
+albums selected%^&*24Kiss%^&*古刹铜钟%^&*偷偷地%^&*伤心的小鹦鹉%^&*
+albumURLs http://www.xiami.com/album/310%^&*http://www.xiami.com/album/311%^&*http://www.xiami.com/album/312%^&*http://www.xiami.com/album/313%^&*http://www.xiami.com/album/314%^&*

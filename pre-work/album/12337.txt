@@ -1,0 +1,6 @@
+number 12337
+name 暗恋
+artist 谢丽金
+introduction picture http://img.xiami.net/images/album/img0/2300/12337.jpg
+songs 爱你的心情%^&*暗恋你%^&*踽踽独行%^&*今夜我决定%^&*伤心的秘密%^&*爱情你我他%^&*情人多寂寞%^&*不能随便改变我%^&*你是一切我是影子%^&*暗示只能给这么多%^&*
+songURLs http://www.xiami.com/song/151722%^&*http://www.xiami.com/song/151723%^&*http://www.xiami.com/song/151724%^&*http://www.xiami.com/song/151725%^&*http://www.xiami.com/song/151726%^&*http://www.xiami.com/song/151727%^&*http://www.xiami.com/song/151728%^&*http://www.xiami.com/song/151729%^&*http://www.xiami.com/song/151730%^&*http://www.xiami.com/song/151731%^&*

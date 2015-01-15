@@ -1,0 +1,6 @@
+number 88479
+name 及时雨轻松一刻
+artist 陈帆红%^&*
+artistURL http://www.xiami.com/artist/1370%^&*
+album 一颗红心两种准备
+albumURL http://www.xiami.com/album/7197

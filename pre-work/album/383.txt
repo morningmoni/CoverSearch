@@ -1,0 +1,7 @@
+number 383
+name 红头绳
+artist 陈劲
+introduction 
+picture http://img.xiami.net/images/album/img96/96/383.jpg
+songs 漂%^&*这个与那个%^&*逼上梁山%^&*无言的反抗%^&*阳光下的温柔%^&*红头绳%^&*痛快游戏%^&*我幸福的活在你们身边%^&*起飞在冬天%^&*
+songURLs http://www.xiami.com/song/4632%^&*http://www.xiami.com/song/4633%^&*http://www.xiami.com/song/4634%^&*http://www.xiami.com/song/4635%^&*http://www.xiami.com/song/4636%^&*http://www.xiami.com/song/4637%^&*http://www.xiami.com/song/4638%^&*http://www.xiami.com/song/4639%^&*http://www.xiami.com/song/4640%^&*

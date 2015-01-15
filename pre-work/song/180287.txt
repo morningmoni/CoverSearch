@@ -1,0 +1,7 @@
+number 180287
+name 블라블라Blah Blah
+artist Girl Friends%^&*이정%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Girl+Friends%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%EC%9D%B4%EC%A0%95%^&*
+album Another Myself
+albumURL http://www.xiami.com/album/14620

@@ -1,0 +1,7 @@
+number 52141
+name 冰糖葫芦 话剧主题歌专辑
+artist 冯晓泉
+introduction 北京文化艺术音像出版社出版金鹰国际广告企划有限公司制作北京京文音像公司发行IRSC CN-C02-96-320-00/A.J6
+picture http://img.xiami.net/images/album/img30/230/521411334620778.jpg
+songs 冰糖葫芦%^&*春不老(配乐诗朗颂)%^&*人字令(单弦)%^&*冰糖葫芦(音乐版)%^&*
+songURLs http://www.xiami.com/song/1770948843%^&*http://www.xiami.com/song/1770948844%^&*http://www.xiami.com/song/1770948845%^&*http://www.xiami.com/song/1770948846%^&*

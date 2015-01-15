@@ -1,0 +1,8 @@
+number 452391
+name 中国歌坛明星集7 朱明瑛
+artist 朱明瑛
+introduction PCD-5434 / ISRC CN-F12-00-426-00/A.J6朱明瑛，著名歌舞艺术家。1984年中央电视台的春节联欢晚会上，一人连唱了三首歌曲，每首歌都成为人们传唱的经典，这对于现在上春晚的明星们来说是不可想象的，而最难忘的则是那首经久不衰的《回娘家》。
+    13岁开始学习舞蹈，专攻东方舞，18岁毕业于北京舞蹈学院，后任东方歌舞团演员。能歌善舞，风格独特，能用多种语言准确地演唱不同国家、不同风格的歌曲，她演唱的京剧、越剧、粤剧、二人转等也韵味十足。1985年获全国十大金曲最佳歌星第一名，还连续两年获太平洋影音公司的《云雀奖》，1989年获中国唱片总公司颁发的首届《金唱片》奖，曾被联合国政府组织授予“为世界文化艺术做出贡献的杰出人士奖”。
+picture http://img.xiami.net/images/album/img70/2570/4523911332047402.jpg
+songs 夏末初秋的夜晚%^&*无论你走到哪里%^&*回娘家%^&*彩云追月%^&*谢谢%^&*虞美人%^&*诺言%^&*襟裳岬%^&*邻村的姑娘%^&*角落之歌%^&*黄昏放牛%^&*摇篮曲%^&*绣荷包%^&*新春到%^&*青春%^&*喀秋莎%^&*愿大家都成功%^&*
+songURLs http://www.xiami.com/song/1770336792%^&*http://www.xiami.com/song/1770336793%^&*http://www.xiami.com/song/1770336794%^&*http://www.xiami.com/song/1770336795%^&*http://www.xiami.com/song/1770336796%^&*http://www.xiami.com/song/1770336797%^&*http://www.xiami.com/song/1770336798%^&*http://www.xiami.com/song/1770336799%^&*http://www.xiami.com/song/1770336800%^&*http://www.xiami.com/song/1770336801%^&*http://www.xiami.com/song/1770336802%^&*http://www.xiami.com/song/1770336803%^&*http://www.xiami.com/song/1770336804%^&*http://www.xiami.com/song/1770336805%^&*http://www.xiami.com/song/1770873452%^&*http://www.xiami.com/song/1770873453%^&*http://www.xiami.com/song/1770873454%^&*

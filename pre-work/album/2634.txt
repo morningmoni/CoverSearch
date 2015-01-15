@@ -1,0 +1,6 @@
+number 2634
+name 花期 为你忘情
+artist 廖忠
+introduction picture http://img.xiami.net/images/album/img0/600/2634.jpg
+songs 童话%^&*让我安慰你的心%^&*花期%^&*真情%^&*后会有期%^&*原谅%^&*永恒的歉意%^&*为你忘情%^&*抱着月亮来跳舞%^&*让我安慰你的心(伴奏版)%^&*
+songURLs http://www.xiami.com/song/394907%^&*http://www.xiami.com/song/394908%^&*http://www.xiami.com/song/394909%^&*http://www.xiami.com/song/394910%^&*http://www.xiami.com/song/394911%^&*http://www.xiami.com/song/394912%^&*http://www.xiami.com/song/394913%^&*http://www.xiami.com/song/394914%^&*http://www.xiami.com/song/394915%^&*http://www.xiami.com/song/394916%^&*

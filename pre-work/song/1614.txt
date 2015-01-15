@@ -1,0 +1,6 @@
+number 1614
+name 创造命运电影&quot;上天救命&quot;主题曲
+artist 谭咏麟%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B0%AD%E5%92%8F%E9%BA%9F%^&*
+album 完美先生
+albumURL http://www.xiami.com/album/130

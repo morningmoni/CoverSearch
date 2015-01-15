@@ -1,0 +1,6 @@
+number 394461
+name My Shanghai
+artist 邰正宵%^&*
+artistURL http://www.xiami.com/artist/850%^&*
+album 我不配
+albumURL http://www.xiami.com/album/33037

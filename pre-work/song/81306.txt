@@ -1,0 +1,6 @@
+number 81306
+name 黄金甲
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album 黄金甲
+albumURL http://www.xiami.com/album/6640

@@ -1,0 +1,6 @@
+number 361
+name 我为你心碎
+artist 陈浩德
+introduction picture http://img.xiami.net/
+songs 我为你心碎%^&*禅心佛性%^&*落日与朝阳%^&*情话绵绵%^&*平湖秋月%^&*细雨忆当年%^&*月中仙%^&*想起心都淡%^&*情人颂顾%^&*蔷薇之恋%^&*烟雨濛濛%^&*彩云追月%^&*胡不归%^&*
+songURLs http://www.xiami.com/song/4366%^&*http://www.xiami.com/song/4367%^&*http://www.xiami.com/song/4368%^&*http://www.xiami.com/song/4369%^&*http://www.xiami.com/song/4370%^&*http://www.xiami.com/song/4371%^&*http://www.xiami.com/song/4372%^&*http://www.xiami.com/song/4373%^&*http://www.xiami.com/song/4374%^&*http://www.xiami.com/song/4375%^&*http://www.xiami.com/song/4376%^&*http://www.xiami.com/song/4377%^&*http://www.xiami.com/song/4378%^&*

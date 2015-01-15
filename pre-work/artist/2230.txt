@@ -1,0 +1,7 @@
+number 2230
+name 文佩玲
+place Hongkong 香港
+introduction 文佩玲（1964年－），昵称文文，1986年参加第五届新秀歌唱大赛，击败许志安、黎明，赢得冠军和最佳台风奖，后签约华星，在华星只录过一张唱片，后因人为因素被贬成仓底货，推出无期。1989年转签&nbsp;EMI，推出《文佩玲》及《斗气》两张唱片，但星运麻麻，结果在1992年退出娱乐圈，任职保险从业员。已离婚，育有一女儿。不过她当年跟杜德伟合唱的《爱全为你》，及87年剧集《男儿本色》主题曲《错在情多》，也令人留下深刻印象。
+picture http://img.xiami.net/images/artist/11978836081646.jpg
+albums 斗气%^&*文佩玲%^&*
+albumURLs http://www.xiami.com/album/12135%^&*http://www.xiami.com/album/12136%^&*

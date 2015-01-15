@@ -1,0 +1,6 @@
+number 4503
+name 日与夜
+artist 林忆莲%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E5%BF%86%E8%8E%B2%^&*
+album 听入非非
+albumURL http://www.xiami.com/album/372

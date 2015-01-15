@@ -1,0 +1,7 @@
+number 2860
+name 乐家姊妹
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artistlogo/29/13216620714429.jpg
+albums 伟大的妈妈%^&*童年时光%^&*
+albumURLs http://www.xiami.com/album/14860%^&*http://www.xiami.com/album/14859%^&*

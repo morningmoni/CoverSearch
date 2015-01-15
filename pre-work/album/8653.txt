@@ -1,0 +1,7 @@
+number 8653
+name 璇曲蔓地
+artist 古璇
+introduction 
+picture http://img.xiami.net/images/album/img60/1560/8653.jpg
+songs 长亭外%^&*怀念战友%^&*秋水伊人%^&*曲蔓地%^&*歌唱二小放牛郎%^&*鼓浪屿之波%^&*革命人永远是年轻%^&*草原上升起不落的太阳%^&*渔光曲%^&*长城谣%^&*春天里%^&*可爱的一朵玫瑰花%^&*翻身农奴把歌唱%^&*难忘今宵%^&*
+songURLs http://www.xiami.com/song/107471%^&*http://www.xiami.com/song/107472%^&*http://www.xiami.com/song/107473%^&*http://www.xiami.com/song/107474%^&*http://www.xiami.com/song/107475%^&*http://www.xiami.com/song/107476%^&*http://www.xiami.com/song/107477%^&*http://www.xiami.com/song/107478%^&*http://www.xiami.com/song/107479%^&*http://www.xiami.com/song/107480%^&*http://www.xiami.com/song/107481%^&*http://www.xiami.com/song/107482%^&*http://www.xiami.com/song/107483%^&*http://www.xiami.com/song/107484%^&*

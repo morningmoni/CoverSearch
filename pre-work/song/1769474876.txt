@@ -1,0 +1,6 @@
+number 1769474876
+name 爱的练习本
+artist 伊能静%^&*
+artistURL http://www.xiami.com/artist/2390%^&*
+album 春暖花开
+albumURL http://www.xiami.com/album/376382

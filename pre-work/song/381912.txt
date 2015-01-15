@@ -1,0 +1,6 @@
+number 381912
+name 我的1997 (原作版)
+artist 艾敬%^&*
+artistURL http://www.xiami.com/artist/1300%^&*
+album 我的1997
+albumURL http://www.xiami.com/album/6769

@@ -1,0 +1,7 @@
+number 60
+name 桃花朵朵开
+artist 阿牛
+introduction 
+picture http://img.xiami.net/images/album/img22/22/60.jpg
+songs 用马来西亚的天气来说爱你%^&*桃花朵朵开%^&*Miss.Cool%^&*Say Sorry%^&*我要为你唱首歌%^&*你不要我了%^&*我在不远处等你%^&*傻傻的我爱你%^&*再见%^&*约定%^&*桃花朵朵开(伴奏)%^&*
+songURLs http://www.xiami.com/song/711%^&*http://www.xiami.com/song/712%^&*http://www.xiami.com/song/713%^&*http://www.xiami.com/song/714%^&*http://www.xiami.com/song/715%^&*http://www.xiami.com/song/716%^&*http://www.xiami.com/song/717%^&*http://www.xiami.com/song/718%^&*http://www.xiami.com/song/719%^&*http://www.xiami.com/song/720%^&*http://www.xiami.com/song/721%^&*

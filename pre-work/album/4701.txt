@@ -1,0 +1,7 @@
+number 4701
+name 被遗忘的时光
+artist 文章
+introduction 
+picture http://img.xiami.net/images/album/img40/940/4701.jpg
+songs 敲打我心%^&*被遗忘的时光%^&*夜来香%^&*爱像什么%^&*Flying Flower%^&*川流不息%^&*彩虹那一端%^&*机场%^&*Gone With The Wind%^&*但是又何奈%^&*敲打我的心(Kala)%^&*夜来香(Kala)%^&*
+songURLs http://www.xiami.com/song/56920%^&*http://www.xiami.com/song/56921%^&*http://www.xiami.com/song/56922%^&*http://www.xiami.com/song/56923%^&*http://www.xiami.com/song/56924%^&*http://www.xiami.com/song/56925%^&*http://www.xiami.com/song/56926%^&*http://www.xiami.com/song/56927%^&*http://www.xiami.com/song/56928%^&*http://www.xiami.com/song/56929%^&*http://www.xiami.com/song/56930%^&*http://www.xiami.com/song/56931%^&*

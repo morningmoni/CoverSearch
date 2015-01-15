@@ -1,0 +1,6 @@
+number 1739
+name 不装饰你的梦MV
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 蔡国权 同名专辑
+albumURL http://www.xiami.com/album/140

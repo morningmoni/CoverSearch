@@ -1,0 +1,7 @@
+number 12030
+name 诗情·画意
+artist 王菀之
+introduction 
+picture http://img.xiami.net/images/album/img0/2200/120301384751614.jpg
+songs 诗情%^&*画意%^&*(巴黎没有) 摩天轮%^&*融了钟的时间%^&*幸福%^&*想爱不相爱%^&*与爱人飞%^&*满天星%^&*恨也讲资格%^&*我好爱你%^&*诗情 (清心Mix)%^&*拥抱一个人%^&*
+songURLs http://www.xiami.com/song/148103%^&*http://www.xiami.com/song/148104%^&*http://www.xiami.com/song/148105%^&*http://www.xiami.com/song/148106%^&*http://www.xiami.com/song/148107%^&*http://www.xiami.com/song/148108%^&*http://www.xiami.com/song/148109%^&*http://www.xiami.com/song/148110%^&*http://www.xiami.com/song/148111%^&*http://www.xiami.com/song/148112%^&*http://www.xiami.com/song/148113%^&*http://www.xiami.com/song/1773517647%^&*

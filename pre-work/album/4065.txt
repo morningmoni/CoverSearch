@@ -1,0 +1,7 @@
+number 4065
+name 现代重奏有你 室乐演唱会
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40651387447192.jpg
+songs 心要让你听见 (Live)%^&*你就是我要的 (Live)%^&*我喜欢 (Live)%^&*我相信他是真的爱你 (Live)%^&*千纸鹤 (Live)%^&*蓝色街灯 (Live)%^&*难忘你 (Live)%^&*寂寞玩具 (Live)%^&*爱情 (Live)%^&*至少还有你 (Live)%^&*眼神骗不过 (Live)%^&*爱的传说 (Live)%^&*九百九十九朵玫瑰 (Live)%^&*想你想得好孤寂 (Live)%^&*有人关心你 (Live)%^&*
+songURLs http://www.xiami.com/song/49760%^&*http://www.xiami.com/song/49761%^&*http://www.xiami.com/song/49762%^&*http://www.xiami.com/song/49763%^&*http://www.xiami.com/song/49764%^&*http://www.xiami.com/song/49765%^&*http://www.xiami.com/song/49766%^&*http://www.xiami.com/song/49767%^&*http://www.xiami.com/song/49768%^&*http://www.xiami.com/song/49769%^&*http://www.xiami.com/song/49770%^&*http://www.xiami.com/song/49771%^&*http://www.xiami.com/song/49772%^&*http://www.xiami.com/song/49773%^&*http://www.xiami.com/song/49774%^&*

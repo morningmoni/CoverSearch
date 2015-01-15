@@ -1,0 +1,7 @@
+number 32689
+name 芭蕾舞剧 大红灯笼高高挂
+artist 陈其钢
+introduction 
+picture http://img.xiami.net/images/album/img8/108/326891390462214.jpg
+songs Overture _ Dance of red lantern%^&*Girl between the dream and the reality%^&*Wedding ceremony%^&*Dance of order%^&*Jealousy between 1st and 2nd wife%^&*Light the red lanterns%^&*Wedding night%^&*Ballet and Beijing opera%^&*Revise%^&*Dance of Beijing opera%^&*Dance of mah-jong%^&*Adulteress%^&*Dance of order Ⅱ%^&*Tear up the lanterns%^&*Seigneur and servants%^&*Duo in the prison%^&*Trio before death%^&*Epilogue%^&*
+songURLs http://www.xiami.com/song/389638%^&*http://www.xiami.com/song/389639%^&*http://www.xiami.com/song/389640%^&*http://www.xiami.com/song/389641%^&*http://www.xiami.com/song/389642%^&*http://www.xiami.com/song/389643%^&*http://www.xiami.com/song/389644%^&*http://www.xiami.com/song/389645%^&*http://www.xiami.com/song/389646%^&*http://www.xiami.com/song/389647%^&*http://www.xiami.com/song/389648%^&*http://www.xiami.com/song/389649%^&*http://www.xiami.com/song/389650%^&*http://www.xiami.com/song/389651%^&*http://www.xiami.com/song/389652%^&*http://www.xiami.com/song/389653%^&*http://www.xiami.com/song/389654%^&*http://www.xiami.com/song/389655%^&*

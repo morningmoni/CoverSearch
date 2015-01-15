@@ -1,0 +1,6 @@
+number 244
+name 黑暗中的怪兽
+artist 阿贵%^&*
+artistURL http://www.xiami.com/artist/6%^&*
+album 阿贵槌你喔
+albumURL http://www.xiami.com/album/19

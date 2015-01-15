@@ -1,0 +1,6 @@
+number 1764
+name 理发店
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 爱的独白
+albumURL http://www.xiami.com/album/142

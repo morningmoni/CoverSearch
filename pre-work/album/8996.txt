@@ -1,0 +1,6 @@
+number 8996
+name 贴身情人
+artist 黄宝欣
+introduction picture http://img.xiami.net/images/album/img40/1640/89961334200274.jpg
+songs 贴身情人%^&*蓝色时分%^&*深海%^&*始终%^&*缘起缘灭%^&*金石情%^&*换一个爱我的人%^&*潇洒%^&*陪我一晚%^&*月臂弯%^&*
+songURLs http://www.xiami.com/song/111674%^&*http://www.xiami.com/song/111675%^&*http://www.xiami.com/song/111676%^&*http://www.xiami.com/song/111677%^&*http://www.xiami.com/song/111678%^&*http://www.xiami.com/song/111679%^&*http://www.xiami.com/song/111680%^&*http://www.xiami.com/song/111681%^&*http://www.xiami.com/song/111682%^&*http://www.xiami.com/song/111683%^&*

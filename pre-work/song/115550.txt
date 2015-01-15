@@ -1,0 +1,6 @@
+number 115550
+name 轻轻说再见
+artist 丽莎%^&*
+artistURL http://www.xiami.com/artist/1680%^&*
+album 丽莎之歌第五集
+albumURL http://www.xiami.com/album/9317

@@ -1,0 +1,6 @@
+number 1834
+name 小天地
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 海底针
+albumURL http://www.xiami.com/album/149

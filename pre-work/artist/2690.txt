@@ -1,0 +1,7 @@
+number 2690
+name 重阳
+place Malaysia 马来西亚
+introduction 乐队成员:主唱:王永详主音吉它:谭嘉敏贝司:林剑强鼓:陈国辉
+picture 
+albums 逼你%^&*
+albumURLs http://www.xiami.com/album/14379%^&*

@@ -1,0 +1,6 @@
+number 280
+name 再点一支烟
+artist 阿华%^&*
+artistURL http://www.xiami.com/artist/7%^&*
+album 好花不常开
+albumURL http://www.xiami.com/album/21

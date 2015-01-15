@@ -1,0 +1,6 @@
+number 2412
+name 你最美丽你最亲
+artist 蔡镇冲%^&*
+artistURL http://www.xiami.com/artist/52%^&*
+album 金曲会知音
+albumURL http://www.xiami.com/album/195

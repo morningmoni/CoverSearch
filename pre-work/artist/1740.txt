@@ -1,0 +1,7 @@
+number 1740
+name 侃侃
+place China 中国大陆
+introduction 小档案性别：女家乡：江苏扬州爱好：音乐喜欢的颜色：黑、白、所有美丽的颜色人生理想：平安、快乐一生星座：白羊生日：4月16日小简介在为数不少的网络歌手里面，侃侃是一个创作型的、深具潜力并且颇有网络号召力的一位。
+picture http://img.xiami.net/images/artistlogo/80/13288529168980.jpg
+albums 味道%^&*谢幕%^&*快乐时光%^&*爱唱蓝调的鱼%^&*穿过生命散发的芬芳%^&*清音流韵%^&*时光倒流%^&*爱深藏%^&*情动%^&*老家%^&*我是侃侃%^&*
+albumURLs http://www.xiami.com/album/611881796%^&*http://www.xiami.com/album/573315%^&*http://www.xiami.com/album/669274168%^&*http://www.xiami.com/album/574614%^&*http://www.xiami.com/album/565741%^&*http://www.xiami.com/album/539883%^&*http://www.xiami.com/album/498275%^&*http://www.xiami.com/album/429492%^&*http://www.xiami.com/album/9622%^&*http://www.xiami.com/album/9623%^&*http://www.xiami.com/album/9624%^&*

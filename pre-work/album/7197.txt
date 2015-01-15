@@ -1,0 +1,7 @@
+number 7197
+name 一颗红心两种准备
+artist 陈帆红
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10027967557m_2.jpg
+songs 离开了就不要再回头%^&*哎呀呀豆豆%^&*及时雨轻松一刻%^&*爱情杀手%^&*不要再骗我%^&*菜青虫之歌正式版%^&*刹那和永恒%^&*相见太晚%^&*星语星愿%^&*胆小鬼%^&*梦醒时分%^&*味道%^&*爱我的人和我爱的人%^&*
+songURLs http://www.xiami.com/song/88477%^&*http://www.xiami.com/song/88478%^&*http://www.xiami.com/song/88479%^&*http://www.xiami.com/song/88480%^&*http://www.xiami.com/song/88481%^&*http://www.xiami.com/song/88482%^&*http://www.xiami.com/song/88483%^&*http://www.xiami.com/song/88484%^&*http://www.xiami.com/song/88485%^&*http://www.xiami.com/song/88486%^&*http://www.xiami.com/song/88487%^&*http://www.xiami.com/song/88488%^&*http://www.xiami.com/song/88489%^&*

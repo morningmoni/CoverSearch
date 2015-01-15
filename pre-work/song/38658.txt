@@ -1,0 +1,6 @@
+number 38658
+name 晨光
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 风
+albumURL http://www.xiami.com/album/3131

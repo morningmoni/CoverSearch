@@ -1,0 +1,7 @@
+number 560
+name 李雪
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/12005365225814.jpg
+albums 怡人声%^&*人声检测线%^&*
+albumURLs http://www.xiami.com/album/393987910%^&*http://www.xiami.com/album/2508%^&*

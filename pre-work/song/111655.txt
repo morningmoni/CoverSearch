@@ -1,0 +1,7 @@
+number 111655
+name 有缘相爱
+artist 黄宝欣%^&*甘子辉%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E5%AE%9D%E6%AC%A3%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%94%98%E5%AD%90%E8%BE%89%^&*
+album 有缘相爱
+albumURL http://www.xiami.com/album/8994

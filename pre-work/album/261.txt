@@ -1,0 +1,7 @@
+number 261
+name 眼泪为你流精选
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2611374743601.jpg
+songs 眼泪为你流%^&*不再流泪%^&*留住夕阳%^&*飞越彩虹%^&*雨过天晴%^&*两心痴%^&*童年乐趣多%^&*恩情%^&*前路点走过%^&*+-×÷%^&*昨夜梦见你%^&*我心里在唱%^&*初恋%^&*热舞太奇妙%^&*伤得几多次%^&*何必相识%^&*
+songURLs http://www.xiami.com/song/3268%^&*http://www.xiami.com/song/3269%^&*http://www.xiami.com/song/3270%^&*http://www.xiami.com/song/3271%^&*http://www.xiami.com/song/3272%^&*http://www.xiami.com/song/3273%^&*http://www.xiami.com/song/3274%^&*http://www.xiami.com/song/3275%^&*http://www.xiami.com/song/3276%^&*http://www.xiami.com/song/3277%^&*http://www.xiami.com/song/3278%^&*http://www.xiami.com/song/3279%^&*http://www.xiami.com/song/3280%^&*http://www.xiami.com/song/3281%^&*http://www.xiami.com/song/3282%^&*http://www.xiami.com/song/3283%^&*

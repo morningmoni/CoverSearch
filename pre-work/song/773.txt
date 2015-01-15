@@ -1,0 +1,6 @@
+number 773
+name 宝宝
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 阿牛的Wow Wow情歌
+albumURL http://www.xiami.com/album/64

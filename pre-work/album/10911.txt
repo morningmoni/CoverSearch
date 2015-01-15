@@ -1,0 +1,7 @@
+number 10911
+name 永远的…梅艳芳
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109111390824915.jpg
+songs 做我的%^&*不惑%^&*床前明月光%^&*一生爱你千百回%^&*女人花%^&*感情包袱%^&*想的开%^&*女儿红%^&*月光(上弦月版)%^&*下辈子别再做女人%^&*不插电%^&*今宵多珍重%^&*痴痴的等%^&*亲密爱人%^&*明天我要嫁给你%^&*长藤挂铜铃%^&*用心良苦%^&*大江东去%^&*你把我灌醉%^&*月亮代表我的心%^&*
+songURLs http://www.xiami.com/song/134642%^&*http://www.xiami.com/song/134643%^&*http://www.xiami.com/song/134644%^&*http://www.xiami.com/song/134645%^&*http://www.xiami.com/song/134646%^&*http://www.xiami.com/song/134647%^&*http://www.xiami.com/song/134648%^&*http://www.xiami.com/song/134649%^&*http://www.xiami.com/song/134650%^&*http://www.xiami.com/song/134651%^&*http://www.xiami.com/song/134652%^&*http://www.xiami.com/song/134653%^&*http://www.xiami.com/song/134654%^&*http://www.xiami.com/song/134655%^&*http://www.xiami.com/song/134656%^&*http://www.xiami.com/song/134657%^&*http://www.xiami.com/song/134658%^&*http://www.xiami.com/song/134659%^&*http://www.xiami.com/song/134660%^&*http://www.xiami.com/song/134661%^&*

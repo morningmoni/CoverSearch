@@ -1,0 +1,7 @@
+number 8211
+name 金曲20年
+artist 董文华
+introduction 
+picture http://img.xiami.net/images/album/img0/1500/8211.jpg
+songs 血染的风采%^&*村寨的吉他声%^&*十五的月亮%^&*妈妈爸爸商量过%^&*早晨的心情%^&*长城长%^&*月亮之歌%^&*叫我怎能抹得开%^&*寻找童年%^&*春歌%^&*浪花海的颂歌%^&*江南雨%^&*也曾%^&*宝宝摇篮曲%^&*野山歌%^&*今天是你的生日%^&*
+songURLs http://www.xiami.com/song/2136727%^&*http://www.xiami.com/song/2136728%^&*http://www.xiami.com/song/2136729%^&*http://www.xiami.com/song/2136730%^&*http://www.xiami.com/song/2136731%^&*http://www.xiami.com/song/2136732%^&*http://www.xiami.com/song/2136733%^&*http://www.xiami.com/song/2136734%^&*http://www.xiami.com/song/2136735%^&*http://www.xiami.com/song/2136736%^&*http://www.xiami.com/song/2136737%^&*http://www.xiami.com/song/2136738%^&*http://www.xiami.com/song/2136739%^&*http://www.xiami.com/song/2136740%^&*http://www.xiami.com/song/2136741%^&*http://www.xiami.com/song/2136742%^&*

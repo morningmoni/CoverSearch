@@ -1,0 +1,6 @@
+number 2037
+name 放乎醉
+artist 蔡小虎%^&*
+artistURL http://www.xiami.com/artist/47%^&*
+album 千年万年
+albumURL http://www.xiami.com/album/164

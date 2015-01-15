@@ -1,0 +1,7 @@
+number 8539
+name 神筝
+artist 付娜
+introduction 中国首张DSD直接录制古筝专辑。此制作是采用现今最先进的数码音频工作站&ldquo;Pyramix&rdquo;，它是唯一能作为混音及后期母带处理的工作站。它能即时处理 16Bit 至 32Bit 的数据转换 (Real Timer Dither)。在频率取样方面，可兼容 32kHz 至 384kHz (包括 CD，DVD，DVD-A) 的模式。在 DSD (SACD) 处理模式方面 (1Bit/2.8224MHz) 同样具备各样音色处理功能，如均衡器 (EQ)，压缩器 (Compressor) 等等。另外，它是现时业界唯一一台数码音频工作站具备 1 Bit/2.8224MHz DSD 高频取样的实时超高解像度之模拟残响系统。
+picture http://img.xiami.net/images/album/img40/1540/8539.jpg
+songs 翻身农奴把歌唱%^&*五哥放羊%^&*毛主席的话儿记心上%^&*太阳最红,毛主席最亲%^&*金瓶似的小山%^&*唱支山歌给党听%^&*草原上升起不落的太阳%^&*小河淌水%^&*花非花%^&*丰收锣鼓%^&*雪山春晓%^&*雁南飞%^&*月光下的凤尾竹%^&*
+songURLs http://www.xiami.com/song/106276%^&*http://www.xiami.com/song/106277%^&*http://www.xiami.com/song/106278%^&*http://www.xiami.com/song/106279%^&*http://www.xiami.com/song/106280%^&*http://www.xiami.com/song/106281%^&*http://www.xiami.com/song/106282%^&*http://www.xiami.com/song/106283%^&*http://www.xiami.com/song/106284%^&*http://www.xiami.com/song/106285%^&*http://www.xiami.com/song/106286%^&*http://www.xiami.com/song/106287%^&*http://www.xiami.com/song/106288%^&*

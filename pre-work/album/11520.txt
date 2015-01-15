@@ -1,0 +1,7 @@
+number 11520
+name 踏歌起舞
+artist 宋祖英
+introduction ISRC CN-F28-01-522-00/A.J6宋祖英这张全新专辑收录了九运会开幕式第二幕主题曲《祖国的笑容多么美》等一些今年在大场合、大活动唱过的大家熟悉的歌，有赞美祖国的、歌唱家乡的、歌唱军人的，喜庆、深情是主调。另外还有些如《苗山明月》《海姑娘》等新歌。
+picture http://img.xiami.net/images/album/img0/115201287644741.jpg
+songs 踏歌起舞%^&*祖国的笑容多么美%^&*好故事%^&*越来越好%^&*你好吗%^&*三月三 九月九%^&*海姑娘%^&*当兵光荣%^&*今生的缘%^&*收获%^&*圣洁的白莲花%^&*大地飞歌%^&*苗山明月%^&*甜甜大家园%^&*
+songURLs http://www.xiami.com/song/141829%^&*http://www.xiami.com/song/141830%^&*http://www.xiami.com/song/141831%^&*http://www.xiami.com/song/141832%^&*http://www.xiami.com/song/141833%^&*http://www.xiami.com/song/141834%^&*http://www.xiami.com/song/141835%^&*http://www.xiami.com/song/141836%^&*http://www.xiami.com/song/141837%^&*http://www.xiami.com/song/141838%^&*http://www.xiami.com/song/141839%^&*http://www.xiami.com/song/141840%^&*http://www.xiami.com/song/141841%^&*http://www.xiami.com/song/141842%^&*

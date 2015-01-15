@@ -1,0 +1,7 @@
+number 12438
+name 黄土梦
+artist 徐惟聆
+introduction 徐惟聆是九十年代最有影响力的中国青年小提琴家之一。被纽约时报誉为「造诣不凡的年青音乐家」，是有史以来等一位于卡内基音乐厅及林肯中心Avery Fisher Hall举办音乐会的中国大陆音乐家。徐惟聆于九三年和Naxos唱片公司签订了长期合约，同年出任香港管弦乐团第一副团长。本专辑所收录的均是中国经典乐曲，不论是民间乐曲"渔舟唱晚"，"春江花月夜"，是民族乐曲的"彩云追月"，"可爱的马"，亦或节庆乐曲之"春节序曲"，徐惟聆运用西洋乐器的技巧，将属于中国音乐的喜怒哀乐，生动完善的表现出来。你也许听过二胡，琵琶，或是笛子精彩演奏中国乐曲，它们所表现出来的中国色彩是理所当然的，但是由一支小提琴拉奏出来，重新诠释的中国乐曲能比原曲更中国化，更感动人心的，却不可多得，而这张专辑便是你的音乐图书馆中不可少的。
+picture http://img.xiami.net/images/album/img20/2320/12438.jpg
+songs 渔舟晚唱%^&*彩云追月%^&*二泉映月%^&*草原上%^&*春江花月夜%^&*妆台思秋%^&*可爱的马%^&*旱天雷%^&*春节序曲%^&*
+songURLs http://www.xiami.com/song/152764%^&*http://www.xiami.com/song/152765%^&*http://www.xiami.com/song/152766%^&*http://www.xiami.com/song/152767%^&*http://www.xiami.com/song/152768%^&*http://www.xiami.com/song/152769%^&*http://www.xiami.com/song/152770%^&*http://www.xiami.com/song/152771%^&*http://www.xiami.com/song/152772%^&*

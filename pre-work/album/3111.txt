@@ -1,0 +1,7 @@
+number 3111
+name 让我告诉你
+artist 刘文正
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10120608849m_2.jpg
+songs 让我告诉你%^&*那个女孩%^&*雾%^&*海边恋歌%^&*找一个下雨天%^&*爱的心儿多明亮%^&*白云长在天%^&*昨夜%^&*时光%^&*只有我和你%^&*疑云层层%^&*只要为你活一天%^&*
+songURLs http://www.xiami.com/song/38289%^&*http://www.xiami.com/song/38290%^&*http://www.xiami.com/song/38291%^&*http://www.xiami.com/song/38292%^&*http://www.xiami.com/song/38293%^&*http://www.xiami.com/song/38294%^&*http://www.xiami.com/song/38295%^&*http://www.xiami.com/song/38296%^&*http://www.xiami.com/song/38297%^&*http://www.xiami.com/song/38298%^&*http://www.xiami.com/song/38299%^&*http://www.xiami.com/song/38300%^&*

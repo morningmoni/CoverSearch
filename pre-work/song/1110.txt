@@ -1,0 +1,6 @@
+number 1110
+name 断情殇
+artist 黄霑%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E9%9C%91%^&*
+album 情定少林寺
+albumURL http://www.xiami.com/album/95

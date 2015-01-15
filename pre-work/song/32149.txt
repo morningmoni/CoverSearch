@@ -1,0 +1,6 @@
+number 32149
+name 天涯
+artist 黄金成%^&*
+artistURL http://www.xiami.com/artist/380%^&*
+album 远走他乡
+albumURL http://www.xiami.com/album/1654

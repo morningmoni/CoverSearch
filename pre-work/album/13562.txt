@@ -1,0 +1,6 @@
+number 13562
+name 梦醒时份
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/135621415773840.jpg
+songs 深夜两点%^&*Sayonara%^&*梦醒时分%^&*夜痴缠%^&*晴天不负有心人%^&*一生留给你%^&*朋友你寂寞吗%^&*早出晚归%^&*下雨的清晨%^&*一个懒洋洋的下午%^&*
+songURLs http://www.xiami.com/song/166953%^&*http://www.xiami.com/song/166954%^&*http://www.xiami.com/song/166955%^&*http://www.xiami.com/song/166956%^&*http://www.xiami.com/song/166957%^&*http://www.xiami.com/song/166958%^&*http://www.xiami.com/song/166959%^&*http://www.xiami.com/song/166960%^&*http://www.xiami.com/song/166961%^&*http://www.xiami.com/song/166962%^&*

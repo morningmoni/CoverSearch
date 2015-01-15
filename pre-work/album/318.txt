@@ -1,0 +1,7 @@
+number 318
+name 让我再次介绍我自己
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/3181413353864.jpg
+songs 记得我吗%^&*拳头%^&*Act Like U Know%^&*精神分裂%^&*泪%^&*是我%^&*凌晨1:37%^&*My Baby%^&*又一年%^&*不可能%^&*
+songURLs http://www.xiami.com/song/3855%^&*http://www.xiami.com/song/3856%^&*http://www.xiami.com/song/3857%^&*http://www.xiami.com/song/3858%^&*http://www.xiami.com/song/3859%^&*http://www.xiami.com/song/3860%^&*http://www.xiami.com/song/3861%^&*http://www.xiami.com/song/3862%^&*http://www.xiami.com/song/3863%^&*http://www.xiami.com/song/3864%^&*

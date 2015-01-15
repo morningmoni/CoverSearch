@@ -1,0 +1,7 @@
+number 211
+name 精选集
+artist 曹松章
+introduction 
+picture http://img.xiami.net/images/album/img60/60/2111350287190.jpg
+songs 走出孤独%^&*小巷阳光%^&*让我的心靠近你的梦%^&*谁能简单的说爱情%^&*我能给你些什么%^&*春风的话%^&*太阳底下%^&*你是我最不愿弹唱的悲歌%^&*难道是梦已断%^&*永不放弃%^&*
+songURLs http://www.xiami.com/song/2579%^&*http://www.xiami.com/song/2580%^&*http://www.xiami.com/song/2581%^&*http://www.xiami.com/song/2582%^&*http://www.xiami.com/song/2583%^&*http://www.xiami.com/song/2584%^&*http://www.xiami.com/song/2585%^&*http://www.xiami.com/song/2586%^&*http://www.xiami.com/song/2587%^&*http://www.xiami.com/song/2588%^&*

@@ -1,0 +1,7 @@
+number 11769
+name 好想再听一遍
+artist 陶莉萍
+introduction 
+picture http://img.xiami.net/images/album/img50/2150/117691386051247.jpg
+songs Waiting For Tonight%^&*爱让人无力%^&*好想再听一遍%^&*难道%^&*分手五十天%^&*爱你很快乐%^&*以为%^&*别赖%^&*不得不%^&*不想再为你伤心%^&*为什么我还这么想爱你%^&*
+songURLs http://www.xiami.com/song/1772382122%^&*http://www.xiami.com/song/144789%^&*http://www.xiami.com/song/144790%^&*http://www.xiami.com/song/144791%^&*http://www.xiami.com/song/144792%^&*http://www.xiami.com/song/144793%^&*http://www.xiami.com/song/144794%^&*http://www.xiami.com/song/144795%^&*http://www.xiami.com/song/144796%^&*http://www.xiami.com/song/144797%^&*http://www.xiami.com/song/144798%^&*

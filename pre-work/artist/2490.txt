@@ -1,0 +1,7 @@
+number 2490
+name 张云儿
+place 
+introduction 
+picture http://img.xiami.net/images/artist/1167.jpg
+albums 张云儿柔情经典演绎版%^&*说起我的梦%^&*我想有个家%^&*伤心背影%^&*你的样子%^&*
+albumURLs http://www.xiami.com/album/1811439978%^&*http://www.xiami.com/album/575383%^&*http://www.xiami.com/album/457372%^&*http://www.xiami.com/album/457371%^&*http://www.xiami.com/album/13483%^&*

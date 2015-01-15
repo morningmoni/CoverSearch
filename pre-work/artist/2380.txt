@@ -1,0 +1,7 @@
+number 2380
+name 叶蔻
+place Taiwan 台湾
+introduction 叶蔻本名陈懿琳，台中人，东吴大学外文系毕业，1986年以A蔻为艺名进入歌坛，擅长演唱西洋歌曲，以低沉浑厚嗓音在国内独树一帜。曾在台湾饭店&ldquo;国际厅&rdquo;，及国宾饭店&ldquo;香槟厅&rdquo;演唱 ，同年加盟&ldquo;四海唱片&rdquo;出版了首张专辑《走不完的爱》。后来为了避免人人喊她&ldquo;A小姐&rdquo;，于出版第二张专辑&ldquo;感性天&rdquo;时改名为叶蔻。同期的歌手有辛晓琪、殷正洋等人，曾先后出版过7张唱片，最后一张为1999年在马来西亚出版的&ldquo;听真正会唱歌的人唱好歌&rdquo;专辑，同期更为中视二台策划主持&ldquo;非常爵士&rdquo;节目，曾投入网路事业发展，担任旅游网的媒体行销总监。目前以现场表演为主，曾参与&ldquo;仲夏夜之梦&rdquo;&ldquo;追忆当年真善美&rdquo;&ldquo;老歌声新感情&rdquo;&ldquo;群星会&rdquo;等多场国、台语及西洋怀念老歌演唱会。
+picture http://img.xiami.net/images/artist/12054730484835.jpg
+albums 怀念旋律 跟我来跳舞吧%^&*怀念旋律 蔷薇之恋%^&*特选限定盘%^&*南方金点系列-浓情名典%^&*怀念老歌专辑 感性篇%^&*惑%^&*80年代的心情 30年代的恋情%^&*A蔻%^&*
+albumURLs http://www.xiami.com/album/550944%^&*http://www.xiami.com/album/550943%^&*http://www.xiami.com/album/389774%^&*http://www.xiami.com/album/12860%^&*http://www.xiami.com/album/1280533857%^&*http://www.xiami.com/album/523528%^&*http://www.xiami.com/album/475035%^&*http://www.xiami.com/album/230745%^&*

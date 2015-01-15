@@ -1,0 +1,6 @@
+number 9729
+name 情尽
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/97291397526854.jpg
+songs 情尽%^&*生活影印机%^&*请勿接近%^&*一夕情%^&*快乐的呼唤%^&*多谢朋友%^&*只要开心%^&*没有寄出的信%^&*痴心蝎毒%^&*不夜天%^&*
+songURLs http://www.xiami.com/song/120253%^&*http://www.xiami.com/song/120254%^&*http://www.xiami.com/song/120255%^&*http://www.xiami.com/song/120256%^&*http://www.xiami.com/song/120257%^&*http://www.xiami.com/song/120258%^&*http://www.xiami.com/song/120259%^&*http://www.xiami.com/song/120260%^&*http://www.xiami.com/song/120261%^&*http://www.xiami.com/song/120262%^&*

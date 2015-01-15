@@ -1,0 +1,7 @@
+number 92708
+name 缠绵
+artist 陈铭洲%^&*李维明%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E9%93%AD%E6%B4%B2%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%8E%E7%BB%B4%E6%98%8E%^&*
+album 我悄悄蒙上你的眼睛
+albumURL http://www.xiami.com/album/7522

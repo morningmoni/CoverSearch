@@ -1,0 +1,7 @@
+number 840
+name 孙国庆
+place China 中国大陆
+introduction 小档案&nbsp;姓名：孙国庆籍贯 ：生于河南三门峡生日：1967年10月1日星座：天秤民族：汉学历：大本性格：开朗血型：AB型最喜爱的颜色：黑、白最喜爱的运动：游泳最喜爱的地方：有山有水的地方最喜爱的季节：秋季最喜爱的职业：唱歌、主持、创作代表作：
+picture http://img.xiami.net/images/artist/12030686462160.jpg
+albums 但愿人长久%^&*完美石刻%^&*人间四季天%^&*献给亚运会%^&*88狂热%^&*流浪歌手%^&*微风%^&*
+albumURLs http://www.xiami.com/album/3997%^&*http://www.xiami.com/album/3998%^&*http://www.xiami.com/album/1777229401%^&*http://www.xiami.com/album/1511366799%^&*http://www.xiami.com/album/569260%^&*http://www.xiami.com/album/314270%^&*http://www.xiami.com/album/1294782584%^&*

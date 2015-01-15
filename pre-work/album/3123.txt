@@ -1,0 +1,6 @@
+number 3123
+name 云且留住
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/31231284085126.jpg
+songs 云且留住%^&*飞翔、飞翔、我飞翔%^&*舞在今宵%^&*迷情%^&*让我为你唱一支歌%^&*那一句话%^&*谁在眨眼睛%^&*关怀%^&*总有一天%^&*夜走在小镇上%^&*我的心里没有她%^&*
+songURLs http://www.xiami.com/song/38560%^&*http://www.xiami.com/song/38561%^&*http://www.xiami.com/song/38562%^&*http://www.xiami.com/song/38563%^&*http://www.xiami.com/song/38564%^&*http://www.xiami.com/song/38565%^&*http://www.xiami.com/song/38566%^&*http://www.xiami.com/song/38567%^&*http://www.xiami.com/song/38568%^&*http://www.xiami.com/song/38569%^&*http://www.xiami.com/song/38570%^&*

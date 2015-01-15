@@ -1,0 +1,7 @@
+number 32624
+name BAD BOY
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/326241361942787.jpg
+songs 哭不出来%^&*一想到你呀%^&*孤单Tequila%^&*一个人跳舞%^&*听海%^&*Bad Boy%^&*甜言蜜语%^&*情人？敌人？%^&*爱，不太晚不太早，刚好%^&*爱过你%^&*
+songURLs http://www.xiami.com/song/388423%^&*http://www.xiami.com/song/388424%^&*http://www.xiami.com/song/388425%^&*http://www.xiami.com/song/388426%^&*http://www.xiami.com/song/388427%^&*http://www.xiami.com/song/388428%^&*http://www.xiami.com/song/388429%^&*http://www.xiami.com/song/388430%^&*http://www.xiami.com/song/388431%^&*http://www.xiami.com/song/388432%^&*

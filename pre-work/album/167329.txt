@@ -1,0 +1,6 @@
+number 167329
+name 相信爱情
+artist 刘嘉玲
+introduction picture http://img.xiami.net/images/album/img20/1920/1673291312878465.jpg
+songs 相信你%^&*对爱不放心%^&*放心不下%^&*你不在也好%^&*自由%^&*遗失的情书%^&*自己才懂的眼泪%^&*被爱作弄%^&*爱得深想得多%^&*单身女子%^&*
+songURLs http://www.xiami.com/song/2049453%^&*http://www.xiami.com/song/2049454%^&*http://www.xiami.com/song/2049455%^&*http://www.xiami.com/song/2049456%^&*http://www.xiami.com/song/2049457%^&*http://www.xiami.com/song/2049458%^&*http://www.xiami.com/song/2049459%^&*http://www.xiami.com/song/2049460%^&*http://www.xiami.com/song/2049461%^&*http://www.xiami.com/song/2049462%^&*

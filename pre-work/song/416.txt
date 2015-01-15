@@ -1,0 +1,6 @@
+number 416
+name 如果云知道
+artist 阿强%^&*
+artistURL http://www.xiami.com/artist/11%^&*
+album 此情可待
+albumURL http://www.xiami.com/album/34

@@ -1,0 +1,6 @@
+number 35861
+name 想一次你 换一次疼
+artist 江明学%^&*
+artistURL http://www.xiami.com/artist/440%^&*
+album 歌
+albumURL http://www.xiami.com/album/1923

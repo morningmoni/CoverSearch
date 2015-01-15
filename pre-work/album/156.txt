@@ -1,0 +1,6 @@
+number 156
+name Day Break
+artist 蔡济文
+introduction picture http://img.xiami.net/images/album/img0/1561284011441.jpg
+songs 永远最爱你是谁%^&*只想一醉%^&*褪色片断%^&*现代战士%^&*你是唯一的听众%^&*想见她一面%^&*Isabella%^&*潇洒的可是我吗%^&*亲爱的…%^&*美丽的谎言%^&*
+songURLs http://www.xiami.com/song/1930%^&*http://www.xiami.com/song/1931%^&*http://www.xiami.com/song/1939%^&*http://www.xiami.com/song/1932%^&*http://www.xiami.com/song/1933%^&*http://www.xiami.com/song/1934%^&*http://www.xiami.com/song/1938%^&*http://www.xiami.com/song/1935%^&*http://www.xiami.com/song/1936%^&*http://www.xiami.com/song/1937%^&*

@@ -1,0 +1,6 @@
+number 387880
+name 自从遇见你
+artist 卓文萱%^&*
+artistURL http://www.xiami.com/artist/2580%^&*
+album 幸福氧气
+albumURL http://www.xiami.com/album/32587

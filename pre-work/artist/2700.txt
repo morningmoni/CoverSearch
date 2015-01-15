@@ -1,0 +1,7 @@
+number 2700
+name 大地大地乐队
+place China 中国大陆
+introduction 大地乐团由两人组成&mdash;&mdash;陈刚和小宁，陈刚负责演唱，小宁负责演奏和创作。2001第一届MTV新生赛第一名／2002MTV内地最有潜力组合大奖得主这是一只很具有流行气质的乐队，曲风积极向上，情感真实，歌词平易。2000年组成组合，作为组合形式出现后已经拿过几个重要的奖项。因与签约公司不和而被雪藏。
+picture http://img.xiami.net/images/artist/1264.jpg
+albums 大地 首张同名专辑%^&*
+albumURLs http://www.xiami.com/album/14433%^&*

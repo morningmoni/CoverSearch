@@ -1,0 +1,7 @@
+number 341
+name 钢琴之爱
+artist 陈冠宇
+introduction RD-2001
+picture http://img.xiami.net/images/album/img81/81/3411338450653.jpg
+songs 最爱%^&*我的思念%^&*守着阳光守着你%^&*锁上记忆%^&*爱的箴言%^&*无言的歌%^&*错误的别离%^&*野百合也有春天%^&*谢谢你曾经爱我%^&*浮生千山路%^&*
+songURLs http://www.xiami.com/song/4140%^&*http://www.xiami.com/song/4141%^&*http://www.xiami.com/song/4142%^&*http://www.xiami.com/song/4143%^&*http://www.xiami.com/song/4144%^&*http://www.xiami.com/song/4145%^&*http://www.xiami.com/song/4146%^&*http://www.xiami.com/song/4147%^&*http://www.xiami.com/song/4148%^&*http://www.xiami.com/song/4149%^&*

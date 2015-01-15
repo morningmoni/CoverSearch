@@ -1,0 +1,7 @@
+number 203
+name 大江东去
+artist 曹丁
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10114176045m_2.jpg
+songs 满江红%^&*长城谣%^&*在银色的月光下%^&*花非花%^&*洪湖水浪打浪%^&*南泥湾%^&*旗正飘飘%^&*游击队歌%^&*大路歌%^&*十五的月亮%^&*北风吹%^&*毕业歌%^&*歌唱祖国%^&*大江东去%^&*
+songURLs http://www.xiami.com/song/2487%^&*http://www.xiami.com/song/2488%^&*http://www.xiami.com/song/2489%^&*http://www.xiami.com/song/2490%^&*http://www.xiami.com/song/2491%^&*http://www.xiami.com/song/2492%^&*http://www.xiami.com/song/2493%^&*http://www.xiami.com/song/2494%^&*http://www.xiami.com/song/2495%^&*http://www.xiami.com/song/2496%^&*http://www.xiami.com/song/2497%^&*http://www.xiami.com/song/2498%^&*http://www.xiami.com/song/2499%^&*http://www.xiami.com/song/2500%^&*

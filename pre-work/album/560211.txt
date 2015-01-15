@@ -1,0 +1,7 @@
+number 560211
+name 辣妹驾到
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/5602111386259959.jpg
+songs 辣妹驾到%^&*追心%^&*辣辣辣%^&*情人巷%^&*红颜烧酒命%^&*苹果樱桃%^&*失恋来跳探戈%^&*情关冲袂破%^&*你是我的人%^&*今生无缘%^&*
+songURLs http://www.xiami.com/song/1771497012%^&*http://www.xiami.com/song/1771497013%^&*http://www.xiami.com/song/1771497014%^&*http://www.xiami.com/song/1771497015%^&*http://www.xiami.com/song/1771497016%^&*http://www.xiami.com/song/1771497017%^&*http://www.xiami.com/song/1771497018%^&*http://www.xiami.com/song/1771497019%^&*http://www.xiami.com/song/1771497020%^&*http://www.xiami.com/song/1771497021%^&*

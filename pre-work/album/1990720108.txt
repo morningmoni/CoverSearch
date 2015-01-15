@@ -1,0 +1,7 @@
+number 1990720108
+name 英文演唱专辑VOL.4
+artist 青春派对
+introduction 
+picture http://img.xiami.net/images/album/img70/2970/19907201081390720108.jpg
+songs It&#039;S Whole New Feeling%^&*I Know A Heartache When I See One%^&*Alway On My Mind%^&*Without You%^&*It Might Be You%^&*The One You Love%^&*Sing%^&*Where Have All The Flowers Gone%^&*I&#039;Ve Never Been To Me%^&*Jackaroe%^&*Turn Between Two Lovers%^&*Blowing In The Wind%^&*
+songURLs http://www.xiami.com/song/1772513375%^&*http://www.xiami.com/song/1772513376%^&*http://www.xiami.com/song/1772513377%^&*http://www.xiami.com/song/1772513378%^&*http://www.xiami.com/song/1772513379%^&*http://www.xiami.com/song/1772513380%^&*http://www.xiami.com/song/1772513381%^&*http://www.xiami.com/song/1772513382%^&*http://www.xiami.com/song/1772513383%^&*http://www.xiami.com/song/1772513384%^&*http://www.xiami.com/song/1772513385%^&*http://www.xiami.com/song/1772513386%^&*

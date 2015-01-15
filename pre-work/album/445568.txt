@@ -1,0 +1,6 @@
+number 445568
+name 乡土情歌3
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img43/869143/1307869143.jpg
+songs 探狱情怨%^&*老兄行酒楼%^&*素兰小姐要出嫁%^&*哀愁火车站%^&*真快乐%^&*夜港边%^&*礼拜日的远足%^&*旅途夜风%^&*桃花乡%^&*有你着没我%^&*心肝的爱人%^&*
+songURLs http://www.xiami.com/song/1770263882%^&*http://www.xiami.com/song/1770263883%^&*http://www.xiami.com/song/1770263884%^&*http://www.xiami.com/song/1770263885%^&*http://www.xiami.com/song/1770263886%^&*http://www.xiami.com/song/1770263887%^&*http://www.xiami.com/song/1770263888%^&*http://www.xiami.com/song/1770263889%^&*http://www.xiami.com/song/1770263890%^&*http://www.xiami.com/song/1770263891%^&*http://www.xiami.com/song/1770263892%^&*

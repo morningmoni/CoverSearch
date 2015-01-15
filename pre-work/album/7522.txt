@@ -1,0 +1,7 @@
+number 7522
+name 我悄悄蒙上你的眼睛
+artist 陈铭洲
+introduction 
+picture http://img.xiami.net/images/album/img10/1410/75221385958319.jpg
+songs 我悄悄蒙上你的眼睛%^&*心动的第一句话%^&*情关%^&*雨伞的故事%^&*哭砂%^&*缠绵%^&*我爱你最好只到这里%^&*孤单又自由%^&*第三者%^&*请你陪我跳完最后的舞曲%^&*
+songURLs http://www.xiami.com/song/92703%^&*http://www.xiami.com/song/92704%^&*http://www.xiami.com/song/92705%^&*http://www.xiami.com/song/92706%^&*http://www.xiami.com/song/92707%^&*http://www.xiami.com/song/92708%^&*http://www.xiami.com/song/92709%^&*http://www.xiami.com/song/92710%^&*http://www.xiami.com/song/92711%^&*http://www.xiami.com/song/92712%^&*

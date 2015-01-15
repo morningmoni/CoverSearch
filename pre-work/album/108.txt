@@ -1,0 +1,7 @@
+number 108
+name 杭盖
+artist 布仁巴雅尔
+introduction 
+picture http://img.xiami.net/images/album/img39/39/108.jpg
+songs 蔚蓝色的杭盖(蒙语版)%^&*蔚蓝色的杭盖%^&*回家吧%^&*努力格日玛%^&*富饶的巴尔虎%^&*呼伦贝尔大草原%^&*月光下%^&*锡林河%^&*天边%^&*男人的懊悔%^&*父亲的草原母亲的河%^&*军人之歌%^&*
+songURLs http://www.xiami.com/song/1307%^&*http://www.xiami.com/song/1308%^&*http://www.xiami.com/song/1309%^&*http://www.xiami.com/song/1310%^&*http://www.xiami.com/song/1311%^&*http://www.xiami.com/song/1312%^&*http://www.xiami.com/song/1313%^&*http://www.xiami.com/song/1314%^&*http://www.xiami.com/song/1315%^&*http://www.xiami.com/song/1316%^&*http://www.xiami.com/song/1317%^&*http://www.xiami.com/song/1318%^&*

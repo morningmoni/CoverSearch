@@ -1,0 +1,6 @@
+number 6824
+name 开心教堂
+artist 柏安妮
+introduction picture http://img.xiami.net/images/album/img20/1320/68241333182037.jpg
+songs 开心教堂%^&*尖东%^&*不想再拥有%^&*慢镜重播%^&*没法拒绝去想你%^&*魔鬼的火窝%^&*童话%^&*游荡%^&*心将生锈%^&*愿望井%^&*
+songURLs http://www.xiami.com/song/83439%^&*http://www.xiami.com/song/83440%^&*http://www.xiami.com/song/83441%^&*http://www.xiami.com/song/83442%^&*http://www.xiami.com/song/83443%^&*http://www.xiami.com/song/83444%^&*http://www.xiami.com/song/83445%^&*http://www.xiami.com/song/83446%^&*http://www.xiami.com/song/83447%^&*http://www.xiami.com/song/83448%^&*

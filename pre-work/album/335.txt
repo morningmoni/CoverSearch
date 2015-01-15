@@ -1,0 +1,7 @@
+number 335
+name 特警新人类2 机动任务电影原声
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/3351386063751.jpg
+songs 要来便来%^&*Heroes%^&*要来便来(Robotic Mix)%^&*
+songURLs http://www.xiami.com/song/4079%^&*http://www.xiami.com/song/4080%^&*http://www.xiami.com/song/4081%^&*

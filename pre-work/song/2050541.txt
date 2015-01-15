@@ -1,0 +1,6 @@
+number 2050541
+name 爱情城堡
+artist 蔡国庆%^&*
+artistURL http://www.xiami.com/artist/42%^&*
+album 庆祝
+albumURL http://www.xiami.com/album/167395

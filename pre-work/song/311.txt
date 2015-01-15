@@ -1,0 +1,6 @@
+number 311
+name 男性的纯情
+artist 阿吉仔%^&*
+artistURL http://www.xiami.com/artist/8%^&*
+album 歹命囝仔
+albumURL http://www.xiami.com/album/23

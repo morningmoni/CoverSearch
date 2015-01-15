@@ -1,0 +1,7 @@
+number 566687179
+name 每天一首歌
+artist 侧田
+introduction 杨千嬅与任贤齐主演的&rdquo;天生一对&ldquo;电影插曲。
+picture http://img.xiami.net/images/album/img65/65/5666871791387351043.jpg
+songs 每天一首歌%^&*
+songURLs http://www.xiami.com/song/1771829713%^&*

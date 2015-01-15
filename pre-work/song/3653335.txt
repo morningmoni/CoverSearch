@@ -1,0 +1,6 @@
+number 3653335
+name 九天
+artist 九天乐队%^&*
+artistURL http://www.xiami.com/artist/2840%^&*
+album 羔唱秦歌
+albumURL http://www.xiami.com/album/327840

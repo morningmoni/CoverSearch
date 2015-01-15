@@ -1,0 +1,6 @@
+number 1771583828
+name 幻想迪斯科
+artist 孙国庆%^&*
+artistURL http://www.xiami.com/artist/840%^&*
+album 88狂热
+albumURL http://www.xiami.com/album/569260

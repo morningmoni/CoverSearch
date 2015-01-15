@@ -1,0 +1,6 @@
+number 180118
+name 仍然
+artist 风火海%^&*
+artistURL http://www.xiami.com/artist/2750%^&*
+album 欢乐世界
+albumURL http://www.xiami.com/album/14600

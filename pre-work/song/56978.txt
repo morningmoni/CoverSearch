@@ -1,0 +1,6 @@
+number 56978
+name 他不爱我
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 未完待续
+albumURL http://www.xiami.com/album/4704

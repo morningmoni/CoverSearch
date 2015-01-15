@@ -1,0 +1,7 @@
+number 97
+name 鲍比达1998
+artist 鲍比达
+introduction 
+picture http://img.xiami.net/images/album/img32/32/971334111230.jpg
+songs 1998%^&*每一个晚上%^&*顺流逆流/再见杨柳%^&*爱的根源%^&*零时十分%^&*酒干倘卖无%^&*闪电%^&*似水流年%^&*偶遇%^&*晚风%^&*Love Is Over%^&*今宵多珍重%^&*百年寄望%^&*
+songURLs http://www.xiami.com/song/1130%^&*http://www.xiami.com/song/1131%^&*http://www.xiami.com/song/1132%^&*http://www.xiami.com/song/1133%^&*http://www.xiami.com/song/1134%^&*http://www.xiami.com/song/1135%^&*http://www.xiami.com/song/1136%^&*http://www.xiami.com/song/1137%^&*http://www.xiami.com/song/1138%^&*http://www.xiami.com/song/1139%^&*http://www.xiami.com/song/1140%^&*http://www.xiami.com/song/1141%^&*http://www.xiami.com/song/1142%^&*

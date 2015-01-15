@@ -1,0 +1,6 @@
+number 3435512
+name 最好是MV
+artist 林心如%^&*
+artistURL http://www.xiami.com/artist/1890%^&*
+album 新如主义
+albumURL http://www.xiami.com/album/310358

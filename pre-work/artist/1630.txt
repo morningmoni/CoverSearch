@@ -1,0 +1,7 @@
+number 1630
+name 胡慧中
+place Taiwan 台湾
+introduction 个人简介1981年台湾大 学（夜间部）历史系毕业。在校期间 因主演影片《欢颜》而知名。后又主 演《候鸟之爱》等影片。1984年任台 湾高仕影业公司监制，策划拍摄影片 《老莫的第二个春天》。后去香港， 在《福星高照》等影片中扮演角色。
+picture http://img.xiami.net/images/pic/04/08/1022412616m.jpg
+albums 橄榄树%^&*回眸%^&*城市行囊%^&*
+albumURLs http://www.xiami.com/album/8971%^&*http://www.xiami.com/album/8972%^&*http://www.xiami.com/album/8973%^&*

@@ -1,0 +1,7 @@
+number 943
+name 灿烂彩虹
+artist 百川%^&*亚琪%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%99%BE%E5%B7%9D%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%BA%9A%E7%90%AA%^&*
+album 百川的音乐旅程-楼兰情歌
+albumURL http://www.xiami.com/album/82

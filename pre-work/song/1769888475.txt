@@ -1,0 +1,6 @@
+number 1769888475
+name 我的未来不是梦
+artist 青春派对%^&*
+artistURL http://www.xiami.com/artist/2970%^&*
+album 青春派对2
+albumURL http://www.xiami.com/album/412940

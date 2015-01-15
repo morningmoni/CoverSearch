@@ -1,0 +1,6 @@
+number 393314
+name 不能跟情人说的话
+artist 刘若英；范玮琪%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%88%98%E8%8B%A5%E8%8B%B1%EF%BC%9B%E8%8C%83%E7%8E%AE%E7%90%AA%^&*
+album 我很好
+albumURL http://www.xiami.com/album/32952

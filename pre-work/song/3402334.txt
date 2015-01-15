@@ -1,0 +1,6 @@
+number 3402334
+name Doobidub
+artist 강타%^&*
+artistURL http://www.xiami.com/artist/19%^&*
+album Polaris
+albumURL http://www.xiami.com/album/51

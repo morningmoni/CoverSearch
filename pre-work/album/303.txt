@@ -1,0 +1,7 @@
+number 303
+name 归雁
+artist 陈彼得
+introduction 他是台湾大名鼎鼎的重量级音乐人，上世纪七八十年代曾经创作过《迟到》《阿里巴巴》《一条路》等多首脍炙人口的歌曲；他是当代华语歌坛比李宗盛、罗大佑更具资历的教父级人物，更是灵感不息、脚步不停的两岸&ldquo;歌坛行者&rdquo;。&ldquo;我是一只孤雁，飞过高山飞过大海。不知走过多少岁月多少时光&hellip;&hellip;终于找到了自己出发的地方。&rdquo;这是陈彼得创作的歌曲《归雁》中的一段歌词，而在他看来,自己就是一只不折不扣的&ldquo;归雁&rdquo;，经历风雨经历流浪最终回到故乡。
+picture http://img.xiami.net/images/album/img73/73/3031410749846.jpg
+songs 不一样%^&*一段情%^&*无言的结局%^&*扬帆%^&*歉意%^&*归雁%^&*嫦娥%^&*几度夕阳红%^&*迟到%^&*小丑%^&*结束%^&*祖国%^&*
+songURLs http://www.xiami.com/song/3701%^&*http://www.xiami.com/song/3702%^&*http://www.xiami.com/song/3703%^&*http://www.xiami.com/song/3704%^&*http://www.xiami.com/song/3705%^&*http://www.xiami.com/song/3706%^&*http://www.xiami.com/song/3707%^&*http://www.xiami.com/song/3708%^&*http://www.xiami.com/song/3709%^&*http://www.xiami.com/song/3710%^&*http://www.xiami.com/song/3711%^&*http://www.xiami.com/song/3712%^&*

@@ -1,0 +1,6 @@
+number 444656
+name 思乡情歌
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img11/239811/1307239812.jpg
+songs 我不是歹子%^&*思乡情歌%^&*酒醉固定人%^&*情难忘%^&*思念故乡的情人%^&*怨叹%^&*男儿的个性%^&*苦衷%^&*爱你伤脑筋%^&*要按怎%^&*妈妈我也真勇健%^&*痴情男子汉%^&*
+songURLs http://www.xiami.com/song/1770252671%^&*http://www.xiami.com/song/1770252672%^&*http://www.xiami.com/song/1770252673%^&*http://www.xiami.com/song/1770252674%^&*http://www.xiami.com/song/1770252675%^&*http://www.xiami.com/song/1770252676%^&*http://www.xiami.com/song/1770252677%^&*http://www.xiami.com/song/1770252678%^&*http://www.xiami.com/song/1770252679%^&*http://www.xiami.com/song/1770252680%^&*http://www.xiami.com/song/1770252681%^&*http://www.xiami.com/song/1770252682%^&*

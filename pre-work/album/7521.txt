@@ -1,0 +1,7 @@
+number 7521
+name 看见你牵别人的手
+artist 陈铭洲
+introduction 
+picture http://img.xiami.net/images/album/img10/1410/75211385958782.jpg
+songs 看见你牵别人的手%^&*知音何处%^&*像雾像雨又像风%^&*一个爱上浪漫的人%^&*嗨!好久不见%^&*失去的乐园%^&*你的声音%^&*红雨%^&*在每一个梦中%^&*潇洒走一回%^&*
+songURLs http://www.xiami.com/song/92693%^&*http://www.xiami.com/song/92694%^&*http://www.xiami.com/song/92695%^&*http://www.xiami.com/song/92696%^&*http://www.xiami.com/song/92697%^&*http://www.xiami.com/song/92698%^&*http://www.xiami.com/song/92699%^&*http://www.xiami.com/song/92700%^&*http://www.xiami.com/song/92701%^&*http://www.xiami.com/song/92702%^&*

@@ -1,0 +1,6 @@
+number 38668
+name 黄色的玫瑰
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 兰花草
+albumURL http://www.xiami.com/album/3132

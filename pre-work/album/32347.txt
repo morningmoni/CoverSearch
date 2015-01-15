@@ -1,0 +1,7 @@
+number 32347
+name 追月
+artist 艾敬
+introduction 
+picture http://img.xiami.net/images/album/img0/1300/32347.jpg
+songs 黒猫白猫%^&*你没有醉%^&*东京餐馆里的  China Girl%^&*岛上%^&*Sweet Summer Days%^&*不舍%^&*捆着我 缠着我%^&*飞走了%^&*月 [朗读]%^&*追月%^&*
+songURLs http://www.xiami.com/song/381933%^&*http://www.xiami.com/song/381934%^&*http://www.xiami.com/song/381935%^&*http://www.xiami.com/song/381936%^&*http://www.xiami.com/song/381937%^&*http://www.xiami.com/song/381938%^&*http://www.xiami.com/song/381939%^&*http://www.xiami.com/song/381940%^&*http://www.xiami.com/song/381941%^&*http://www.xiami.com/song/381942%^&*

@@ -1,0 +1,6 @@
+number 186343
+name ㄉㄧㄤ
+artist 瓢虫%^&*
+artistURL http://www.xiami.com/artist/2960%^&*
+album Ladybug 1997
+albumURL http://www.xiami.com/album/15154

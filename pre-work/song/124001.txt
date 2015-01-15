@@ -1,0 +1,6 @@
+number 124001
+name 我怎么哭了
+artist 李跃君%^&*
+artistURL http://www.xiami.com/artist/1830%^&*
+album 寂寞公路
+albumURL http://www.xiami.com/album/10052

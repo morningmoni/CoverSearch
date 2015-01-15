@@ -1,0 +1,6 @@
+number 297571
+name 大树脚
+artist 王中平
+introduction picture http://img.xiami.net/images/album/img30/930/297571.jpg
+songs 大树脚%^&*还是英雄%^&*阮哪会勘%^&*爱到最后%^&*冷风的暗眠%^&*情爱无完全%^&*我又何必搁再留恋%^&*离别的恋歌%^&*情义无底买%^&*红地毯%^&*
+songURLs http://www.xiami.com/song/3296972%^&*http://www.xiami.com/song/3296973%^&*http://www.xiami.com/song/3296974%^&*http://www.xiami.com/song/3296975%^&*http://www.xiami.com/song/3296976%^&*http://www.xiami.com/song/3296977%^&*http://www.xiami.com/song/3296978%^&*http://www.xiami.com/song/3296979%^&*http://www.xiami.com/song/3296980%^&*http://www.xiami.com/song/3296981%^&*

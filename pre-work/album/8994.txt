@@ -1,0 +1,6 @@
+number 8994
+name 有缘相爱
+artist 黄宝欣
+introduction picture http://img.xiami.net/images/album/img40/1640/89941334200199.jpg
+songs 有缘相爱(House Mix)%^&*让昨天再见%^&*来吧!西班牙%^&*但求一生相依%^&*一杯香槟半杯糖%^&*若你必须走%^&*莫再偷恋往事%^&*情为你守%^&*午后黄昏之诱惑%^&*有缘相爱%^&*
+songURLs http://www.xiami.com/song/111646%^&*http://www.xiami.com/song/111647%^&*http://www.xiami.com/song/111648%^&*http://www.xiami.com/song/111649%^&*http://www.xiami.com/song/111650%^&*http://www.xiami.com/song/111651%^&*http://www.xiami.com/song/111652%^&*http://www.xiami.com/song/111653%^&*http://www.xiami.com/song/111654%^&*http://www.xiami.com/song/111655%^&*

@@ -1,0 +1,6 @@
+number 51
+name 音乐8
+artist 阿弟仔%^&*
+artistURL http://www.xiami.com/artist/4%^&*
+album 1188
+albumURL http://www.xiami.com/album/6

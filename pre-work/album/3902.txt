@@ -1,0 +1,7 @@
+number 3902
+name 拜访春天·往明月多处走·赤壁赋
+artist 施孝荣
+introduction 《施孝荣专辑》出版于1981年，是施孝荣第一张的个人专辑。专辑中所收录的歌曲，水准极为整齐。词曲作者包括了陈辉雄、许乃胜、苏来、张志亚、靳铁章、郑华娟、李子恒、陈云山、李建复、钟丽莉、陈扬等名家，共同替施孝荣打造出适合其嗓音表现的歌曲；同时，编曲也在陈志远和陈扬的通力合作下，以庞大的管弦乐团编制为基础，并配合国乐作为妆点，呈现出令人惊喜的气势与风貌。《中华之爱》是继《龙的传人》后，在当年台湾困窘的国际情势与氛围中，给予许多人情绪上出口的经典作品；而这类型的歌曲，也只有在那样的时代背景下，才得以创作而成。同时这首歌曲也是当年台视八点档连续剧《江山万里情》的主题曲。
+picture http://img.xiami.net/images/album/img20/820/39021392634310.jpg
+songs 拜访春天%^&*往明月多处走%^&*中华之爱%^&*天地一沙鸥%^&*月下雷峰影片%^&*展翅苍穹下%^&*赤壁赋%^&*垄上浪痕%^&*奔流%^&*邀舞%^&*昂首归来%^&*
+songURLs http://www.xiami.com/song/47805%^&*http://www.xiami.com/song/47806%^&*http://www.xiami.com/song/47807%^&*http://www.xiami.com/song/47808%^&*http://www.xiami.com/song/47809%^&*http://www.xiami.com/song/47810%^&*http://www.xiami.com/song/47811%^&*http://www.xiami.com/song/47812%^&*http://www.xiami.com/song/47813%^&*http://www.xiami.com/song/47814%^&*http://www.xiami.com/song/47815%^&*

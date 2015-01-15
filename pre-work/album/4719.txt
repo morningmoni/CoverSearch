@@ -1,0 +1,6 @@
+number 4719
+name 文章经典
+artist 文章
+introduction picture http://img.xiami.net/images/album/img40/940/4719.jpg
+songs 365里路/故乡的云/古月照今尘%^&*望天%^&*我是风%^&*The China Sea%^&*一生只有这一回%^&*The Spirit Of Asia%^&*原谅我的心%^&*Tokyo Joe%^&*千千万万个爱你/走上寂寞路%^&*Who&#039;s Lonely Now%^&*芦花%^&*一个人的时候%^&*
+songURLs http://www.xiami.com/song/57116%^&*http://www.xiami.com/song/57117%^&*http://www.xiami.com/song/57118%^&*http://www.xiami.com/song/57119%^&*http://www.xiami.com/song/57120%^&*http://www.xiami.com/song/57121%^&*http://www.xiami.com/song/57122%^&*http://www.xiami.com/song/57123%^&*http://www.xiami.com/song/57124%^&*http://www.xiami.com/song/57125%^&*http://www.xiami.com/song/57126%^&*http://www.xiami.com/song/57127%^&*

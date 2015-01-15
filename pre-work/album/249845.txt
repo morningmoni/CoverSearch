@@ -1,0 +1,7 @@
+number 249845
+name 遥远的城镇遥远的人
+artist 冯晓泉
+introduction 11月20日，《中华民谣》词曲作者冯晓泉成为京文签约歌手第一人，首张个人专辑《遥远的城镇 遥远的人》上市发行，使流行音乐走向多元化发展的道路；
+picture http://img.xiami.net/images/album/img30/230/2498451295691772.jpg
+songs 冰糖葫芦%^&*乡愁%^&*遥远的城镇遥远的人%^&*灿烂的爱%^&*风中的我%^&*等到花开那一天%^&*是不是我真的错了%^&*我是和神游戏的人%^&*两心相依%^&*中华民谣%^&*
+songURLs http://www.xiami.com/song/2872262%^&*http://www.xiami.com/song/2872263%^&*http://www.xiami.com/song/2872264%^&*http://www.xiami.com/song/2872265%^&*http://www.xiami.com/song/2872266%^&*http://www.xiami.com/song/2872267%^&*http://www.xiami.com/song/2872268%^&*http://www.xiami.com/song/2872269%^&*http://www.xiami.com/song/2872270%^&*http://www.xiami.com/song/2872271%^&*

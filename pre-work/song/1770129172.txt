@@ -1,0 +1,6 @@
+number 1770129172
+name 何苦
+artist 长田%^&*
+artistURL http://www.xiami.com/artist/66%^&*
+album 年轻的心
+albumURL http://www.xiami.com/album/227

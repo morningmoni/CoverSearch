@@ -1,0 +1,7 @@
+number 4343
+name 爱誓
+artist 陈浩德%^&*吴香伦%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E6%B5%A9%E5%BE%B7%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%B4%E9%A6%99%E4%BC%A6%^&*
+album 黎明
+albumURL http://www.xiami.com/album/359

@@ -1,0 +1,6 @@
+number 12989
+name 流浪的小孩
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/129891393813371.jpg
+songs Annie&#039;s talk%^&*流浪的小孩%^&*圣诞快乐%^&*ONE WOMAN TWO MEN%^&*爱上你让我变得坏%^&*想做就做吧%^&*Annie&#039;s talk%^&*好女人%^&*野孩子%^&*人鱼%^&*CHOO CHOO TRAIN%^&*夜上海%^&*
+songURLs http://www.xiami.com/song/374189%^&*http://www.xiami.com/song/374190%^&*http://www.xiami.com/song/374191%^&*http://www.xiami.com/song/374192%^&*http://www.xiami.com/song/374193%^&*http://www.xiami.com/song/374194%^&*http://www.xiami.com/song/374195%^&*http://www.xiami.com/song/374196%^&*http://www.xiami.com/song/374197%^&*http://www.xiami.com/song/374198%^&*http://www.xiami.com/song/374199%^&*http://www.xiami.com/song/374200%^&*

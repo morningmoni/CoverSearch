@@ -1,0 +1,6 @@
+number 11650
+name 多情
+artist 孙淑媚
+introduction picture http://img.xiami.net/images/album/img30/2130/116501315901468.jpg
+songs 心爱的别走%^&*爱情看透透%^&*软心肝%^&*一个西一个东%^&*梦醒心也醒%^&*多情花%^&*将我放心肝%^&*疼命命%^&*痴心的情歌%^&*一错再错%^&*
+songURLs http://www.xiami.com/song/143335%^&*http://www.xiami.com/song/143336%^&*http://www.xiami.com/song/143337%^&*http://www.xiami.com/song/143338%^&*http://www.xiami.com/song/143339%^&*http://www.xiami.com/song/143340%^&*http://www.xiami.com/song/143341%^&*http://www.xiami.com/song/143342%^&*http://www.xiami.com/song/143343%^&*http://www.xiami.com/song/143344%^&*

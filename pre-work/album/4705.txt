@@ -1,0 +1,7 @@
+number 4705
+name 音乐文章(系列1)
+artist 文章
+introduction 
+picture http://img.xiami.net/images/album/img40/940/4705.jpg
+songs 望天%^&*流星%^&*古月照今尘%^&*一个人的时候%^&*尘埃%^&*千千万万个爱你%^&*故乡的云%^&*三百六十五里路%^&*原谅我的心%^&*红豆%^&*情商%^&*望天(Sky Mix)%^&*情商(Unpplugged)%^&*
+songURLs http://www.xiami.com/song/56980%^&*http://www.xiami.com/song/56981%^&*http://www.xiami.com/song/56982%^&*http://www.xiami.com/song/56983%^&*http://www.xiami.com/song/56984%^&*http://www.xiami.com/song/56985%^&*http://www.xiami.com/song/56986%^&*http://www.xiami.com/song/56987%^&*http://www.xiami.com/song/56988%^&*http://www.xiami.com/song/56989%^&*http://www.xiami.com/song/56990%^&*http://www.xiami.com/song/56991%^&*http://www.xiami.com/song/56992%^&*

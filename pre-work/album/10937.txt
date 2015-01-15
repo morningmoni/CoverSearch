@@ -1,0 +1,7 @@
+number 10937
+name 皇者之风
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/10937.jpg
+songs 赤的疑惑%^&*似水流年%^&*蔓珠莎华%^&*爱将%^&*将冰山劈开%^&*梦伴%^&*烈焰红唇%^&*Stand By Me%^&*胭脂扣%^&*夕阳之歌%^&*淑女%^&*心仍是冷%^&*珍惜再会时%^&*
+songURLs http://www.xiami.com/song/135118%^&*http://www.xiami.com/song/135119%^&*http://www.xiami.com/song/135120%^&*http://www.xiami.com/song/135121%^&*http://www.xiami.com/song/135122%^&*http://www.xiami.com/song/135123%^&*http://www.xiami.com/song/135124%^&*http://www.xiami.com/song/135125%^&*http://www.xiami.com/song/135126%^&*http://www.xiami.com/song/135127%^&*http://www.xiami.com/song/135128%^&*http://www.xiami.com/song/135129%^&*http://www.xiami.com/song/135130%^&*

@@ -1,0 +1,6 @@
+number 445567
+name 乡土情歌1
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img20/868820/1307868820.jpg
+songs 故乡爱人要出嫁%^&*旗山三桃调%^&*南鲲鯓之恋%^&*台北迎城煌%^&*车顶美姑娘%^&*风流阿伯挽茶阿娘%^&*出外人的思乡曲%^&*东京音头%^&*可怜彼个小姑娘%^&*太太交代话%^&*海口人%^&*
+songURLs http://www.xiami.com/song/1770263871%^&*http://www.xiami.com/song/1770263872%^&*http://www.xiami.com/song/1770263873%^&*http://www.xiami.com/song/1770263874%^&*http://www.xiami.com/song/1770263875%^&*http://www.xiami.com/song/1770263876%^&*http://www.xiami.com/song/1770263877%^&*http://www.xiami.com/song/1770263878%^&*http://www.xiami.com/song/1770263879%^&*http://www.xiami.com/song/1770263880%^&*http://www.xiami.com/song/1770263881%^&*

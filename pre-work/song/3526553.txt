@@ -1,0 +1,6 @@
+number 3526553
+name 相信
+artist 蔡兴麟%^&*
+artistURL http://www.xiami.com/artist/49%^&*
+album 未完再续
+albumURL http://www.xiami.com/album/317545

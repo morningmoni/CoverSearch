@@ -1,0 +1,6 @@
+number 12108
+name Remix
+artist 韦绮姗
+introduction picture http://img.xiami.net/images/album/img20/2220/121081333952958.jpg
+songs 万片希望在明天%^&*Oh My God%^&*日月夜星也无悔%^&*相逢何必曾相识%^&*影子也冲动%^&*Oh My God (Remix)%^&*日月夜星也无悔 (Remix)%^&*相逢何必曾相识 (Remix)%^&*
+songURLs http://www.xiami.com/song/1769937765%^&*http://www.xiami.com/song/1769937766%^&*http://www.xiami.com/song/1769937767%^&*http://www.xiami.com/song/1769937768%^&*http://www.xiami.com/song/1769937769%^&*http://www.xiami.com/song/1769937770%^&*http://www.xiami.com/song/1769937771%^&*http://www.xiami.com/song/1769937772%^&*

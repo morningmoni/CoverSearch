@@ -1,0 +1,6 @@
+number 474024754
+name 五月
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img80/780/4740247541420458152.jpg
+songs 五月%^&*故乡味%^&*情沙黏袜合%^&*感情护照%^&*纸包袜条火%^&*东京恋人%^&*鸳鸯水鸭粉鸟斑甲%^&*酒鬼%^&*贴心%^&*最后的暗暝%^&*
+songURLs http://www.xiami.com/song/1772025036%^&*http://www.xiami.com/song/1772025037%^&*http://www.xiami.com/song/1772025038%^&*http://www.xiami.com/song/1772025039%^&*http://www.xiami.com/song/1772025040%^&*http://www.xiami.com/song/1772025041%^&*http://www.xiami.com/song/1772025042%^&*http://www.xiami.com/song/1772025043%^&*http://www.xiami.com/song/1772025044%^&*http://www.xiami.com/song/1772025045%^&*

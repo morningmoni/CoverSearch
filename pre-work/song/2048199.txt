@@ -1,0 +1,6 @@
+number 2048199
+name 泛黄的书签
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 精装的文章
+albumURL http://www.xiami.com/album/167246

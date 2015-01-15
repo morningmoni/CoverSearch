@@ -1,0 +1,6 @@
+number 124398
+name 路是寂寞
+artist 梁雁翎%^&*
+artistURL http://www.xiami.com/artist/1840%^&*
+album 想你
+albumURL http://www.xiami.com/album/10086

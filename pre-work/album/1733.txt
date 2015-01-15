@@ -1,0 +1,7 @@
+number 1733
+name 谁能让时间倒转
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17331398488836.jpg
+songs 谁能让时间倒转%^&*流浪的心%^&*回到昨夜的梦里%^&*爱不要说抱歉%^&*我会在回家的路上等你%^&*给了你最真的我的心%^&*晚安 我的爱%^&*当我再次接到电话的时候%^&*别再让我想起了你%^&*
+songURLs http://www.xiami.com/song/33261%^&*http://www.xiami.com/song/33262%^&*http://www.xiami.com/song/33263%^&*http://www.xiami.com/song/33264%^&*http://www.xiami.com/song/33265%^&*http://www.xiami.com/song/33266%^&*http://www.xiami.com/song/33267%^&*http://www.xiami.com/song/33268%^&*http://www.xiami.com/song/33269%^&*

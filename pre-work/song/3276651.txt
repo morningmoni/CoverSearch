@@ -1,0 +1,6 @@
+number 3276651
+name 就当我错了
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 二十岁的独白
+albumURL http://www.xiami.com/album/295395

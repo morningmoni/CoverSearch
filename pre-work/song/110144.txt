@@ -1,0 +1,6 @@
+number 110144
+name 歌唱2002MV选自《歌唱》2002
+artist 韩红%^&*
+artistURL http://www.xiami.com/artist/1590%^&*
+album 红歌汇
+albumURL http://www.xiami.com/album/8851

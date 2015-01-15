@@ -1,0 +1,7 @@
+number 4068
+name 东方之珠新纪元
+artist 邰正宵
+introduction 《东方之珠新纪元》是邰正宵的第二张精选辑，在1997年7月推出，专辑收录了唯一一首新粤语歌《东方之珠新纪元》，配合香港回归中国。
+picture http://img.xiami.net/images/album/img50/850/40681387446870.jpg
+songs 东方之珠新纪元%^&*想你想得好孤寂%^&*九百九十九朵玫瑰%^&*月光海洋梦%^&*心要让你听见%^&*找一个字代替%^&*用情太深 (粤语版)%^&*我爱你胜过这世界%^&*知己 (粤语版)%^&*爱的传说%^&*单情弦%^&*寂寞玩具%^&*怎样你才会喜欢我%^&*绝对宝贝%^&*爱不到要偷%^&*
+songURLs http://www.xiami.com/song/49802%^&*http://www.xiami.com/song/49803%^&*http://www.xiami.com/song/49804%^&*http://www.xiami.com/song/49805%^&*http://www.xiami.com/song/49806%^&*http://www.xiami.com/song/49807%^&*http://www.xiami.com/song/49808%^&*http://www.xiami.com/song/49809%^&*http://www.xiami.com/song/49810%^&*http://www.xiami.com/song/49811%^&*http://www.xiami.com/song/49812%^&*http://www.xiami.com/song/49813%^&*http://www.xiami.com/song/49814%^&*http://www.xiami.com/song/49815%^&*http://www.xiami.com/song/49816%^&*

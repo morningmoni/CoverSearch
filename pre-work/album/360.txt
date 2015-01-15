@@ -1,0 +1,6 @@
+number 360
+name 曲终残夜
+artist 陈浩德
+introduction picture http://img.xiami.net/
+songs 曲终残夜%^&*红豆相思%^&*断肠花%^&*劲草娇花%^&*嘱咐话儿莫厌烦%^&*夜夜寄相思%^&*叮咛%^&*月夜乌啼%^&*痴情恨%^&*秋月%^&*心酸酸%^&*初恋%^&*
+songURLs http://www.xiami.com/song/4354%^&*http://www.xiami.com/song/4355%^&*http://www.xiami.com/song/4356%^&*http://www.xiami.com/song/4357%^&*http://www.xiami.com/song/4358%^&*http://www.xiami.com/song/4359%^&*http://www.xiami.com/song/4360%^&*http://www.xiami.com/song/4361%^&*http://www.xiami.com/song/4362%^&*http://www.xiami.com/song/4363%^&*http://www.xiami.com/song/4364%^&*http://www.xiami.com/song/4365%^&*

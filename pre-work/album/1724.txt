@@ -1,0 +1,7 @@
+number 1724
+name 爱情香
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17241398489230.jpg
+songs 爱情香%^&*蓝色计程车%^&*十字街口%^&*衡量%^&*未曾留下地址%^&*给我你的爱%^&*秘密收藏%^&*你怎么忍心让我哭%^&*树的回忆%^&*难释怀%^&*
+songURLs http://www.xiami.com/song/385517%^&*http://www.xiami.com/song/385518%^&*http://www.xiami.com/song/385519%^&*http://www.xiami.com/song/385520%^&*http://www.xiami.com/song/385521%^&*http://www.xiami.com/song/385522%^&*http://www.xiami.com/song/385523%^&*http://www.xiami.com/song/385524%^&*http://www.xiami.com/song/385525%^&*http://www.xiami.com/song/385526%^&*

@@ -1,0 +1,6 @@
+number 3012
+name 恋爱预告
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 完全 陈百强
+albumURL http://www.xiami.com/album/248

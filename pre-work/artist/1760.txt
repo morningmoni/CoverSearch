@@ -1,0 +1,7 @@
+number 1760
+name 雷安娜Annabelle Louie
+place China 中国大陆
+introduction 雷安娜，英文名Annabelle Louie，原名雷蕙薇，1959年7月4日生于英属香港，家中有五兄弟姐妹。曾以《人在旅途洒泪时》（合唱：关正杰）和《旧梦不须记》一炮而红，迅速在乐坛奠定地位，后来的《彩云曲》、《痴情劫》和《停不了的爱》（合唱：彭健新）亦能保持声势，是八十年代前中期大受欢迎的女歌手。雷安娜已于八十年代移民加国。
+picture http://img.xiami.net/images/artistlogo/17/14182150967417.jpg
+albums 雷安娜 全新录音%^&*环球真经典系列%^&*追忆旧梦%^&*情永远%^&*情尽%^&*太阳留住我%^&*雷安娜精选%^&*不再一样%^&*温馨集%^&*痴情劫%^&*彩云曲%^&*旧梦不须记%^&*
+albumURLs http://www.xiami.com/album/416722%^&*http://www.xiami.com/album/9726%^&*http://www.xiami.com/album/1387261140%^&*http://www.xiami.com/album/9728%^&*http://www.xiami.com/album/9729%^&*http://www.xiami.com/album/9730%^&*http://www.xiami.com/album/9732%^&*http://www.xiami.com/album/9731%^&*http://www.xiami.com/album/9733%^&*http://www.xiami.com/album/9734%^&*http://www.xiami.com/album/9735%^&*http://www.xiami.com/album/9736%^&*

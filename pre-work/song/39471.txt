@@ -1,0 +1,6 @@
+number 39471
+name 情丝剪不断
+artist 夏雨%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%A4%8F%E9%9B%A8%^&*
+album 禅院钟声
+albumURL http://www.xiami.com/album/3207

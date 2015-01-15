@@ -1,0 +1,7 @@
+number 2737
+name 恭喜、恭喜、恭喜发大财
+artist 林曜
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10114076247m_2.jpg
+songs 恭喜发财%^&*恭喜恭喜%^&*大地回春%^&*拜年%^&*春%^&*合家欢%^&*武术迎春%^&*陋巷之春%^&*迎春接福%^&*大家过个太平年%^&*春之晨%^&*迎春花%^&*贺新年%^&*恭喜大家新年好%^&*欢迎新年%^&*
+songURLs http://www.xiami.com/song/21581%^&*http://www.xiami.com/song/21582%^&*http://www.xiami.com/song/21583%^&*http://www.xiami.com/song/21584%^&*http://www.xiami.com/song/21585%^&*http://www.xiami.com/song/21586%^&*http://www.xiami.com/song/21587%^&*http://www.xiami.com/song/21588%^&*http://www.xiami.com/song/21589%^&*http://www.xiami.com/song/21590%^&*http://www.xiami.com/song/21591%^&*http://www.xiami.com/song/21592%^&*http://www.xiami.com/song/21593%^&*http://www.xiami.com/song/21594%^&*http://www.xiami.com/song/21595%^&*

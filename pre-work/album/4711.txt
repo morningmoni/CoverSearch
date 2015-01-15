@@ -1,0 +1,6 @@
+number 4711
+name 情商·情伤
+artist 文章
+introduction picture http://img.xiami.net/images/album/img40/940/4711.jpg
+songs 情商%^&*我说爱人(情伤)%^&*爱我或是让我孤独%^&*心的长城%^&*这一季的思念向我吹来%^&*锦绣的裸体国王%^&*思念天天%^&*为你我都情愿%^&*看我听我%^&*梦醒愁未醒%^&*
+songURLs http://www.xiami.com/song/57042%^&*http://www.xiami.com/song/57043%^&*http://www.xiami.com/song/57044%^&*http://www.xiami.com/song/57045%^&*http://www.xiami.com/song/57046%^&*http://www.xiami.com/song/57047%^&*http://www.xiami.com/song/57048%^&*http://www.xiami.com/song/57049%^&*http://www.xiami.com/song/57050%^&*http://www.xiami.com/song/57051%^&*

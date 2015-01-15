@@ -1,0 +1,6 @@
+number 3685
+name 你有没有一个叫做寂寞的朋友
+artist 潘协庆
+introduction picture http://img.xiami.net/images/album/img70/770/36851405303493.jpg
+songs 你有没有一个叫做寂寞的朋友%^&*爱情不在的日子%^&*别靠我太近%^&*为爱再一次受伤%^&*放心地走%^&*深爱如昨%^&*该不该%^&*寂寞就像一双手%^&*没有人的爱比我多%^&*分手背后%^&*
+songURLs http://www.xiami.com/song/45311%^&*http://www.xiami.com/song/45312%^&*http://www.xiami.com/song/45313%^&*http://www.xiami.com/song/45314%^&*http://www.xiami.com/song/45315%^&*http://www.xiami.com/song/45316%^&*http://www.xiami.com/song/45317%^&*http://www.xiami.com/song/45318%^&*http://www.xiami.com/song/45319%^&*http://www.xiami.com/song/45320%^&*

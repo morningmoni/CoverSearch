@@ -1,0 +1,6 @@
+number 381198
+name 飞行船
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3811981274152720.jpg
+songs 飞行船%^&*耶利亚女郎%^&*爱像什么%^&*星之永恒%^&*爱的绿洲%^&*想念%^&*热线你和我%^&*约会%^&*太阳一样%^&*谁留下的眼泪%^&*台北细雨%^&*
+songURLs http://www.xiami.com/song/1769521461%^&*http://www.xiami.com/song/1769521462%^&*http://www.xiami.com/song/1769521463%^&*http://www.xiami.com/song/1769521464%^&*http://www.xiami.com/song/1769521465%^&*http://www.xiami.com/song/1769521466%^&*http://www.xiami.com/song/1769521467%^&*http://www.xiami.com/song/1769521468%^&*http://www.xiami.com/song/1769521470%^&*http://www.xiami.com/song/1769521469%^&*http://www.xiami.com/song/1769521471%^&*

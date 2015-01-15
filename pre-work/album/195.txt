@@ -1,0 +1,7 @@
+number 195
+name 金曲会知音
+artist 蔡镇冲
+introduction GCD 2216
+picture http://img.xiami.net/images/pic/04/04/10127538887m_2.jpg
+songs 雨中情侣%^&*爱的苦酒%^&*空留回忆%^&*爱在虚无飘渺间%^&*我的娜娜%^&*难忘昨夜情%^&*不要再彷徨%^&*为什么要流泪%^&*为什么忘不了%^&*梅花梦%^&*良夜不能留%^&*最后的夜快车%^&*为什么不回头%^&*谁的错%^&*你最美丽你最亲%^&*痴情恨%^&*三分钟的爱%^&*不要离开我%^&*爱你呀爱你%^&*恨海%^&*
+songURLs http://www.xiami.com/song/2398%^&*http://www.xiami.com/song/2399%^&*http://www.xiami.com/song/2400%^&*http://www.xiami.com/song/2401%^&*http://www.xiami.com/song/2402%^&*http://www.xiami.com/song/2403%^&*http://www.xiami.com/song/2404%^&*http://www.xiami.com/song/2405%^&*http://www.xiami.com/song/2406%^&*http://www.xiami.com/song/2407%^&*http://www.xiami.com/song/2408%^&*http://www.xiami.com/song/2409%^&*http://www.xiami.com/song/2410%^&*http://www.xiami.com/song/2411%^&*http://www.xiami.com/song/2412%^&*http://www.xiami.com/song/2413%^&*http://www.xiami.com/song/2414%^&*http://www.xiami.com/song/2415%^&*http://www.xiami.com/song/2416%^&*http://www.xiami.com/song/2417%^&*

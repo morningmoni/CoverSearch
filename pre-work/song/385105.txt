@@ -1,0 +1,6 @@
+number 385105
+name 只要有你能懂我
+artist 陈耀川%^&*
+artistURL http://www.xiami.com/artist/132%^&*
+album 我始终爱你
+albumURL http://www.xiami.com/album/564

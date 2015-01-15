@@ -1,0 +1,7 @@
+number 9551
+name 金海心 同名专辑
+artist 金海心
+introduction 
+picture http://img.xiami.net/images/album/img20/1720/9551.jpg
+songs 此时·彼刻%^&*对他说%^&*对岸%^&*Hello%^&*悲伤的秋千%^&*她比我懂你吗%^&*两分钟%^&*爱的风度%^&*听见%^&*马戏团%^&*Message Lover%^&*
+songURLs http://www.xiami.com/song/384221%^&*http://www.xiami.com/song/384222%^&*http://www.xiami.com/song/384223%^&*http://www.xiami.com/song/384224%^&*http://www.xiami.com/song/384225%^&*http://www.xiami.com/song/384226%^&*http://www.xiami.com/song/384227%^&*http://www.xiami.com/song/384228%^&*http://www.xiami.com/song/384229%^&*http://www.xiami.com/song/384230%^&*http://www.xiami.com/song/384231%^&*

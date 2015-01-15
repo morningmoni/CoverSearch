@@ -1,0 +1,6 @@
+number 13554
+name 新曲精选
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/135541415774190.jpg
+songs 遮掩%^&*从头开始%^&*你真的可以忘记我吗?%^&*盛世恋%^&*一冷一热%^&*Love Me Tonight%^&*恋爱伤身%^&*醉了%^&*爱我彻底%^&*相会已无期%^&*回来亲我%^&*情难偷%^&*烟花夜情迷%^&*
+songURLs http://www.xiami.com/song/166864%^&*http://www.xiami.com/song/166865%^&*http://www.xiami.com/song/166866%^&*http://www.xiami.com/song/166867%^&*http://www.xiami.com/song/166868%^&*http://www.xiami.com/song/166869%^&*http://www.xiami.com/song/166870%^&*http://www.xiami.com/song/166871%^&*http://www.xiami.com/song/166872%^&*http://www.xiami.com/song/166873%^&*http://www.xiami.com/song/166874%^&*http://www.xiami.com/song/166875%^&*http://www.xiami.com/song/166876%^&*

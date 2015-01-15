@@ -1,0 +1,6 @@
+number 191199
+name 等你回头
+artist 李恩邦
+introduction picture http://img.xiami.net/images/album/img10/510/1911991314150873.jpg
+songs 等你回头%^&*真情难久%^&*不妨让我疼一疼%^&*有与没有之间%^&*离开你的伤悲%^&*起风%^&*爱一个人多疯狂%^&*你比酒还烈%^&*我是真的在乎%^&*1995在台北%^&*
+songURLs http://www.xiami.com/song/2308395%^&*http://www.xiami.com/song/2308396%^&*http://www.xiami.com/song/2308397%^&*http://www.xiami.com/song/2308398%^&*http://www.xiami.com/song/2308399%^&*http://www.xiami.com/song/2308400%^&*http://www.xiami.com/song/2308401%^&*http://www.xiami.com/song/2308402%^&*http://www.xiami.com/song/2308403%^&*http://www.xiami.com/song/2308404%^&*

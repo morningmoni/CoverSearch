@@ -1,0 +1,7 @@
+number 1460
+name 春妹
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/11982194535470.jpg
+albums 原住民山地情歌2%^&*原住民山地情歌1%^&*
+albumURLs http://www.xiami.com/album/7769%^&*http://www.xiami.com/album/7768%^&*

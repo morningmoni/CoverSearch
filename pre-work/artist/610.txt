@@ -1,0 +1,7 @@
+number 610
+name 汉洋Hon Yeung / 林汉洋
+place Hongkong 香港
+introduction 小档案出生日期：4月7日星座 ：白羊座身高 ：170cm体重 ：57 kgs籍贯 ：香港最喜欢的颜色：黑色、白色最喜欢的国家：香港最喜欢的季节：秋季最喜欢的节日：圣诞节最喜欢的食物：生果、朱古力最喜欢的运动：桌球、壁球、篮球、足球最喜欢的服装：牛仔裤最喜欢的乐器：钢琴、结他最喜欢的歌手：Michael Jackson、张学友最喜欢的歌曲：Hotel California、偿还、亲密爱人最喜欢的演员：周润发、罗拔迪尼路最喜欢的植物：圣诞花、玫瑰花幸运数字：4、7
+picture http://img.xiami.net/images/artistlogo/24/14145596095424.jpg
+albums 【合并】期待%^&*宁愿单身%^&*偷听女人心%^&*等待%^&*New Born%^&*
+albumURLs http://www.xiami.com/album/14031814%^&*http://www.xiami.com/album/1794697127%^&*http://www.xiami.com/album/429593%^&*http://www.xiami.com/album/2663%^&*http://www.xiami.com/album/2664%^&*

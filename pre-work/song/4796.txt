@@ -1,0 +1,6 @@
+number 4796
+name 行一步 叹一声
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 台湾话·莎哟娜啦探戈
+albumURL http://www.xiami.com/album/399

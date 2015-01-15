@@ -1,0 +1,7 @@
+number 50
+name Pine Tree
+artist 강타
+introduction 
+picture http://img.xiami.net/images/album/img19/19/50.jpg
+songs 햇살%^&*Happy Happy%^&*사랑은 기억보다%^&*Propose%^&*바다%^&*고백%^&*The Best%^&*노을%^&*추억은 기억보다%^&*Flower%^&*2032 In Cuba%^&*눈%^&*야상곡%^&*이별 후에는%^&*상록수%^&*
+songURLs http://www.xiami.com/song/3402341%^&*http://www.xiami.com/song/3402342%^&*http://www.xiami.com/song/3402343%^&*http://www.xiami.com/song/3402344%^&*http://www.xiami.com/song/3402345%^&*http://www.xiami.com/song/3402346%^&*http://www.xiami.com/song/3402347%^&*http://www.xiami.com/song/3402348%^&*http://www.xiami.com/song/3402349%^&*http://www.xiami.com/song/3402350%^&*http://www.xiami.com/song/3402351%^&*http://www.xiami.com/song/3402352%^&*http://www.xiami.com/song/3402353%^&*http://www.xiami.com/song/3402354%^&*http://www.xiami.com/song/3402355%^&*

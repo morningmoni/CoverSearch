@@ -1,0 +1,6 @@
+number 3103
+name 难忘的初次
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 我的心底话(珍藏集)
+albumURL http://www.xiami.com/album/250

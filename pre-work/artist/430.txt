@@ -1,0 +1,7 @@
+number 430
+name 纪宏仁
+place Taiwan 台湾
+introduction 纪宏仁毕业于台南市长荣中学，他的父亲是牧师，母亲是钢琴教师，从小他就随着母亲学习钢琴，并参加了教会献诗班的男高音部，就此奠立了他的音乐基础。1985年前后，岛内初初吹起一阵MIDI风，而在这股风潮之下，热衷于MIDI与舞曲的纪宏仁便与一群同好组成Box，企图在乐坛有一番作为。刚好当时红到发烫的丘丘合唱团唯一的女性成员娃娃（金智娟）落单之后有了新尝试，就是与纪宏仁主导的Box工作室合作。以"娃娃withBox"之名在新格旗下推出两张专辑《娃娃WithBox》《心中的秘密》。后来虽然两人传出恋曲，但还是选择各自单飞，娃娃加入李寿全的RIO工作室到飞碟发展，纪宏仁则被滚石网罗成为滚石的第一位新人，这时候他24岁。
+picture http://img.xiami.net/images/artist/11996743362919.jpg
+albums 纪宏仁的舞夜电话%^&*这次来真的%^&*圣诞音乐盒%^&*我的心里只有你没有她%^&*恋舞情结%^&*
+albumURLs http://www.xiami.com/album/1886%^&*http://www.xiami.com/album/1885%^&*http://www.xiami.com/album/1887%^&*http://www.xiami.com/album/318612%^&*http://www.xiami.com/album/1888%^&*

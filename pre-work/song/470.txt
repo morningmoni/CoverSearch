@@ -1,0 +1,6 @@
+number 470
+name 昆仑
+artist 艾尔肯%^&*
+artistURL http://www.xiami.com/artist/16%^&*
+album 博客
+albumURL http://www.xiami.com/album/39

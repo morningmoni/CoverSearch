@@ -1,0 +1,6 @@
+number 2441
+name Oh my friend
+artist 苍宇%^&*
+artistURL http://www.xiami.com/artist/54%^&*
+album Oh My Friend
+albumURL http://www.xiami.com/album/198

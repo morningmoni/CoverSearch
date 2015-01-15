@@ -1,0 +1,7 @@
+number 238
+name 我以为你是流过泪的人
+artist 车继铃
+introduction 
+picture http://img.xiami.net/images/album/img0/2381284700124.jpg
+songs 我以为你是流过泪的人%^&*如果还有明天%^&*最远的你是我最近的爱%^&*告诉我 亲爱的你%^&*不要在冷漠的边界等我%^&*罐头梦%^&*真情几许有%^&*想的说的做的%^&*伤感列车%^&*向前看%^&*一见钟情%^&*
+songURLs http://www.xiami.com/song/2890%^&*http://www.xiami.com/song/2891%^&*http://www.xiami.com/song/2892%^&*http://www.xiami.com/song/2893%^&*http://www.xiami.com/song/2894%^&*http://www.xiami.com/song/2895%^&*http://www.xiami.com/song/2896%^&*http://www.xiami.com/song/2897%^&*http://www.xiami.com/song/2898%^&*http://www.xiami.com/song/2899%^&*http://www.xiami.com/song/2900%^&*

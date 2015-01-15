@@ -1,0 +1,7 @@
+number 3367335
+name 流浪诗人
+artist 周杰伦%^&*杨瑞代%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E6%9D%B0%E4%BC%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%A8%E7%91%9E%E4%BB%A3%^&*
+album 魔杰座
+albumURL http://www.xiami.com/album/304683

@@ -1,0 +1,6 @@
+number 540288
+name 烧翻卖
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img0/100/5402881346812915.jpg
+songs 浪子泪%^&*爱情不要卖%^&*恋恋恋%^&*怀念的人%^&*码头酒%^&*我是为你好%^&*罗汉脚仔%^&*丑丑啊思相枝%^&*有影无%^&*自然就是美%^&*往事就是我的安慰%^&*风真透%^&*
+songURLs http://www.xiami.com/song/1771291285%^&*http://www.xiami.com/song/1771291286%^&*http://www.xiami.com/song/1771291287%^&*http://www.xiami.com/song/1771291288%^&*http://www.xiami.com/song/1771291289%^&*http://www.xiami.com/song/1771291290%^&*http://www.xiami.com/song/1771291291%^&*http://www.xiami.com/song/1771291292%^&*http://www.xiami.com/song/1771291293%^&*http://www.xiami.com/song/1771291294%^&*http://www.xiami.com/song/1771291295%^&*http://www.xiami.com/song/1771291296%^&*

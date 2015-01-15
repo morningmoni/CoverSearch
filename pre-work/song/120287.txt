@@ -1,0 +1,7 @@
+number 120287
+name 暂别MV
+artist 谭咏麟%^&*雷安娜%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B0%AD%E5%92%8F%E9%BA%9F%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%9B%B7%E5%AE%89%E5%A8%9C%^&*
+album 雷安娜精选
+albumURL http://www.xiami.com/album/9732

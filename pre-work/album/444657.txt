@@ -1,0 +1,6 @@
+number 444657
+name 出外的囡仔
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img94/240094/1307240094.jpg
+songs 出外的囝仔%^&*红色的地毯%^&*爱你不敢讲%^&*高雄追想曲%^&*变色的恋花%^&*来去湿两杯%^&*做朋友诚恳作伙%^&*情海渡船%^&*监狱浪子泪%^&*梦醒也留恋%^&*杉林溪之恋%^&*慈母爱%^&*
+songURLs http://www.xiami.com/song/1770252683%^&*http://www.xiami.com/song/1770252684%^&*http://www.xiami.com/song/1770252685%^&*http://www.xiami.com/song/1770252686%^&*http://www.xiami.com/song/1770252687%^&*http://www.xiami.com/song/1770252688%^&*http://www.xiami.com/song/1770252689%^&*http://www.xiami.com/song/1770252690%^&*http://www.xiami.com/song/1770252691%^&*http://www.xiami.com/song/1770252692%^&*http://www.xiami.com/song/1770252693%^&*http://www.xiami.com/song/1770252694%^&*

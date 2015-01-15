@@ -1,0 +1,6 @@
+number 106638
+name 聪明一点
+artist 高慧君%^&*
+artistURL http://www.xiami.com/artist/1550%^&*
+album 忘了
+albumURL http://www.xiami.com/album/8574

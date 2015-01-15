@@ -1,0 +1,6 @@
+number 102499
+name Stay
+artist 范文芳%^&*
+artistURL http://www.xiami.com/artist/1510%^&*
+album 没有问题
+albumURL http://www.xiami.com/album/8250

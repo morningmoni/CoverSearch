@@ -1,0 +1,7 @@
+number 32627
+name 我很忙
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/326271380418226.jpg
+songs 牛仔很忙%^&*彩虹%^&*青花瓷%^&*阳光宅男%^&*蒲公英的约定%^&*无双%^&*我不配(距离)%^&*扯%^&*甜甜的%^&*最长的电影%^&*
+songURLs http://www.xiami.com/song/388453%^&*http://www.xiami.com/song/388454%^&*http://www.xiami.com/song/388455%^&*http://www.xiami.com/song/388456%^&*http://www.xiami.com/song/388457%^&*http://www.xiami.com/song/388458%^&*http://www.xiami.com/song/388459%^&*http://www.xiami.com/song/388460%^&*http://www.xiami.com/song/388461%^&*http://www.xiami.com/song/389118%^&*

@@ -1,0 +1,6 @@
+number 4535
+name Shall We Talk
+artist 陈辉阳%^&*
+artistURL http://www.xiami.com/artist/89%^&*
+album 声音变魔术
+albumURL http://www.xiami.com/album/374

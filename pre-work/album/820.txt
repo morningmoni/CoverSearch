@@ -1,0 +1,7 @@
+number 820
+name 送别
+artist 杜冲
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10120835536m_2.jpg
+songs 送君%^&*恋痕%^&*采槟榔%^&*我要为你歌唱%^&*蒙蒙细雨忆当年%^&*秋月%^&*何日君再来%^&*第二春%^&*月满西楼%^&*何必旁人来说媒%^&*西湖之春%^&*送别%^&*明月千里寄相思%^&*甜蜜的梦%^&*
+songURLs http://www.xiami.com/song/9796%^&*http://www.xiami.com/song/9797%^&*http://www.xiami.com/song/9798%^&*http://www.xiami.com/song/9799%^&*http://www.xiami.com/song/9800%^&*http://www.xiami.com/song/9801%^&*http://www.xiami.com/song/9802%^&*http://www.xiami.com/song/9803%^&*http://www.xiami.com/song/9804%^&*http://www.xiami.com/song/9805%^&*http://www.xiami.com/song/9806%^&*http://www.xiami.com/song/9807%^&*http://www.xiami.com/song/9808%^&*http://www.xiami.com/song/9809%^&*

@@ -1,0 +1,6 @@
+number 348
+name 钢琴之爱 十年经典
+artist 陈冠宇
+introduction picture http://img.xiami.net/images/pic/04/01/10001837344m_2.jpg
+songs 情网%^&*爱如潮水%^&*太傻%^&*忘情水%^&*让我欢喜让我忧%^&*美丽花蝴蝶%^&*出嫁%^&*用心良苦%^&*明明白白我的心%^&*执迷不悔%^&*认错%^&*当爱已成往事%^&*
+songURLs http://www.xiami.com/song/4210%^&*http://www.xiami.com/song/4211%^&*http://www.xiami.com/song/4212%^&*http://www.xiami.com/song/4213%^&*http://www.xiami.com/song/4214%^&*http://www.xiami.com/song/4215%^&*http://www.xiami.com/song/4216%^&*http://www.xiami.com/song/4217%^&*http://www.xiami.com/song/4218%^&*http://www.xiami.com/song/4219%^&*http://www.xiami.com/song/4220%^&*http://www.xiami.com/song/4221%^&*

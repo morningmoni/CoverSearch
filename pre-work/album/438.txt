@@ -1,0 +1,6 @@
+number 438
+name 河堤上的傻瓜
+artist 陈山河
+introduction picture http://img.xiami.net/images/album/img16/116/4381404970849.jpg
+songs 河堤上的傻瓜%^&*妈咪其实我好爱你%^&*See You Again%^&*我已非我%^&*Send Her My Love%^&*被爱真幸福%^&*少年%^&*我的心透明得看的见%^&*做梦%^&*真的谢谢你%^&*
+songURLs http://www.xiami.com/song/5254%^&*http://www.xiami.com/song/5255%^&*http://www.xiami.com/song/5256%^&*http://www.xiami.com/song/5257%^&*http://www.xiami.com/song/5258%^&*http://www.xiami.com/song/5259%^&*http://www.xiami.com/song/5260%^&*http://www.xiami.com/song/5261%^&*http://www.xiami.com/song/5262%^&*http://www.xiami.com/song/5263%^&*

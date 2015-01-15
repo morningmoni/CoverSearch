@@ -1,0 +1,6 @@
+number 1773264523
+name Daisy Jane
+artist 曹松章%^&*
+artistURL http://www.xiami.com/artist/60%^&*
+album 名字，另一章
+albumURL http://www.xiami.com/album/402304731

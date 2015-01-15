@@ -1,0 +1,6 @@
+number 349
+name 古典琴诉
+artist 陈冠宇
+introduction picture http://img.xiami.net/images/pic/04/01/10002243217m_2.jpg
+songs 舒曼梦幻曲作品15, 第7首%^&*萧邦降A大调圆舞曲作品42%^&*贝多芬C小调第8号钢琴奏鸣曲%^&*萧邦如歌的行版与光辉的大波兰舞曲作品22%^&*拉威尔前奏曲.里高东舞曲.触技曲(选自库普兰之墓)%^&*
+songURLs http://www.xiami.com/song/4222%^&*http://www.xiami.com/song/4223%^&*http://www.xiami.com/song/4224%^&*http://www.xiami.com/song/4225%^&*http://www.xiami.com/song/4226%^&*

@@ -1,0 +1,7 @@
+number 1771545991
+name 傻笑
+artist 周杰伦%^&*袁咏琳%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E6%9D%B0%E4%BC%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%A2%81%E5%92%8F%E7%90%B3%^&*
+album 十二新作
+albumURL http://www.xiami.com/album/561777

@@ -1,0 +1,7 @@
+number 210703
+name 唱歌给你听 Live演唱会实况
+artist 阿牛
+introduction 你越疼爱阿牛，阿牛越爱唱歌给你听！本专辑为《个人第一张创作专辑》跨年版的附赠CD。演唱会实况： 「齐牛拜年」大送红包， 任贤齐两肋插刀牵「牛」LIVE合唱3首... 阿牛陈庆祥个人第一张创作专辑阿牛牵到台湾还是阿牛就像在原产地喝下第一口第一手的现挤鲜奶每一个歌手的第一张专辑...
+picture http://img.xiami.net/images/album/img22/22/2107031341378056.jpg
+songs 城市蓝天 (Live)%^&*对面的女孩看过来 (Live)%^&*踩三轮车卖菜的老伯 (Live)%^&*
+songURLs http://www.xiami.com/song/1771137899%^&*http://www.xiami.com/song/1771137900%^&*http://www.xiami.com/song/1771137901%^&*

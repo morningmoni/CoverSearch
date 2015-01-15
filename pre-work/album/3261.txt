@@ -1,0 +1,9 @@
+number 3261
+name 国泰民安
+artist 吕继宏
+introduction 中国唱片深圳公司出版发行
+ISRC CN-F31-02-442-00/A.J6《吕继宏 国泰民安》吕继宏，男高音歌唱家，海政文工团副团长，国家一级演员，中国音乐家协会会员，是近年来活跃在中国歌坛的实力派歌唱家之一。享受国务院颁发的特殊政府津贴。他的演唱充满激情，善于以情感人，能够把握各类歌曲的演唱风格，韵味较足；舞台形象热情、潇洒。并曾在歌剧《红珊瑚》和大型音乐剧《赤道雨》中成功地扮演了男主角。现师从于金铁林教授。近年来多次参加中央电视台及各地方合举办的大型文艺晚会，曾多次代表 国家和军队出访德国、俄罗斯、菲律宾、泰国、美国等国，深受国内外观众的喜爱和欢迎。
+    二十载演唱生涯积淀，二十年艺术历程回顾。华夏歌坛实力歌唱家，独具魅力的抒情王子。潇洒自如，深情悠扬，经典曲目，精彩演唱。
+picture http://img.xiami.net/images/album/img0/700/32611307501966.jpg
+songs 可爱的一朵玫瑰花%^&*昨天的故事%^&*牧羊姑娘%^&*国泰民安%^&*咱老百姓%^&*百里漓江,百里画廊%^&*妈妈的歌谣%^&*光明行%^&*向快乐看齐%^&*再见了,大别山%^&*中华美,中华亲%^&*莎黛%^&*我像雪花天上来%^&*好男儿纵横天下%^&*小白鹿%^&*咱老百姓(伴奏)%^&*妈妈的歌谣(伴奏)%^&*再见了,大别山(伴奏)%^&*
+songURLs http://www.xiami.com/song/40069%^&*http://www.xiami.com/song/40070%^&*http://www.xiami.com/song/40071%^&*http://www.xiami.com/song/40072%^&*http://www.xiami.com/song/40073%^&*http://www.xiami.com/song/40074%^&*http://www.xiami.com/song/40075%^&*http://www.xiami.com/song/40076%^&*http://www.xiami.com/song/40077%^&*http://www.xiami.com/song/40078%^&*http://www.xiami.com/song/40079%^&*http://www.xiami.com/song/40080%^&*http://www.xiami.com/song/40081%^&*http://www.xiami.com/song/40082%^&*http://www.xiami.com/song/40083%^&*http://www.xiami.com/song/40084%^&*http://www.xiami.com/song/40085%^&*http://www.xiami.com/song/40086%^&*

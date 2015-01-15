@@ -1,0 +1,6 @@
+number 5785
+name 朋友一直都在MV
+artist 陈伟联%^&*
+artistURL http://www.xiami.com/artist/124%^&*
+album 我只是想要…
+albumURL http://www.xiami.com/album/484

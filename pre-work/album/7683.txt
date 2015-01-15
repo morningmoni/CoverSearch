@@ -1,0 +1,7 @@
+number 7683
+name 化妆师
+artist 陈小霞
+introduction 继1991年的大脚姐仔之后，陈小霞的第二张专辑也在两年后发行，延续上一张的叙事型态，化妆师让人感觉更深入自己内心的世界，这是一张没有太大情绪起伏的专辑。没有写爱却富有浓浓的感情让人回味再三；没有强势的说教却让人留下了印象、留下了省思。在这张专辑中我们可以闻到一种气味，好像是隔壁的妈妈在炖着中药材香料的料理，飘到我们的跟前时，是种恰到好处的渴望又好像是在梦呓中喊出的一些梦话，旁人听得清楚，自己醒来却毫无印象。听她的歌声似乎隔了一层纱，不知道这是否刻意营造&hellip;&hellip;忽近忽远，熟悉却不了解。
+picture http://img.xiami.net/images/album/img30/1430/7683.jpg
+songs 化妆师%^&*妈妈心内有一条歌%^&*淡薄%^&*放风吹%^&*尚旧的心衫%^&*幕%^&*异乡的雨%^&*心内的旧曲盘%^&*照镜%^&*清气的所在%^&*
+songURLs http://www.xiami.com/song/94431%^&*http://www.xiami.com/song/94432%^&*http://www.xiami.com/song/94433%^&*http://www.xiami.com/song/94434%^&*http://www.xiami.com/song/94435%^&*http://www.xiami.com/song/94436%^&*http://www.xiami.com/song/94437%^&*http://www.xiami.com/song/94438%^&*http://www.xiami.com/song/94439%^&*http://www.xiami.com/song/94440%^&*

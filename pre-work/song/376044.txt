@@ -1,0 +1,7 @@
+number 376044
+name 珊瑚海
+artist 周杰伦%^&*梁心颐%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E6%9D%B0%E4%BC%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%81%E5%BF%83%E9%A2%90%^&*
+album 十一月的萧邦
+albumURL http://www.xiami.com/album/6643

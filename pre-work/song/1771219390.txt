@@ -1,0 +1,6 @@
+number 1771219390
+name 忘了你忘了我
+artist 青春派对%^&*
+artistURL http://www.xiami.com/artist/2970%^&*
+album 青春派对1
+albumURL http://www.xiami.com/album/15287

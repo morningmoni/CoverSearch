@@ -1,0 +1,6 @@
+number 2416
+name 爱你呀爱你
+artist 蔡镇冲%^&*
+artistURL http://www.xiami.com/artist/52%^&*
+album 金曲会知音
+albumURL http://www.xiami.com/album/195

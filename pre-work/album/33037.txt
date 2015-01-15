@@ -1,0 +1,7 @@
+number 33037
+name 我不配
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/330371387370862.jpg
+songs 我不配%^&*谁让你想到哭%^&*我爱过你%^&*幸福任意门%^&*茶汤%^&*低调情歌%^&*同林鸟%^&*My Shanghai%^&*泪流一千遍%^&*漂流岛%^&*我很特殊%^&*
+songURLs http://www.xiami.com/song/394454%^&*http://www.xiami.com/song/394455%^&*http://www.xiami.com/song/394456%^&*http://www.xiami.com/song/394457%^&*http://www.xiami.com/song/394458%^&*http://www.xiami.com/song/394459%^&*http://www.xiami.com/song/394460%^&*http://www.xiami.com/song/394461%^&*http://www.xiami.com/song/394462%^&*http://www.xiami.com/song/394463%^&*http://www.xiami.com/song/394464%^&*

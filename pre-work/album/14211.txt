@@ -1,0 +1,7 @@
+number 14211
+name 心中要有佛
+artist 般若海合唱团
+introduction 
+picture http://img.xiami.net/images/album/img40/2640/14211.jpg
+songs 心中要有佛%^&*释念%^&*极乐净土%^&*大家来做阿弥陀佛%^&*自如%^&*
+songURLs http://www.xiami.com/song/175501%^&*http://www.xiami.com/song/175502%^&*http://www.xiami.com/song/175503%^&*http://www.xiami.com/song/175504%^&*http://www.xiami.com/song/175505%^&*

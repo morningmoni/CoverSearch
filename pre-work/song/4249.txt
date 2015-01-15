@@ -1,0 +1,6 @@
+number 4249
+name 问
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 严选经典最超值保存版
+albumURL http://www.xiami.com/album/352

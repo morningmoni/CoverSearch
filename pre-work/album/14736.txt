@@ -1,0 +1,7 @@
+number 14736
+name 昨天·今天·下雨天
+artist 红苹果女子合唱组
+introduction 
+picture http://img.xiami.net/images/album/img0/2800/14736.jpg
+songs 只求相爱过一生%^&*旧梦不须记%^&*感情的段落%^&*陌上归人%^&*每日怀念你%^&*相识也是缘份%^&*昨天、今天、下雨天%^&*何必曾相识%^&*再见亦是朋友%^&*祝福%^&*每当变幻时%^&*万水千山总是情%^&*纷飞燕%^&*
+songURLs http://www.xiami.com/song/181609%^&*http://www.xiami.com/song/181610%^&*http://www.xiami.com/song/181611%^&*http://www.xiami.com/song/181612%^&*http://www.xiami.com/song/181613%^&*http://www.xiami.com/song/181614%^&*http://www.xiami.com/song/181615%^&*http://www.xiami.com/song/181616%^&*http://www.xiami.com/song/181617%^&*http://www.xiami.com/song/181618%^&*http://www.xiami.com/song/181619%^&*http://www.xiami.com/song/181620%^&*http://www.xiami.com/song/181621%^&*

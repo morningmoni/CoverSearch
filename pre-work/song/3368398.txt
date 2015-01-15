@@ -1,0 +1,6 @@
+number 3368398
+name 花(铜铃花)
+artist 黄莺莺%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E8%8E%BA%E8%8E%BA%^&*
+album 音乐与生命的对话 李泰祥音乐经典
+albumURL http://www.xiami.com/album/304779

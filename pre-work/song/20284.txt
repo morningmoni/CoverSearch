@@ -1,0 +1,7 @@
+number 20284
+name 另一首歌另一个伤心故事
+artist 梁文福%^&*潘盈%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%81%E6%96%87%E7%A6%8F%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%BD%98%E7%9B%88%^&*
+album 好与不好之外
+albumURL http://www.xiami.com/album/2622

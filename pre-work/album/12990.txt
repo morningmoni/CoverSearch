@@ -1,0 +1,7 @@
+number 12990
+name 恋爱中的女人
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/12990.jpg
+songs 天变地变情不变%^&*你善变的心%^&*红颜美人多薄命%^&*与你缠绵%^&*谁？%^&*轰轰烈烈去爱%^&*情不自禁%^&*玩火自焚%^&*LIAR%^&*别离歌%^&*
+songURLs http://www.xiami.com/song/374146%^&*http://www.xiami.com/song/374147%^&*http://www.xiami.com/song/374148%^&*http://www.xiami.com/song/374149%^&*http://www.xiami.com/song/374150%^&*http://www.xiami.com/song/374151%^&*http://www.xiami.com/song/374152%^&*http://www.xiami.com/song/374153%^&*http://www.xiami.com/song/374154%^&*http://www.xiami.com/song/374155%^&*

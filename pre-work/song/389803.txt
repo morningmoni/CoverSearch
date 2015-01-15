@@ -1,0 +1,6 @@
+number 389803
+name 爸妈的话
+artist 泳儿%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B3%B3%E5%84%BF%^&*
+album 宝贝计划 电影原声大碟
+albumURL http://www.xiami.com/album/32697

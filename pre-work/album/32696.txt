@@ -1,0 +1,6 @@
+number 32696
+name 不够深情
+artist 陈逸达
+introduction picture http://img.xiami.net/images/album/img36/136/32696.jpg
+songs 不够深情%^&*等到天亮%^&*错过以后曾经拥有%^&*找一个雨天去看海%^&*想我的时候就呼唤我%^&*让风吹%^&*一路上有你为伴%^&*在黑暗中爱你%^&*让我见一面%^&*我要你好好地%^&*
+songURLs http://www.xiami.com/song/389788%^&*http://www.xiami.com/song/389789%^&*http://www.xiami.com/song/389790%^&*http://www.xiami.com/song/389791%^&*http://www.xiami.com/song/389792%^&*http://www.xiami.com/song/389793%^&*http://www.xiami.com/song/389794%^&*http://www.xiami.com/song/389795%^&*http://www.xiami.com/song/389796%^&*http://www.xiami.com/song/389797%^&*

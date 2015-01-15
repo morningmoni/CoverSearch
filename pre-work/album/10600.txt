@@ -1,0 +1,7 @@
+number 10600
+name 滚石香港黄金十年 刘若英精选
+artist 刘若英
+introduction 
+picture http://img.xiami.net/images/album/img30/1930/106001419594703.jpg
+songs 年华%^&*成全%^&*收获%^&*对面男生的房间%^&*很爱很爱你%^&*我等你%^&*后来%^&*花季未了%^&*为爱痴狂%^&*打了一把钥匙给你%^&*游子%^&*好久好久%^&*坦白%^&*到处乱走%^&*决定%^&*
+songURLs http://www.xiami.com/song/130756%^&*http://www.xiami.com/song/130757%^&*http://www.xiami.com/song/130758%^&*http://www.xiami.com/song/130759%^&*http://www.xiami.com/song/130760%^&*http://www.xiami.com/song/130761%^&*http://www.xiami.com/song/130762%^&*http://www.xiami.com/song/130763%^&*http://www.xiami.com/song/130764%^&*http://www.xiami.com/song/130765%^&*http://www.xiami.com/song/130766%^&*http://www.xiami.com/song/130767%^&*http://www.xiami.com/song/130768%^&*http://www.xiami.com/song/130769%^&*http://www.xiami.com/song/130770%^&*

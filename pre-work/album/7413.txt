@@ -1,0 +1,7 @@
+number 7413
+name 别让我恨你
+artist 陈洁仪
+introduction 1996年12月，乘胜推出第四张国语专辑《别让我恨你》，第一主打为《别让我恨你》，第二主打为《拖鞋》，第三主打《亏欠》，此专辑在台湾甫推出三日即进入IFPI排行榜，并于1997年5月获颁台湾金曲奖&ldquo;世界华人最佳国语女演唱人奖&rdquo;。别让我恨你&mdash;&mdash;太依赖男人，才容易恨男人，给自己一个机会陈洁仪，重新爱自己！以坚琴贯穿全曲，忧伤.浪漫，搭配洁仪轻柔地吟唱仿佛置身幽长的时光隧道，带你走进过往。轻快.流畅的曲势，洁仪诠释节奏歌曲新样式，带给你耳目一新的好心情。
+picture http://img.xiami.net/images/album/img90/1390/74131410844439.jpg
+songs 别让我恨你%^&*情人%^&*Mr.Turner%^&*不够完美%^&*拖鞋%^&*亏欠%^&*邮差%^&*体温%^&*她%^&*活得更精彩%^&*
+songURLs http://www.xiami.com/song/91535%^&*http://www.xiami.com/song/91536%^&*http://www.xiami.com/song/91537%^&*http://www.xiami.com/song/91538%^&*http://www.xiami.com/song/91539%^&*http://www.xiami.com/song/91540%^&*http://www.xiami.com/song/91541%^&*http://www.xiami.com/song/91542%^&*http://www.xiami.com/song/91543%^&*http://www.xiami.com/song/91544%^&*

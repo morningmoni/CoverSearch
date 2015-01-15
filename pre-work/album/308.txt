@@ -1,0 +1,6 @@
+number 308
+name 只有爱
+artist 陈德彰
+introduction picture http://img.xiami.net/images/album/img75/75/3081331105316.jpg
+songs 只有爱%^&*晚星%^&*一丝的寄望%^&*I Remeber Holding You%^&*光辉片段%^&*他的角色%^&*话别%^&*她%^&*情海漩涡%^&*曾经爱我%^&*
+songURLs http://www.xiami.com/song/3752%^&*http://www.xiami.com/song/3753%^&*http://www.xiami.com/song/3754%^&*http://www.xiami.com/song/3755%^&*http://www.xiami.com/song/3756%^&*http://www.xiami.com/song/3757%^&*http://www.xiami.com/song/3758%^&*http://www.xiami.com/song/3759%^&*http://www.xiami.com/song/3760%^&*http://www.xiami.com/song/3761%^&*

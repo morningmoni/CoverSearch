@@ -1,0 +1,7 @@
+number 433663
+name 一起歌唱
+artist 黄绮珊
+introduction 这是黄绮珊2008在奥运之际发行的奥运单曲！用笛子、五声音调等中国音乐元素与歌手黄綺珊的音色元素完美结合，以中国民族音乐元素可以流行化的音乐理念，创作并制作了这个作品。这是我们对全世界美好而深情的问候。作为歌者和音乐人，我们用自己的激情和理解诠释同一个世界、同一个梦想，并宣扬和歌颂奥运精神。
+picture http://img.xiami.net/images/album/img60/1660/4336631386557139.jpg
+songs 一起歌唱%^&*人类竞赛 (官方双语版)%^&*骄傲%^&*骄傲 (TV Version)%^&*
+songURLs http://www.xiami.com/song/1770125333%^&*http://www.xiami.com/song/1770125334%^&*http://www.xiami.com/song/1770125335%^&*http://www.xiami.com/song/1770125336%^&*

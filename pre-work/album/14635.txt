@@ -1,0 +1,6 @@
+number 14635
+name 1995台湾地下音乐档案(四) 骨肉皮
+artist 骨肉皮
+introduction picture http://img.xiami.net/images/pic/04/03/10075926488m_2.jpg
+songs 大台北%^&*生活的价值%^&*逃避%^&*地球%^&*混乱的战场%^&*毛毛雨%^&*改错%^&*痛痛歌%^&*两头空%^&*暴风雨%^&*情人%^&*梦话%^&*
+songURLs http://www.xiami.com/song/180480%^&*http://www.xiami.com/song/180481%^&*http://www.xiami.com/song/180482%^&*http://www.xiami.com/song/180483%^&*http://www.xiami.com/song/180484%^&*http://www.xiami.com/song/180485%^&*http://www.xiami.com/song/180486%^&*http://www.xiami.com/song/180487%^&*http://www.xiami.com/song/180488%^&*http://www.xiami.com/song/180489%^&*http://www.xiami.com/song/180490%^&*http://www.xiami.com/song/180491%^&*

@@ -1,0 +1,7 @@
+number 567432
+name 这小小的葡萄我从来没吃过
+artist 左小祖咒
+introduction 这张童谣专辑里面的歌儿一半是孩子们唱给大人听的，一半是大人唱给孩子们听的，献给我的父母、我的孩子们，同时也献给你们的父母和你们的孩子。&mdash;&mdash;左小祖咒
+picture http://img.xiami.net/images/album/img90/1290/5674321356692642.jpg
+songs 贼喊捉贼%^&*小小事件%^&*明天多云%^&*桃树的故事%^&*交作业%^&*你的眼睛%^&*他们的儿歌%^&*大西瓜%^&*黑猫白猫%^&*新年快乐%^&*
+songURLs http://www.xiami.com/song/1771563338%^&*http://www.xiami.com/song/1771563339%^&*http://www.xiami.com/song/1771563340%^&*http://www.xiami.com/song/1771563341%^&*http://www.xiami.com/song/1771563342%^&*http://www.xiami.com/song/1771563344%^&*http://www.xiami.com/song/1771563345%^&*http://www.xiami.com/song/1771563346%^&*http://www.xiami.com/song/1771563347%^&*http://www.xiami.com/song/1771563348%^&*

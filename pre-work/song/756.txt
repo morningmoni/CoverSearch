@@ -1,0 +1,6 @@
+number 756
+name 开心又过一日唔开心又过一日MV
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 各位男人辛苦晒
+albumURL http://www.xiami.com/album/63

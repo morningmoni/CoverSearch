@@ -1,0 +1,7 @@
+number 10938
+name The Legend Of The Pop Queen Part Ⅰ
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109381337908198.jpg
+songs Touch%^&*我最爱自己%^&*回头已是百年身%^&*烈女%^&*四海一心%^&*逝去的爱%^&*绯闻中的女人%^&*梦幻的拥抱%^&*赤的疑惑%^&*心仍是冷(寒冬版)%^&*
+songURLs http://www.xiami.com/song/135131%^&*http://www.xiami.com/song/135132%^&*http://www.xiami.com/song/135133%^&*http://www.xiami.com/song/135134%^&*http://www.xiami.com/song/135135%^&*http://www.xiami.com/song/135136%^&*http://www.xiami.com/song/135137%^&*http://www.xiami.com/song/135138%^&*http://www.xiami.com/song/135139%^&*http://www.xiami.com/song/135140%^&*

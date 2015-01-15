@@ -1,0 +1,6 @@
+number 3675
+name 爱不会寂寞
+artist 陈柏全%^&*
+artistURL http://www.xiami.com/artist/72%^&*
+album 陪你狂乱
+albumURL http://www.xiami.com/album/300

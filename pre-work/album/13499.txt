@@ -1,0 +1,7 @@
+number 13499
+name 给我
+artist 赵默
+introduction 
+picture http://img.xiami.net/images/album/img0/2500/134991362304590.jpg
+songs 失眠%^&*所谓完美%^&*虚伪%^&*不记得%^&*给我一天%^&*越走越远%^&*睡着%^&*爱的星空%^&*如果没有风%^&*一天%^&*
+songURLs http://www.xiami.com/song/166246%^&*http://www.xiami.com/song/166247%^&*http://www.xiami.com/song/166248%^&*http://www.xiami.com/song/166249%^&*http://www.xiami.com/song/166250%^&*http://www.xiami.com/song/166251%^&*http://www.xiami.com/song/166252%^&*http://www.xiami.com/song/166253%^&*http://www.xiami.com/song/166254%^&*http://www.xiami.com/song/166255%^&*

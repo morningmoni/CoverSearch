@@ -1,0 +1,7 @@
+number 12
+name 阿信
+place Taiwan 台湾
+introduction 台湾第一天团乐队五月天成员。五月天乐队主唱：阿信本名：陈信宏别名：阿信英文名：Ashin生日：1975年12月6日出生地：台北北投身高：180cm体重：74kg血型：O型星座：射手座嗜好：吃饭睡觉乐器：吉他喜爱的歌手：披头四(Beatles)、罗大佑、伍佰、Mr.Children喜爱的乐手：菜篮哺乳(China Blue)学历：实践大学室内设计系接触音乐历程：So Band、Mayday音乐经历：歌曲合辑、拥抱专辑制作
+picture http://img.xiami.net/images/artistlogo/91/13831212758791.jpg
+albums Happy.Birth.Day%^&*
+albumURLs http://www.xiami.com/album/35%^&*

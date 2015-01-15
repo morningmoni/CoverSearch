@@ -1,0 +1,6 @@
+number 84066
+name 我的骄傲
+artist 贝贝%^&*
+artistURL http://www.xiami.com/artist/1330%^&*
+album 贝贝4
+albumURL http://www.xiami.com/album/6886

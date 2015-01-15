@@ -1,0 +1,6 @@
+number 444654
+name 司机大哥
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img20/238420/1307238420.jpg
+songs 司机大哥%^&*鸳鸯手巾仔%^&*台湾圈一辗%^&*故乡的故事%^&*拼酒%^&*欢喜咱相会%^&*错错错%^&*回头的囝仔%^&*流浪ㄟ乐士%^&*悲哀ㄟ恋梦%^&*司机大哥 (卡拉版)%^&*鸳鸯手巾仔 (卡拉版)%^&*台湾圈一辗 (卡拉版)%^&*故乡的故事 (卡拉版)%^&*拼酒 (卡拉版)%^&*
+songURLs http://www.xiami.com/song/1770252634%^&*http://www.xiami.com/song/1770252635%^&*http://www.xiami.com/song/1770252636%^&*http://www.xiami.com/song/1770252637%^&*http://www.xiami.com/song/1770252638%^&*http://www.xiami.com/song/1770252639%^&*http://www.xiami.com/song/1770252640%^&*http://www.xiami.com/song/1770252641%^&*http://www.xiami.com/song/1770252642%^&*http://www.xiami.com/song/1770252643%^&*http://www.xiami.com/song/1770252644%^&*http://www.xiami.com/song/1770252645%^&*http://www.xiami.com/song/1770252646%^&*http://www.xiami.com/song/1770252647%^&*http://www.xiami.com/song/1770252648%^&*

@@ -1,0 +1,7 @@
+number 421063
+name 寒鸦戏水
+artist 林毛根
+introduction 
+picture http://img.xiami.net/images/album/img20/620/4210631295427390.jpg
+songs 寒鸦戏水%^&*西江月%^&*深闺怨%^&*开扇窗%^&*柳青娘(轻三重六)%^&*柳青娘(活五调)%^&*柳青娘(重六调)%^&*赏花%^&*思凡%^&*柳摇金(尺二调)%^&*上天梯%^&*月儿高%^&*雁儿落%^&*水龙吟%^&*过江龙%^&*红梅头%^&*中秋月(活五调)%^&*福德词%^&*莲花赞%^&*
+songURLs http://www.xiami.com/song/1769981153%^&*http://www.xiami.com/song/1769981154%^&*http://www.xiami.com/song/1769981155%^&*http://www.xiami.com/song/1769981156%^&*http://www.xiami.com/song/1769981157%^&*http://www.xiami.com/song/1769981158%^&*http://www.xiami.com/song/1769981159%^&*http://www.xiami.com/song/1769981160%^&*http://www.xiami.com/song/1769981161%^&*http://www.xiami.com/song/1769981162%^&*http://www.xiami.com/song/1769981163%^&*http://www.xiami.com/song/1769981164%^&*http://www.xiami.com/song/1769981165%^&*http://www.xiami.com/song/1769981166%^&*http://www.xiami.com/song/1769981167%^&*http://www.xiami.com/song/1769981168%^&*http://www.xiami.com/song/1769981169%^&*http://www.xiami.com/song/1769981170%^&*http://www.xiami.com/song/1769981171%^&*

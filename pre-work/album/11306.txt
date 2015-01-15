@@ -1,0 +1,7 @@
+number 11306
+name 对话Ⅲ-当琵琶遇上千惠子
+artist 千惠子
+introduction 
+picture http://img.xiami.net/images/album/img50/2050/113061338269525.jpg
+songs 女儿红%^&*白月光%^&*失去%^&*幸运星%^&*离别前夕%^&*至少还有我在乎%^&*心痛%^&*无奈%^&*网络情缘%^&*透过开满鲜花的月亮%^&*相思河畔%^&*陪我看日出%^&*梅花三弄%^&*
+songURLs http://www.xiami.com/song/139300%^&*http://www.xiami.com/song/139301%^&*http://www.xiami.com/song/139302%^&*http://www.xiami.com/song/139303%^&*http://www.xiami.com/song/139304%^&*http://www.xiami.com/song/139305%^&*http://www.xiami.com/song/139306%^&*http://www.xiami.com/song/139307%^&*http://www.xiami.com/song/139308%^&*http://www.xiami.com/song/139309%^&*http://www.xiami.com/song/139310%^&*http://www.xiami.com/song/139311%^&*http://www.xiami.com/song/139312%^&*

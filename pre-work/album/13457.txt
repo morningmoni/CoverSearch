@@ -1,0 +1,7 @@
+number 13457
+name 量贩金曲集(全新金曲)
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/134571388306664.jpg
+songs 无情的探戈%^&*真情锁置心窗内%^&*带阮行入梦%^&*看你醉等你醒%^&*世间%^&*一步一脚印%^&*爱情这条路%^&*阮不是故意%^&*欺骗的伦巴%^&*啥人讲阮无个性%^&*再世缘%^&*今夜的烧酒%^&*
+songURLs http://www.xiami.com/song/165766%^&*http://www.xiami.com/song/165767%^&*http://www.xiami.com/song/165768%^&*http://www.xiami.com/song/165769%^&*http://www.xiami.com/song/165770%^&*http://www.xiami.com/song/165771%^&*http://www.xiami.com/song/165772%^&*http://www.xiami.com/song/165773%^&*http://www.xiami.com/song/165774%^&*http://www.xiami.com/song/165775%^&*http://www.xiami.com/song/165776%^&*http://www.xiami.com/song/165777%^&*

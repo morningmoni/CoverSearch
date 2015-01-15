@@ -1,0 +1,7 @@
+number 374105
+name 相处
+artist 伊能静%^&*陈泰翔%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%BC%8A%E8%83%BD%E9%9D%99%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E6%B3%B0%E7%BF%94%^&*
+album 关不住
+albumURL http://www.xiami.com/album/12975

@@ -1,0 +1,7 @@
+number 12574
+name 单身日记
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125741366018323.jpg
+songs 单身日记 (四季歌)%^&*再说你也不会懂%^&*如果云知道%^&*我依然爱你%^&*独角戏%^&*泪海%^&*看透%^&*美梦成真%^&*爱只剩一秒%^&*爱不爱你都一样%^&*舍不得%^&*难得好天气%^&*日光机场%^&*一直是晴天%^&*Don&#039;t Say Goodbye%^&*
+songURLs http://www.xiami.com/song/154576%^&*http://www.xiami.com/song/154577%^&*http://www.xiami.com/song/154578%^&*http://www.xiami.com/song/154579%^&*http://www.xiami.com/song/154580%^&*http://www.xiami.com/song/154581%^&*http://www.xiami.com/song/154582%^&*http://www.xiami.com/song/154583%^&*http://www.xiami.com/song/154584%^&*http://www.xiami.com/song/154585%^&*http://www.xiami.com/song/154586%^&*http://www.xiami.com/song/154587%^&*http://www.xiami.com/song/154588%^&*http://www.xiami.com/song/154589%^&*http://www.xiami.com/song/154590%^&*

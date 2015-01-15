@@ -1,0 +1,6 @@
+number 9312
+name 一生一次爱
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 一生一次爱%^&*天边一只雁%^&*爱的传奇%^&*今夜是良夜%^&*无奈%^&*今晚夜%^&*忘不了你%^&*友情与爱情%^&*喝采%^&*为理想%^&*俩忘烟水里%^&*欢乐快回来%^&*
+songURLs http://www.xiami.com/song/115477%^&*http://www.xiami.com/song/115478%^&*http://www.xiami.com/song/115479%^&*http://www.xiami.com/song/115480%^&*http://www.xiami.com/song/115481%^&*http://www.xiami.com/song/115482%^&*http://www.xiami.com/song/115483%^&*http://www.xiami.com/song/115484%^&*http://www.xiami.com/song/115485%^&*http://www.xiami.com/song/115486%^&*http://www.xiami.com/song/115487%^&*http://www.xiami.com/song/115488%^&*

@@ -1,0 +1,6 @@
+number 3537823
+name 一个萝卜一个坑
+artist 黄大城%^&*
+artistURL http://www.xiami.com/artist/370%^&*
+album 唐山子民
+albumURL http://www.xiami.com/album/318467

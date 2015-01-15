@@ -1,0 +1,7 @@
+number 515496
+name 唱歌给你听
+artist 阿牛
+introduction 这是阿牛在马来西亚滚石唱片发行的第二张专辑，于1998年夏天发行。收录曲目有一部分与台湾的《个人首张专辑》相同，一部分则不同。1998年8月 阿牛第二张专辑“唱歌给你听”全国发行，至9月28日“满月’为止，在市场低迷的情况中，突破了5万销售量(马来西亚)，被冠为“市场救星”。
+picture http://img.xiami.net/images/album/img22/22/5154961341382984.jpg
+songs 唱歌给你听%^&*MAMAK档%^&*花的语%^&*你没有哭%^&*Speak My Language (Radio Mix)%^&*大肚腩%^&*唱给故乡听%^&*星星亮了%^&*我和我的四个妹妹%^&*等缘份%^&*花的语(哼唱版)%^&*Speak My Language%^&*
+songURLs http://www.xiami.com/song/1771138526%^&*http://www.xiami.com/song/1771138529%^&*http://www.xiami.com/song/1771138533%^&*http://www.xiami.com/song/1771138535%^&*http://www.xiami.com/song/1771138528%^&*http://www.xiami.com/song/1771138534%^&*http://www.xiami.com/song/1771138531%^&*http://www.xiami.com/song/1771138532%^&*http://www.xiami.com/song/1771138527%^&*http://www.xiami.com/song/1771138530%^&*http://www.xiami.com/song/1771138536%^&*http://www.xiami.com/song/1771138537%^&*

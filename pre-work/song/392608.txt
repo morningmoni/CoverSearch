@@ -1,0 +1,6 @@
+number 392608
+name 情人的眼泪
+artist 姚苏蓉%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%A7%9A%E8%8B%8F%E8%93%89%^&*
+album 不能说的秘密 电影原声带
+albumURL http://www.xiami.com/album/32898

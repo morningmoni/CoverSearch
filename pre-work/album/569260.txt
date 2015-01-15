@@ -1,0 +1,6 @@
+number 569260
+name 88狂热
+artist 孙国庆
+introduction picture http://img.xiami.net/images/album/img40/840/5692601357542216.png
+songs 美丽的岛%^&*beautiful%^&*情深脉脉%^&*噢吼哇%^&*燃烧720°%^&*幻想迪斯科%^&*
+songURLs http://www.xiami.com/song/1771583823%^&*http://www.xiami.com/song/1771583824%^&*http://www.xiami.com/song/1771583825%^&*http://www.xiami.com/song/1771583826%^&*http://www.xiami.com/song/1771583827%^&*http://www.xiami.com/song/1771583828%^&*

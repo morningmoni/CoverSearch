@@ -1,0 +1,6 @@
+number 9336
+name 等待
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 等待%^&*梦痕%^&*天降良缘%^&*红豆相思%^&*鹣鲽永相随%^&*公子多情%^&*平湖秋月%^&*茶山姑娘%^&*夜夜寄相思%^&*海恋%^&*情人颂%^&*月下订盟心%^&*
+songURLs http://www.xiami.com/song/115791%^&*http://www.xiami.com/song/115792%^&*http://www.xiami.com/song/115793%^&*http://www.xiami.com/song/115794%^&*http://www.xiami.com/song/115795%^&*http://www.xiami.com/song/115796%^&*http://www.xiami.com/song/115797%^&*http://www.xiami.com/song/115798%^&*http://www.xiami.com/song/115799%^&*http://www.xiami.com/song/115800%^&*http://www.xiami.com/song/115801%^&*http://www.xiami.com/song/115802%^&*

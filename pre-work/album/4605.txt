@@ -1,0 +1,7 @@
+number 4605
+name 半个月亮爬上来
+artist 王洛宾
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10122998951m_2.jpg
+songs 半个月亮爬上来%^&*阿拉木汗%^&*黑眉毛%^&*牡丹汗%^&*黄昏里的炊烟%^&*都达尔与玛丽亚%^&*高高的白杨%^&*小白鹿%^&*哪里来的骆驼队%^&*在银色的月光下%^&*花儿与少年%^&*撒阿黛%^&*我等你到天明%^&*琪曼地%^&*康定情歌%^&*半个月亮爬上来(乐器演奏)%^&*半个月亮爬上来(女声合唱)%^&*半个月亮爬上来(无乐奏合唱)%^&*
+songURLs http://www.xiami.com/song/55939%^&*http://www.xiami.com/song/55940%^&*http://www.xiami.com/song/55941%^&*http://www.xiami.com/song/55942%^&*http://www.xiami.com/song/55943%^&*http://www.xiami.com/song/55944%^&*http://www.xiami.com/song/55945%^&*http://www.xiami.com/song/55946%^&*http://www.xiami.com/song/55947%^&*http://www.xiami.com/song/55948%^&*http://www.xiami.com/song/55949%^&*http://www.xiami.com/song/55950%^&*http://www.xiami.com/song/55951%^&*http://www.xiami.com/song/55952%^&*http://www.xiami.com/song/55953%^&*http://www.xiami.com/song/55954%^&*http://www.xiami.com/song/55955%^&*http://www.xiami.com/song/55956%^&*

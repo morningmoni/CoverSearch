@@ -1,0 +1,6 @@
+number 15196
+name 吸烟的女人
+artist Raidas
+introduction picture http://img.xiami.net/images/album/img80/2980/15196.jpg
+songs 吸烟的女人%^&*不愿置评%^&*杯中冷巷%^&*吸烟的女人(Re-Mix)%^&*
+songURLs http://www.xiami.com/song/186818%^&*http://www.xiami.com/song/186819%^&*http://www.xiami.com/song/186820%^&*http://www.xiami.com/song/186821%^&*

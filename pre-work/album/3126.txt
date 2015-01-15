@@ -1,0 +1,6 @@
+number 3126
+name 西洋译曲精粹
+artist 刘文正
+introduction picture http://img.xiami.net/images/pic/07/01/50_20070708_160433_6369m_2.jpg
+songs 爱的组曲%^&*送你一朵勿忘我%^&*戴安娜%^&*往日的时光%^&*别和我说再见%^&*告诉罗娜我爱她%^&*忘不了的你%^&*爱的园地%^&*葡萄美酒%^&*雨中行%^&*请你不要哭%^&*
+songURLs http://www.xiami.com/song/38597%^&*http://www.xiami.com/song/38598%^&*http://www.xiami.com/song/38599%^&*http://www.xiami.com/song/38600%^&*http://www.xiami.com/song/38601%^&*http://www.xiami.com/song/38602%^&*http://www.xiami.com/song/38603%^&*http://www.xiami.com/song/38604%^&*http://www.xiami.com/song/38605%^&*http://www.xiami.com/song/38606%^&*http://www.xiami.com/song/38607%^&*

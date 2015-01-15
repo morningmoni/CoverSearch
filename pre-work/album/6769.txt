@@ -1,0 +1,7 @@
+number 6769
+name 我的1997
+artist 艾敬
+introduction 
+picture http://img.xiami.net/images/album/img0/1300/6769.jpg
+songs 我的1997%^&*你的军装%^&*我要回家%^&*长夜不停的电话%^&*爱人你住在那里%^&*流浪的燕子%^&*离家的时候%^&*请你稍稍温柔%^&*那年冬天%^&*我的1997 (原作版)%^&*
+songURLs http://www.xiami.com/song/381903%^&*http://www.xiami.com/song/381904%^&*http://www.xiami.com/song/381905%^&*http://www.xiami.com/song/381906%^&*http://www.xiami.com/song/381907%^&*http://www.xiami.com/song/381908%^&*http://www.xiami.com/song/381909%^&*http://www.xiami.com/song/381910%^&*http://www.xiami.com/song/381911%^&*http://www.xiami.com/song/381912%^&*

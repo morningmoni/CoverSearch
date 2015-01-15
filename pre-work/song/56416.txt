@@ -1,0 +1,7 @@
+number 56416
+name 吻和泪
+artist 王中平%^&*卓依婷%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%8E%8B%E4%B8%AD%E5%B9%B3%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%8D%93%E4%BE%9D%E5%A9%B7%^&*
+album 我们的那一年
+albumURL http://www.xiami.com/album/4652

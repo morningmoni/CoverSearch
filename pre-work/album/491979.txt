@@ -1,0 +1,6 @@
+number 491979
+name 车站
+artist 蔡小虎
+introduction picture http://img.xiami.net/images/album/img47/47/4919791328670359.jpg
+songs 车站%^&*摸心肝想看觅%^&*水泼落地难收回%^&*不如甭熟悉%^&*梦中情%^&*相逢后壁沟%^&*风中灯%^&*海风海涌海茫茫%^&*不应该有的爱%^&*爱情的酒%^&*
+songURLs http://www.xiami.com/song/1770784378%^&*http://www.xiami.com/song/1770784379%^&*http://www.xiami.com/song/1770784380%^&*http://www.xiami.com/song/1770784381%^&*http://www.xiami.com/song/1770784382%^&*http://www.xiami.com/song/1770784383%^&*http://www.xiami.com/song/1770784384%^&*http://www.xiami.com/song/1770784385%^&*http://www.xiami.com/song/1770784386%^&*http://www.xiami.com/song/1770784387%^&*

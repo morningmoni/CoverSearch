@@ -1,0 +1,7 @@
+number 10147
+name 不再问
+artist 林宸希
+introduction 
+picture http://img.xiami.net/images/album/img50/1850/101471385382860.jpg
+songs 不再问%^&*姗姗来迟%^&*牵绊%^&*我就是这样%^&*在很久很久以前%^&*句点%^&*委曲求全%^&*爱的约定%^&*连恨你都不会%^&*相信爱%^&*
+songURLs http://www.xiami.com/song/125205%^&*http://www.xiami.com/song/125206%^&*http://www.xiami.com/song/125207%^&*http://www.xiami.com/song/125208%^&*http://www.xiami.com/song/125209%^&*http://www.xiami.com/song/125210%^&*http://www.xiami.com/song/125211%^&*http://www.xiami.com/song/125212%^&*http://www.xiami.com/song/125213%^&*http://www.xiami.com/song/125214%^&*

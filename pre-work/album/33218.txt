@@ -1,0 +1,6 @@
+number 33218
+name 甭搁黑白花
+artist 张秀卿
+introduction picture http://img.xiami.net/images/album/img80/2480/332181388306303.jpg
+songs 甭搁黑白花%^&*海中船%^&*烟花女子%^&*昨暝的棉渍被%^&*加油(Gan Ba De)%^&*一领新娘衫%^&*女人啊%^&*你答嘛帮帮忙%^&*洗尽铅华%^&*淡水情歌%^&*
+songURLs http://www.xiami.com/song/396982%^&*http://www.xiami.com/song/396983%^&*http://www.xiami.com/song/396984%^&*http://www.xiami.com/song/396985%^&*http://www.xiami.com/song/396986%^&*http://www.xiami.com/song/396987%^&*http://www.xiami.com/song/396988%^&*http://www.xiami.com/song/396989%^&*http://www.xiami.com/song/396990%^&*http://www.xiami.com/song/396991%^&*

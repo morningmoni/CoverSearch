@@ -1,0 +1,6 @@
+number 1728
+name 爱你到永远
+artist 黄品源
+introduction picture http://img.xiami.net/images/album/img90/390/1728.jpg
+songs 爱你到永远%^&*别离开我%^&*交过心的人%^&*Baby Don&#039;t Cry%^&*为何你就这样走%^&*我的目屎%^&*流浪的歌手%^&*爱是痛苦%^&*爱你到永远 #2%^&*Clean Up The World%^&*
+songURLs http://www.xiami.com/song/33202%^&*http://www.xiami.com/song/33203%^&*http://www.xiami.com/song/33204%^&*http://www.xiami.com/song/33205%^&*http://www.xiami.com/song/33206%^&*http://www.xiami.com/song/33207%^&*http://www.xiami.com/song/33208%^&*http://www.xiami.com/song/33209%^&*http://www.xiami.com/song/33210%^&*http://www.xiami.com/song/33211%^&*

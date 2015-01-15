@@ -1,0 +1,7 @@
+number 11526
+name 兵哥哥
+artist 宋祖英
+introduction 湖南金峰发行的宋祖英专辑系列之二。中国当代最具有实力的歌唱家，民族歌经典之作，重温艺术巨擎及其经典名演。注：这张专辑是早期发行的版本，许多经典歌曲的编曲方式与后期精选集的版本有所差别，如《兵哥哥》。
+picture http://img.xiami.net/images/album/img10/2110/115261274110623.jpg
+songs 兵哥哥%^&*十八弯水路到我家%^&*又唱江南%^&*好收成%^&*苗岭连北京%^&*中国永远收获着希望%^&*英雄%^&*阿公的酒碗%^&*土家喜爱咚咚亏%^&*筒车谣%^&*春的祝福%^&*
+songURLs http://www.xiami.com/song/1769520497%^&*http://www.xiami.com/song/1769520498%^&*http://www.xiami.com/song/1769520499%^&*http://www.xiami.com/song/1769520500%^&*http://www.xiami.com/song/1769520501%^&*http://www.xiami.com/song/1769520502%^&*http://www.xiami.com/song/1769520503%^&*http://www.xiami.com/song/1769520504%^&*http://www.xiami.com/song/1769520505%^&*http://www.xiami.com/song/1769520506%^&*http://www.xiami.com/song/1769520507%^&*

@@ -1,0 +1,6 @@
+number 2246
+name 对爱很认真
+artist 李恩邦
+introduction picture http://img.xiami.net/images/pic/04/03/10107596186m_2.jpg
+songs 你明知我对爱很认真%^&*等不到我开口说爱你%^&*陪你是一段路%^&*让伤心路过%^&*口袋里的泪%^&*原来我也怕寂寞%^&*你有多少爱%^&*把思念酿成酒%^&*随时我都可以走%^&*演奏曲%^&*
+songURLs http://www.xiami.com/song/393325%^&*http://www.xiami.com/song/393326%^&*http://www.xiami.com/song/393327%^&*http://www.xiami.com/song/393328%^&*http://www.xiami.com/song/393329%^&*http://www.xiami.com/song/393330%^&*http://www.xiami.com/song/393331%^&*http://www.xiami.com/song/393332%^&*http://www.xiami.com/song/393333%^&*http://www.xiami.com/song/393334%^&*

@@ -1,0 +1,6 @@
+number 33050
+name 那个夏天
+artist 黄品源%^&*
+artistURL http://www.xiami.com/artist/390%^&*
+album 爱你! 爱你!
+albumURL http://www.xiami.com/album/1715

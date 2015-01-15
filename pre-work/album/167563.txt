@@ -1,0 +1,6 @@
+number 167563
+name 梅花引
+artist 付娜
+introduction picture http://img.xiami.net/images/album/img40/1540/167563.jpg
+songs 梅花引%^&*你可知道我爱谁%^&*月亮走我也走%^&*倩女幽魂%^&*飘雪%^&*情长路更长%^&*焚心似火%^&*想你想断肠%^&*美人吟%^&*敖包相会%^&*当爱已成往事%^&*
+songURLs http://www.xiami.com/song/2053255%^&*http://www.xiami.com/song/2053256%^&*http://www.xiami.com/song/2053257%^&*http://www.xiami.com/song/2053258%^&*http://www.xiami.com/song/2053259%^&*http://www.xiami.com/song/2053260%^&*http://www.xiami.com/song/2053261%^&*http://www.xiami.com/song/2053262%^&*http://www.xiami.com/song/2053263%^&*http://www.xiami.com/song/2053264%^&*http://www.xiami.com/song/2053265%^&*

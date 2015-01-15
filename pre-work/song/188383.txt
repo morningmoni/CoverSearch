@@ -1,0 +1,6 @@
+number 188383
+name 水琉璃(音乐版)
+artist 水琉璃%^&*
+artistURL http://www.xiami.com/artist/3040%^&*
+album 心灵菩提
+albumURL http://www.xiami.com/album/15349

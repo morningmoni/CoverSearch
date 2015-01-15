@@ -1,0 +1,6 @@
+number 394593
+name 站在你这边
+artist 潘玮柏%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%BD%98%E7%8E%AE%E6%9F%8F%^&*
+album 我们都爱这个伦！
+albumURL http://www.xiami.com/album/33046

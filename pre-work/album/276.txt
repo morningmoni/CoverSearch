@@ -1,0 +1,7 @@
+number 276
+name 神仙也移民
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2761369035846.jpg
+songs 神仙也移民%^&*漫长盼望%^&*好想见面%^&*怎算满意%^&*任性%^&*烟雨凄迷%^&*超越分界线%^&*孤清清%^&*献上这歌%^&*痴心晚安%^&*
+songURLs http://www.xiami.com/song/3448%^&*http://www.xiami.com/song/3449%^&*http://www.xiami.com/song/3450%^&*http://www.xiami.com/song/3451%^&*http://www.xiami.com/song/3452%^&*http://www.xiami.com/song/3453%^&*http://www.xiami.com/song/3454%^&*http://www.xiami.com/song/3455%^&*http://www.xiami.com/song/3456%^&*http://www.xiami.com/song/3457%^&*

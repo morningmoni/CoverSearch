@@ -1,0 +1,6 @@
+number 376567
+name 哥们儿MV
+artist 安琥%^&*
+artistURL http://www.xiami.com/artist/18%^&*
+album 天使的翅膀
+albumURL http://www.xiami.com/album/44

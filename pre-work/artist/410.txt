@@ -1,0 +1,7 @@
+number 410
+name 黄阅
+place China 中国大陆
+introduction 姓名：黄阅性别：男英文名：Ivan生日：11月3日星座：天蝎座国籍：中国地域：中国大陆身高：180cm生平介绍：毕业于湖南师范学院声乐系专科的黄阅，凭着实力的唱功和健硕俊美的外型，在参加知名娱乐节目《造星工厂》时，被国内著名演艺经理人刘琛相中，签约北京风尚，从此步入歌坛。同时，在刘琛的精心打造下，在为黄阅打造首张全球发行的大碟中，从国内著名音乐人李海鹰、丁宁，到海外的知名经理人朱国祯先生、台湾的音乐魔手季中平老师都非常之看好黄阅。
+picture http://img.xiami.net/images/artist/11928108568136.jpg
+albums 不爱了 再见%^&*一半%^&*我们都是害怕寂寞的人%^&*凡间+魔戒+折子戏%^&*
+albumURLs http://www.xiami.com/album/446231%^&*http://www.xiami.com/album/367832%^&*http://www.xiami.com/album/1829%^&*http://www.xiami.com/album/32448%^&*

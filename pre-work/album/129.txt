@@ -1,0 +1,6 @@
+number 129
+name 我心中的故事
+artist 蔡国庆
+introduction picture http://img.xiami.net/images/album/img42/42/1291410415450.jpg
+songs 我心中的故事%^&*野山歌%^&*弯弯的月亮%^&*去远方%^&*总有%^&*童年的歌%^&*望春%^&*小小水滴%^&*柳絮雪%^&*北京的桥%^&*天上的云, 地上的人%^&*
+songURLs http://www.xiami.com/song/1771903844%^&*http://www.xiami.com/song/1771903845%^&*http://www.xiami.com/song/1771903846%^&*http://www.xiami.com/song/1771903847%^&*http://www.xiami.com/song/1771903848%^&*http://www.xiami.com/song/1771903849%^&*http://www.xiami.com/song/1771903850%^&*http://www.xiami.com/song/1771903851%^&*http://www.xiami.com/song/1771903852%^&*http://www.xiami.com/song/1771903853%^&*http://www.xiami.com/song/1771903854%^&*

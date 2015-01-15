@@ -1,0 +1,7 @@
+number 316938
+name 忘情茶
+artist 洪百慧
+introduction 
+picture http://img.xiami.net/images/album/img20/1620/3169381392632380.jpg
+songs 路灯照孤影%^&*弱者不是阮的名%^&*忘情茶%^&*爱到愈深愈伤自己%^&*再会%^&*两乱%^&*爱你的期限已经到%^&*痴情人%^&*断情夜%^&*幸福的所在%^&*
+songURLs http://www.xiami.com/song/3518779%^&*http://www.xiami.com/song/3518780%^&*http://www.xiami.com/song/3518781%^&*http://www.xiami.com/song/3518782%^&*http://www.xiami.com/song/3518783%^&*http://www.xiami.com/song/3518784%^&*http://www.xiami.com/song/3518785%^&*http://www.xiami.com/song/3518786%^&*http://www.xiami.com/song/3518787%^&*http://www.xiami.com/song/3518788%^&*

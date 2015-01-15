@@ -1,0 +1,6 @@
+number 38544
+name 星之永恒
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 太阳一样
+albumURL http://www.xiami.com/album/3121

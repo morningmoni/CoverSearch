@@ -1,0 +1,7 @@
+number 1560
+name 古璇
+place 内地
+introduction 古璇的声音醇厚温柔，中低频段感染力十足，清新，纯静中更增添了一些柔媚与迷离的味道， 使她的歌声散发摄人魅力。 让她纯静无暇的声音， 美似天籁的熟悉旋律， 引领你的耳朵和心灵经历一次绝妙的天堂之旅。
+picture http://img.xiami.net/images/artist/736.jpg
+albums 粤听粤好听%^&*大红枣儿甜又香%^&*漩曲重逢%^&*璇曲蔓地5-岁月%^&*璇曲蔓地4-水流红%^&*古粤旋语(粤语发烧精装版)%^&*往事只能回味%^&*璇曲蔓地3·原点%^&*向经典宣战%^&*璇曲蔓地2%^&*璇曲蔓地%^&*相约这一天%^&*
+albumURLs http://www.xiami.com/album/435300%^&*http://www.xiami.com/album/406534%^&*http://www.xiami.com/album/551233%^&*http://www.xiami.com/album/8647%^&*http://www.xiami.com/album/8648%^&*http://www.xiami.com/album/8649%^&*http://www.xiami.com/album/8650%^&*http://www.xiami.com/album/8651%^&*http://www.xiami.com/album/8652%^&*http://www.xiami.com/album/8654%^&*http://www.xiami.com/album/8653%^&*http://www.xiami.com/album/94698354%^&*

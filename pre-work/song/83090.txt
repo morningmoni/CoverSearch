@@ -1,0 +1,6 @@
+number 83090
+name 甜甜的歌儿迎贵客MV
+artist 巴哈尔古丽%^&*
+artistURL http://www.xiami.com/artist/1310%^&*
+album 中国新民歌发烧天碟
+albumURL http://www.xiami.com/album/6793

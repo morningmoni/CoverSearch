@@ -1,0 +1,6 @@
+number 3184
+name 等
+artist 叶倩文%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%8F%B6%E5%80%A9%E6%96%87%^&*
+album 紫色的回忆
+albumURL http://www.xiami.com/album/257

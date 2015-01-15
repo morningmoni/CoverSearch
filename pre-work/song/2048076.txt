@@ -1,0 +1,6 @@
+number 2048076
+name 玛依拉
+artist 王洛宾%^&*
+artistURL http://www.xiami.com/artist/910%^&*
+album 西部歌王
+albumURL http://www.xiami.com/album/4607

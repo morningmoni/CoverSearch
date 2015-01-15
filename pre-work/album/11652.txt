@@ -1,0 +1,7 @@
+number 11652
+name 小心
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/116521317269465.jpg
+songs 妈妈你无对我讲%^&*秘密情人%^&*情路惦惦走%^&*咱的爱情%^&*重温旧梦%^&*你知影唔%^&*苍天了解%^&*爱情的酒拢袂退%^&*将你放袂记%^&*思念%^&*今生爱过的人%^&*桂花巷%^&*
+songURLs http://www.xiami.com/song/143357%^&*http://www.xiami.com/song/143358%^&*http://www.xiami.com/song/143359%^&*http://www.xiami.com/song/143360%^&*http://www.xiami.com/song/143361%^&*http://www.xiami.com/song/143362%^&*http://www.xiami.com/song/143363%^&*http://www.xiami.com/song/143364%^&*http://www.xiami.com/song/143365%^&*http://www.xiami.com/song/143366%^&*http://www.xiami.com/song/143367%^&*http://www.xiami.com/song/143368%^&*

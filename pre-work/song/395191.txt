@@ -1,0 +1,6 @@
+number 395191
+name 兰花花
+artist 阿宝%^&*
+artistURL http://www.xiami.com/artist/2%^&*
+album 阿宝同名专辑
+albumURL http://www.xiami.com/album/4

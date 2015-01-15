@@ -1,0 +1,6 @@
+number 389796
+name 让我见一面
+artist 陈逸达%^&*
+artistURL http://www.xiami.com/artist/136%^&*
+album 不够深情
+albumURL http://www.xiami.com/album/32696

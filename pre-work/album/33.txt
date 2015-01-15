@@ -1,0 +1,7 @@
+number 33
+name 等候
+artist 阿强
+introduction 
+picture http://img.xiami.net/images/album/img0/331282209772.jpg
+songs 思念的翅膀%^&*当我想你的时候%^&*至少走得比你早%^&*后来%^&*命中注定%^&*爱我%^&*我可以抱你吗%^&*我们都会错%^&*最熟悉的陌生人%^&*恋人啊%^&*情关%^&*把悲伤留给自己%^&*相见恨晚%^&*
+songURLs http://www.xiami.com/song/391%^&*http://www.xiami.com/song/392%^&*http://www.xiami.com/song/393%^&*http://www.xiami.com/song/394%^&*http://www.xiami.com/song/395%^&*http://www.xiami.com/song/396%^&*http://www.xiami.com/song/397%^&*http://www.xiami.com/song/398%^&*http://www.xiami.com/song/399%^&*http://www.xiami.com/song/400%^&*http://www.xiami.com/song/401%^&*http://www.xiami.com/song/402%^&*http://www.xiami.com/song/403%^&*

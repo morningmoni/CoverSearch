@@ -1,0 +1,6 @@
+number 120
+name 高温境界
+artist 蔡枫华
+introduction picture http://img.xiami.net/images/album/img41/41/1201410944233.jpg
+songs 高温境界%^&*相爱亦相分%^&*月蚀%^&*自我%^&*长跑者%^&*爱得太深%^&*仍在相爱%^&*心中所爱%^&*泪珠颈鍊%^&*神秘女郎%^&*滂沱大雨%^&*爱情乐与怒%^&*
+songURLs http://www.xiami.com/song/1465%^&*http://www.xiami.com/song/1466%^&*http://www.xiami.com/song/1467%^&*http://www.xiami.com/song/1468%^&*http://www.xiami.com/song/1469%^&*http://www.xiami.com/song/1470%^&*http://www.xiami.com/song/1471%^&*http://www.xiami.com/song/1472%^&*http://www.xiami.com/song/1473%^&*http://www.xiami.com/song/1474%^&*http://www.xiami.com/song/1475%^&*http://www.xiami.com/song/1476%^&*

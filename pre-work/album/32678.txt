@@ -1,0 +1,7 @@
+number 32678
+name 差一点
+artist 阿杜
+introduction 
+picture http://img.xiami.net/images/album/img5/5/326781382949957.jpg
+songs 撒野%^&*差一点%^&*爱上谁%^&*单向的爱%^&*新家%^&*黑夜以后%^&*沉默%^&*不让你走%^&*逃离%^&*你说%^&*
+songURLs http://www.xiami.com/song/392975%^&*http://www.xiami.com/song/392976%^&*http://www.xiami.com/song/392977%^&*http://www.xiami.com/song/392978%^&*http://www.xiami.com/song/392979%^&*http://www.xiami.com/song/392980%^&*http://www.xiami.com/song/392981%^&*http://www.xiami.com/song/392982%^&*http://www.xiami.com/song/392983%^&*http://www.xiami.com/song/392984%^&*

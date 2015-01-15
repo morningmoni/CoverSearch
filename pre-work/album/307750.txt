@@ -1,0 +1,7 @@
+number 307750
+name 回顾篇 刘文正专辑
+artist 刘文正
+introduction 
+picture http://img.xiami.net/images/album/img70/670/307750.jpg
+songs 诺言%^&*她像个孩子%^&*睡莲%^&*为青春欢唱%^&*奈何%^&*永远%^&*绿树花开情也来%^&*沉思%^&*可爱的女孩%^&*门里门外%^&*就这样约定%^&*旷野中的人%^&*寄语%^&*风儿轻轻吹%^&*
+songURLs http://www.xiami.com/song/3404043%^&*http://www.xiami.com/song/3404044%^&*http://www.xiami.com/song/3404045%^&*http://www.xiami.com/song/3404046%^&*http://www.xiami.com/song/3404047%^&*http://www.xiami.com/song/3404048%^&*http://www.xiami.com/song/3404049%^&*http://www.xiami.com/song/3404050%^&*http://www.xiami.com/song/3404051%^&*http://www.xiami.com/song/3404052%^&*http://www.xiami.com/song/3404053%^&*http://www.xiami.com/song/3404054%^&*http://www.xiami.com/song/3404055%^&*http://www.xiami.com/song/3404056%^&*

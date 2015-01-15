@@ -1,0 +1,6 @@
+number 12988
+name 圣女传说
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/12988.jpg
+songs 上帝救我%^&*17岁%^&*Cool Girl%^&*化蝶%^&*背叛的情人%^&*跟我在一起好不好%^&*魂萦旧梦%^&*I&#039;m Waiting For My Man%^&*我不是个多情的人%^&*Bad Girl%^&*
+songURLs http://www.xiami.com/song/374111%^&*http://www.xiami.com/song/374112%^&*http://www.xiami.com/song/374113%^&*http://www.xiami.com/song/374114%^&*http://www.xiami.com/song/374115%^&*http://www.xiami.com/song/374116%^&*http://www.xiami.com/song/374117%^&*http://www.xiami.com/song/374118%^&*http://www.xiami.com/song/374119%^&*http://www.xiami.com/song/374120%^&*

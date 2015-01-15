@@ -1,0 +1,7 @@
+number 406
+name 九月九的酒(海外版)
+artist 陈良泉
+introduction 
+picture http://img.xiami.net/images/album/img0/4061288940178.jpg
+songs 九月九的酒%^&*小芳%^&*相逢不敢说双飞%^&*丢手绢%^&*你不要跟我来%^&*我听过你的歌%^&*南泥湾%^&*别问旧伤口%^&*晚秋%^&*摘下满天星%^&*家书%^&*涛声依旧%^&*
+songURLs http://www.xiami.com/song/4838%^&*http://www.xiami.com/song/4839%^&*http://www.xiami.com/song/4840%^&*http://www.xiami.com/song/4841%^&*http://www.xiami.com/song/4842%^&*http://www.xiami.com/song/4843%^&*http://www.xiami.com/song/4844%^&*http://www.xiami.com/song/4845%^&*http://www.xiami.com/song/4846%^&*http://www.xiami.com/song/4847%^&*http://www.xiami.com/song/4848%^&*http://www.xiami.com/song/4849%^&*

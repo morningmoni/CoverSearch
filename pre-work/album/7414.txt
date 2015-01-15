@@ -1,0 +1,7 @@
+number 7414
+name 伤心
+artist 陈洁仪
+introduction 1996年,推出第三张国语专辑《伤心》，第一主打为《伤心》，第二主打为《像男孩的男人》，第三主打为《感觉失踪》，第四主打为《喜欢你》，并同时在台湾举办全台巡回歌友会。同年9月，获专业人士与歌迷齐声推荐为1996年新加坡歌坛天后。
+picture http://img.xiami.net/images/album/img90/1390/74141410844543.jpg
+songs 伤心%^&*像男孩的男人%^&*感觉失踪%^&*爱那么靠近%^&*男人真有趣%^&*喜欢你%^&*眼睛湿湿的%^&*约会%^&*习惯%^&*Wind Beneath My Wings%^&*
+songURLs http://www.xiami.com/song/91545%^&*http://www.xiami.com/song/91546%^&*http://www.xiami.com/song/91547%^&*http://www.xiami.com/song/91548%^&*http://www.xiami.com/song/91549%^&*http://www.xiami.com/song/91550%^&*http://www.xiami.com/song/91551%^&*http://www.xiami.com/song/91552%^&*http://www.xiami.com/song/91553%^&*http://www.xiami.com/song/91554%^&*

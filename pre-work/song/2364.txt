@@ -1,0 +1,6 @@
+number 2364
+name 男儿哀歌
+artist 蔡振南%^&*
+artistURL http://www.xiami.com/artist/51%^&*
+album 多桑电影原声带
+albumURL http://www.xiami.com/album/191

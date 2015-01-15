@@ -1,0 +1,6 @@
+number 9317
+name 丽莎之歌第五集
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 谷中情%^&*萍踪寄语%^&*牙擦擦学楂车%^&*飘零梦%^&*花间情人%^&*情爱真微妙%^&*少女心声%^&*沉醉晚风中%^&*春到人间%^&*轻轻说再见%^&*花月良宵%^&*有情饮水饱%^&*
+songURLs http://www.xiami.com/song/115541%^&*http://www.xiami.com/song/115542%^&*http://www.xiami.com/song/115543%^&*http://www.xiami.com/song/115544%^&*http://www.xiami.com/song/115545%^&*http://www.xiami.com/song/115546%^&*http://www.xiami.com/song/115547%^&*http://www.xiami.com/song/115548%^&*http://www.xiami.com/song/115549%^&*http://www.xiami.com/song/115550%^&*http://www.xiami.com/song/115551%^&*http://www.xiami.com/song/115552%^&*

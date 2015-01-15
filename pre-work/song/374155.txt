@@ -1,0 +1,6 @@
+number 374155
+name 别离歌
+artist 伊能静%^&*
+artistURL http://www.xiami.com/artist/2390%^&*
+album 恋爱中的女人
+albumURL http://www.xiami.com/album/12990

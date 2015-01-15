@@ -1,0 +1,6 @@
+number 1769079490
+name 孤单好吗
+artist 陈伟联%^&*
+artistURL http://www.xiami.com/artist/124%^&*
+album 走唱
+albumURL http://www.xiami.com/album/344045

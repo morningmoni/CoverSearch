@@ -1,0 +1,6 @@
+number 1189695081
+name 董文华演唱第三辑
+artist 董文华
+introduction picture http://img.xiami.net/images/album/img0/1500/11896950811389695081.jpg
+songs 血染的风采%^&*早晨的心情%^&*想给边防战士写封信%^&*紫罗兰%^&*故乡的小白鸽%^&*爱情的色彩%^&*妈妈的心战士的情%^&*也会%^&*哪里有你哪里就有我%^&*故乡的小竹桥%^&*路%^&*大连的风%^&*遥远的村庄%^&*无名的道路%^&*
+songURLs http://www.xiami.com/song/1772480305%^&*http://www.xiami.com/song/1772480306%^&*http://www.xiami.com/song/1772480307%^&*http://www.xiami.com/song/1772480308%^&*http://www.xiami.com/song/1772480309%^&*http://www.xiami.com/song/1772480310%^&*http://www.xiami.com/song/1772480311%^&*http://www.xiami.com/song/1772480312%^&*http://www.xiami.com/song/1772480313%^&*http://www.xiami.com/song/1772480314%^&*http://www.xiami.com/song/1772480315%^&*http://www.xiami.com/song/1772480316%^&*http://www.xiami.com/song/1772480317%^&*http://www.xiami.com/song/1772480318%^&*

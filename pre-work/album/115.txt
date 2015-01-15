@@ -1,0 +1,7 @@
+number 115
+name 叛逆+精选
+artist 蔡枫华
+introduction 这张专辑中蔡枫华重新演唱了何家劲首唱的一首《叛逆》，令这首歌再度出现在电台歌曲排行榜。专辑中两首新歌《爱的幻觉》《不必造作》。除此之外，这张专辑还精选了以往唱片专辑中的经典歌曲。那个唱《倩影》的小蔡，挺斯文的一个人，曾经迷倒无数少女，经历了《爱的幻觉》后，感受到了《绝对空虚》，仍然高呼《爱不是游戏》，，然后《风中追风》，一切却依然《破碎》，最后成就了疯华绝代的故事。
+picture http://img.xiami.net/images/album/img41/41/1151334642415.jpg
+songs 叛逆%^&*爱的幻觉%^&*远飞的你%^&*十年%^&*高温境界%^&*月蚀%^&*娉婷%^&*不必造作%^&*绝对空虚%^&*风中追风%^&*爱不是游戏%^&*也许%^&*破碎%^&*
+songURLs http://www.xiami.com/song/1411%^&*http://www.xiami.com/song/1412%^&*http://www.xiami.com/song/1413%^&*http://www.xiami.com/song/1414%^&*http://www.xiami.com/song/1415%^&*http://www.xiami.com/song/1416%^&*http://www.xiami.com/song/1417%^&*http://www.xiami.com/song/1418%^&*http://www.xiami.com/song/1419%^&*http://www.xiami.com/song/1420%^&*http://www.xiami.com/song/1421%^&*http://www.xiami.com/song/1422%^&*http://www.xiami.com/song/1423%^&*

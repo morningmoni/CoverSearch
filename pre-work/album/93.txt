@@ -1,0 +1,7 @@
+number 93
+name 恋爱新四季
+artist 鲍比达
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10015813328m_2.jpg
+songs 落叶%^&*早晨的愿望%^&*第一次相遇%^&*你真的爱我吗?%^&*爱情鸟%^&*你照亮了我的生命%^&*爱的川流%^&*漫步在云端%^&*沙中小彩石%^&*飞%^&*夏日之吻%^&*幸福时光%^&*白色眼泪%^&*上一个冬天%^&*渴望你的温暖%^&*再见!雪人先生%^&*
+songURLs http://www.xiami.com/song/1063%^&*http://www.xiami.com/song/1064%^&*http://www.xiami.com/song/1065%^&*http://www.xiami.com/song/1066%^&*http://www.xiami.com/song/1067%^&*http://www.xiami.com/song/1068%^&*http://www.xiami.com/song/1069%^&*http://www.xiami.com/song/1070%^&*http://www.xiami.com/song/1071%^&*http://www.xiami.com/song/1072%^&*http://www.xiami.com/song/1073%^&*http://www.xiami.com/song/1074%^&*http://www.xiami.com/song/1075%^&*http://www.xiami.com/song/1076%^&*http://www.xiami.com/song/1077%^&*http://www.xiami.com/song/1078%^&*

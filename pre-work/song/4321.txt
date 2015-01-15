@@ -1,0 +1,6 @@
+number 4321
+name 一线之隔
+artist 陈浩德%^&*
+artistURL http://www.xiami.com/artist/85%^&*
+album 爱如春风
+albumURL http://www.xiami.com/album/357

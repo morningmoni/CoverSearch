@@ -1,0 +1,6 @@
+number 42857
+name 刺青MV
+artist 罗志祥%^&*
+artistURL http://www.xiami.com/artist/720%^&*
+album 达人Show
+albumURL http://www.xiami.com/album/3477

@@ -1,0 +1,7 @@
+number 4662
+name 向天要一点爱
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/46621375423697.jpg
+songs 向天要一点爱%^&*当爱还来得及%^&*于是我痛哭一场%^&*越来越相信感觉%^&*天上小星星%^&*飞翔在自己的天空%^&*终年下雨的地方%^&*没有人知道的歌%^&*给我多一点时间%^&*向天要一点爱 (演奏版)%^&*
+songURLs http://www.xiami.com/song/380753%^&*http://www.xiami.com/song/380754%^&*http://www.xiami.com/song/380755%^&*http://www.xiami.com/song/380756%^&*http://www.xiami.com/song/380757%^&*http://www.xiami.com/song/380758%^&*http://www.xiami.com/song/380759%^&*http://www.xiami.com/song/380760%^&*http://www.xiami.com/song/380761%^&*http://www.xiami.com/song/380762%^&*

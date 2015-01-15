@@ -1,0 +1,6 @@
+number 807
+name 榴莲歌儿一家唱
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 爱我久久
+albumURL http://www.xiami.com/album/68

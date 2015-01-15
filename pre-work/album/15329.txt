@@ -1,0 +1,7 @@
+number 15329
+name 情深谊长
+artist 圣女合唱组
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10142794155m_2.jpg
+songs 情深谊长%^&*洪湖水,浪打浪%^&*采茶舞曲%^&*珊瑚颂%^&*绣红旗%^&*谁不说咱家乡好%^&*毛主席的话儿记心上%^&*花儿为什么这样红%^&*唱支山歌给党听%^&*南泥湾%^&*大红枣儿甜又香%^&*姑娘生来爱唱歌%^&*
+songURLs http://www.xiami.com/song/188158%^&*http://www.xiami.com/song/188159%^&*http://www.xiami.com/song/188160%^&*http://www.xiami.com/song/188161%^&*http://www.xiami.com/song/188162%^&*http://www.xiami.com/song/188163%^&*http://www.xiami.com/song/188164%^&*http://www.xiami.com/song/188165%^&*http://www.xiami.com/song/188166%^&*http://www.xiami.com/song/188167%^&*http://www.xiami.com/song/188168%^&*http://www.xiami.com/song/188169%^&*

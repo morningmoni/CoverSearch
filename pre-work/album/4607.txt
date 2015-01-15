@@ -1,0 +1,6 @@
+number 4607
+name 西部歌王
+artist 王洛宾
+introduction picture http://img.xiami.net/images/album/img0/46071246850581.jpg
+songs 掀起你的盖头%^&*半个月亮爬上来%^&*在银色的月光下%^&*青春舞曲%^&*在那遥远的地方%^&*达板城的姑娘%^&*阿拉木汗%^&*花儿与少年%^&*康定情歌%^&*高高的白杨%^&*玛依拉%^&*黑眉毛%^&*都达尔与玛丽亚%^&*沙里洪巴%^&*阿娜尔汗%^&*撒阿黛%^&*琪蔓地%^&*黄昏的炊烟%^&*牡丹汗%^&*我等你到明天%^&*
+songURLs http://www.xiami.com/song/2048066%^&*http://www.xiami.com/song/2048067%^&*http://www.xiami.com/song/2048068%^&*http://www.xiami.com/song/2048069%^&*http://www.xiami.com/song/2048070%^&*http://www.xiami.com/song/2048071%^&*http://www.xiami.com/song/2048072%^&*http://www.xiami.com/song/2048073%^&*http://www.xiami.com/song/2048074%^&*http://www.xiami.com/song/2048075%^&*http://www.xiami.com/song/2048076%^&*http://www.xiami.com/song/2048077%^&*http://www.xiami.com/song/2048078%^&*http://www.xiami.com/song/2048079%^&*http://www.xiami.com/song/2048080%^&*http://www.xiami.com/song/2048081%^&*http://www.xiami.com/song/2048082%^&*http://www.xiami.com/song/2048083%^&*http://www.xiami.com/song/2048084%^&*http://www.xiami.com/song/2048085%^&*

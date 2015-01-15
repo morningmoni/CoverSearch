@@ -1,0 +1,7 @@
+number 20272
+name 爱的名字
+artist 赖向华%^&*梁文福%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B5%96%E5%90%91%E5%8D%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%81%E6%96%87%E7%A6%8F%^&*
+album 斟情手记
+albumURL http://www.xiami.com/album/2621

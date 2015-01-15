@@ -1,0 +1,6 @@
+number 3367328
+name 龙战骑士
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album 魔杰座
+albumURL http://www.xiami.com/album/304683

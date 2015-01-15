@@ -1,0 +1,7 @@
+number 159
+name 这里有爱等我回来
+artist 蔡荣祖
+introduction 
+picture http://img.xiami.net/images/album/img0/1591284011488.jpg
+songs 这里有爱等我回来%^&*离别要在下雨天%^&*关于我和你%^&*说说你如何爱着我%^&*一直温柔%^&*失约%^&*给我你真正的自己%^&*你不会相信%^&*算得了什么%^&*你那张无辜的脸%^&*
+songURLs http://www.xiami.com/song/1984%^&*http://www.xiami.com/song/1985%^&*http://www.xiami.com/song/1986%^&*http://www.xiami.com/song/1987%^&*http://www.xiami.com/song/1988%^&*http://www.xiami.com/song/1989%^&*http://www.xiami.com/song/1990%^&*http://www.xiami.com/song/1991%^&*http://www.xiami.com/song/1992%^&*http://www.xiami.com/song/1993%^&*

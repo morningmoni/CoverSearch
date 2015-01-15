@@ -1,0 +1,6 @@
+number 12338
+name 永远的女孩
+artist 谢丽金
+introduction picture http://img.xiami.net/images/album/img0/2300/12338.jpg
+songs 有一天曾经这样%^&*暗示只能给这么多%^&*音乐不要停%^&*My First Date%^&*他和她紧紧拥抱%^&*记得常常写信来%^&*我想我不了解自己%^&*向星星许个愿%^&*如果真是你%^&*给远方的你%^&*
+songURLs http://www.xiami.com/song/151732%^&*http://www.xiami.com/song/151733%^&*http://www.xiami.com/song/151734%^&*http://www.xiami.com/song/151735%^&*http://www.xiami.com/song/151736%^&*http://www.xiami.com/song/151737%^&*http://www.xiami.com/song/151738%^&*http://www.xiami.com/song/151739%^&*http://www.xiami.com/song/151740%^&*http://www.xiami.com/song/151741%^&*

@@ -1,0 +1,7 @@
+number 1201
+name 20世纪中华歌坛名人百集珍藏版
+artist 关贵敏
+introduction 
+picture http://img.xiami.net/images/album/img70/270/12011344220375.jpg
+songs 再见了,大别山%^&*浪花里飞出欢乐的歌%^&*美妙的夜色%^&*草原上升起不落的太阳%^&*我们的明天比蜜甜%^&*海燕啊,请你停一下%^&*太行颂%^&*喀秋莎%^&*那就是我%^&*青春啊青春%^&*秋雨%^&*魔笛%^&*莫斯科郊外的晚上%^&*国旗升起来了%^&*
+songURLs http://www.xiami.com/song/27225%^&*http://www.xiami.com/song/27226%^&*http://www.xiami.com/song/27227%^&*http://www.xiami.com/song/27228%^&*http://www.xiami.com/song/27229%^&*http://www.xiami.com/song/27230%^&*http://www.xiami.com/song/27231%^&*http://www.xiami.com/song/27232%^&*http://www.xiami.com/song/27233%^&*http://www.xiami.com/song/27234%^&*http://www.xiami.com/song/27235%^&*http://www.xiami.com/song/27236%^&*http://www.xiami.com/song/27237%^&*http://www.xiami.com/song/27238%^&*

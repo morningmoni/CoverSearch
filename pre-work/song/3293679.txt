@@ -1,0 +1,6 @@
+number 3293679
+name 旧事
+artist 萧亚轩%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%90%A7%E4%BA%9A%E8%BD%A9%^&*
+album 夜奔
+albumURL http://www.xiami.com/album/297284

@@ -1,0 +1,7 @@
+number 529967
+name 郁悴ㄟ恋歌
+artist 七郎
+introduction 
+picture http://img.xiami.net/images/album/img9/90909/1343090909.jpg
+songs 猫王%^&*郁悴ㄟ恋歌%^&*地动海啸%^&*为按怎%^&*星有情月有爱%^&*才子佳人%^&*恋恋东海岸%^&*夜夜梦中来心碎%^&*丈人女婿%^&*伤心的往事%^&*
+songURLs http://www.xiami.com/song/1771182900%^&*http://www.xiami.com/song/1771182901%^&*http://www.xiami.com/song/1771182902%^&*http://www.xiami.com/song/1771182903%^&*http://www.xiami.com/song/1771182904%^&*http://www.xiami.com/song/1771182905%^&*http://www.xiami.com/song/1771182906%^&*http://www.xiami.com/song/1771182907%^&*http://www.xiami.com/song/1771182908%^&*http://www.xiami.com/song/1771182909%^&*

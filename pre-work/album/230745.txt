@@ -1,0 +1,7 @@
+number 230745
+name A蔻
+artist 叶蔻
+introduction 叶蔻第一张专辑。在单亲家庭里出生长大，叶蔻自小认知，不能期待别人呵护，唯有自立自强。东吴外文系毕业后，便开始踏上演艺之路，内心想的只是赚钱养家，人生一路走来始终跌跌撞撞，就像当年「走不完的爱」中的一句歌词写道，「上天怎么给，我就怎么受」，让叶蔻噙着泪，唱出自己的心声。
+picture http://img.xiami.net/images/album/img12/59012/2307451338791101.jpg
+songs 走不完的爱%^&*一根蜡烛%^&*生日前夕%^&*温暖我的视线%^&*网%^&*Love is all I need%^&*下弦月%^&*错%^&*奔放的爱%^&*你的俘虏%^&*昨夜一场梦%^&*轻轻拥着我%^&*
+songURLs http://www.xiami.com/song/1771052690%^&*http://www.xiami.com/song/1771052691%^&*http://www.xiami.com/song/1771052692%^&*http://www.xiami.com/song/1771052693%^&*http://www.xiami.com/song/1771052694%^&*http://www.xiami.com/song/1771052695%^&*http://www.xiami.com/song/1771052696%^&*http://www.xiami.com/song/1771052697%^&*http://www.xiami.com/song/1771052698%^&*http://www.xiami.com/song/1771052699%^&*http://www.xiami.com/song/1771052700%^&*http://www.xiami.com/song/1771052701%^&*

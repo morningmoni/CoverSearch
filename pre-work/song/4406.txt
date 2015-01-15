@@ -1,0 +1,6 @@
+number 4406
+name 爱你真好
+artist 陈浩民%^&*
+artistURL http://www.xiami.com/artist/87%^&*
+album 爱海滔滔
+albumURL http://www.xiami.com/album/364

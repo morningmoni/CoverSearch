@@ -1,0 +1,7 @@
+number 213
+name 让我的心靠近你的梦
+artist 曹松章
+introduction 
+picture http://img.xiami.net/images/album/img60/60/2131384742243.jpg
+songs 让我的心靠近你的梦%^&*好久没有看到你%^&*潮湿的眼睛%^&*不再等待%^&*神话都市%^&*永不放弃%^&*珍惜你所看到的%^&*不要太多%^&*年少的梦%^&*重新来过%^&*
+songURLs http://www.xiami.com/song/2599%^&*http://www.xiami.com/song/2600%^&*http://www.xiami.com/song/2601%^&*http://www.xiami.com/song/2602%^&*http://www.xiami.com/song/2603%^&*http://www.xiami.com/song/2604%^&*http://www.xiami.com/song/2605%^&*http://www.xiami.com/song/2606%^&*http://www.xiami.com/song/2607%^&*http://www.xiami.com/song/2608%^&*

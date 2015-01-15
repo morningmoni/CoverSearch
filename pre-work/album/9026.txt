@@ -1,0 +1,7 @@
+number 9026
+name 爱都给我
+artist 黄嘉千
+introduction 
+picture http://img.xiami.net/images/album/img50/1650/90261314685513.jpg
+songs 没想到%^&*爱都给我%^&*似懂非懂%^&*我和你和我们之间的秘密%^&*折磨%^&*把他放心上%^&*喜欢%^&*迷藏%^&*存在%^&*聚散%^&*
+songURLs http://www.xiami.com/song/111960%^&*http://www.xiami.com/song/111961%^&*http://www.xiami.com/song/111962%^&*http://www.xiami.com/song/111963%^&*http://www.xiami.com/song/111964%^&*http://www.xiami.com/song/111965%^&*http://www.xiami.com/song/111966%^&*http://www.xiami.com/song/111967%^&*http://www.xiami.com/song/111968%^&*http://www.xiami.com/song/111969%^&*

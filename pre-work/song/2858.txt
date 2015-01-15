@@ -1,0 +1,6 @@
+number 2858
+name 给你的ReggaeMV
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 今天的一切
+albumURL http://www.xiami.com/album/233

@@ -1,0 +1,6 @@
+number 426652
+name 爱情的真相
+artist 鲍比达
+introduction picture http://img.xiami.net/images/album/img32/32/4266521308556856.jpg
+songs 序曲%^&*新不了情%^&*春天%^&*一代佳人%^&*爱情真相%^&*纯爱%^&*隐忧%^&*雨季不停%^&*分享%^&*梦桥%^&*难忘的时刻%^&*
+songURLs http://www.xiami.com/song/1770044117%^&*http://www.xiami.com/song/1770044118%^&*http://www.xiami.com/song/1770044119%^&*http://www.xiami.com/song/1770044120%^&*http://www.xiami.com/song/1770044121%^&*http://www.xiami.com/song/1770044122%^&*http://www.xiami.com/song/1770044123%^&*http://www.xiami.com/song/1770044124%^&*http://www.xiami.com/song/1770044125%^&*http://www.xiami.com/song/1770044126%^&*http://www.xiami.com/song/1770044127%^&*

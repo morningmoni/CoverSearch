@@ -1,0 +1,7 @@
+number 1230
+name 中国足球战歌
+artist 卞留念%^&*群星%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%8D%9E%E7%95%99%E5%BF%B5%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BE%A4%E6%98%9F%^&*
+album 中国足球战歌
+albumURL http://www.xiami.com/album/105

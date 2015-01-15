@@ -1,0 +1,6 @@
+number 43
+name 老懵董笑歌集
+artist 安德尊
+introduction picture http://img.xiami.net/images/pic/04/01/10026128415m_2.jpg
+songs 维港大兄%^&*钱不够用%^&*爱吃乌冬的老公公%^&*老懵董%^&*无敌Go Go Go%^&*前进啊Gulliver Boy%^&*财神到%^&*祝寿歌%^&*祝婚歌%^&*我们的故事%^&*排排坐%^&*儿歌氹氹转%^&*
+songURLs http://www.xiami.com/song/516%^&*http://www.xiami.com/song/517%^&*http://www.xiami.com/song/518%^&*http://www.xiami.com/song/519%^&*http://www.xiami.com/song/520%^&*http://www.xiami.com/song/521%^&*http://www.xiami.com/song/522%^&*http://www.xiami.com/song/523%^&*http://www.xiami.com/song/524%^&*http://www.xiami.com/song/525%^&*http://www.xiami.com/song/526%^&*http://www.xiami.com/song/527%^&*

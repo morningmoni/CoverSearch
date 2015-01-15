@@ -1,0 +1,7 @@
+number 180
+name OBOE双簧管精选集
+artist 蔡兴国
+introduction 亚洲最优秀的双簧管演奏家为您献上的精选集，他用心爱的双簧管为您诠释出法国的浪漫之情。蔡兴国(Casper Tsai)是台湾省新竹县人。自幼学习钢琴，是台湾为主不多的集偶像、实力、创作于一身的年轻演奏家。个人色彩鲜明，风格独树一帜。14岁与长笛名师应清霖学习长笛，17岁追随名双簧管演奏家刘适宏教授学习双簧管。于华冈艺术学校毕业后，蔡兴国以优异成绩保送进入文化大学音乐系。在校期间担任华岗交响乐团双簧管首席，并于1982年荣获&ldquo;主奏优异评定奖&rdquo;的殊荣。学生期间，便以古典双簧管演奏活跃于台湾各音乐舞台。1983年自组&ldquo;世纪木管五重奏&rdquo;，寄情于古典室内乐的雅致，并任教于各音乐班，对台湾双簧管音乐的推广不遗余力。1986年加入当时刚成立的联合实验管弦乐团迄今。该乐团前法籍指挥艾克尔先生，誉其为&ldquo;亚洲最佳的双簧管演奏者&rdquo;。
+picture http://img.xiami.net/images/album/img48/48/1801398506100.jpg
+songs 巴黎日记%^&*如果我能飞%^&*说你%^&*雪莉! 宝贝%^&*新天堂乐团%^&*短歌%^&*塞纳河畔%^&*和平岛%^&*随风而逝%^&*香榭大道%^&*你从星星来%^&*男人与女人%^&*
+songURLs http://www.xiami.com/song/2208%^&*http://www.xiami.com/song/2209%^&*http://www.xiami.com/song/2210%^&*http://www.xiami.com/song/2211%^&*http://www.xiami.com/song/2212%^&*http://www.xiami.com/song/2213%^&*http://www.xiami.com/song/2214%^&*http://www.xiami.com/song/2215%^&*http://www.xiami.com/song/2216%^&*http://www.xiami.com/song/2217%^&*http://www.xiami.com/song/2218%^&*http://www.xiami.com/song/2219%^&*

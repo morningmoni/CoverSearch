@@ -1,0 +1,6 @@
+number 188188
+name 康定情歌四川民歌
+artist 圣女合唱组%^&*
+artistURL http://www.xiami.com/artist/3030%^&*
+album 绣荷包
+albumURL http://www.xiami.com/album/15331

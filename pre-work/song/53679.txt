@@ -1,0 +1,6 @@
+number 53679
+name 所有情爱
+artist 庹宗华%^&*
+artistURL http://www.xiami.com/artist/880%^&*
+album 风起云涌
+albumURL http://www.xiami.com/album/4408

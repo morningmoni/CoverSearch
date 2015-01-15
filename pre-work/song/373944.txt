@@ -1,0 +1,6 @@
+number 373944
+name 第九天 衣裳 (音乐版)
+artist 九天乐队%^&*
+artistURL http://www.xiami.com/artist/2840%^&*
+album 九天 同名专辑
+albumURL http://www.xiami.com/album/32168

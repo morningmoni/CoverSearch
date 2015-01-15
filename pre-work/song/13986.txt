@@ -1,0 +1,6 @@
+number 13986
+name 蛋白质女孩
+artist 雷亮%^&*
+artistURL http://www.xiami.com/artist/490%^&*
+album 蛋白质女孩
+albumURL http://www.xiami.com/album/2114

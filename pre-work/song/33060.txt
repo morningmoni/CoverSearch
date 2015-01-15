@@ -1,0 +1,6 @@
+number 33060
+name 错觉
+artist 黄品源%^&*
+artistURL http://www.xiami.com/artist/390%^&*
+album 感谢·情人
+albumURL http://www.xiami.com/album/1716

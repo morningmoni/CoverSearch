@@ -1,0 +1,6 @@
+number 13002
+name 安妮的音乐盒II
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/13002.jpg
+songs 深夜的辛蒂蕾拉们%^&*祈求%^&*加一些想像%^&*街头顽童%^&*蓝色大衣的男孩%^&*我在恋爱%^&*我就是年轻%^&*新娘%^&*舞得发热%^&*向爱情说声对不起%^&*骄傲的面具%^&*守候%^&*带我去月亮%^&*爱丽丝的日记%^&*
+songURLs http://www.xiami.com/song/159949%^&*http://www.xiami.com/song/159950%^&*http://www.xiami.com/song/159951%^&*http://www.xiami.com/song/159952%^&*http://www.xiami.com/song/159953%^&*http://www.xiami.com/song/159954%^&*http://www.xiami.com/song/159955%^&*http://www.xiami.com/song/159956%^&*http://www.xiami.com/song/159957%^&*http://www.xiami.com/song/159958%^&*http://www.xiami.com/song/159959%^&*http://www.xiami.com/song/159960%^&*http://www.xiami.com/song/159961%^&*http://www.xiami.com/song/159962%^&*

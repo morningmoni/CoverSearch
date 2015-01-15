@@ -1,0 +1,7 @@
+number 510
+name 李恩邦
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/12003054624989.jpg
+albums 等你回头%^&*对爱很认真%^&*
+albumURLs http://www.xiami.com/album/191199%^&*http://www.xiami.com/album/2246%^&*

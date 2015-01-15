@@ -1,0 +1,6 @@
+number 8254
+name 逛街
+artist 范文芳
+introduction picture http://img.xiami.net/images/album/img10/1510/82541364523601.jpg
+songs Summer Rain%^&*逛街%^&*趁一切还来得及%^&*不怕%^&*孤单%^&*下午茶%^&*星期六%^&*跟随%^&*搬家%^&*预言%^&*示情%^&*
+songURLs http://www.xiami.com/song/102549%^&*http://www.xiami.com/song/102550%^&*http://www.xiami.com/song/102551%^&*http://www.xiami.com/song/102552%^&*http://www.xiami.com/song/102553%^&*http://www.xiami.com/song/102554%^&*http://www.xiami.com/song/102555%^&*http://www.xiami.com/song/102556%^&*http://www.xiami.com/song/102557%^&*http://www.xiami.com/song/102558%^&*http://www.xiami.com/song/102559%^&*

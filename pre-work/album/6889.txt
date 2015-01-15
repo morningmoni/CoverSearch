@@ -1,0 +1,7 @@
+number 6889
+name 贝贝1
+artist 贝贝
+introduction 
+picture http://img.xiami.net/images/album/img30/1330/6889.jpg
+songs 我为你狂%^&*倦%^&*偶遇%^&*零时十分%^&*印象%^&*早晨%^&*明星%^&*有了你%^&*
+songURLs http://www.xiami.com/song/84097%^&*http://www.xiami.com/song/84098%^&*http://www.xiami.com/song/84099%^&*http://www.xiami.com/song/84100%^&*http://www.xiami.com/song/84101%^&*http://www.xiami.com/song/84102%^&*http://www.xiami.com/song/84103%^&*http://www.xiami.com/song/84104%^&*

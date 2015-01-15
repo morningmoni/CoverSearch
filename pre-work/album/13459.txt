@@ -1,0 +1,7 @@
+number 13459
+name 思念
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/134591388306751.jpg
+songs 思念%^&*爱你的心肝啥人知%^&*满面春风%^&*痴情宛然是悲哀%^&*离别的彼首歌%^&*今生阮的爱%^&*失恋的心情%^&*爱你的女人心%^&*爱你%^&*秋风未了情%^&*
+songURLs http://www.xiami.com/song/165788%^&*http://www.xiami.com/song/165789%^&*http://www.xiami.com/song/165790%^&*http://www.xiami.com/song/165791%^&*http://www.xiami.com/song/165792%^&*http://www.xiami.com/song/165793%^&*http://www.xiami.com/song/165794%^&*http://www.xiami.com/song/165795%^&*http://www.xiami.com/song/165796%^&*http://www.xiami.com/song/165797%^&*

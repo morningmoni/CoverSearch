@@ -1,0 +1,6 @@
+number 3133
+name 沉思
+artist 刘文正
+introduction picture http://img.xiami.net/images/pic/07/01/50_20070708_151133_264m_2.jpg
+songs 沉思%^&*为青春欢唱%^&*心愿%^&*怀念%^&*再见!朋友%^&*我的初恋%^&*浓雾%^&*明天%^&*小波浪%^&*昨夜梦中相诉%^&*
+songURLs http://www.xiami.com/song/38678%^&*http://www.xiami.com/song/38679%^&*http://www.xiami.com/song/38680%^&*http://www.xiami.com/song/38681%^&*http://www.xiami.com/song/38682%^&*http://www.xiami.com/song/38683%^&*http://www.xiami.com/song/38684%^&*http://www.xiami.com/song/38685%^&*http://www.xiami.com/song/38686%^&*http://www.xiami.com/song/38687%^&*

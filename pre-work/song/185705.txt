@@ -1,0 +1,6 @@
+number 185705
+name 我没错
+artist 扭曲的机器%^&*
+artistURL http://www.xiami.com/artist/2940%^&*
+album 扭曲的机器 同名专辑
+albumURL http://www.xiami.com/album/15104

@@ -1,0 +1,6 @@
+number 1772513381
+name Sing欢唱
+artist 青春派对%^&*
+artistURL http://www.xiami.com/artist/2970%^&*
+album 英文演唱专辑VOL.4
+albumURL http://www.xiami.com/album/1990720108

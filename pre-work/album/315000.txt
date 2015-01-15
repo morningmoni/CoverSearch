@@ -1,0 +1,6 @@
+number 315000
+name 等爱的人
+artist 詹曼铃
+introduction picture http://img.xiami.net/images/album/img40/2440/3150001231745079.jpg
+songs 等爱的人%^&*情海浮沉%^&*梦中情人%^&*天顶的云%^&*陪你到天光%^&*心爱的你甘知影%^&*风中花%^&*心痛%^&*相逢唔知是何时%^&*断线的风筝%^&*
+songURLs http://www.xiami.com/song/3494218%^&*http://www.xiami.com/song/3494219%^&*http://www.xiami.com/song/3494220%^&*http://www.xiami.com/song/3494221%^&*http://www.xiami.com/song/3494222%^&*http://www.xiami.com/song/3494223%^&*http://www.xiami.com/song/3494224%^&*http://www.xiami.com/song/3494225%^&*http://www.xiami.com/song/3494226%^&*http://www.xiami.com/song/3494227%^&*

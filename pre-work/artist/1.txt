@@ -1,0 +1,7 @@
+number 1
+name Alex
+place China 中国大陆
+introduction Alex，新世纪钢琴创作才子，他丰沛的钢琴创作，早有个人网站露出作品，不乏有广告公司与音乐人士请其创作；Alex以其纤细敏感的特质谱写你我心中言谕未及的深刻，从网路崛起，许多人未见过他的庐山面目，就已领略他的音乐才情。Alex是个兼具音乐与文采的个性艺人，内心层面抒发曲风却兼具流行动听特质，一改国内钢琴艺人昔日创作印象，作品也多获国外钢琴艺人好评。美国著名钢琴家Suzanne Ciani神往他音乐里的唯美，新世纪钢琴家Michael Hoppe称颂他灵魂深处的感性，而再多的描述都比不上你此刻按下Play听到他音乐里的静谧诗情。
+picture http://img.xiami.net/images/artistlogo/34/13832017928934.jpg
+albums 我 那一场恋爱%^&*
+albumURLs http://www.xiami.com/album/1%^&*

@@ -1,0 +1,6 @@
+number 339
+name 会·好吗无一定MV
+artist 阿吉仔%^&*
+artistURL http://www.xiami.com/artist/8%^&*
+album 再显奇迹
+albumURL http://www.xiami.com/album/25

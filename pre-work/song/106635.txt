@@ -1,0 +1,6 @@
+number 106635
+name 给我个说法
+artist 高慧君%^&*
+artistURL http://www.xiami.com/artist/1550%^&*
+album 忘了
+albumURL http://www.xiami.com/album/8574

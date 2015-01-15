@@ -1,0 +1,7 @@
+number 3892
+name 欺生
+artist 陈冠希%^&*MC仁%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%86%A0%E5%B8%8C%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=MC%E4%BB%81%^&*
+album The Best Collection
+albumURL http://www.xiami.com/album/321

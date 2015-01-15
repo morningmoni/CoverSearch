@@ -1,0 +1,6 @@
+number 2080285
+name 为自己骄傲
+artist 胡歌%^&*
+artistURL http://www.xiami.com/artist/350%^&*
+album 出发
+albumURL http://www.xiami.com/album/168524

@@ -1,0 +1,6 @@
+number 3681
+name 爱情当铺
+artist 潘协庆
+introduction picture http://img.xiami.net/images/album/img70/770/36811314585576.jpg
+songs 迷惑%^&*自责%^&*爱情当铺%^&*干脆流一点泪%^&*当爱来的时候%^&*了解%^&*第一个人%^&*我一直都在%^&*愚蠢的人%^&*我试过%^&*
+songURLs http://www.xiami.com/song/45269%^&*http://www.xiami.com/song/45270%^&*http://www.xiami.com/song/45271%^&*http://www.xiami.com/song/45272%^&*http://www.xiami.com/song/45273%^&*http://www.xiami.com/song/45274%^&*http://www.xiami.com/song/45275%^&*http://www.xiami.com/song/45276%^&*http://www.xiami.com/song/45277%^&*http://www.xiami.com/song/45278%^&*

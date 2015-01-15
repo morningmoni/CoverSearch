@@ -1,0 +1,6 @@
+number 2048685
+name 海觅天
+artist 丘采桦%^&*
+artistURL http://www.xiami.com/artist/2060%^&*
+album 2 In One
+albumURL http://www.xiami.com/album/11330

@@ -1,0 +1,7 @@
+number 4959
+name 为了靓靓
+artist 夏金城
+introduction 
+picture http://img.xiami.net/images/album/img90/990/49591381381037.jpg
+songs 为了靓靓%^&*迫巴士%^&*结婚前后%^&*股票与我%^&*新年好运来%^&*恭喜发财%^&*马小灵%^&*娇娇女真靓衫%^&*搭车难%^&*赌马狂热%^&*金蛇郎君%^&*离别%^&*正邪之争(主题曲)%^&*正邪之争(续集)%^&*
+songURLs http://www.xiami.com/song/60068%^&*http://www.xiami.com/song/60069%^&*http://www.xiami.com/song/60070%^&*http://www.xiami.com/song/60071%^&*http://www.xiami.com/song/60072%^&*http://www.xiami.com/song/60073%^&*http://www.xiami.com/song/60074%^&*http://www.xiami.com/song/60075%^&*http://www.xiami.com/song/60076%^&*http://www.xiami.com/song/60077%^&*http://www.xiami.com/song/60078%^&*http://www.xiami.com/song/60079%^&*http://www.xiami.com/song/60080%^&*http://www.xiami.com/song/60081%^&*

@@ -1,0 +1,6 @@
+number 35454
+name 1+1=2
+artist 纪宏仁%^&*
+artistURL http://www.xiami.com/artist/430%^&*
+album 这次来真的
+albumURL http://www.xiami.com/album/1885

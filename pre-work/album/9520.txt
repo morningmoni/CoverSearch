@@ -1,0 +1,7 @@
+number 9520
+name 猜心
+artist 姜婷婷
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10133823455m_2.jpg
+songs 爱如潮水%^&*春光美%^&*明月千里寄相思%^&*猜心%^&*萍聚%^&*没有你的每一天%^&*亲密爱人%^&*芳草碧连天%^&*那一场风花雪月的事%^&*Big Big 大大世界%^&*把心留住%^&*孟婆汤%^&*你都不爱我%^&*
+songURLs http://www.xiami.com/song/117879%^&*http://www.xiami.com/song/117880%^&*http://www.xiami.com/song/117881%^&*http://www.xiami.com/song/117882%^&*http://www.xiami.com/song/117883%^&*http://www.xiami.com/song/117884%^&*http://www.xiami.com/song/117885%^&*http://www.xiami.com/song/117886%^&*http://www.xiami.com/song/117887%^&*http://www.xiami.com/song/117888%^&*http://www.xiami.com/song/117889%^&*http://www.xiami.com/song/117890%^&*http://www.xiami.com/song/117891%^&*

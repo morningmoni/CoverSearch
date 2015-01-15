@@ -1,0 +1,7 @@
+number 390413
+name 三个星期(新曲+精选)
+artist 吴倩莲
+introduction 
+picture http://img.xiami.net/images/album/img50/2250/3904131279248522.jpg
+songs 三个星期%^&*心乱如麻%^&*天下浪子不独你一人%^&*牧羊姑娘%^&*爱得干脆%^&*失恋的女人%^&*新天涯歌女%^&*我过得很快乐%^&*是她不爱你%^&*原谅我%^&*偏心%^&*分手连续剧%^&*他在笑%^&*背影%^&*
+songURLs http://www.xiami.com/song/1769635412%^&*http://www.xiami.com/song/1769635413%^&*http://www.xiami.com/song/1769635414%^&*http://www.xiami.com/song/1769635415%^&*http://www.xiami.com/song/1769635416%^&*http://www.xiami.com/song/1769635417%^&*http://www.xiami.com/song/1769635418%^&*http://www.xiami.com/song/1769635419%^&*http://www.xiami.com/song/1769635420%^&*http://www.xiami.com/song/1769635421%^&*http://www.xiami.com/song/1769635422%^&*http://www.xiami.com/song/1769635423%^&*http://www.xiami.com/song/1769635424%^&*http://www.xiami.com/song/1769635425%^&*

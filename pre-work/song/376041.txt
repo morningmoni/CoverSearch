@@ -1,0 +1,6 @@
+number 376041
+name 浪漫手机
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album 十一月的萧邦
+albumURL http://www.xiami.com/album/6643

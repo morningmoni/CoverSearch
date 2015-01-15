@@ -1,0 +1,6 @@
+number 82772
+name 黑猫白猫
+artist 艾敬%^&*
+artistURL http://www.xiami.com/artist/1300%^&*
+album 我的1997 (宣传EP)
+albumURL http://www.xiami.com/album/6764

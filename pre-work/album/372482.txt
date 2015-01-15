@@ -1,0 +1,7 @@
+number 372482
+name 米拉的城市情歌
+artist 林慧玲
+introduction 她是个爱狗猫又爱画画的音乐怪咖，也许你刚刚遇见米拉拉，听过她演唱花国的语言＜花语＞，也听过她唱＜风之歌>，米拉首度为数位音乐创作音乐EP【米拉的城市情歌】，只在数位通路发行。
+picture http://img.xiami.net/images/album/img60/1860/3724821268709735.jpg
+songs 让我爱你好不好%^&*小折之恋%^&*爱,放晴%^&*
+songURLs http://www.xiami.com/song/1769418439%^&*http://www.xiami.com/song/1769418440%^&*http://www.xiami.com/song/1769418441%^&*

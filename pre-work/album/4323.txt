@@ -1,0 +1,7 @@
+number 4323
+name I Believe
+artist 陶喆
+introduction 陶喆的音乐才华又受迪士尼年度大片[失落的帝国]重视，创作曲[I Believe]成为主题曲。今年迪士尼卡通年度钜片[失落的帝国]将于暑假在台上映，音乐才子陶喆与本土天后张惠妹将为中文版本男女主角配音献声。陶喆早在配音过程中就有创作灵感，没多久便谱出[I Believe]这首歌曲。
+picture http://img.xiami.net/images/album/img70/870/4323.jpg
+songs I Believe%^&*
+songURLs http://www.xiami.com/song/52691%^&*

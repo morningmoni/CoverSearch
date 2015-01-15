@@ -1,0 +1,6 @@
+number 1775
+name 热爱
+artist 黄维德
+introduction picture http://img.xiami.net/images/album/img0/400/17751419562519.jpg
+songs 热爱%^&*水和火的游戏%^&*七天的雨%^&*Just Time Girl%^&*说说话,好吗?%^&*不停爱着你的心%^&*I Miss You%^&*Honey B%^&*让我宝贝你%^&*感觉你%^&*
+songURLs http://www.xiami.com/song/1769622924%^&*http://www.xiami.com/song/1769622925%^&*http://www.xiami.com/song/1769622926%^&*http://www.xiami.com/song/1769622927%^&*http://www.xiami.com/song/1769622928%^&*http://www.xiami.com/song/1769622929%^&*http://www.xiami.com/song/1769622930%^&*http://www.xiami.com/song/1769622931%^&*http://www.xiami.com/song/1769622932%^&*http://www.xiami.com/song/1769622933%^&*

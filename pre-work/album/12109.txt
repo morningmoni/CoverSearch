@@ -1,0 +1,6 @@
+number 12109
+name 革命
+artist 韦绮姗
+introduction picture http://img.xiami.net/images/album/img20/2220/121091334559094.jpg
+songs 跪在大门后%^&*城市丽人%^&*影子也冲动%^&*旅途上%^&*日月夜星也无悔%^&*万片希望在明天%^&*眼睛起革命%^&*恨吧%^&*一生一世%^&*相逢何必曾相识%^&*
+songURLs http://www.xiami.com/song/148960%^&*http://www.xiami.com/song/148961%^&*http://www.xiami.com/song/148962%^&*http://www.xiami.com/song/148963%^&*http://www.xiami.com/song/148964%^&*http://www.xiami.com/song/148965%^&*http://www.xiami.com/song/148966%^&*http://www.xiami.com/song/148967%^&*http://www.xiami.com/song/148968%^&*http://www.xiami.com/song/148969%^&*

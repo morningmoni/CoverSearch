@@ -1,0 +1,7 @@
+number 15256
+name 喜欢你
+artist Sunday Girls
+introduction 
+picture http://img.xiami.net/images/album/img0/3000/15256.jpg
+songs 喜欢你%^&*努力向上吧%^&*Fresh%^&*Flower%^&*First Love%^&*快乐在一起%^&*丸子三兄弟%^&*好想嫁给他%^&*好久不见%^&*Love Machine%^&*
+songURLs http://www.xiami.com/song/187460%^&*http://www.xiami.com/song/187461%^&*http://www.xiami.com/song/187462%^&*http://www.xiami.com/song/187463%^&*http://www.xiami.com/song/187464%^&*http://www.xiami.com/song/187465%^&*http://www.xiami.com/song/187466%^&*http://www.xiami.com/song/187467%^&*http://www.xiami.com/song/187468%^&*http://www.xiami.com/song/187469%^&*

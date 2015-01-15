@@ -1,0 +1,6 @@
+number 2488
+name 长城谣
+artist 曹丁%^&*
+artistURL http://www.xiami.com/artist/57%^&*
+album 大江东去
+albumURL http://www.xiami.com/album/203

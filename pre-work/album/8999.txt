@@ -1,0 +1,7 @@
+number 8999
+name 浓情
+artist 黄宝欣
+introduction 这是黄宝欣1987年在银星唱片公司发行首张个人专辑。黄宝欣被人记住的应该是她与郑敬基合唱的那首《酒杯敲钢琴》，其他歌曲如不是黄宝欣痴迷粉丝都不太熟，《酒杯敲钢琴》就收录在此碟中。作为一个新人的首张专辑，从唱片后期的制作班底可以看出，银星公司对于她寄予了很大的期望，封套的概念设计请的是许愿，摄影用的是毛泽西，都是当时数一数二的唱片封面制作大家，还让她与当时的银星当家偶像男歌手一起合作，唱出了一首香港乐坛经典的跳舞版迪斯科歌曲，此歌也是后来各大唱片公司出版的劲歌舞曲精选集必收的曲目，与《连锁反应》《黑街》《挑战》一起成为了&ldquo;歌红人不红&rdquo;的代表。另外一首《两地情》，同为银星公司签约艺人的肥妈Maria Cordero也唱过，她的这个版本更为人熟知，特别是借助发哥的《监狱风云》更是唱遍了香江两岸，黄宝欣的这个版本算是温柔版的《友谊之光》，与肥妈比是另一种味道。
+picture http://img.xiami.net/images/album/img40/1640/89991334200296.jpg
+songs 浓情%^&*I&#039;m Your Friend I&#039;m Your Lover%^&*不会哭泣%^&*孤独一夜%^&*远远的河%^&*两地情%^&*黑布衣%^&*酒杯敲钢琴%^&*害怕寂寞%^&*两地情(音乐)%^&*
+songURLs http://www.xiami.com/song/111705%^&*http://www.xiami.com/song/111706%^&*http://www.xiami.com/song/111707%^&*http://www.xiami.com/song/111708%^&*http://www.xiami.com/song/111709%^&*http://www.xiami.com/song/111710%^&*http://www.xiami.com/song/111711%^&*http://www.xiami.com/song/111712%^&*http://www.xiami.com/song/111713%^&*http://www.xiami.com/song/111714%^&*

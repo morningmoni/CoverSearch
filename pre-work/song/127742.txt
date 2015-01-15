@@ -1,0 +1,6 @@
+number 127742
+name 爱情小说
+artist 林心如%^&*
+artistURL http://www.xiami.com/artist/1890%^&*
+album 双面林心如
+albumURL http://www.xiami.com/album/10349

@@ -1,0 +1,6 @@
+number 273
+name 阿贵谢谢你(阿贵/猛章)
+artist 阿贵%^&*
+artistURL http://www.xiami.com/artist/6%^&*
+album 阿贵的快乐天堂
+albumURL http://www.xiami.com/album/20

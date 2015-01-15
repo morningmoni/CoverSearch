@@ -1,0 +1,7 @@
+number 357
+name 爱如春风
+artist 陈浩德
+introduction 
+picture http://img.xiami.net/images/album/img0/3571288865551.jpg
+songs 爱在人间%^&*冷暖人生%^&*可笑世事幻变%^&*一线之隔%^&*珍惜少人头%^&*跑呀跑%^&*爱如春风%^&*此际系时候%^&*旧梦%^&*春天花开灿烂%^&*但愿有一天%^&*团结之歌%^&*
+songURLs http://www.xiami.com/song/4318%^&*http://www.xiami.com/song/4319%^&*http://www.xiami.com/song/4320%^&*http://www.xiami.com/song/4321%^&*http://www.xiami.com/song/4322%^&*http://www.xiami.com/song/4323%^&*http://www.xiami.com/song/4324%^&*http://www.xiami.com/song/4325%^&*http://www.xiami.com/song/4326%^&*http://www.xiami.com/song/4327%^&*http://www.xiami.com/song/4328%^&*http://www.xiami.com/song/4329%^&*

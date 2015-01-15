@@ -1,0 +1,7 @@
+number 86
+name 陈浩峰
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artist/11951619966153.jpg
+albums 补习之迷恋%^&*
+albumURLs http://www.xiami.com/album/363%^&*

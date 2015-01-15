@@ -1,0 +1,7 @@
+number 255734
+name 骑骡仙
+artist 顶楼的马戏团
+introduction 《骑骡仙》中的两轨现场作品均来自2005年1月，其中《举国爆料》是与美好药店合作，《天下没有不散的宴席》是翻唱作品。这是一支奇葩与另一支奇葩的聚会，又&ldquo;一次集体当场飞掉的音乐药物中毒事件&rdquo;。
+picture http://img.xiami.net/images/album/img90/190/255734.jpg
+songs 举国爆料 (Live)%^&*天下没有不散的筵席 (Live)%^&*
+songURLs http://www.xiami.com/song/2922863%^&*http://www.xiami.com/song/2922864%^&*

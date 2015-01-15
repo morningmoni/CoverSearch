@@ -1,0 +1,6 @@
+number 2166
+name 红猪和他的朋友
+artist 蔡兴国%^&*
+artistURL http://www.xiami.com/artist/48%^&*
+album 小王子的音乐书
+albumURL http://www.xiami.com/album/176

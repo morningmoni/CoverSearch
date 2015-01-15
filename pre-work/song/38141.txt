@@ -1,0 +1,6 @@
+number 38141
+name 只要为你活一天
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 闪亮岁月(刘文正全集2)
+albumURL http://www.xiami.com/album/3106

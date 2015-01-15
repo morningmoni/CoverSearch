@@ -1,0 +1,6 @@
+number 134
+name 我已经爱上你(伴奏)
+artist 阿杜%^&*
+artistURL http://www.xiami.com/artist/5%^&*
+album 小城故事 电视剧原声音乐大碟
+albumURL http://www.xiami.com/album/11

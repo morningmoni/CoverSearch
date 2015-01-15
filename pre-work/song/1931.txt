@@ -1,0 +1,6 @@
+number 1931
+name 只想一醉
+artist 蔡济文%^&*
+artistURL http://www.xiami.com/artist/44%^&*
+album Day Break
+albumURL http://www.xiami.com/album/156

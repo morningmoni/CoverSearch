@@ -1,0 +1,6 @@
+number 2090
+name 褪色的彩笔MV
+artist 蔡小虎%^&*
+artistURL http://www.xiami.com/artist/47%^&*
+album 思相枝
+albumURL http://www.xiami.com/album/169

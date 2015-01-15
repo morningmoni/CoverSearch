@@ -1,0 +1,7 @@
+number 351
+name 流行风情
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img0/3511288865278.jpg
+songs 我很丑,可是我很温柔%^&*爱人同志%^&*半梦半醒之间%^&*恋曲1990%^&*寂寞的眼%^&*天天想你%^&*我的未来不是梦%^&*我们爱这个错%^&*一场游戏一场梦%^&*是否我真的一无所有%^&*
+songURLs http://www.xiami.com/song/4234%^&*http://www.xiami.com/song/4235%^&*http://www.xiami.com/song/4236%^&*http://www.xiami.com/song/4237%^&*http://www.xiami.com/song/4238%^&*http://www.xiami.com/song/4239%^&*http://www.xiami.com/song/4240%^&*http://www.xiami.com/song/4241%^&*http://www.xiami.com/song/4242%^&*http://www.xiami.com/song/4243%^&*

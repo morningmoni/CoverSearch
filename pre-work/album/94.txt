@@ -1,0 +1,7 @@
+number 94
+name 鲍比达的音乐爱情故事
+artist 鲍比达
+introduction 
+picture http://img.xiami.net/images/album/img32/32/94.jpg
+songs 失去你以后%^&*嫁给我吗%^&*爱在破晓%^&*盼你多了解%^&*美丽的过去%^&*你总有话说%^&*不回首%^&*情愿付出%^&*对不起%^&*甜甜蜜蜜%^&*还记得吗%^&*从头开始%^&*海滩%^&*振作起来%^&*会不会珍惜%^&*唯一是你%^&*不能在一起了%^&*真要分手吗%^&*夜%^&*
+songURLs http://www.xiami.com/song/1088%^&*http://www.xiami.com/song/1089%^&*http://www.xiami.com/song/1090%^&*http://www.xiami.com/song/1091%^&*http://www.xiami.com/song/1092%^&*http://www.xiami.com/song/1093%^&*http://www.xiami.com/song/1094%^&*http://www.xiami.com/song/1095%^&*http://www.xiami.com/song/1096%^&*http://www.xiami.com/song/1097%^&*http://www.xiami.com/song/1098%^&*http://www.xiami.com/song/1099%^&*http://www.xiami.com/song/1100%^&*http://www.xiami.com/song/1101%^&*http://www.xiami.com/song/1102%^&*http://www.xiami.com/song/1103%^&*http://www.xiami.com/song/1104%^&*http://www.xiami.com/song/1105%^&*http://www.xiami.com/song/1106%^&*

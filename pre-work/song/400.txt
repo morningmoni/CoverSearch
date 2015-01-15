@@ -1,0 +1,6 @@
+number 400
+name 恋人啊日剧&quot;恋人啊&quot;主题曲
+artist 阿强%^&*
+artistURL http://www.xiami.com/artist/11%^&*
+album 等候
+albumURL http://www.xiami.com/album/33

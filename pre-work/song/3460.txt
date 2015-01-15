@@ -1,0 +1,6 @@
+number 3460
+name 天生一对
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 痴心眼内藏
+albumURL http://www.xiami.com/album/277

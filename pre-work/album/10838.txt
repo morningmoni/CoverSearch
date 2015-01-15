@@ -1,0 +1,7 @@
+number 10838
+name 什么样的爱你才会懂
+artist 马萃如
+introduction 
+picture http://img.xiami.net/images/album/img80/1980/108381322915505.jpg
+songs 什么样的爱你才会懂%^&*留住你留不住心%^&*画一个你在心底%^&*每个夜晚为你失眠%^&*我只要记得你的好%^&*不能怨你只能怨自己%^&*我的心只有你懂%^&*换一种方式爱我%^&*爱我不爱%^&*我不哭泣%^&*
+songURLs http://www.xiami.com/song/133822%^&*http://www.xiami.com/song/133823%^&*http://www.xiami.com/song/133824%^&*http://www.xiami.com/song/133825%^&*http://www.xiami.com/song/133826%^&*http://www.xiami.com/song/133827%^&*http://www.xiami.com/song/133828%^&*http://www.xiami.com/song/133829%^&*http://www.xiami.com/song/133830%^&*http://www.xiami.com/song/133831%^&*

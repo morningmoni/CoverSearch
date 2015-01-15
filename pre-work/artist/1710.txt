@@ -1,0 +1,7 @@
+number 1710
+name 姜婷婷
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11994300597788.jpg
+albums 吟唱风情%^&*聚情%^&*心的遗落%^&*猜心%^&*
+albumURLs http://www.xiami.com/album/557441%^&*http://www.xiami.com/album/345723%^&*http://www.xiami.com/album/424321%^&*http://www.xiami.com/album/9520%^&*

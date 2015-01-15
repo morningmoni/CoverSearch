@@ -1,0 +1,6 @@
+number 260
+name 大家,再见了
+artist 阿贵%^&*
+artistURL http://www.xiami.com/artist/6%^&*
+album 阿贵槌你喔
+albumURL http://www.xiami.com/album/19

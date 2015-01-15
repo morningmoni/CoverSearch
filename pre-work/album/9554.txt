@@ -1,0 +1,7 @@
+number 9554
+name 那么骄傲
+artist 金海心
+introduction 
+picture http://img.xiami.net/images/album/img20/1720/95541371799048.jpg
+songs 猫咪森林%^&*过去%^&*那么骄傲%^&*把鞋子甩掉%^&*来不及%^&*那时的天空%^&*与爱情有关%^&*9月16日 晴%^&*依依难舍%^&*天天%^&*
+songURLs http://www.xiami.com/song/384211%^&*http://www.xiami.com/song/384212%^&*http://www.xiami.com/song/384213%^&*http://www.xiami.com/song/384214%^&*http://www.xiami.com/song/384215%^&*http://www.xiami.com/song/384216%^&*http://www.xiami.com/song/384217%^&*http://www.xiami.com/song/384218%^&*http://www.xiami.com/song/384219%^&*http://www.xiami.com/song/384220%^&*

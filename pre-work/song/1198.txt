@@ -1,0 +1,6 @@
+number 1198
+name 兄弟情
+artist 廖忠%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BB%96%E5%BF%A0%^&*
+album 毕晓世的音乐之旅 全心作品集
+albumURL http://www.xiami.com/album/102

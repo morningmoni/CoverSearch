@@ -1,0 +1,7 @@
+number 27
+name 今夜来去听阿吉仔念歌 2 
+artist 阿吉仔
+introduction 有感情的人　最快樂的人阿吉仔　口白唸唱歌謠頂港音　下港調阿吉仔為你唸唱上界懷念的台灣歌謠
+picture http://img.xiami.net/images/album/img8/8/27.gif
+songs 望你早归%^&*秋怨%^&*雨夜花%^&*月夜愁%^&*春宵吟%^&*思想起%^&*望春风%^&*一粒红蛋%^&*心茫茫%^&*青春岭%^&*
+songURLs http://www.xiami.com/song/1769371705%^&*http://www.xiami.com/song/1769371706%^&*http://www.xiami.com/song/1769371707%^&*http://www.xiami.com/song/1769371708%^&*http://www.xiami.com/song/1769371709%^&*http://www.xiami.com/song/1769371710%^&*http://www.xiami.com/song/1769371711%^&*http://www.xiami.com/song/1769371712%^&*http://www.xiami.com/song/1769371713%^&*http://www.xiami.com/song/1769371714%^&*

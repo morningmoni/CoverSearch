@@ -1,0 +1,6 @@
+number 506
+name 我的姑娘在哪里MV
+artist 艾尔肯%^&*
+artistURL http://www.xiami.com/artist/16%^&*
+album 走出沙漠的刀郎
+albumURL http://www.xiami.com/album/42

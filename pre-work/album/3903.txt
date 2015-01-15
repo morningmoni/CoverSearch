@@ -1,0 +1,7 @@
+number 3903
+name 现在的我·矛盾的爱
+artist 施孝荣
+introduction 
+picture http://img.xiami.net/images/album/img20/820/39031418619825.png
+songs 恼人的雨%^&*其实你不懂%^&*矛盾的爱%^&*现在的我%^&*游山%^&*曾经%^&*与我同行的你%^&*你%^&*半杯酒%^&*风沙的界线%^&*
+songURLs http://www.xiami.com/song/47816%^&*http://www.xiami.com/song/47817%^&*http://www.xiami.com/song/47818%^&*http://www.xiami.com/song/47819%^&*http://www.xiami.com/song/47820%^&*http://www.xiami.com/song/47821%^&*http://www.xiami.com/song/47822%^&*http://www.xiami.com/song/47823%^&*http://www.xiami.com/song/47824%^&*http://www.xiami.com/song/47825%^&*

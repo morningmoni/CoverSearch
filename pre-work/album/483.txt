@@ -1,0 +1,7 @@
+number 483
+name i伟联
+artist 陈伟联
+introduction 
+picture http://img.xiami.net/images/album/img24/124/483.jpg
+songs Intro%^&*I Love You%^&*爱·恨·难%^&*小人物的心声%^&*普通的人%^&*我只是想要%^&*路边一榕树下%^&*触摸%^&*火柴天堂%^&*残留%^&*Heaven Knows%^&*孤单的夜里我不孤单%^&*我会用真心填满你的孤单%^&*亲爱的,做个好梦%^&*
+songURLs http://www.xiami.com/song/5769%^&*http://www.xiami.com/song/5770%^&*http://www.xiami.com/song/5771%^&*http://www.xiami.com/song/5772%^&*http://www.xiami.com/song/5773%^&*http://www.xiami.com/song/5774%^&*http://www.xiami.com/song/5775%^&*http://www.xiami.com/song/5776%^&*http://www.xiami.com/song/5777%^&*http://www.xiami.com/song/5778%^&*http://www.xiami.com/song/5779%^&*http://www.xiami.com/song/5780%^&*http://www.xiami.com/song/5781%^&*http://www.xiami.com/song/5782%^&*

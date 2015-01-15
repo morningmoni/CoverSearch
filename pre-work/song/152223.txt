@@ -1,0 +1,6 @@
+number 152223
+name 航空日志
+artist 辛夷%^&*
+artistURL http://www.xiami.com/artist/2310%^&*
+album Angel
+albumURL http://www.xiami.com/album/12383

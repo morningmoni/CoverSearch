@@ -1,0 +1,7 @@
+number 6768
+name 我的1997(Version Plus)
+artist 艾敬
+introduction 
+picture http://img.xiami.net/images/album/img0/1300/6768.jpg
+songs 我的1997(现场版)%^&*我的1997(混音版)%^&*河在流%^&*岛上%^&*
+songURLs http://www.xiami.com/song/82798%^&*http://www.xiami.com/song/82799%^&*http://www.xiami.com/song/82800%^&*http://www.xiami.com/song/82801%^&*

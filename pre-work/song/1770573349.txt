@@ -1,0 +1,6 @@
+number 1770573349
+name 弦子的传说
+artist 红苹果女子合唱组%^&*
+artistURL http://www.xiami.com/artist/2800%^&*
+album 天籁
+albumURL http://www.xiami.com/album/473401

@@ -1,0 +1,7 @@
+number 471352
+name 台北小巨蛋音乐会
+artist 宋祖英
+introduction 《宋祖英：台北小巨蛋音乐会》2011海峡两岸音乐精英倾情钜献。中国着名民族音乐天后宋祖英与金牌团队再度携手合作。用迷人旋律，美妙的歌声将台湾民歌演绎出不一样的风采！用音乐架友谊桥樑，诠释和谐，凝聚美好！巅峰级演出超强阵容，盛况空前；小巨蛋史上最完美舞台，带来极度震撼。
+picture http://img.xiami.net/images/album/img96/749496/1318749497.jpg
+songs 百鸟朝凤 (Live)%^&*我用山歌敬亲人 (Live)%^&*好日子 (Live)%^&*采槟榔 (Live)%^&*珊瑚颂 (Live)%^&*橄榄树 (Live)%^&*苗岭飞歌 (Live)%^&*小河淌水 (Live)%^&*母亲您真伟大 (Live)%^&*小背篓 (Live)%^&*天蓝蓝 (Live)%^&*黄浦江深 (Live)%^&*阿里山的姑娘 (Live)%^&*康定情歌 (Live)%^&*
+songURLs http://www.xiami.com/song/1770551329%^&*http://www.xiami.com/song/1770551330%^&*http://www.xiami.com/song/1770551331%^&*http://www.xiami.com/song/1770551333%^&*http://www.xiami.com/song/1770551332%^&*http://www.xiami.com/song/1770551334%^&*http://www.xiami.com/song/1770551335%^&*http://www.xiami.com/song/1770551336%^&*http://www.xiami.com/song/1770551337%^&*http://www.xiami.com/song/1770551338%^&*http://www.xiami.com/song/1770551339%^&*http://www.xiami.com/song/1770551340%^&*http://www.xiami.com/song/1770551341%^&*http://www.xiami.com/song/1770551342%^&*

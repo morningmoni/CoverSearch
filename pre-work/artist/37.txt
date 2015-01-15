@@ -1,0 +1,7 @@
+number 37
+name 表儿Children Sucker
+place Taiwan 台湾
+introduction 团员介绍：薯条，王者象征的狮子座O型海派少年，喜欢电影，摇滚乐，AV，七星，刷刷锅，槟榔；郑寰，思想古怪血型不明的处女座外星人，喜欢看漫画，许冠杰，RHCP，和AV；庄逸，天蝎座海滩男孩，喜欢色情游戏，海边，pizza.party，悠哉吃薯条和起司；阿牛，脚踏实地的金牛座，喜欢存钱。在家走来走去，打打电话，传传简讯。
+picture http://img.xiami.net/images/artist/11976084956929.jpg
+albums Fight To All%^&*Children Sucker%^&*热血男儿硬起来%^&*
+albumURLs http://www.xiami.com/album/867481405%^&*http://www.xiami.com/album/32589%^&*http://www.xiami.com/album/106%^&*

@@ -1,0 +1,7 @@
+number 7436
+name 爱就爱了
+artist 陈琳
+introduction 
+picture http://img.xiami.net/images/album/img0/1400/74361330417479.jpg
+songs 爱就爱了%^&*展翅高飞%^&*十二种颜色%^&*花样年华%^&*深绿%^&*青菜鸡蛋面%^&*喝彩%^&*两个人的世界%^&*Kiss迷%^&*灰%^&*爱就爱了(伴奏版)%^&*十二种颜色(伴奏版)%^&*
+songURLs http://www.xiami.com/song/91811%^&*http://www.xiami.com/song/91848%^&*http://www.xiami.com/song/91812%^&*http://www.xiami.com/song/91813%^&*http://www.xiami.com/song/91814%^&*http://www.xiami.com/song/91815%^&*http://www.xiami.com/song/91853%^&*http://www.xiami.com/song/91816%^&*http://www.xiami.com/song/91817%^&*http://www.xiami.com/song/91818%^&*http://www.xiami.com/song/91819%^&*http://www.xiami.com/song/91820%^&*

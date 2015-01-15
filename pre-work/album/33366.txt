@@ -1,0 +1,6 @@
+number 33366
+name 出卖
+artist 蔡小虎
+introduction picture http://img.xiami.net/images/album/img47/47/33366.jpg
+songs 出卖%^&*今生最爱的人%^&*蝴蝶梦%^&*思相枝%^&*一生只有你%^&*相逢的酒%^&*赌情搏爱%^&*醉过%^&*无心之罪%^&*心碎再碎%^&*
+songURLs http://www.xiami.com/song/398953%^&*http://www.xiami.com/song/398954%^&*http://www.xiami.com/song/398955%^&*http://www.xiami.com/song/398956%^&*http://www.xiami.com/song/398957%^&*http://www.xiami.com/song/398958%^&*http://www.xiami.com/song/398959%^&*http://www.xiami.com/song/398960%^&*http://www.xiami.com/song/398961%^&*http://www.xiami.com/song/398962%^&*

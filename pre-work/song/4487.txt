@@ -1,0 +1,6 @@
+number 4487
+name 萧邦与我
+artist 陈辉阳%^&*
+artistURL http://www.xiami.com/artist/89%^&*
+album Demo Collection Volume 1//Favorites
+albumURL http://www.xiami.com/album/371

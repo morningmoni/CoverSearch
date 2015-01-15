@@ -1,0 +1,7 @@
+number 229
+name 1985-2002精选纪念1
+artist 常宽
+introduction 
+picture http://img.xiami.net/images/album/img68/68/229.jpg
+songs 奔向爱的怀抱%^&*今天的一切%^&*爱谁%^&*城里人%^&*感受明天%^&*就算今天又犯傻了一回%^&*玩世不恭%^&*嫁我一次好吗%^&*作风不好%^&*重新计划现在%^&*杞人忧天%^&*夏日%^&*给你的Reggae%^&*
+songURLs http://www.xiami.com/song/2808%^&*http://www.xiami.com/song/2809%^&*http://www.xiami.com/song/2810%^&*http://www.xiami.com/song/2811%^&*http://www.xiami.com/song/2812%^&*http://www.xiami.com/song/2813%^&*http://www.xiami.com/song/2814%^&*http://www.xiami.com/song/2815%^&*http://www.xiami.com/song/2816%^&*http://www.xiami.com/song/2817%^&*http://www.xiami.com/song/2818%^&*http://www.xiami.com/song/2819%^&*http://www.xiami.com/song/2820%^&*

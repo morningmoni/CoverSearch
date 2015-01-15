@@ -1,0 +1,6 @@
+number 393304
+name 我很好
+artist 刘若英%^&*
+artistURL http://www.xiami.com/artist/1930%^&*
+album 我很好
+albumURL http://www.xiami.com/album/32952

@@ -1,0 +1,7 @@
+number 18505
+name 我住长江头
+artist 齐豫%^&*宋多佳%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BD%90%E8%B1%AB%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AE%8B%E5%A4%9A%E4%BD%B3%^&*
+album 偶然与追寻
+albumURL http://www.xiami.com/album/2476

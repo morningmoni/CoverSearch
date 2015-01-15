@@ -1,0 +1,7 @@
+number 164
+name 千年万年
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img0/1641284011798.jpg
+songs 千年万年%^&*青春花再开%^&*痴情无后悔%^&*放乎醉%^&*爱的滋味%^&*你搁卡无情%^&*想袂开放袂离%^&*失约的人%^&*秋夜愁%^&*等春风%^&*
+songURLs http://www.xiami.com/song/2034%^&*http://www.xiami.com/song/2035%^&*http://www.xiami.com/song/2036%^&*http://www.xiami.com/song/2037%^&*http://www.xiami.com/song/2038%^&*http://www.xiami.com/song/2039%^&*http://www.xiami.com/song/2040%^&*http://www.xiami.com/song/2041%^&*http://www.xiami.com/song/2042%^&*http://www.xiami.com/song/2043%^&*

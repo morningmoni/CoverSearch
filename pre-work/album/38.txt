@@ -1,0 +1,7 @@
+number 38
+name Edsion Mr.I
+artist 艾成
+introduction 
+picture http://img.xiami.net/images/album/img0/381282209987.jpg
+songs 想你的天空%^&*余地%^&*我想哭%^&*习惯%^&*碰!痛%^&*爱是如此不容易%^&*半个相框%^&*北极心%^&*只因有你%^&*天堂岛%^&*
+songURLs http://www.xiami.com/song/3365194%^&*http://www.xiami.com/song/3365195%^&*http://www.xiami.com/song/3365196%^&*http://www.xiami.com/song/3365197%^&*http://www.xiami.com/song/3365198%^&*http://www.xiami.com/song/3365199%^&*http://www.xiami.com/song/3365200%^&*http://www.xiami.com/song/3365201%^&*http://www.xiami.com/song/3365202%^&*http://www.xiami.com/song/3365203%^&*

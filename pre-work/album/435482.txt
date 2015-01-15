@@ -1,0 +1,6 @@
+number 435482
+name 中国名曲集
+artist 奚秀兰
+introduction picture http://img.xiami.net/images/album/img70/2270/4354821302587835.jpg
+songs 花儿为什么这样红%^&*山西好风光%^&*红豆词%^&*小河淌水%^&*送我一枝玫瑰花%^&*雁南飞%^&*月光光%^&*缅甸花开十里香%^&*雨不洒花花不红%^&*送郎%^&*南泥湾%^&*茉莉花%^&*敖包相会%^&*在那遥远的地方%^&*
+songURLs http://www.xiami.com/song/1770146515%^&*http://www.xiami.com/song/1770146516%^&*http://www.xiami.com/song/1770146517%^&*http://www.xiami.com/song/1770146518%^&*http://www.xiami.com/song/1770146519%^&*http://www.xiami.com/song/1770146520%^&*http://www.xiami.com/song/1770146521%^&*http://www.xiami.com/song/1770146522%^&*http://www.xiami.com/song/1770146523%^&*http://www.xiami.com/song/1770146524%^&*http://www.xiami.com/song/1770146525%^&*http://www.xiami.com/song/1770146526%^&*http://www.xiami.com/song/1770146527%^&*http://www.xiami.com/song/1770146528%^&*

@@ -1,0 +1,7 @@
+number 7837
+name 青青年华
+artist 邓蔼霖
+introduction 
+picture http://img.xiami.net/images/album/img80/1480/7837.jpg
+songs 青春苦恼多%^&*青青年华%^&*一句话%^&*晴空%^&*路上好风光%^&*一个梦想%^&*Lost In France%^&*Wedding Song%^&*Colors%^&*Hello Summertime%^&*For Bobbie%^&*Norwegian Wood%^&*It&#039;s Nice To Be With You%^&*
+songURLs http://www.xiami.com/song/96423%^&*http://www.xiami.com/song/96424%^&*http://www.xiami.com/song/96425%^&*http://www.xiami.com/song/96426%^&*http://www.xiami.com/song/96427%^&*http://www.xiami.com/song/96428%^&*http://www.xiami.com/song/96429%^&*http://www.xiami.com/song/96430%^&*http://www.xiami.com/song/96431%^&*http://www.xiami.com/song/96432%^&*http://www.xiami.com/song/96433%^&*http://www.xiami.com/song/96434%^&*http://www.xiami.com/song/96435%^&*

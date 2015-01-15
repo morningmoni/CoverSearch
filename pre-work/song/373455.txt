@@ -1,0 +1,6 @@
+number 373455
+name 想Say Yes
+artist 4 In Love%^&*
+artistURL http://www.xiami.com/artist/2600%^&*
+album 谁怕谁
+albumURL http://www.xiami.com/album/14020

@@ -1,0 +1,7 @@
+number 12579
+name 钢琴记事簿
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125791366018609.jpg
+songs 如果云知道%^&*美梦成真%^&*突然想爱你%^&*独角戏%^&*爱情电影%^&*真爱无敌%^&*不爱我放了我%^&*我依然爱你%^&*泪海%^&*破晓%^&*日光机场%^&*看透%^&*猫与钢琴%^&*
+songURLs http://www.xiami.com/song/383443%^&*http://www.xiami.com/song/383444%^&*http://www.xiami.com/song/383445%^&*http://www.xiami.com/song/383446%^&*http://www.xiami.com/song/383447%^&*http://www.xiami.com/song/383448%^&*http://www.xiami.com/song/383449%^&*http://www.xiami.com/song/383450%^&*http://www.xiami.com/song/383451%^&*http://www.xiami.com/song/383452%^&*http://www.xiami.com/song/383453%^&*http://www.xiami.com/song/383454%^&*http://www.xiami.com/song/383455%^&*

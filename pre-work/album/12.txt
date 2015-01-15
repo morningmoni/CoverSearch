@@ -1,0 +1,7 @@
+number 12
+name I...Do
+artist 阿杜
+introduction 
+picture http://img.xiami.net/images/album/img5/5/121382949801.jpg
+songs I...Do%^&*下雪%^&*睡不着%^&*一天天一点点%^&*有你才完整%^&*西出阳关%^&*抬起头%^&*如果你爱我是因为我爱你%^&*相信我可以%^&*这首歌是谁写的%^&*
+songURLs http://www.xiami.com/song/137%^&*http://www.xiami.com/song/138%^&*http://www.xiami.com/song/139%^&*http://www.xiami.com/song/140%^&*http://www.xiami.com/song/141%^&*http://www.xiami.com/song/142%^&*http://www.xiami.com/song/143%^&*http://www.xiami.com/song/144%^&*http://www.xiami.com/song/145%^&*http://www.xiami.com/song/146%^&*

@@ -1,0 +1,6 @@
+number 180485
+name 毛毛雨
+artist 骨肉皮%^&*
+artistURL http://www.xiami.com/artist/2770%^&*
+album 1995台湾地下音乐档案(四) 骨肉皮
+albumURL http://www.xiami.com/album/14635

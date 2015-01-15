@@ -1,0 +1,6 @@
+number 392980
+name 黑夜以后MV
+artist 阿杜%^&*
+artistURL http://www.xiami.com/artist/5%^&*
+album 差一点
+albumURL http://www.xiami.com/album/32678

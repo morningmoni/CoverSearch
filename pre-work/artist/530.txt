@@ -1,0 +1,7 @@
+number 530
+name 李俊杰
+place Hongkong 香港
+introduction &nbsp;
+picture http://img.xiami.net/images/artist/12003769188518.jpg
+albums 完美阵容%^&*李俊杰 同名专辑%^&*
+albumURLs http://www.xiami.com/album/1283637206%^&*http://www.xiami.com/album/2305%^&*

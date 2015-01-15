@@ -1,0 +1,6 @@
+number 103636
+name 忘不了
+artist 费星%^&*
+artistURL http://www.xiami.com/artist/1530%^&*
+album 紫惑
+albumURL http://www.xiami.com/album/8360

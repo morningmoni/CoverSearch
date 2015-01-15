@@ -1,0 +1,6 @@
+number 399
+name 台湾话·莎哟娜啦探戈
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img0/100/3991307602815.jpg
+songs 莎哟娜啦探戈%^&*陈雷声%^&*台湾话%^&*行一步 叹一声%^&*爱情的飞凌机%^&*世间第三憨%^&*苦心%^&*我是计程车%^&*谁人陪我行%^&*心内事几时休%^&*
+songURLs http://www.xiami.com/song/4793%^&*http://www.xiami.com/song/4794%^&*http://www.xiami.com/song/4795%^&*http://www.xiami.com/song/4796%^&*http://www.xiami.com/song/4797%^&*http://www.xiami.com/song/4798%^&*http://www.xiami.com/song/4799%^&*http://www.xiami.com/song/4800%^&*http://www.xiami.com/song/4801%^&*http://www.xiami.com/song/4802%^&*

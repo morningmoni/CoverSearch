@@ -1,0 +1,7 @@
+number 484
+name 我只是想要…
+artist 陈伟联
+introduction 
+picture http://img.xiami.net/images/album/img24/124/484.jpg
+songs 我只是想要%^&*爱·恨·难%^&*朋友一直都在%^&*触摸%^&*孤单的夜里我不孤单%^&*火柴天堂%^&*我真的受伤了%^&*走出黑暗的世界%^&*Heaven Knows%^&*童话%^&*其实你不懂我的心%^&*月亮代表我的心%^&*一剪梅%^&*外婆的澎湖湾%^&*
+songURLs http://www.xiami.com/song/5783%^&*http://www.xiami.com/song/5784%^&*http://www.xiami.com/song/5785%^&*http://www.xiami.com/song/5786%^&*http://www.xiami.com/song/5787%^&*http://www.xiami.com/song/5788%^&*http://www.xiami.com/song/5789%^&*http://www.xiami.com/song/5790%^&*http://www.xiami.com/song/5791%^&*http://www.xiami.com/song/5792%^&*http://www.xiami.com/song/5793%^&*http://www.xiami.com/song/5794%^&*http://www.xiami.com/song/5795%^&*http://www.xiami.com/song/5796%^&*

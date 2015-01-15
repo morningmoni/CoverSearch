@@ -1,0 +1,6 @@
+number 3193
+name 摘星
+artist 马浚伟%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%A9%AC%E6%B5%9A%E4%BC%9F%^&*
+album 紫色的回忆
+albumURL http://www.xiami.com/album/257

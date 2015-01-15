@@ -1,0 +1,7 @@
+number 8917
+name 完美小姐
+artist 何欣穗
+introduction 
+picture http://img.xiami.net/images/album/img10/1610/89171369637969.jpg
+songs Miss Perfect%^&*It&#039;s not OK%^&*分心%^&*Everyday is a holiday%^&*自己喂狗%^&*2:54 (天还没亮)%^&*我不想说话%^&*十个汽球%^&*我不是他太太%^&*倒楣%^&*分心 (钢琴版)%^&*
+songURLs http://www.xiami.com/song/110805%^&*http://www.xiami.com/song/110806%^&*http://www.xiami.com/song/110807%^&*http://www.xiami.com/song/110808%^&*http://www.xiami.com/song/110809%^&*http://www.xiami.com/song/110810%^&*http://www.xiami.com/song/110811%^&*http://www.xiami.com/song/110812%^&*http://www.xiami.com/song/110813%^&*http://www.xiami.com/song/110814%^&*http://www.xiami.com/song/110815%^&*

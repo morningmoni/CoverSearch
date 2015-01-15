@@ -1,0 +1,7 @@
+number 4074
+name 心要让你听见
+artist 邰正宵
+introduction 邰正宵的第四张EP，在1995年12月推出，EP收录了两首混音歌曲《心要让你听见（古典弦音版）》和《绝对宝贝（圣诞钟声真情版）》，其中二千张的EP收入会资助香港哮喘会发展。
+picture http://img.xiami.net/images/album/img50/850/40741387372635.jpg
+songs 心要让你听见 (古典弦音版)%^&*绝对宝贝 (圣诞钟声真情版)%^&*爱的传说%^&*我的心透明得看得见%^&*心要让你听见 (Karaoke Version)%^&*
+songURLs http://www.xiami.com/song/49859%^&*http://www.xiami.com/song/49860%^&*http://www.xiami.com/song/49861%^&*http://www.xiami.com/song/49862%^&*http://www.xiami.com/song/49863%^&*

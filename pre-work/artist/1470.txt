@@ -1,0 +1,7 @@
+number 1470
+name 戴恩玲
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artist/11973597248889.jpg
+albums 你是我的第一个%^&*不经意%^&*
+albumURLs http://www.xiami.com/album/7799%^&*http://www.xiami.com/album/7798%^&*

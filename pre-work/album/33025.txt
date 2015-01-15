@@ -1,0 +1,6 @@
+number 33025
+name 现代音乐精选辑
+artist 李泰祥
+introduction picture http://img.xiami.net/images/album/img50/550/33025.jpg
+songs 运思%^&*凝气%^&*动形%^&*梦之边缘%^&*女体%^&*山%^&*春神%^&*生民%^&*
+songURLs http://www.xiami.com/song/394314%^&*http://www.xiami.com/song/394315%^&*http://www.xiami.com/song/394316%^&*http://www.xiami.com/song/394317%^&*http://www.xiami.com/song/394318%^&*http://www.xiami.com/song/394319%^&*http://www.xiami.com/song/394320%^&*http://www.xiami.com/song/394321%^&*

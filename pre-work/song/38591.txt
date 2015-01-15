@@ -1,0 +1,6 @@
+number 38591
+name 新年好
+artist 恬妞%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%81%AC%E5%A6%9E%^&*
+album 恭喜恭喜
+albumURL http://www.xiami.com/album/3125

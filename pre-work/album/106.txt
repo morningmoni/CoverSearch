@@ -1,0 +1,6 @@
+number 106
+name 热血男儿硬起来
+artist 表儿
+introduction picture http://img.xiami.net/images/pic/04/04/10129704591m_2.jpg
+songs 热血男儿硬起来%^&*快乐农夫想要娶老婆%^&*爱情真无奈%^&*朋友 振作%^&*稀奇的爱(向神经乐队致敬)%^&*爱的逃兵%^&*淡水恋歌%^&*
+songURLs http://www.xiami.com/song/1250%^&*http://www.xiami.com/song/1251%^&*http://www.xiami.com/song/1252%^&*http://www.xiami.com/song/1253%^&*http://www.xiami.com/song/1254%^&*http://www.xiami.com/song/1255%^&*http://www.xiami.com/song/1256%^&*

@@ -1,0 +1,9 @@
+number 1215
+name 希望
+artist 韦唯%^&*成方圆%^&*解小东%^&*毛宁%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%9F%A6%E5%94%AF%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%88%90%E6%96%B9%E5%9C%86%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%A7%A3%E5%B0%8F%E4%B8%9C%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%AF%9B%E5%AE%81%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

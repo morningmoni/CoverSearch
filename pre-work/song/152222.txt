@@ -1,0 +1,6 @@
+number 152222
+name 好花不常开MV
+artist 辛夷%^&*
+artistURL http://www.xiami.com/artist/2310%^&*
+album Angel
+albumURL http://www.xiami.com/album/12383

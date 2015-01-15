@@ -1,0 +1,7 @@
+number 13078
+name 单心
+artist 于希平
+introduction 
+picture http://img.xiami.net/images/album/img10/2410/130781413441937.jpg
+songs 不让你看到我的心%^&*请不要对我说%^&*我决定爱上他%^&*多一点温柔%^&*冷风吹%^&*渡过今夜%^&*匆匆%^&*窗外有雨%^&*请别再说%^&*望你早归%^&*
+songURLs http://www.xiami.com/song/160870%^&*http://www.xiami.com/song/160871%^&*http://www.xiami.com/song/160872%^&*http://www.xiami.com/song/160873%^&*http://www.xiami.com/song/160874%^&*http://www.xiami.com/song/160875%^&*http://www.xiami.com/song/160876%^&*http://www.xiami.com/song/160877%^&*http://www.xiami.com/song/160878%^&*http://www.xiami.com/song/160879%^&*

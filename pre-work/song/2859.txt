@@ -1,0 +1,6 @@
+number 2859
+name 我的Rock&#039;n Roll
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 今天的一切
+albumURL http://www.xiami.com/album/233

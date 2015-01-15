@@ -1,0 +1,6 @@
+number 9732
+name 雷安娜精选
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/97321334815840.jpg
+songs 停不了的爱%^&*旧梦不须记%^&*做个木头人%^&*暂别%^&*山石盟%^&*美丽的童话%^&*别了忧郁 Johnny Blue%^&*彩云曲%^&*人在旅途洒泪时%^&*浊世暖流清%^&*痴情劫%^&*真的喜欢你%^&*远方天外%^&*
+songURLs http://www.xiami.com/song/120284%^&*http://www.xiami.com/song/120285%^&*http://www.xiami.com/song/120286%^&*http://www.xiami.com/song/120287%^&*http://www.xiami.com/song/120288%^&*http://www.xiami.com/song/120289%^&*http://www.xiami.com/song/120290%^&*http://www.xiami.com/song/120291%^&*http://www.xiami.com/song/120292%^&*http://www.xiami.com/song/120293%^&*http://www.xiami.com/song/120294%^&*http://www.xiami.com/song/120295%^&*http://www.xiami.com/song/120296%^&*

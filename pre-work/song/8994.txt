@@ -1,0 +1,7 @@
+number 8994
+name 取消资格
+artist 邓建明%^&*杜雯惠%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%82%93%E5%BB%BA%E6%98%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%9C%E9%9B%AF%E6%83%A0%^&*
+album Joey Music Factory
+albumURL http://www.xiami.com/album/739

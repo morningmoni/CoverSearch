@@ -1,0 +1,7 @@
+number 140
+name 陈震
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/11979671061687.jpg
+albums 震撼·那些年的情书%^&*不要让我再爱你想你%^&*
+albumURLs http://www.xiami.com/album/541899%^&*http://www.xiami.com/album/625%^&*

@@ -1,0 +1,6 @@
+number 9735
+name 彩云曲
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/97351418214613.jpg
+songs 彩云曲%^&*美丽的童话%^&*惆怅旧欢如梦%^&*散太匆匆%^&*今天再开始%^&*暂别%^&*情深的吩咐%^&*可爱的家%^&*原谅我%^&*世上无难事%^&*人生多么美%^&*
+songURLs http://www.xiami.com/song/120319%^&*http://www.xiami.com/song/120320%^&*http://www.xiami.com/song/120321%^&*http://www.xiami.com/song/120322%^&*http://www.xiami.com/song/120323%^&*http://www.xiami.com/song/120324%^&*http://www.xiami.com/song/120325%^&*http://www.xiami.com/song/120326%^&*http://www.xiami.com/song/120327%^&*http://www.xiami.com/song/120328%^&*http://www.xiami.com/song/120329%^&*

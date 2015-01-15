@@ -1,0 +1,7 @@
+number 549434
+name 半杯情
+artist 张秀卿
+introduction 张秀卿的第二张专辑，台语是首张专辑
+picture http://img.xiami.net/images/album/img80/2480/5494341350625985.jpg
+songs 半杯情%^&*爱着卡惨死%^&*心肝痛%^&*故乡的天顶星%^&*无缘的结局%^&*爱人仔免缘投%^&*千言万语讲抹尽%^&*谁人希罕你的情%^&*今夜月光暝%^&*十字路口%^&*我心酸酸%^&*爱讲才会知%^&*
+songURLs http://www.xiami.com/song/1771386572%^&*http://www.xiami.com/song/1771386573%^&*http://www.xiami.com/song/1771386574%^&*http://www.xiami.com/song/1771386575%^&*http://www.xiami.com/song/1771386576%^&*http://www.xiami.com/song/1771386577%^&*http://www.xiami.com/song/1771386578%^&*http://www.xiami.com/song/1771386579%^&*http://www.xiami.com/song/1771386580%^&*http://www.xiami.com/song/1771386581%^&*http://www.xiami.com/song/1771386582%^&*http://www.xiami.com/song/1771386583%^&*

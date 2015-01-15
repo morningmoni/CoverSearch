@@ -1,0 +1,6 @@
+number 442335
+name 往事就是我的安慰
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img6/39406/1306039406.jpg
+songs 往事就是我的安慰%^&*无奈的注定%^&*风真透%^&*惜别%^&*头毛嘴鬚白%^&*爱人仔喂%^&*欢喜过一生%^&*悲伤的故事%^&*朋友无块买%^&*往事就是我的安慰（合唱）%^&*
+songURLs http://www.xiami.com/song/1770223353%^&*http://www.xiami.com/song/1770223354%^&*http://www.xiami.com/song/1770223355%^&*http://www.xiami.com/song/1770223356%^&*http://www.xiami.com/song/1770223357%^&*http://www.xiami.com/song/1770223358%^&*http://www.xiami.com/song/1770223359%^&*http://www.xiami.com/song/1770223360%^&*http://www.xiami.com/song/1770223361%^&*http://www.xiami.com/song/1770223362%^&*

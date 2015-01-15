@@ -1,0 +1,7 @@
+number 2020
+name 慕钰华
+place Taiwan 台湾
+introduction 小档案慕钰华是台湾著名的眼泪"杀手"，她以受尽千般委屈的却善心不改、奋发向上、不向困难低头的柔弱女性的形象牢牢的牵住观众的目光，以至《妈妈再爱我一次》的导演陈朱煌这五年来，一直"牢牢"地和慕钰华合作，拍摄了大量的苦情戏，在台湾收视率都极高。
+picture http://img.xiami.net/images/artist/12049591167758.jpg
+albums 何时再相逢·伤心的笑容%^&*情变挂%^&*情路%^&*
+albumURLs http://www.xiami.com/album/1686%^&*http://www.xiami.com/album/457128%^&*http://www.xiami.com/album/556414%^&*

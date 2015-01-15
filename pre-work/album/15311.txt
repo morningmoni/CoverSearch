@@ -1,0 +1,6 @@
+number 15311
+name 我的心要去旅行
+artist 少女队
+introduction picture http://img.xiami.net/images/album/img20/3020/153111311757415.jpg
+songs 我的心要去旅行%^&*在有星星的夜晚想你%^&*心情游戏%^&*口是心非%^&*假装不知道%^&*P.S I Love You%^&*我不是一个随便的女孩%^&*Lucky Boy%^&*分享友情分享爱%^&*浪漫街头%^&*
+songURLs http://www.xiami.com/song/187970%^&*http://www.xiami.com/song/187971%^&*http://www.xiami.com/song/187972%^&*http://www.xiami.com/song/187973%^&*http://www.xiami.com/song/187974%^&*http://www.xiami.com/song/187975%^&*http://www.xiami.com/song/187976%^&*http://www.xiami.com/song/187977%^&*http://www.xiami.com/song/187978%^&*http://www.xiami.com/song/187979%^&*

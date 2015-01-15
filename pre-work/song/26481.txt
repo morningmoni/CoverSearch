@@ -1,0 +1,6 @@
+number 26481
+name 单程车票
+artist 苟伟%^&*
+artistURL http://www.xiami.com/artist/260%^&*
+album 越陷越深
+albumURL http://www.xiami.com/album/1141

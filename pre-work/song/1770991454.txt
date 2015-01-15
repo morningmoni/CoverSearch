@@ -1,0 +1,6 @@
+number 1770991454
+name 军中帅哥
+artist 蔡国庆%^&*
+artistURL http://www.xiami.com/artist/42%^&*
+album 军中帅哥
+albumURL http://www.xiami.com/album/511886

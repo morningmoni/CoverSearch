@@ -1,0 +1,6 @@
+number 9736
+name 旧梦不须记
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/97361334815825.jpg
+songs 旧梦不须记%^&*无奈我心乱如麻%^&*真的喜欢你%^&*痴心再会期%^&*含羞草%^&*只想你的爱%^&*山石盟%^&*别了忧郁 Johnny Blue%^&*那一阵风%^&*人在秋风里%^&*孤影暗自怜%^&*
+songURLs http://www.xiami.com/song/120330%^&*http://www.xiami.com/song/120331%^&*http://www.xiami.com/song/120332%^&*http://www.xiami.com/song/120333%^&*http://www.xiami.com/song/120334%^&*http://www.xiami.com/song/120335%^&*http://www.xiami.com/song/120336%^&*http://www.xiami.com/song/120337%^&*http://www.xiami.com/song/120338%^&*http://www.xiami.com/song/120339%^&*http://www.xiami.com/song/120340%^&*

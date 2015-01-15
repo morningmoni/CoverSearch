@@ -1,0 +1,7 @@
+number 12573
+name 只说给你听
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125731366018305.jpg
+songs 遇见另外一个人 (Acoustic Version)%^&*他们的故事 (Ours Version)%^&*只说给你听%^&*好像跳舞%^&*我只能爱你%^&*相爱的片刻%^&*白纸黑字%^&*有你的天堂%^&*标准配备%^&*遇见另外一个人 (剧场版)%^&*信号%^&*他们的故事 (Theirs Version)%^&*夜之海%^&*
+songURLs http://www.xiami.com/song/383350%^&*http://www.xiami.com/song/383351%^&*http://www.xiami.com/song/383352%^&*http://www.xiami.com/song/383353%^&*http://www.xiami.com/song/383354%^&*http://www.xiami.com/song/383355%^&*http://www.xiami.com/song/383356%^&*http://www.xiami.com/song/383357%^&*http://www.xiami.com/song/383358%^&*http://www.xiami.com/song/383359%^&*http://www.xiami.com/song/383360%^&*http://www.xiami.com/song/383361%^&*http://www.xiami.com/song/383362%^&*

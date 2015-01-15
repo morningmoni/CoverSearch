@@ -1,0 +1,7 @@
+number 3838
+name 阿咪罗罗
+artist 容中尔甲
+introduction 
+picture http://img.xiami.net/images/album/img0/800/3838.jpg
+songs 阿咪罗罗%^&*吉祥谣%^&*格桑花开%^&*快回来%^&*藏族舞曲%^&*世界最高的地方%^&*格萨尔王%^&*仁真旺姆%^&*高原人%^&*梦回西藏%^&*康定溜溜城%^&*三千个祝福%^&*
+songURLs http://www.xiami.com/song/47194%^&*http://www.xiami.com/song/47195%^&*http://www.xiami.com/song/47196%^&*http://www.xiami.com/song/47197%^&*http://www.xiami.com/song/47198%^&*http://www.xiami.com/song/47199%^&*http://www.xiami.com/song/47200%^&*http://www.xiami.com/song/47201%^&*http://www.xiami.com/song/47202%^&*http://www.xiami.com/song/47203%^&*http://www.xiami.com/song/47204%^&*http://www.xiami.com/song/47205%^&*

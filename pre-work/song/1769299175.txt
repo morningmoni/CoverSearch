@@ -1,0 +1,6 @@
+number 1769299175
+name 为钱走天涯
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 红叶
+albumURL http://www.xiami.com/album/362077

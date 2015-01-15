@@ -1,0 +1,6 @@
+number 27234
+name 青春啊青春
+artist 关贵敏%^&*
+artistURL http://www.xiami.com/artist/270%^&*
+album 20世纪中华歌坛名人百集珍藏版
+albumURL http://www.xiami.com/album/1201

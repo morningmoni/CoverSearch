@@ -1,0 +1,6 @@
+number 121
+name 无奈只有恨
+artist 蔡枫华
+introduction picture http://img.xiami.net/images/album/img41/41/1211410945814.jpg
+songs 无奈只有恨%^&*再爱我一次%^&*天仙配%^&*爱的逻辑%^&*继续去%^&*山中小客店%^&*莫听我哭诉%^&*想你千千遍%^&*娉婷%^&*何事懒洋洋%^&*怒似火%^&*怎会爱着你%^&*
+songURLs http://www.xiami.com/song/1477%^&*http://www.xiami.com/song/1478%^&*http://www.xiami.com/song/1479%^&*http://www.xiami.com/song/1480%^&*http://www.xiami.com/song/1481%^&*http://www.xiami.com/song/1482%^&*http://www.xiami.com/song/1483%^&*http://www.xiami.com/song/1484%^&*http://www.xiami.com/song/1485%^&*http://www.xiami.com/song/1486%^&*http://www.xiami.com/song/1487%^&*http://www.xiami.com/song/1488%^&*

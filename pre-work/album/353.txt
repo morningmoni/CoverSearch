@@ -1,0 +1,7 @@
+number 353
+name 坠入琴网
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img0/3531288865449.jpg
+songs 太想爱你%^&*别怕我伤心%^&*让我忘记你的脸%^&*爱如潮水%^&*有一点动心%^&*过火%^&*难以抗拒你容颜%^&*宽容%^&*不要对他说%^&*我们爱这个错%^&*WHITE CHRISTMAS(张信哲友情现场版)%^&*WHITE CHRISTMAS(演奏版)%^&*
+songURLs http://www.xiami.com/song/4274%^&*http://www.xiami.com/song/4275%^&*http://www.xiami.com/song/4276%^&*http://www.xiami.com/song/4277%^&*http://www.xiami.com/song/4278%^&*http://www.xiami.com/song/4279%^&*http://www.xiami.com/song/4280%^&*http://www.xiami.com/song/4281%^&*http://www.xiami.com/song/4282%^&*http://www.xiami.com/song/4283%^&*http://www.xiami.com/song/1769598558%^&*http://www.xiami.com/song/1769598559%^&*

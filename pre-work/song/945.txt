@@ -1,0 +1,7 @@
+number 945
+name 亲爱的你
+artist 百川%^&*陈雪君%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%99%BE%E5%B7%9D%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E9%9B%AA%E5%90%9B%^&*
+album 百川的音乐旅程-楼兰情歌
+albumURL http://www.xiami.com/album/82

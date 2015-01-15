@@ -1,0 +1,6 @@
+number 1912324147
+name 电影歌曲精选
+artist 姚莉
+introduction picture http://img.xiami.net/images/album/img70/2370/19123241471412324147.jpg
+songs 桃花江%^&*月下对口 电影《桃花江》插曲%^&*双双对对%^&*春风吻上我的脸%^&*紫丁香%^&*鸡尾酒%^&*毋忘我%^&*伴侣那里找%^&*重回你的怀抱%^&*多心病%^&*人面桃花%^&*月下情歌%^&*珍珠自叹%^&*接风酒%^&*歌迷小姐%^&*鱼儿香%^&*瓜棚小唱%^&*我睡在云雾里%^&*站在高岗上%^&*人生就是戏%^&*
+songURLs http://www.xiami.com/song/1773596155%^&*http://www.xiami.com/song/1773596156%^&*http://www.xiami.com/song/1773596157%^&*http://www.xiami.com/song/1773596158%^&*http://www.xiami.com/song/1773596159%^&*http://www.xiami.com/song/1773596160%^&*http://www.xiami.com/song/1773596161%^&*http://www.xiami.com/song/1773596162%^&*http://www.xiami.com/song/1773596163%^&*http://www.xiami.com/song/1773596164%^&*http://www.xiami.com/song/1773596165%^&*http://www.xiami.com/song/1773596166%^&*http://www.xiami.com/song/1773596167%^&*http://www.xiami.com/song/1773596168%^&*http://www.xiami.com/song/1773596169%^&*http://www.xiami.com/song/1773596170%^&*http://www.xiami.com/song/1773596171%^&*http://www.xiami.com/song/1773596172%^&*http://www.xiami.com/song/1773596173%^&*http://www.xiami.com/song/1773596174%^&*

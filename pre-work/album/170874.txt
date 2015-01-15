@@ -1,0 +1,6 @@
+number 170874
+name 水晶音乐VI 
+artist 曹俊鸿
+introduction picture http://img.xiami.net/images/album/img59/59/170874.jpg
+songs How deep is your love%^&*Killing me softly with his song%^&*Don&#039;t cry for me Argentina%^&*Take a bow%^&*Colors of the wind%^&*Somewhere in time%^&*Right here waiting%^&*Without you%^&*A whole new world%^&*I swear%^&*
+songURLs http://www.xiami.com/song/2110556%^&*http://www.xiami.com/song/2110557%^&*http://www.xiami.com/song/2110558%^&*http://www.xiami.com/song/2110559%^&*http://www.xiami.com/song/2110560%^&*http://www.xiami.com/song/2110561%^&*http://www.xiami.com/song/2110562%^&*http://www.xiami.com/song/2110563%^&*http://www.xiami.com/song/2110564%^&*http://www.xiami.com/song/2110565%^&*

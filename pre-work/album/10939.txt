@@ -1,0 +1,7 @@
+number 10939
+name The Legend Of The Pop Queen Part Ⅱ
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109391337908172.jpg
+songs 欲望野兽街(Jungle Mix)%^&*坏女孩(摇滚坏到透版本)%^&*烈焰黑豹(天昏地暗版)%^&*教父的女人(卡邦Mix)%^&*路…始终告一段%^&*何日%^&*是这样的%^&*秋天复秋天%^&*似是故人来%^&*
+songURLs http://www.xiami.com/song/135141%^&*http://www.xiami.com/song/135142%^&*http://www.xiami.com/song/135143%^&*http://www.xiami.com/song/135144%^&*http://www.xiami.com/song/135145%^&*http://www.xiami.com/song/135146%^&*http://www.xiami.com/song/135147%^&*http://www.xiami.com/song/135148%^&*http://www.xiami.com/song/135149%^&*

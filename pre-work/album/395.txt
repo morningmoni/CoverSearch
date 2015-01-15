@@ -1,0 +1,7 @@
+number 395
+name 酒国恋歌
+artist 陈雷
+introduction 
+picture http://img.xiami.net/images/album/img0/100/395.jpg
+songs 酒国恋歌%^&*平凡英雄%^&*心碎%^&*无情的月台票%^&*甘愿一生等待你%^&*幸福%^&*上美的春天%^&*难忘的温泉乡%^&*月下誓言%^&*感谢你%^&*心碎(Kala)%^&*酒国恋歌(Kala)%^&*
+songURLs http://www.xiami.com/song/4735%^&*http://www.xiami.com/song/4736%^&*http://www.xiami.com/song/4737%^&*http://www.xiami.com/song/4738%^&*http://www.xiami.com/song/4739%^&*http://www.xiami.com/song/4740%^&*http://www.xiami.com/song/4741%^&*http://www.xiami.com/song/4742%^&*http://www.xiami.com/song/4743%^&*http://www.xiami.com/song/4744%^&*http://www.xiami.com/song/4745%^&*http://www.xiami.com/song/4746%^&*

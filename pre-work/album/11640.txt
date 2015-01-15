@@ -1,0 +1,7 @@
+number 11640
+name 爱人啊！拜拜啦
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/116401326618036.png
+songs 啦啦啦%^&*爱人啊%^&*拜拜啦%^&*爱甲心惊%^&*伤心日期%^&*爱伤到我%^&*感情变天%^&*车站%^&*受伤的心%^&*喃喃自语%^&*啦啦啦(Music)%^&*爱人啊(Music)%^&*拜拜啦(Music)%^&*
+songURLs http://www.xiami.com/song/143209%^&*http://www.xiami.com/song/143210%^&*http://www.xiami.com/song/143211%^&*http://www.xiami.com/song/143212%^&*http://www.xiami.com/song/143213%^&*http://www.xiami.com/song/143214%^&*http://www.xiami.com/song/143215%^&*http://www.xiami.com/song/143216%^&*http://www.xiami.com/song/143217%^&*http://www.xiami.com/song/143218%^&*http://www.xiami.com/song/143219%^&*http://www.xiami.com/song/143220%^&*http://www.xiami.com/song/143221%^&*

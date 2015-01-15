@@ -1,0 +1,7 @@
+number 11
+name 阿强
+place China 中国大陆
+introduction 陈强，湖北人。11岁入武汉音乐学院附中学习单簧管。17岁考入武汉音乐学院管弦系。同时开始在酒吧弹唱。19岁进入湖北省歌剧舞剧院交响乐团担任单簧管首席。23岁只身来到广州，师从吴粤北教授，并考入星海音乐学院音乐交响导演系。&nbsp;阿强的作品年表2002年澳门申办亚洲室内运动会宣传片配乐。2003年创作香港中乐团胡琴首席辛小玲女士邀约作品《风神》、《词颂》。并于2004年由香港EMI唱片公司出版发行。2004年参加妙音唱片公司多张唱片的编曲与录音。
+picture http://img.xiami.net/images/artist/11951591112530.jpg
+albums 梦醒时分%^&*太阳雨%^&*老男孩%^&*华丽的外衣%^&*兄弟%^&*等候%^&*此情可待%^&*
+albumURLs http://www.xiami.com/album/299962694%^&*http://www.xiami.com/album/490060%^&*http://www.xiami.com/album/438600%^&*http://www.xiami.com/album/402933%^&*http://www.xiami.com/album/322299%^&*http://www.xiami.com/album/33%^&*http://www.xiami.com/album/34%^&*

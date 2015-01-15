@@ -1,0 +1,7 @@
+number 73
+name 城市·蓝天
+artist 阿牛
+introduction 阿牛的首张个人专辑
+picture http://img.xiami.net/images/album/img22/22/731383031167.jpg
+songs 城市·蓝天%^&*踩着三轮车卖菜的老阿伯%^&*哭%^&*乡音%^&*二十岁的告白(一)%^&*阿牛和阿花的故事%^&*阿朱小调%^&*海洋%^&*Sunai Puyu的风%^&*二十岁的告白(二)%^&*对面的女孩看过来%^&*阿牛和阿花的故事live版%^&*阿朱小调(荒山野岭版)%^&*城市·蓝天kala版%^&*阿牛和阿花的故事kala版%^&*对面女孩看过来kala版%^&*
+songURLs http://www.xiami.com/song/851%^&*http://www.xiami.com/song/852%^&*http://www.xiami.com/song/853%^&*http://www.xiami.com/song/854%^&*http://www.xiami.com/song/855%^&*http://www.xiami.com/song/856%^&*http://www.xiami.com/song/857%^&*http://www.xiami.com/song/858%^&*http://www.xiami.com/song/859%^&*http://www.xiami.com/song/860%^&*http://www.xiami.com/song/861%^&*http://www.xiami.com/song/3475196%^&*http://www.xiami.com/song/3475197%^&*http://www.xiami.com/song/3475198%^&*http://www.xiami.com/song/3475199%^&*http://www.xiami.com/song/3475200%^&*

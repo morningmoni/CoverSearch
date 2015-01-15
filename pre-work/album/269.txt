@@ -1,0 +1,7 @@
+number 269
+name 90浪漫心曲经典
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/269.jpg
+songs 半分缘%^&*等%^&*心碎路口%^&*相思河畔%^&*别话%^&*画出彩虹%^&*对酒当歌%^&*不再问究竟%^&*三个自己%^&*盼望的缘份%^&*涟漪%^&*脉搏奔流%^&*一生何求%^&*
+songURLs http://www.xiami.com/song/3387%^&*http://www.xiami.com/song/3388%^&*http://www.xiami.com/song/3389%^&*http://www.xiami.com/song/3390%^&*http://www.xiami.com/song/3391%^&*http://www.xiami.com/song/3392%^&*http://www.xiami.com/song/3393%^&*http://www.xiami.com/song/3394%^&*http://www.xiami.com/song/3395%^&*http://www.xiami.com/song/3396%^&*http://www.xiami.com/song/3397%^&*http://www.xiami.com/song/3398%^&*http://www.xiami.com/song/3399%^&*

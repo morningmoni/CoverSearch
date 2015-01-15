@@ -1,0 +1,7 @@
+number 10924
+name 情歌
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109241417781944.jpg
+songs 抱紧眼前人%^&*情归何处%^&*朦胧夜雨里%^&*不信爱有罪%^&*梦幻的拥抱%^&*女人心%^&*似是故人来%^&*胭脂扣%^&*似水流年%^&*交出我的心%^&*爱我的只有我%^&*痴痴爱一次%^&*朝朝暮暮%^&*夕阳之歌%^&*心仍是冷%^&*珍惜再会时%^&*亲密爱人%^&*Faith Fully%^&*何日%^&*回头已是百年身%^&*孤身走我路%^&*缘份%^&*装饰的眼泪%^&*逝去的爱%^&*蔓珠莎华%^&*赤的疑惑%^&*心肝宝贝%^&*歌衫泪影%^&*心债%^&*不如不见%^&*耶利亚%^&*一舞倾情%^&*
+songURLs http://www.xiami.com/song/134952%^&*http://www.xiami.com/song/134953%^&*http://www.xiami.com/song/134954%^&*http://www.xiami.com/song/134955%^&*http://www.xiami.com/song/134956%^&*http://www.xiami.com/song/134957%^&*http://www.xiami.com/song/134958%^&*http://www.xiami.com/song/134959%^&*http://www.xiami.com/song/134960%^&*http://www.xiami.com/song/134961%^&*http://www.xiami.com/song/134962%^&*http://www.xiami.com/song/134963%^&*http://www.xiami.com/song/134964%^&*http://www.xiami.com/song/134965%^&*http://www.xiami.com/song/134966%^&*http://www.xiami.com/song/134967%^&*http://www.xiami.com/song/134968%^&*http://www.xiami.com/song/134969%^&*http://www.xiami.com/song/134970%^&*http://www.xiami.com/song/134971%^&*http://www.xiami.com/song/134972%^&*http://www.xiami.com/song/134973%^&*http://www.xiami.com/song/134974%^&*http://www.xiami.com/song/134975%^&*http://www.xiami.com/song/134976%^&*http://www.xiami.com/song/134977%^&*http://www.xiami.com/song/134978%^&*http://www.xiami.com/song/134979%^&*http://www.xiami.com/song/134980%^&*http://www.xiami.com/song/134981%^&*http://www.xiami.com/song/134982%^&*http://www.xiami.com/song/134983%^&*

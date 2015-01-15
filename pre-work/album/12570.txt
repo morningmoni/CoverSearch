@@ -1,0 +1,7 @@
+number 12570
+name 我爱夜
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125701366018289.jpg
+songs 我爱夜%^&*幸福一秒吧%^&*他们的故事%^&*祝福了%^&*此时快乐的代价%^&*云且留住%^&*不一样了%^&*神话%^&*幸福的相遇%^&*有你的天堂%^&*众里寻他%^&*只说给你听%^&*标准配备%^&*我俩一同飞去%^&*遇见另外一个人%^&*永恒的转眼%^&*信号%^&*我怎能离开你%^&*白纸黑字%^&*真情真美%^&*
+songURLs http://www.xiami.com/song/154521%^&*http://www.xiami.com/song/154522%^&*http://www.xiami.com/song/154523%^&*http://www.xiami.com/song/154524%^&*http://www.xiami.com/song/154525%^&*http://www.xiami.com/song/154526%^&*http://www.xiami.com/song/154527%^&*http://www.xiami.com/song/154528%^&*http://www.xiami.com/song/154529%^&*http://www.xiami.com/song/154530%^&*http://www.xiami.com/song/154531%^&*http://www.xiami.com/song/154532%^&*http://www.xiami.com/song/154533%^&*http://www.xiami.com/song/154534%^&*http://www.xiami.com/song/154535%^&*http://www.xiami.com/song/154536%^&*http://www.xiami.com/song/154537%^&*http://www.xiami.com/song/154538%^&*http://www.xiami.com/song/154539%^&*http://www.xiami.com/song/154540%^&*

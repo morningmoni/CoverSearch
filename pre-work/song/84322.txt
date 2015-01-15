@@ -1,0 +1,6 @@
+number 84322
+name 老朋友
+artist 蔡淳佳%^&*
+artistURL http://www.xiami.com/artist/1340%^&*
+album 有一天我会
+albumURL http://www.xiami.com/album/6906

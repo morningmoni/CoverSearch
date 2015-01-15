@@ -1,0 +1,7 @@
+number 177
+name 我和春天有个约会
+artist 蔡兴国
+introduction WCD2094
+picture http://img.xiami.net/images/album/img0/1771284019238.jpg
+songs 春天的野宴%^&*我和春天有个约会%^&*星夜呢喃%^&*梦幻田园%^&*茉莉花的旅程%^&*黄昏之舞%^&*心爱的记忆%^&*花雨%^&*咏花之颂%^&*夜的精灵%^&*
+songURLs http://www.xiami.com/song/2175%^&*http://www.xiami.com/song/2176%^&*http://www.xiami.com/song/2177%^&*http://www.xiami.com/song/2178%^&*http://www.xiami.com/song/2179%^&*http://www.xiami.com/song/2180%^&*http://www.xiami.com/song/2181%^&*http://www.xiami.com/song/2182%^&*http://www.xiami.com/song/2183%^&*http://www.xiami.com/song/2184%^&*

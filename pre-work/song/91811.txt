@@ -1,0 +1,6 @@
+number 91811
+name 爱就爱了MV
+artist 陈琳%^&*
+artistURL http://www.xiami.com/artist/1400%^&*
+album 爱就爱了
+albumURL http://www.xiami.com/album/7436

@@ -1,0 +1,6 @@
+number 1506
+name 过山车无线电视剧《过山车》主题曲
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 人之初
+albumURL http://www.xiami.com/album/123

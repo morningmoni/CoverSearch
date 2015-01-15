@@ -1,0 +1,7 @@
+number 6641
+name 依然范特西
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/66411380418201.jpg
+songs 夜的第七章%^&*听妈妈的话%^&*千里之外%^&*本草纲目%^&*退后%^&*红模仿%^&*心雨%^&*白色风车%^&*迷迭香%^&*菊花台%^&*
+songURLs http://www.xiami.com/song/376015%^&*http://www.xiami.com/song/376016%^&*http://www.xiami.com/song/376017%^&*http://www.xiami.com/song/376018%^&*http://www.xiami.com/song/376019%^&*http://www.xiami.com/song/376020%^&*http://www.xiami.com/song/376021%^&*http://www.xiami.com/song/376022%^&*http://www.xiami.com/song/376023%^&*http://www.xiami.com/song/376024%^&*

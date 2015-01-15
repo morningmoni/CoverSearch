@@ -1,0 +1,7 @@
+number 11648
+name 夜夜心疼
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/116481318841281.jpg
+songs 夜夜心疼%^&*苦是无块换%^&*明知已经无缘%^&*算算去%^&*梦着思念的人%^&*别讲阮无情%^&*一条项链半颗心%^&*心萎%^&*行抹出脚%^&*疼心.拆情%^&*
+songURLs http://www.xiami.com/song/143314%^&*http://www.xiami.com/song/143315%^&*http://www.xiami.com/song/143316%^&*http://www.xiami.com/song/143317%^&*http://www.xiami.com/song/143318%^&*http://www.xiami.com/song/143319%^&*http://www.xiami.com/song/143320%^&*http://www.xiami.com/song/143321%^&*http://www.xiami.com/song/143322%^&*http://www.xiami.com/song/143323%^&*

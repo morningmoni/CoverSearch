@@ -1,0 +1,6 @@
+number 491981
+name 爱你入骨
+artist 蔡小虎
+introduction picture http://img.xiami.net/images/album/img47/47/4919811328670396.jpg
+songs 爱你入骨%^&*悲情的城市%^&*江湖兄弟%^&*后街人生%^&*码头惜别%^&*男性苦恋%^&*流浪之歌%^&*妈妈请你也保重%^&*可怜恋花再会吧%^&*爸爸在那里%^&*
+songURLs http://www.xiami.com/song/1770784403%^&*http://www.xiami.com/song/1770784404%^&*http://www.xiami.com/song/1770784405%^&*http://www.xiami.com/song/1770784406%^&*http://www.xiami.com/song/1770784407%^&*http://www.xiami.com/song/1770784408%^&*http://www.xiami.com/song/1770784409%^&*http://www.xiami.com/song/1770784410%^&*http://www.xiami.com/song/1770784411%^&*http://www.xiami.com/song/1770784412%^&*

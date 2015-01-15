@@ -1,0 +1,7 @@
+number 8971
+name 橄榄树
+artist 胡慧中
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10001086516m_2.jpg
+songs 橄榄树%^&*空白%^&*路有多长,思念就有多长%^&*男的朋友,女的朋友%^&*人世游%^&*为爱守候%^&*我不要一个假的情人%^&*我的心情就像风%^&*星期天不敢想你%^&*雁南飞%^&*再见%^&*找个理由%^&*
+songURLs http://www.xiami.com/song/111372%^&*http://www.xiami.com/song/111373%^&*http://www.xiami.com/song/111374%^&*http://www.xiami.com/song/111375%^&*http://www.xiami.com/song/111376%^&*http://www.xiami.com/song/111377%^&*http://www.xiami.com/song/111378%^&*http://www.xiami.com/song/111379%^&*http://www.xiami.com/song/111380%^&*http://www.xiami.com/song/111381%^&*http://www.xiami.com/song/111382%^&*http://www.xiami.com/song/111383%^&*

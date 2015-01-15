@@ -1,0 +1,7 @@
+number 490792
+name 带我去草原吧
+artist 布仁巴雅尔
+introduction 精选12首歌曲，用半个世纪的情感，带你深入草原.....
+picture http://img.xiami.net/images/album/img20/95020/1328095020.jpg
+songs 带我去草原吧%^&*月夜%^&*花海草原(蒙)%^&*父亲的目光%^&*艾雅玛%^&*草原酒歌%^&*东泉%^&*鸿雁(蒙)%^&*阿尔山传说%^&*母亲%^&*撑起天空的双手%^&*天边的家乡%^&*
+songURLs http://www.xiami.com/song/1770771623%^&*http://www.xiami.com/song/1770771624%^&*http://www.xiami.com/song/1770771625%^&*http://www.xiami.com/song/1770771626%^&*http://www.xiami.com/song/1770771627%^&*http://www.xiami.com/song/1770771628%^&*http://www.xiami.com/song/1770771629%^&*http://www.xiami.com/song/1770771630%^&*http://www.xiami.com/song/1770771631%^&*http://www.xiami.com/song/1770771632%^&*http://www.xiami.com/song/1770771633%^&*http://www.xiami.com/song/1770771634%^&*

@@ -1,0 +1,6 @@
+number 13170
+name 轻声细语
+artist 詹曼铃
+introduction picture http://img.xiami.net/images/album/img40/2440/13170.jpg
+songs 轻声细语%^&*轻轻叫一声亲爱的%^&*永远心袂清%^&*美梦变成空%^&*迷人的探戈%^&*恋爱情%^&*每日等待你%^&*心爱的紧返来%^&*相依相偎%^&*看乎伊开%^&*
+songURLs http://www.xiami.com/song/162039%^&*http://www.xiami.com/song/162040%^&*http://www.xiami.com/song/162041%^&*http://www.xiami.com/song/162042%^&*http://www.xiami.com/song/162043%^&*http://www.xiami.com/song/162044%^&*http://www.xiami.com/song/162045%^&*http://www.xiami.com/song/162046%^&*http://www.xiami.com/song/162047%^&*http://www.xiami.com/song/162048%^&*

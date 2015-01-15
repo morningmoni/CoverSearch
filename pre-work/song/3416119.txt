@@ -1,0 +1,6 @@
+number 3416119
+name 无解
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 最佳男主角
+albumURL http://www.xiami.com/album/308688

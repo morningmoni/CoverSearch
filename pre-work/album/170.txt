@@ -1,0 +1,7 @@
+number 170
+name 虎的演歌1 一段情一场梦
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img0/1701284018359.jpg
+songs 一段情一场梦%^&*爱情新天地%^&*挽面%^&*三更雨%^&*爱的人客%^&*痴情男儿%^&*心痛的恋情%^&*爱一天也是爱过%^&*撕破温柔%^&*爱河恋歌%^&*靠你活落去%^&*无名恋歌%^&*牵手做阵行%^&*世间路%^&*一段情一场梦%^&*
+songURLs http://www.xiami.com/song/2100%^&*http://www.xiami.com/song/2101%^&*http://www.xiami.com/song/2102%^&*http://www.xiami.com/song/2103%^&*http://www.xiami.com/song/2104%^&*http://www.xiami.com/song/2105%^&*http://www.xiami.com/song/2106%^&*http://www.xiami.com/song/2107%^&*http://www.xiami.com/song/2108%^&*http://www.xiami.com/song/2109%^&*http://www.xiami.com/song/2110%^&*http://www.xiami.com/song/2111%^&*http://www.xiami.com/song/2112%^&*http://www.xiami.com/song/2113%^&*http://www.xiami.com/song/2114%^&*

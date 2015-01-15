@@ -1,0 +1,6 @@
+number 126902
+name 断弦
+artist 周小君%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E5%B0%8F%E5%90%9B%^&*
+album 东方不败 林青霞 电影音乐纪实
+albumURL http://www.xiami.com/album/10284

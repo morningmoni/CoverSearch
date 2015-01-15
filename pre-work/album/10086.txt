@@ -1,0 +1,7 @@
+number 10086
+name 想你
+artist 梁雁翎
+introduction 
+picture http://img.xiami.net/images/album/img40/1840/100861331519397.jpg
+songs 第一次%^&*你歌我歌%^&*哪里的天空不下雨%^&*路是寂寞%^&*你好吗 (粤语版)%^&*一等再等%^&*慢慢地陪着你走%^&*感激清风%^&*Runaway%^&*初恋%^&*想你%^&*让我一个人走%^&*
+songURLs http://www.xiami.com/song/124395%^&*http://www.xiami.com/song/124396%^&*http://www.xiami.com/song/124397%^&*http://www.xiami.com/song/124398%^&*http://www.xiami.com/song/124399%^&*http://www.xiami.com/song/124400%^&*http://www.xiami.com/song/124401%^&*http://www.xiami.com/song/124402%^&*http://www.xiami.com/song/124403%^&*http://www.xiami.com/song/124404%^&*http://www.xiami.com/song/124405%^&*http://www.xiami.com/song/124406%^&*

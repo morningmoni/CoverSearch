@@ -1,0 +1,6 @@
+number 20
+name 篱笆墙的影子
+artist 阿宝%^&*
+artistURL http://www.xiami.com/artist/2%^&*
+album 想亲亲想在心眼眼上
+albumURL http://www.xiami.com/album/3

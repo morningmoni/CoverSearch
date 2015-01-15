@@ -1,0 +1,7 @@
+number 2190
+name 王默君
+place Taiwan 台湾
+introduction 小简介她在80年代初就参加了由李季准先生主持的台视的歌唱名人排行榜比赛，而获得发掘成为歌手。85年加盟东尼机构，出版了两张专集&ldquo;历史重演&rdquo;及&rdquo;想想我的爱&rdquo;。89年华视的一场慈善义演晚会，敲定由她及彭恰恰主持。在台中录影后，发现一些技术问题，完全不能放映，而打算重演重录一遍，而地点也改在高雄。她就在赶往录影的途中，所达成的计程车与货柜车相撞，而当场死亡，那是在1989年1月29 日。她曾在访问中说过：如果踏入演艺界，不管在感情，或其他方面，会伤痕累累，我也绝对不后悔！
+picture http://img.xiami.net/images/artistlogo/88/13286920423688.jpg
+albums 纪念遗作专辑%^&*偷哭的日子%^&*选择·不能想你%^&*不愿分手%^&*历史重演%^&*
+albumURLs http://www.xiami.com/album/11999%^&*http://www.xiami.com/album/12000%^&*http://www.xiami.com/album/419033%^&*http://www.xiami.com/album/366360757%^&*http://www.xiami.com/album/1991742200%^&*

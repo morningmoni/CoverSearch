@@ -1,0 +1,7 @@
+number 6718
+name 红楼梦
+artist 朱晓谷
+introduction 
+picture http://img.xiami.net/images/pic/04/03/10113493264m_2.jpg
+songs 红楼梦 (蝶式筝协奏曲)%^&*文成公主 (柳琴、筝、中阮协奏曲)%^&*祝福 (二胡协奏曲)%^&*
+songURLs http://www.xiami.com/song/82183%^&*http://www.xiami.com/song/82184%^&*http://www.xiami.com/song/82185%^&*

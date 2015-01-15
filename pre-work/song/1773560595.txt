@@ -1,0 +1,6 @@
+number 1773560595
+name 我的未来不是梦
+artist 张云儿%^&*
+artistURL http://www.xiami.com/artist/2490%^&*
+album 张云儿柔情经典演绎版
+albumURL http://www.xiami.com/album/1811439978

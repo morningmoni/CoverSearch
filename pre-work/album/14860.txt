@@ -1,0 +1,6 @@
+number 14860
+name 伟大的妈妈
+artist 乐家姊妹
+introduction picture http://img.xiami.net/images/pic/04/03/10087155895m_2.jpg
+songs 伟大的妈妈%^&*小癞麻%^&*恋合战%^&*你在那里%^&*明日知道心意%^&*新天地%^&*秘之秘密%^&*大快活夫妻%^&*爱人变了心%^&*轻风送残梦%^&*泵泵苏之恋%^&*
+songURLs http://www.xiami.com/song/182908%^&*http://www.xiami.com/song/182909%^&*http://www.xiami.com/song/182910%^&*http://www.xiami.com/song/182911%^&*http://www.xiami.com/song/182912%^&*http://www.xiami.com/song/182913%^&*http://www.xiami.com/song/182914%^&*http://www.xiami.com/song/182915%^&*http://www.xiami.com/song/182916%^&*http://www.xiami.com/song/182917%^&*http://www.xiami.com/song/182918%^&*

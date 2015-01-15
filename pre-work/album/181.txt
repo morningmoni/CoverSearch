@@ -1,0 +1,7 @@
+number 181
+name 在我心中有一片森林
+artist 蔡兴国
+introduction 编号：WCD2059双簧管是一种很古典、很西洋的乐器，大家对她的映像一般都在古典的交响乐里。用双簧管来吹流行的曲子并不多见，而蔡兴国以他高超的技巧，细腻的处理，用双簧管演绎了近乎完美的流行抒情音乐。听着双簧管优美的音色，你一定会为之所倾倒。蔡兴国(Casper Tsai)是台湾省新竹县人。自幼学习钢琴，是台湾为主不多的集偶像、实力、创作于一身的年轻演奏家。个人色彩鲜明，风格独树一帜。
+picture http://img.xiami.net/images/album/img48/48/1811398506612.jpg
+songs 在我心中有一片森林%^&*绿袖子%^&*每一朵随风儿逝的浪花%^&*秋夜%^&*风%^&*新鸳鸯蝴蝶梦%^&*草原上的传说%^&*卡侬之歌%^&*星兴的邀约%^&*法国香颂%^&*
+songURLs http://www.xiami.com/song/2220%^&*http://www.xiami.com/song/2221%^&*http://www.xiami.com/song/2222%^&*http://www.xiami.com/song/2223%^&*http://www.xiami.com/song/2224%^&*http://www.xiami.com/song/2225%^&*http://www.xiami.com/song/2226%^&*http://www.xiami.com/song/2227%^&*http://www.xiami.com/song/2228%^&*http://www.xiami.com/song/2229%^&*

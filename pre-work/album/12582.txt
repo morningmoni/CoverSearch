@@ -1,0 +1,7 @@
+number 12582
+name 你是最爱
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125821366018615.jpg
+songs Don&#039;t Say Goodbye%^&*承担%^&*美梦成真%^&*生气%^&*学琴的孩子%^&*透气%^&*你是最爱%^&*All Your Heart%^&*一直%^&*集邮簿子%^&*承担 (挚爱版)%^&*
+songURLs http://www.xiami.com/song/383339%^&*http://www.xiami.com/song/383340%^&*http://www.xiami.com/song/383341%^&*http://www.xiami.com/song/383342%^&*http://www.xiami.com/song/383343%^&*http://www.xiami.com/song/383344%^&*http://www.xiami.com/song/383345%^&*http://www.xiami.com/song/383346%^&*http://www.xiami.com/song/383347%^&*http://www.xiami.com/song/383348%^&*http://www.xiami.com/song/383349%^&*

@@ -1,0 +1,6 @@
+number 3450667
+name 乌云
+artist 百川%^&*
+artistURL http://www.xiami.com/artist/28%^&*
+album 江南雨
+albumURL http://www.xiami.com/album/311519

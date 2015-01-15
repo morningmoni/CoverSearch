@@ -1,0 +1,6 @@
+number 9734
+name 痴情劫
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/9734.jpg
+songs 痴情劫%^&*做个木头人%^&*一片浮萍%^&*远方天外%^&*一百分%^&*网起浪花%^&*昨天的美梦%^&*没有你在我旁%^&*迷人是你%^&*一个灯火%^&*别后%^&*
+songURLs http://www.xiami.com/song/120308%^&*http://www.xiami.com/song/120309%^&*http://www.xiami.com/song/120310%^&*http://www.xiami.com/song/120311%^&*http://www.xiami.com/song/120312%^&*http://www.xiami.com/song/120313%^&*http://www.xiami.com/song/120314%^&*http://www.xiami.com/song/120315%^&*http://www.xiami.com/song/120316%^&*http://www.xiami.com/song/120317%^&*http://www.xiami.com/song/120318%^&*

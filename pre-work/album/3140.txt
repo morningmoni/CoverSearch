@@ -1,0 +1,6 @@
+number 3140
+name 门里门外
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3140.jpg
+songs 门里门外%^&*背影%^&*我给你关怀%^&*最高峰%^&*Today%^&*我给你关怀%^&*门里门外%^&*夜有千眼%^&*就这样约定%^&*雾林%^&*
+songURLs http://www.xiami.com/song/38756%^&*http://www.xiami.com/song/38757%^&*http://www.xiami.com/song/38758%^&*http://www.xiami.com/song/38759%^&*http://www.xiami.com/song/38760%^&*http://www.xiami.com/song/38761%^&*http://www.xiami.com/song/38762%^&*http://www.xiami.com/song/38763%^&*http://www.xiami.com/song/38764%^&*http://www.xiami.com/song/38765%^&*

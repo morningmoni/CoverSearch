@@ -1,0 +1,6 @@
+number 38674
+name 爱是你爱是我
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 兰花草
+albumURL http://www.xiami.com/album/3132

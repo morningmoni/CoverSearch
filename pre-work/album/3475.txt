@@ -1,0 +1,7 @@
+number 3475
+name Speshow
+artist 罗志祥
+introduction 
+picture http://img.xiami.net/images/album/img20/720/34751330417663.jpg
+songs 精舞门%^&*幸福猎人%^&*完美型男%^&*好朋友%^&*几分%^&*Twinkle%^&*碎碎念%^&*透视%^&*国王游戏%^&*自恋%^&*垃圾桶%^&*
+songURLs http://www.xiami.com/song/42827%^&*http://www.xiami.com/song/42828%^&*http://www.xiami.com/song/42829%^&*http://www.xiami.com/song/42830%^&*http://www.xiami.com/song/42831%^&*http://www.xiami.com/song/42832%^&*http://www.xiami.com/song/42833%^&*http://www.xiami.com/song/42834%^&*http://www.xiami.com/song/42835%^&*http://www.xiami.com/song/42836%^&*http://www.xiami.com/song/42837%^&*

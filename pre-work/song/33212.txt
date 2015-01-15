@@ -1,0 +1,6 @@
+number 33212
+name 它给我不同的快乐
+artist 黄品源%^&*
+artistURL http://www.xiami.com/artist/390%^&*
+album 黄品源生活精选
+albumURL http://www.xiami.com/album/1729

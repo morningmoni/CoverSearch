@@ -1,0 +1,6 @@
+number 2626
+name 梦 梦 梦
+artist 曹西平%^&*
+artistURL http://www.xiami.com/artist/61%^&*
+album 曾来入梦
+albumURL http://www.xiami.com/album/215

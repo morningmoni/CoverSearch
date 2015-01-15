@@ -1,0 +1,6 @@
+number 1885
+name 这次来真的
+artist 纪宏仁
+introduction picture http://img.xiami.net/images/album/img30/430/18851403526413.jpg
+songs 危险动作%^&*寻找陌生人%^&*你用什么抓住我的心%^&*低空飞行%^&*瞬间画面%^&*这次来真的%^&*1+1=2%^&*玛琍兄弟交响曲%^&*彩色猫%^&*不要说再见%^&*
+songURLs http://www.xiami.com/song/35448%^&*http://www.xiami.com/song/35449%^&*http://www.xiami.com/song/35450%^&*http://www.xiami.com/song/35451%^&*http://www.xiami.com/song/35452%^&*http://www.xiami.com/song/35453%^&*http://www.xiami.com/song/35454%^&*http://www.xiami.com/song/35455%^&*http://www.xiami.com/song/35456%^&*http://www.xiami.com/song/35457%^&*

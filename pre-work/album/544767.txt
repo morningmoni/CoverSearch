@@ -1,0 +1,7 @@
+number 544767
+name Ruby Lin
+artist 林心如
+introduction 
+picture http://img.xiami.net/images/album/img90/1890/5447671348562037.jpg
+songs 采心 (Progressive House Remix)%^&*一百八十分钟零七秒 (2 Step Remix)%^&*笑话%^&*生死相许%^&*采心%^&*
+songURLs http://www.xiami.com/song/1771339256%^&*http://www.xiami.com/song/1771339257%^&*http://www.xiami.com/song/1771339258%^&*http://www.xiami.com/song/1771339259%^&*http://www.xiami.com/song/1771339260%^&*

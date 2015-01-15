@@ -1,0 +1,6 @@
+number 9321
+name 怀念知心友
+artist 丽莎
+introduction picture http://img.xiami.net/images/album/img80/1680/93211399518670.jpg
+songs 怀念知心友%^&*月亮晚安%^&*雨夜花%^&*红烛泪%^&*堤畔情歌%^&*泪洒伤心地%^&*我对他真心%^&*海棠花%^&*初恋%^&*秋海棠%^&*我的心太痴%^&*金丝雀%^&*见他多一次%^&*爱藏心窝%^&*
+songURLs http://www.xiami.com/song/115593%^&*http://www.xiami.com/song/115594%^&*http://www.xiami.com/song/115595%^&*http://www.xiami.com/song/115596%^&*http://www.xiami.com/song/115597%^&*http://www.xiami.com/song/115598%^&*http://www.xiami.com/song/115599%^&*http://www.xiami.com/song/115600%^&*http://www.xiami.com/song/115601%^&*http://www.xiami.com/song/115602%^&*http://www.xiami.com/song/115603%^&*http://www.xiami.com/song/115604%^&*http://www.xiami.com/song/115605%^&*http://www.xiami.com/song/115606%^&*

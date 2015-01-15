@@ -1,0 +1,7 @@
+number 398
+name 随缘
+artist 陈雷
+introduction 
+picture http://img.xiami.net/images/album/img0/3981288940311.jpg
+songs 随缘%^&*黄昏的码头灯%^&*那会按呢%^&*心肝捉胆横%^&*何时才会看破%^&*甭搁张啦%^&*感情债算抹清%^&*暗帐%^&*无声的怨叹%^&*思念%^&*
+songURLs http://www.xiami.com/song/1769374166%^&*http://www.xiami.com/song/1769374167%^&*http://www.xiami.com/song/1769374168%^&*http://www.xiami.com/song/1769374169%^&*http://www.xiami.com/song/1769374170%^&*http://www.xiami.com/song/1769374171%^&*http://www.xiami.com/song/1769374172%^&*http://www.xiami.com/song/1769374173%^&*http://www.xiami.com/song/1769374174%^&*http://www.xiami.com/song/1769374175%^&*

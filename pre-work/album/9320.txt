@@ -1,0 +1,6 @@
+number 9320
+name 叮咛
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 叮咛%^&*爱情多烦恼%^&*青春恋曲%^&*夜送别%^&*心愿%^&*梦中梦%^&*盟誓百花洲%^&*别了情人%^&*强忍一段愁%^&*恋爱是甚么%^&*情花开满枝%^&*做对同林鸟%^&*潇洒风雨%^&*花朝月夕%^&*
+songURLs http://www.xiami.com/song/115579%^&*http://www.xiami.com/song/115580%^&*http://www.xiami.com/song/115581%^&*http://www.xiami.com/song/115582%^&*http://www.xiami.com/song/115583%^&*http://www.xiami.com/song/115584%^&*http://www.xiami.com/song/115585%^&*http://www.xiami.com/song/115586%^&*http://www.xiami.com/song/115587%^&*http://www.xiami.com/song/115588%^&*http://www.xiami.com/song/115589%^&*http://www.xiami.com/song/115590%^&*http://www.xiami.com/song/115591%^&*http://www.xiami.com/song/115592%^&*

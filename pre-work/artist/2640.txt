@@ -1,0 +1,7 @@
+number 2640
+name 般若海合唱团
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/12061529494852.jpg
+albums 心中要有佛%^&*
+albumURLs http://www.xiami.com/album/14211%^&*

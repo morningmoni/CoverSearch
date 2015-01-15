@@ -1,0 +1,7 @@
+number 13460
+name 想厝的心情
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/134601388306703.jpg
+songs 想厝的心情%^&*伤心往事%^&*望你疼惜阮%^&*心所爱的人%^&*梦中思慕的人%^&*甘愿无人知%^&*永远祝福你%^&*无情的火车%^&*返来阮身边%^&*寂寞暝%^&*
+songURLs http://www.xiami.com/song/165798%^&*http://www.xiami.com/song/165799%^&*http://www.xiami.com/song/165800%^&*http://www.xiami.com/song/165801%^&*http://www.xiami.com/song/165802%^&*http://www.xiami.com/song/165803%^&*http://www.xiami.com/song/165804%^&*http://www.xiami.com/song/165805%^&*http://www.xiami.com/song/165806%^&*http://www.xiami.com/song/165807%^&*

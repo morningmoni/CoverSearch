@@ -1,0 +1,7 @@
+number 42832
+name TwinkleMV
+artist 罗志祥%^&*幸田来未%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BD%97%E5%BF%97%E7%A5%A5%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%B9%B8%E7%94%B0%E6%9D%A5%E6%9C%AA%^&*
+album Speshow
+albumURL http://www.xiami.com/album/3475

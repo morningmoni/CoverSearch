@@ -1,0 +1,6 @@
+number 38768
+name 神话
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 可爱的女孩·永恒的爱
+albumURL http://www.xiami.com/album/3141

@@ -1,0 +1,6 @@
+number 33004
+name 它给我不同的快乐MV
+artist 黄品源%^&*
+artistURL http://www.xiami.com/artist/390%^&*
+album 泪光闪闪 源来有你
+albumURL http://www.xiami.com/album/1713

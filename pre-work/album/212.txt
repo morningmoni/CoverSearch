@@ -1,0 +1,6 @@
+number 212
+name 走出孤独
+artist 曹松章
+introduction picture http://img.xiami.net/images/album/img60/60/2121350287178.jpg
+songs 走出孤独%^&*春风的话%^&*寒夜%^&*想你在梦里%^&*不悔的路%^&*安安,回家吧%^&*幸福车站%^&*难道是梦已断%^&*乘着阳光的翅膀%^&*第33号行星%^&*
+songURLs http://www.xiami.com/song/2589%^&*http://www.xiami.com/song/2590%^&*http://www.xiami.com/song/2591%^&*http://www.xiami.com/song/2592%^&*http://www.xiami.com/song/2593%^&*http://www.xiami.com/song/2594%^&*http://www.xiami.com/song/2595%^&*http://www.xiami.com/song/2596%^&*http://www.xiami.com/song/2597%^&*http://www.xiami.com/song/2598%^&*

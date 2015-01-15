@@ -1,0 +1,6 @@
+number 1771038413
+name 偶像
+artist Zen%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Zen%^&*
+album 紫色的回忆
+albumURL http://www.xiami.com/album/257

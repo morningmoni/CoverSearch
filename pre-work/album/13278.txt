@@ -1,0 +1,7 @@
+number 13278
+name 牵手
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132781360220303.jpg
+songs Are You Ready%^&*不要骗我%^&*梦见铁达尼%^&*寂寞保龄球%^&*对爱投降%^&*High High High%^&*蓝天%^&*牵手%^&*Open Your Eyes%^&*后知后觉%^&*
+songURLs http://www.xiami.com/song/163467%^&*http://www.xiami.com/song/163468%^&*http://www.xiami.com/song/163469%^&*http://www.xiami.com/song/163470%^&*http://www.xiami.com/song/163471%^&*http://www.xiami.com/song/163472%^&*http://www.xiami.com/song/163473%^&*http://www.xiami.com/song/163474%^&*http://www.xiami.com/song/163475%^&*http://www.xiami.com/song/163476%^&*

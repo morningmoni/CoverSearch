@@ -1,0 +1,7 @@
+number 304
+name 也是情歌
+artist 陈彼得
+introduction 1981年，陈彼得推出首张个人专辑《也是情歌》，由宝丽金唱片发行。陈彼得受到美国流行音乐乐风影响，1980年代初率先将R&B;、摇滚置于国语流行歌曲里，开风气之先。专辑中《阿里巴巴》《也是情歌》都极为成功，受到市场听众欢迎。不过一直以来有个广泛的误解，认为《阿里巴巴》是陈彼得创作的。其实《阿里巴巴》是一个德国人 (Karl-Heinz Merkel) 写给他的牙买加妻子 (Cherry Laine) 的。在70年代末走红。Cherry Laine 是西方影响很大的乐坛领军级人物，在歌坛活跃多年。
+picture http://img.xiami.net/images/album/img73/73/3041410749518.jpg
+songs 也是情歌%^&*夜行%^&*记得1981%^&*不管怎么说%^&*默许%^&*看一眼就喜欢%^&*今夜没有你%^&*阿里巴巴%^&*请你不要担心我%^&*夜走在小镇上%^&*
+songURLs http://www.xiami.com/song/3713%^&*http://www.xiami.com/song/3714%^&*http://www.xiami.com/song/3715%^&*http://www.xiami.com/song/3716%^&*http://www.xiami.com/song/3717%^&*http://www.xiami.com/song/3718%^&*http://www.xiami.com/song/1771895871%^&*http://www.xiami.com/song/1771895872%^&*http://www.xiami.com/song/1771895873%^&*http://www.xiami.com/song/1771895874%^&*

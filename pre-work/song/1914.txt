@@ -1,0 +1,7 @@
+number 1914
+name 曾经爱过
+artist 温碧霞%^&*蔡济文%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B8%A9%E7%A2%A7%E9%9C%9E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E6%B5%8E%E6%96%87%^&*
+album 22
+albumURL http://www.xiami.com/album/154

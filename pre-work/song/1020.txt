@@ -1,0 +1,6 @@
+number 1020
+name Rainy Sunday下雨的星期日
+artist Daydream%^&*
+artistURL http://www.xiami.com/artist/30%^&*
+album Dreaming
+albumURL http://www.xiami.com/album/88

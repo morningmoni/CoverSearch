@@ -1,0 +1,6 @@
+number 376006
+name 七里香
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album 七里香
+albumURL http://www.xiami.com/album/6648

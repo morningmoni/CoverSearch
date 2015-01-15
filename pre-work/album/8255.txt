@@ -1,0 +1,7 @@
+number 8255
+name 一个人生活
+artist 范文芳
+introduction 
+picture http://img.xiami.net/images/album/img10/1510/82551358919360.jpg
+songs 一个人生活%^&*别让情两难%^&*心事%^&*假戏真作%^&*化妆%^&*被爱的权利%^&*每个梦%^&*星光%^&*爱曾经来过%^&*吹散为你留下的梦%^&*
+songURLs http://www.xiami.com/song/102560%^&*http://www.xiami.com/song/102561%^&*http://www.xiami.com/song/102562%^&*http://www.xiami.com/song/102563%^&*http://www.xiami.com/song/102564%^&*http://www.xiami.com/song/102565%^&*http://www.xiami.com/song/102566%^&*http://www.xiami.com/song/102567%^&*http://www.xiami.com/song/102568%^&*http://www.xiami.com/song/102569%^&*

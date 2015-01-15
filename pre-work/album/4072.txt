@@ -1,0 +1,7 @@
+number 4072
+name 日久深情
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40721387372704.jpg
+songs Alone%^&*El Condor Pasa%^&*You Are So Vain%^&*I&#039;ll Never Fall In Love Again%^&*Seeing You Again%^&*Sometimes When We Touch%^&*All My Loving%^&*Almaz%^&*Somewhere In My Broken Heart%^&*Some Hearts Are Diamonds%^&*
+songURLs http://www.xiami.com/song/49837%^&*http://www.xiami.com/song/49838%^&*http://www.xiami.com/song/49839%^&*http://www.xiami.com/song/49840%^&*http://www.xiami.com/song/49841%^&*http://www.xiami.com/song/49842%^&*http://www.xiami.com/song/49843%^&*http://www.xiami.com/song/49844%^&*http://www.xiami.com/song/49845%^&*http://www.xiami.com/song/49846%^&*

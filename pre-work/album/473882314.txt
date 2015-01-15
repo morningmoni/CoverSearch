@@ -1,0 +1,7 @@
+number 473882314
+name 爱就是你
+artist 阿杜
+introduction 
+picture http://img.xiami.net/images/album/img5/5/4738823141382950189.jpg
+songs 爱就是你%^&*
+songURLs http://www.xiami.com/song/1772020959%^&*

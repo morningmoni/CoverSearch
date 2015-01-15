@@ -1,0 +1,6 @@
+number 44081
+name 越恨越爱
+artist 莫少聪%^&*
+artistURL http://www.xiami.com/artist/750%^&*
+album 还是爱你
+albumURL http://www.xiami.com/album/3591

@@ -1,0 +1,7 @@
+number 112
+name 陈任
+place Hongkong 香港
+introduction 早年曾组织Menace乐队，以唱英文歌为主，曾经在商业电台和香港电台任职，是第一代播中文歌的唱片骑师。《槟城艳》是他个大人碟"Joe Chan 2nd Impression"的粤语歌曲，而这首被陈任认为，竟大受欢迎。其后陈任转居幕后，前后任职唱片公司、新城电台和亚洲电视行政工作。
+picture http://img.xiami.net/images/artistlogo/89/13660839087789.jpg
+albums Joe Chan 2nd Impression%^&*
+albumURLs http://www.xiami.com/album/425%^&*

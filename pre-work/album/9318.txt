@@ -1,0 +1,6 @@
+number 9318
+name 回想曲
+artist 丽莎
+introduction picture http://img.xiami.net/images/album/img80/1680/93181418295647.jpg
+songs 笑微微%^&*月亮亮%^&*心底情人%^&*叫一声哥哥%^&*回想曲%^&*良辰莫错过%^&*爱像雷电%^&*佳期近%^&*细唱风流调%^&*鹊桥会%^&*期待%^&*白兰花下%^&*
+songURLs http://www.xiami.com/song/115553%^&*http://www.xiami.com/song/115554%^&*http://www.xiami.com/song/115555%^&*http://www.xiami.com/song/115556%^&*http://www.xiami.com/song/115557%^&*http://www.xiami.com/song/115558%^&*http://www.xiami.com/song/115559%^&*http://www.xiami.com/song/115560%^&*http://www.xiami.com/song/115561%^&*http://www.xiami.com/song/115562%^&*http://www.xiami.com/song/115563%^&*http://www.xiami.com/song/115564%^&*

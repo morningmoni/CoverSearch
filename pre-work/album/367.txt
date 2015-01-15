@@ -1,0 +1,7 @@
+number 367
+name 最索音乐
+artist 陈骅
+introduction 
+picture http://img.xiami.net/images/album/img88/88/367.jpg
+songs 莫札特的烦恼(国语版)%^&*预料之内%^&*我爱他是个好人%^&*放了你%^&*爱上外星人%^&*吸血祭%^&*不爱也好%^&*相信爱情%^&*何必逃避%^&*Margarita%^&*生存游戏%^&*Chat%^&*
+songURLs http://www.xiami.com/song/4431%^&*http://www.xiami.com/song/4432%^&*http://www.xiami.com/song/4433%^&*http://www.xiami.com/song/4434%^&*http://www.xiami.com/song/4435%^&*http://www.xiami.com/song/4436%^&*http://www.xiami.com/song/4437%^&*http://www.xiami.com/song/4438%^&*http://www.xiami.com/song/4439%^&*http://www.xiami.com/song/4440%^&*http://www.xiami.com/song/4441%^&*http://www.xiami.com/song/4442%^&*

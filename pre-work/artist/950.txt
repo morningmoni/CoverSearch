@@ -1,0 +1,7 @@
+number 950
+name 吴大卫吴戴维
+place Taiwan 台湾
+introduction 小简介艺名：吴大卫英文名：David Wu&nbsp;&nbsp;出生日：10.02&nbsp;&nbsp;所属地区：台湾个人简介：实力派创作歌手、知名音乐制作人，曾与邰肇玫结婚。制作作曲：温拿－ 天待我真不错 ‧ 一个错误 ‧永远爱下去 ‧ 你是我今生的新娘 ‧ 活出自己 ‧ 冻结 ‧ 寂寞 ‧ 带我翱翔的风 ‧ 情深几许 ‧ 漫漫人生路 ‧ 钟情 ‧Tokyo D －Now叶欢－一生美丽一次堂娜－心凉邰肇玫－冷漠的心情那英－愿赌服输张雨生-还是朋友叶树茵-听美人鱼唱歌&hellip;&hellip;
+picture http://img.xiami.net/images/artistlogo/51/14072530278951.jpg
+albums 飞行男人%^&*一线之间%^&*冷冷的夜%^&*
+albumURLs http://www.xiami.com/album/4780%^&*http://www.xiami.com/album/466944%^&*http://www.xiami.com/album/471643%^&*

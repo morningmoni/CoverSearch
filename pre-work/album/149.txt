@@ -1,0 +1,6 @@
+number 149
+name 海底针
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1491334021514.jpg
+songs 海底针%^&*我心未冷%^&*梦%^&*小天地%^&*苍天的安排%^&*考试考试%^&*常在我身边%^&*一张俏脸%^&*偶然%^&*心中的秘密%^&*不应再犹豫%^&*童年%^&*
+songURLs http://www.xiami.com/song/1831%^&*http://www.xiami.com/song/1832%^&*http://www.xiami.com/song/1833%^&*http://www.xiami.com/song/1834%^&*http://www.xiami.com/song/1835%^&*http://www.xiami.com/song/1836%^&*http://www.xiami.com/song/1837%^&*http://www.xiami.com/song/1838%^&*http://www.xiami.com/song/1839%^&*http://www.xiami.com/song/1840%^&*http://www.xiami.com/song/1841%^&*http://www.xiami.com/song/1842%^&*

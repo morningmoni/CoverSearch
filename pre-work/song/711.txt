@@ -1,0 +1,6 @@
+number 711
+name 用马来西亚的天气来说爱你MV
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 桃花朵朵开
+albumURL http://www.xiami.com/album/60

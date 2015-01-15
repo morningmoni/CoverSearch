@@ -1,0 +1,6 @@
+number 439012
+name 重拾笑容
+artist 2个女生
+introduction picture http://img.xiami.net/images/album/img70/2870/4390121304574393.jpg
+songs 重拾笑容(Original)%^&*重拾笑容(Performance Track)%^&*重拾笑容(Music Only)%^&*
+songURLs http://www.xiami.com/song/1770186192%^&*http://www.xiami.com/song/1770186193%^&*http://www.xiami.com/song/1770186194%^&*

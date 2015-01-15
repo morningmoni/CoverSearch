@@ -1,0 +1,6 @@
+number 1210
+name 心情不错
+artist 孙悦%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AD%99%E6%82%A6%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

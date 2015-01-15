@@ -1,0 +1,7 @@
+number 11644
+name 原味情歌
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/116441326618392.png
+songs 风飞沙%^&*是你伤我的心%^&*纯情青春梦%^&*冷冷的棉被%^&*心情%^&*无情人有晴天%^&*怎样会堪%^&*情字这条路%^&*无情人请你离开%^&*你惦阮心内尚深的所在%^&*牺牲%^&*情路这呢长%^&*碎碎念%^&*
+songURLs http://www.xiami.com/song/143265%^&*http://www.xiami.com/song/143266%^&*http://www.xiami.com/song/143267%^&*http://www.xiami.com/song/143268%^&*http://www.xiami.com/song/143269%^&*http://www.xiami.com/song/143270%^&*http://www.xiami.com/song/143271%^&*http://www.xiami.com/song/143272%^&*http://www.xiami.com/song/143273%^&*http://www.xiami.com/song/143274%^&*http://www.xiami.com/song/143275%^&*http://www.xiami.com/song/143276%^&*http://www.xiami.com/song/143277%^&*

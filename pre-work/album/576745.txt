@@ -1,0 +1,7 @@
+number 576745
+name 跨世纪艺术瑰宝 董文华
+artist 董文华
+introduction 唱片编号: PCD-5298ISRC CN-F12-99-304-00/A.J6首版1999年由太平洋影音发行，2012年亦再版，专辑名称改为《隽永留声&middot;歌唱家系列: 董文华》。一首《十五的月亮》，托起中国民歌手中的一颗明珠，散发璀璨光芒，无与伦比的抒情美声，飘扬在天江南北，长成内外，浓烈的民族情怀，崇高的爱国热情她用歌声，诉说着过去和未来，播洒着甘甜与希望&hellip;&hellip;经典佳作不胜枚举《十五的月亮》《长城长》《春天的故事》风靡全国。作品贴近百姓，注重艺术性。
+picture http://img.xiami.net/images/album/img0/1500/5767451397473857.jpg
+songs 春天的故事%^&*长城长%^&*归航%^&*十五的月亮%^&*血染的风采%^&*望星空%^&*我用胡琴和你说话%^&*孔子之歌%^&*梅花雪%^&*真情永远%^&*二泉吟%^&*月亮走我也走%^&*走西口%^&*采红菱%^&*在银色的月光下%^&*黄河黄%^&*
+songURLs http://www.xiami.com/song/1771656312%^&*http://www.xiami.com/song/1771656313%^&*http://www.xiami.com/song/1771656314%^&*http://www.xiami.com/song/1771656315%^&*http://www.xiami.com/song/1771656316%^&*http://www.xiami.com/song/1771656317%^&*http://www.xiami.com/song/1771656318%^&*http://www.xiami.com/song/1771656319%^&*http://www.xiami.com/song/1771656320%^&*http://www.xiami.com/song/1771656321%^&*http://www.xiami.com/song/1771656322%^&*http://www.xiami.com/song/1771656323%^&*http://www.xiami.com/song/1771656324%^&*http://www.xiami.com/song/1771656325%^&*http://www.xiami.com/song/1771656326%^&*http://www.xiami.com/song/1771656327%^&*

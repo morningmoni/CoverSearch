@@ -1,0 +1,7 @@
+number 533684
+name 梦春风
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img47/47/5336841386912175.jpg
+songs 梦春风%^&*美丽人生%^&*幸福%^&*痴%^&*我不准我爱你%^&*爱甲恨%^&*断线%^&*蝴蝶飞啊飞%^&*幸福ㄟ锁匙%^&*教堂的钟声%^&*
+songURLs http://www.xiami.com/song/1771221389%^&*http://www.xiami.com/song/1771221390%^&*http://www.xiami.com/song/1771221391%^&*http://www.xiami.com/song/1771221392%^&*http://www.xiami.com/song/1771221393%^&*http://www.xiami.com/song/1771221394%^&*http://www.xiami.com/song/1771221395%^&*http://www.xiami.com/song/1771221396%^&*http://www.xiami.com/song/1771221397%^&*http://www.xiami.com/song/1771221398%^&*

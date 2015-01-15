@@ -1,0 +1,7 @@
+number 257
+name 紫色的回忆
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2571337677469.jpg
+songs 一生何求%^&*等%^&*孤雁%^&*疾风%^&*眼泪为你流%^&*偶像%^&*有了你%^&*深爱着你%^&*喝采%^&*一生不可自决%^&*涟漪%^&*恋爱预告%^&*画出彩虹%^&*摘星%^&*别了丹尼%^&*
+songURLs http://www.xiami.com/song/3183%^&*http://www.xiami.com/song/3184%^&*http://www.xiami.com/song/3185%^&*http://www.xiami.com/song/3186%^&*http://www.xiami.com/song/3187%^&*http://www.xiami.com/song/1771038413%^&*http://www.xiami.com/song/3190%^&*http://www.xiami.com/song/3189%^&*http://www.xiami.com/song/1771038414%^&*http://www.xiami.com/song/3192%^&*http://www.xiami.com/song/3188%^&*http://www.xiami.com/song/3191%^&*http://www.xiami.com/song/1771038415%^&*http://www.xiami.com/song/3193%^&*http://www.xiami.com/song/3194%^&*

@@ -1,0 +1,6 @@
+number 7705
+name 将我锁进梦中
+artist 陈逸达%^&*
+artistURL http://www.xiami.com/artist/136%^&*
+album 我的忧伤不让你看出來
+albumURL http://www.xiami.com/album/620

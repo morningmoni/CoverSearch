@@ -1,0 +1,6 @@
+number 4170
+name 让我欢喜让我忧
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱5
+albumURL http://www.xiami.com/album/344

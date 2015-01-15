@@ -1,0 +1,6 @@
+number 394204
+name 一只鸟仔哮啾啾
+artist 李泰祥%^&*
+artistURL http://www.xiami.com/artist/550%^&*
+album 中国交响世纪4 台湾幻想曲
+albumURL http://www.xiami.com/album/520686

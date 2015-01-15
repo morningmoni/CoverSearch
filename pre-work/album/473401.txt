@@ -1,0 +1,9 @@
+number 473401
+name 天籁
+artist 红苹果女子合唱组
+introduction 蒙古、西藏、新疆，现代原生态情歌。
+跨地域大制作，首度将多种民族乐器汇融歌中，首首动人心扉，听出耳油。
+品味无边草原风情，拥抱神往的民族音乐，听最优美的天籁之音。
+picture http://img.xiami.net/images/album/img92/604792/1319604792.jpg
+songs 神香%^&*美丽骏马%^&*慈祥的母亲%^&*草原蒙古人家%^&*在远方%^&*古丽%^&*天湖%^&*弦子的传说%^&*金色的草原%^&*素哈达%^&*达古拉%^&*楼兰姑娘%^&*
+songURLs http://www.xiami.com/song/1770573342%^&*http://www.xiami.com/song/1770573343%^&*http://www.xiami.com/song/1770573344%^&*http://www.xiami.com/song/1770573345%^&*http://www.xiami.com/song/1770573346%^&*http://www.xiami.com/song/1770573347%^&*http://www.xiami.com/song/1770573348%^&*http://www.xiami.com/song/1770573349%^&*http://www.xiami.com/song/1770573350%^&*http://www.xiami.com/song/1770573351%^&*http://www.xiami.com/song/1770573352%^&*http://www.xiami.com/song/1770573353%^&*

@@ -1,0 +1,6 @@
+number 567475453
+name 情义
+artist 王中平
+introduction picture http://img.xiami.net/images/album/img30/930/5674754531378092904.jpg
+songs 情义%^&*伤一工痛半冬%^&*爱．情恋%^&*唯一的爱%^&*无衫会寒%^&*同命%^&*斗阵ㄟ%^&*一路打拼%^&*手中情%^&*福气哟%^&*
+songURLs http://www.xiami.com/song/1771852452%^&*http://www.xiami.com/song/1771852453%^&*http://www.xiami.com/song/1771852454%^&*http://www.xiami.com/song/1771852455%^&*http://www.xiami.com/song/1771852456%^&*http://www.xiami.com/song/1771852457%^&*http://www.xiami.com/song/1771852458%^&*http://www.xiami.com/song/1771852459%^&*http://www.xiami.com/song/1771852460%^&*http://www.xiami.com/song/1771852461%^&*

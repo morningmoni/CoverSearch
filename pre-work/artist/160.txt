@@ -1,0 +1,7 @@
+number 160
+name 乱弹阿翔陈泰翔
+place Taiwan 台湾
+introduction 本 名: 乱弹阿翔英文名: Chan Ascent生 日: 12-17出生地: 宜兰身 高: 167cm血 型: O型星 座: 射手座得奖 ：第九届金曲奖-1998最佳演唱组奖-乱弹第十一届金曲奖-2000最佳演团体奖-乱弹历年作品：久违了～『2001大预言』合辑维他命～江美琪『第二眼美女』安静的人～任贤齐『爱像太平洋』Fall In Love(曲)～冯德伦『爱不够』获救(半词、曲)～林晓培『This Is Shino 3』相处～伊能静『关不住』超级星期天～黄品源『海浪』云霄飞车～超仁『碎心电话亭』时间无地等～姜育恒『爱我你怕了吗』叫你不要你就要(半词、曲)～中国娃娃『我爱太空人』『咸豆浆电影原声大碟』
+picture http://img.xiami.net/images/artistlogo/47/14128331342747.jpg
+albums 走了%^&*破水而出%^&*干燥花%^&*Unplugged 2003赤脚巡回全记录%^&*把我换成你%^&*最近的我%^&*一阵风%^&*
+albumURLs http://www.xiami.com/album/611874585%^&*http://www.xiami.com/album/1588559911%^&*http://www.xiami.com/album/1161254398%^&*http://www.xiami.com/album/491603%^&*http://www.xiami.com/album/481447%^&*http://www.xiami.com/album/473933%^&*http://www.xiami.com/album/679%^&*

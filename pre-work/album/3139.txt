@@ -1,0 +1,6 @@
+number 3139
+name 永远…
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3139.jpg
+songs 若是你在我身边%^&*永远%^&*重逢%^&*雨声%^&*Love Story%^&*幸福属于你%^&*缘%^&*友谊%^&*白浪滔滔白云飘%^&*飘香梦%^&*原野上%^&*
+songURLs http://www.xiami.com/song/38745%^&*http://www.xiami.com/song/38746%^&*http://www.xiami.com/song/38747%^&*http://www.xiami.com/song/38748%^&*http://www.xiami.com/song/38749%^&*http://www.xiami.com/song/38750%^&*http://www.xiami.com/song/38751%^&*http://www.xiami.com/song/38752%^&*http://www.xiami.com/song/38753%^&*http://www.xiami.com/song/38754%^&*http://www.xiami.com/song/38755%^&*

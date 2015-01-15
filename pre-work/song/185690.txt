@@ -1,0 +1,6 @@
+number 185690
+name 别惹我
+artist 扭曲的机器%^&*
+artistURL http://www.xiami.com/artist/2940%^&*
+album 存在
+albumURL http://www.xiami.com/album/15102

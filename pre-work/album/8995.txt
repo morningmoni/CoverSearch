@@ -1,0 +1,6 @@
+number 8995
+name 新曲与精选
+artist 黄宝欣
+introduction picture http://img.xiami.net/images/album/img40/1640/89951334200258.jpg
+songs 超级冷面%^&*贴身情人%^&*说谎的东西%^&*换一个爱我的人%^&*月臂湾%^&*心事有谁知%^&*酒杯敲钢琴%^&*恋爱猎人%^&*蓝色时分%^&*Runaway Girl%^&*两地情%^&*深海%^&*黑布衣%^&*午夜探戈%^&*凌晨四点钟%^&*金石情%^&*仍是衷心祝福你%^&*I&#039;m Your Friend I&#039;m Your Lover%^&*
+songURLs http://www.xiami.com/song/111656%^&*http://www.xiami.com/song/111657%^&*http://www.xiami.com/song/111658%^&*http://www.xiami.com/song/111659%^&*http://www.xiami.com/song/111660%^&*http://www.xiami.com/song/111661%^&*http://www.xiami.com/song/111662%^&*http://www.xiami.com/song/111663%^&*http://www.xiami.com/song/111664%^&*http://www.xiami.com/song/111665%^&*http://www.xiami.com/song/111666%^&*http://www.xiami.com/song/111667%^&*http://www.xiami.com/song/111668%^&*http://www.xiami.com/song/111669%^&*http://www.xiami.com/song/111670%^&*http://www.xiami.com/song/111671%^&*http://www.xiami.com/song/111672%^&*http://www.xiami.com/song/111673%^&*

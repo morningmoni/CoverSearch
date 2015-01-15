@@ -1,0 +1,6 @@
+number 388454
+name 彩虹
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album 我很忙
+albumURL http://www.xiami.com/album/32627

@@ -1,0 +1,7 @@
+number 11999
+name 纪念遗作专辑
+artist 王默君
+introduction 
+picture http://img.xiami.net/images/album/img90/2190/11999.jpg
+songs 历史重演%^&*看开吧!心胸%^&*也许是个错误%^&*一刻钟%^&*照亮自己%^&*启航%^&*南部东阳%^&*假期%^&*什么也留不住%^&*青春%^&*情%^&*被爱%^&*想想我的爱%^&*不愿分手%^&*等候%^&*奇遇%^&*别%^&*总是痴情%^&*只好这样我离开了你%^&*星星在冷笑%^&*破碎的音符%^&*时光隧道%^&*
+songURLs http://www.xiami.com/song/147756%^&*http://www.xiami.com/song/147757%^&*http://www.xiami.com/song/147758%^&*http://www.xiami.com/song/147759%^&*http://www.xiami.com/song/147760%^&*http://www.xiami.com/song/147761%^&*http://www.xiami.com/song/147762%^&*http://www.xiami.com/song/147763%^&*http://www.xiami.com/song/147764%^&*http://www.xiami.com/song/147765%^&*http://www.xiami.com/song/147766%^&*http://www.xiami.com/song/147767%^&*http://www.xiami.com/song/147768%^&*http://www.xiami.com/song/147769%^&*http://www.xiami.com/song/147770%^&*http://www.xiami.com/song/147771%^&*http://www.xiami.com/song/147772%^&*http://www.xiami.com/song/147773%^&*http://www.xiami.com/song/147774%^&*http://www.xiami.com/song/147775%^&*http://www.xiami.com/song/147776%^&*http://www.xiami.com/song/147777%^&*

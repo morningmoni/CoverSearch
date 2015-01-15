@@ -1,0 +1,7 @@
+number 1881212608
+name 玻璃心
+artist 艾敬
+introduction 
+picture http://img.xiami.net/images/album/img0/1300/18812126081390825753.jpg
+songs 信天游%^&*玻璃心%^&*女孩%^&*让我走%^&*你的微笑多美妙%^&*思乡的心潮%^&*断弦的吉它%^&*切莫盲从%^&*小木屐%^&*点燃宇宙的太阳%^&*钟声%^&*爱之箭%^&*来吧%^&*不懂爱%^&*
+songURLs http://www.xiami.com/song/1772231510%^&*http://www.xiami.com/song/1772231511%^&*http://www.xiami.com/song/1772231512%^&*http://www.xiami.com/song/1772231513%^&*http://www.xiami.com/song/1772231514%^&*http://www.xiami.com/song/1772231515%^&*http://www.xiami.com/song/1772231516%^&*http://www.xiami.com/song/1772231517%^&*http://www.xiami.com/song/1772231518%^&*http://www.xiami.com/song/1772231519%^&*http://www.xiami.com/song/1772231520%^&*http://www.xiami.com/song/1772231521%^&*http://www.xiami.com/song/1772231522%^&*http://www.xiami.com/song/1772231523%^&*

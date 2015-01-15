@@ -1,0 +1,7 @@
+number 249928
+name 哭饿
+artist Boss
+introduction 
+picture http://img.xiami.net/images/album/img78/58178/2499281292942253.jpg
+songs I Missing You%^&*蓝色海岸线%^&*哭饿%^&*飞%^&*爱不要太奇怪%^&*I Missing You (KALA)%^&*蓝色海岸线 (KALA)%^&*哭饿 (KALA)%^&*飞 (KALA)%^&*爱不要太奇怪 (KALA)%^&*
+songURLs http://www.xiami.com/song/1769931605%^&*http://www.xiami.com/song/1769931606%^&*http://www.xiami.com/song/1769931607%^&*http://www.xiami.com/song/1769931608%^&*http://www.xiami.com/song/1769931609%^&*http://www.xiami.com/song/1769931610%^&*http://www.xiami.com/song/1769931611%^&*http://www.xiami.com/song/1769931612%^&*http://www.xiami.com/song/1769931613%^&*http://www.xiami.com/song/1769931614%^&*

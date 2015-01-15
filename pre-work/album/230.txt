@@ -1,0 +1,7 @@
+number 230
+name 1985-2002精选纪念2
+artist 常宽
+introduction 
+picture http://img.xiami.net/images/album/img68/68/230.jpg
+songs 笑容总是很美%^&*最好的结果%^&*缴枪不杀%^&*新的享受%^&*我的Rock&#039;n Roll%^&*Oh! Baby%^&*第一天就爱你%^&*他们说我不好%^&*说来说去%^&*只要自己觉得无悔%^&*简单生活%^&*玩世不恭(2000)%^&*未来的一切会很美%^&*这一年过去了%^&*
+songURLs http://www.xiami.com/song/2821%^&*http://www.xiami.com/song/2822%^&*http://www.xiami.com/song/2823%^&*http://www.xiami.com/song/2824%^&*http://www.xiami.com/song/2825%^&*http://www.xiami.com/song/2826%^&*http://www.xiami.com/song/2827%^&*http://www.xiami.com/song/2828%^&*http://www.xiami.com/song/2829%^&*http://www.xiami.com/song/2830%^&*http://www.xiami.com/song/2831%^&*http://www.xiami.com/song/2832%^&*http://www.xiami.com/song/2833%^&*http://www.xiami.com/song/2834%^&*

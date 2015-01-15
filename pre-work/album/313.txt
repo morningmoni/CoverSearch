@@ -1,0 +1,7 @@
+number 313
+name 偷偷地
+artist 陈迪匡
+introduction 
+picture http://img.xiami.net/images/album/img76/76/3131392899944.jpg
+songs 偷偷地%^&*为爱着迷%^&*俩共对%^&*你像阳光%^&*快乐会再返%^&*不准掉头%^&*陪住你%^&*雨中轶事%^&*真心为你%^&*Bobby的歌%^&*浪人%^&*
+songURLs http://www.xiami.com/song/3801%^&*http://www.xiami.com/song/3802%^&*http://www.xiami.com/song/3803%^&*http://www.xiami.com/song/3804%^&*http://www.xiami.com/song/3805%^&*http://www.xiami.com/song/3806%^&*http://www.xiami.com/song/3807%^&*http://www.xiami.com/song/3808%^&*http://www.xiami.com/song/3809%^&*http://www.xiami.com/song/3810%^&*http://www.xiami.com/song/3811%^&*

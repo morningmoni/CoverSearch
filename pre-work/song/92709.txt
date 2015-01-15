@@ -1,0 +1,6 @@
+number 92709
+name 我爱你最好只到这里
+artist 陈铭洲%^&*
+artistURL http://www.xiami.com/artist/1410%^&*
+album 我悄悄蒙上你的眼睛
+albumURL http://www.xiami.com/album/7522

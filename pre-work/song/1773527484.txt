@@ -1,0 +1,6 @@
+number 1773527484
+name 同一个梦
+artist 蔡国庆%^&*
+artistURL http://www.xiami.com/artist/42%^&*
+album 同一个梦
+albumURL http://www.xiami.com/album/1410774403

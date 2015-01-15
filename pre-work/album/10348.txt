@@ -1,0 +1,7 @@
+number 10348
+name 趴啦趴嗱
+artist 林心如
+introduction 
+picture http://img.xiami.net/images/album/img90/1890/103481348726954.jpg
+songs 趴啦趴嗱%^&*投怀送抱%^&*云深深雨濛濛%^&*夜宿兰桂坊%^&*谁都不爱%^&*不设防%^&*冬眠地图%^&*新浪漫%^&*爱情小说%^&*每一种男生%^&*你这样爱我%^&*
+songURLs http://www.xiami.com/song/127724%^&*http://www.xiami.com/song/127725%^&*http://www.xiami.com/song/127726%^&*http://www.xiami.com/song/127727%^&*http://www.xiami.com/song/127728%^&*http://www.xiami.com/song/127729%^&*http://www.xiami.com/song/127730%^&*http://www.xiami.com/song/127731%^&*http://www.xiami.com/song/127732%^&*http://www.xiami.com/song/127733%^&*http://www.xiami.com/song/127734%^&*

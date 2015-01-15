@@ -1,0 +1,6 @@
+number 111392
+name 找个理由
+artist 胡慧中%^&*
+artistURL http://www.xiami.com/artist/1630%^&*
+album 回眸
+albumURL http://www.xiami.com/album/8972

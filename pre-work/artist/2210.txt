@@ -1,0 +1,7 @@
+number 2210
+name 王渝
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11978821564277.jpg
+albums 新多少柔情多少泪%^&*
+albumURLs http://www.xiami.com/album/12077%^&*

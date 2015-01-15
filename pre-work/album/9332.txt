@@ -1,0 +1,6 @@
+number 9332
+name 丝丝泪
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 丝丝泪%^&*相思未尽人未归%^&*断肠花%^&*玉女情潮%^&*深闺梦里人%^&*心中想念你%^&*永远陪伴你%^&*凄凉小夜曲%^&*蔷薇之恋%^&*渔歌晚唱%^&*哥仔靓%^&*初恋%^&*一片情深%^&*春满人间%^&*
+songURLs http://www.xiami.com/song/115735%^&*http://www.xiami.com/song/115736%^&*http://www.xiami.com/song/115737%^&*http://www.xiami.com/song/115738%^&*http://www.xiami.com/song/115739%^&*http://www.xiami.com/song/115740%^&*http://www.xiami.com/song/115741%^&*http://www.xiami.com/song/115742%^&*http://www.xiami.com/song/115743%^&*http://www.xiami.com/song/115744%^&*http://www.xiami.com/song/115745%^&*http://www.xiami.com/song/115746%^&*http://www.xiami.com/song/115747%^&*http://www.xiami.com/song/115748%^&*

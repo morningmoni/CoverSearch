@@ -1,0 +1,6 @@
+number 1134
+name 零时十分
+artist 鲍比达%^&*
+artistURL http://www.xiami.com/artist/32%^&*
+album 鲍比达1998
+albumURL http://www.xiami.com/album/97

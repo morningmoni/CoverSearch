@@ -1,0 +1,7 @@
+number 2245
+name 现代爱情启示录MV
+artist 彭家丽%^&*蔡兴麟%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BD%AD%E5%AE%B6%E4%B8%BD%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%85%B4%E9%BA%9F%^&*
+album Come Back To Me
+albumURL http://www.xiami.com/album/183

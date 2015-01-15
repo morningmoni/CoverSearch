@@ -1,0 +1,6 @@
+number 2048187
+name 千千万万个爱你1987年
+artist 文章%^&*
+artistURL http://www.xiami.com/artist/940%^&*
+album 璀璨专辑
+albumURL http://www.xiami.com/album/167245

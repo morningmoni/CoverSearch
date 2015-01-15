@@ -1,0 +1,6 @@
+number 96423
+name 青春苦恼多
+artist 邓蔼霖%^&*
+artistURL http://www.xiami.com/artist/1480%^&*
+album 青青年华
+albumURL http://www.xiami.com/album/7837

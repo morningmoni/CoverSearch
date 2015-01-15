@@ -1,0 +1,7 @@
+number 1726
+name 一去不回的人
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17261314597671.jpg
+songs 一去不回的人%^&*新年快乐%^&*最梦的梦是最痛的痛%^&*是否还爱着我%^&*站在你身边%^&*春风吹%^&*Oh!My Girl%^&*心所爱的人%^&*半瞑的路灯%^&*真久没看%^&*
+songURLs http://www.xiami.com/song/33182%^&*http://www.xiami.com/song/33183%^&*http://www.xiami.com/song/33184%^&*http://www.xiami.com/song/33185%^&*http://www.xiami.com/song/33186%^&*http://www.xiami.com/song/33187%^&*http://www.xiami.com/song/33188%^&*http://www.xiami.com/song/33189%^&*http://www.xiami.com/song/33190%^&*http://www.xiami.com/song/33191%^&*

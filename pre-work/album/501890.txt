@@ -1,0 +1,7 @@
+number 501890
+name 下不为例
+artist 泳儿
+introduction 
+picture http://img.xiami.net/images/album/img0/2400/5018901332488522.png
+songs 下不为例%^&*
+songURLs http://www.xiami.com/song/1770885955%^&*

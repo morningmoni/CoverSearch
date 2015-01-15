@@ -1,0 +1,7 @@
+number 368413
+name 心感觉
+artist 金海心
+introduction 
+picture http://img.xiami.net/images/album/img20/1720/3684131371799615.jpg
+songs 心感觉%^&*胡思乱想%^&*那么骄傲 (R&amp;B版)%^&*心感觉 (卡拉OK版)%^&*那么骄傲 (卡拉OK版)%^&*
+songURLs http://www.xiami.com/song/1769370681%^&*http://www.xiami.com/song/1769370682%^&*http://www.xiami.com/song/1769370683%^&*http://www.xiami.com/song/1769370684%^&*http://www.xiami.com/song/1769370685%^&*

@@ -1,0 +1,7 @@
+number 14240
+name 野玫瑰
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14240.jpg
+songs 明亮的眼睛%^&*野玫瑰%^&*索尔未格之歌%^&*白发吟%^&*噢!苏珊娜%^&*依然在我心深处%^&*梦中的佳人%^&*鸽子%^&*哎哟妈妈%^&*风流寡妇圆舞曲%^&*罗蕾莱%^&*内里布蕾%^&*舒伯特小夜曲%^&*野玫瑰Ⅱ%^&*
+songURLs http://www.xiami.com/song/175821%^&*http://www.xiami.com/song/175822%^&*http://www.xiami.com/song/175823%^&*http://www.xiami.com/song/175824%^&*http://www.xiami.com/song/175825%^&*http://www.xiami.com/song/175826%^&*http://www.xiami.com/song/175827%^&*http://www.xiami.com/song/175828%^&*http://www.xiami.com/song/175829%^&*http://www.xiami.com/song/175830%^&*http://www.xiami.com/song/175831%^&*http://www.xiami.com/song/175832%^&*http://www.xiami.com/song/175833%^&*http://www.xiami.com/song/175834%^&*

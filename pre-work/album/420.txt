@@ -1,0 +1,7 @@
+number 420
+name 蝶恋花
+artist 陈其钢
+introduction 
+picture http://img.xiami.net/images/album/img8/108/4201332473045.jpg
+songs 纯洁%^&*羞涩%^&*放荡%^&*敏感%^&*温柔%^&*嫉妒%^&*多愁善感%^&*歇斯底里%^&*情欲%^&*逝去的时光(为大提琴与管弦乐队)%^&*水%^&*木%^&*火%^&*土%^&*金%^&*
+songURLs http://www.xiami.com/song/5018%^&*http://www.xiami.com/song/5019%^&*http://www.xiami.com/song/5020%^&*http://www.xiami.com/song/5021%^&*http://www.xiami.com/song/5022%^&*http://www.xiami.com/song/5023%^&*http://www.xiami.com/song/5024%^&*http://www.xiami.com/song/5025%^&*http://www.xiami.com/song/5026%^&*http://www.xiami.com/song/5027%^&*http://www.xiami.com/song/5028%^&*http://www.xiami.com/song/5029%^&*http://www.xiami.com/song/5030%^&*http://www.xiami.com/song/5031%^&*http://www.xiami.com/song/5032%^&*

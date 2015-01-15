@@ -1,0 +1,6 @@
+number 1664
+name 是谁在我耳边唱
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 天意人心(名曲经典)
+albumURL http://www.xiami.com/album/134

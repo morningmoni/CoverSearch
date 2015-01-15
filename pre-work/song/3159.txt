@@ -1,0 +1,6 @@
+number 3159
+name 从今以后
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 一生紫爱
+albumURL http://www.xiami.com/album/253

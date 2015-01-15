@@ -1,0 +1,8 @@
+number 1205
+name 青春本色
+artist 罗中旭%^&*景岗山%^&*林依轮%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BD%97%E4%B8%AD%E6%97%AD%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%99%AF%E5%B2%97%E5%B1%B1%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E4%BE%9D%E8%BD%AE%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

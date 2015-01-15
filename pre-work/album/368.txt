@@ -1,0 +1,7 @@
+number 368
+name Body Music
+artist 陈骅
+introduction 
+picture http://img.xiami.net/images/album/img88/88/3681413357837.jpg
+songs 爱完即弃%^&*莫札特的烦恼%^&*感觉好吗%^&*不要完%^&*恋上外星人%^&*灵魂出卖%^&*最后的谎言%^&*留低的理由%^&*身心透支%^&*祝福咖啡%^&*一松一紧%^&*Chat%^&*
+songURLs http://www.xiami.com/song/4443%^&*http://www.xiami.com/song/4444%^&*http://www.xiami.com/song/4445%^&*http://www.xiami.com/song/4446%^&*http://www.xiami.com/song/4447%^&*http://www.xiami.com/song/4448%^&*http://www.xiami.com/song/4449%^&*http://www.xiami.com/song/4450%^&*http://www.xiami.com/song/4451%^&*http://www.xiami.com/song/4452%^&*http://www.xiami.com/song/4453%^&*http://www.xiami.com/song/4454%^&*

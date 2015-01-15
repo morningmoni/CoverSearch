@@ -1,0 +1,6 @@
+number 11645
+name 为爱活下去
+artist 孙淑媚
+introduction picture http://img.xiami.net/images/album/img30/2130/116451326618345.jpg
+songs 伴阮过一生%^&*感情变负担%^&*为爱活下去%^&*爱着放袂离%^&*活到老爱到老%^&*心对叨去%^&*爱是什么%^&*离开你才知离袂开%^&*爱情甜甜%^&*风筝%^&*
+songURLs http://www.xiami.com/song/143278%^&*http://www.xiami.com/song/143279%^&*http://www.xiami.com/song/143280%^&*http://www.xiami.com/song/143281%^&*http://www.xiami.com/song/143282%^&*http://www.xiami.com/song/143283%^&*http://www.xiami.com/song/143284%^&*http://www.xiami.com/song/143285%^&*http://www.xiami.com/song/143286%^&*http://www.xiami.com/song/143287%^&*

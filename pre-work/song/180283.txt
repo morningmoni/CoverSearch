@@ -1,0 +1,8 @@
+number 180283
+name Listen!
+artist Girl Friends%^&*All Black%^&*Brown Eyed Girls%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Girl+Friends%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=All+Black%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=Brown+Eyed+Girls%^&*
+album Another Myself
+albumURL http://www.xiami.com/album/14620

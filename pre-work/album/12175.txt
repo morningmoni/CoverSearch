@@ -1,0 +1,7 @@
+number 12175
+name 因为爱所以等待
+artist 吴倩莲
+introduction 
+picture http://img.xiami.net/images/album/img50/2250/121751312770659.jpg
+songs 因为爱,所以等待%^&*其实你可以不知道%^&*我的青春是谁上了色彩%^&*开始沉默%^&*爱情派对%^&*等到心关了门%^&*逃走%^&*On The Radio%^&*别让我看见感情在变%^&*爱到下一个日落%^&*
+songURLs http://www.xiami.com/song/149608%^&*http://www.xiami.com/song/149609%^&*http://www.xiami.com/song/149610%^&*http://www.xiami.com/song/149611%^&*http://www.xiami.com/song/149612%^&*http://www.xiami.com/song/149613%^&*http://www.xiami.com/song/149614%^&*http://www.xiami.com/song/149615%^&*http://www.xiami.com/song/149616%^&*http://www.xiami.com/song/149617%^&*

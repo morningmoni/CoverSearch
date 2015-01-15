@@ -1,0 +1,7 @@
+number 4720
+name 向你飞翔
+artist 文章
+introduction 
+picture http://img.xiami.net/images/album/img40/940/47201383299220.jpg
+songs 重别离%^&*是不是你还太小 (钢琴音乐)%^&*是我的秋天%^&*是不是你还太小%^&*最坏的好朋友 (Live)%^&*出发%^&*不熄灭的爱%^&*不要让我等待爱%^&*躲开世界的小孩%^&*岁月行%^&*向你飞翔%^&*再醉一次%^&*
+songURLs http://www.xiami.com/song/57128%^&*http://www.xiami.com/song/57129%^&*http://www.xiami.com/song/57130%^&*http://www.xiami.com/song/57131%^&*http://www.xiami.com/song/57132%^&*http://www.xiami.com/song/57133%^&*http://www.xiami.com/song/57134%^&*http://www.xiami.com/song/57135%^&*http://www.xiami.com/song/57136%^&*http://www.xiami.com/song/57137%^&*http://www.xiami.com/song/57138%^&*http://www.xiami.com/song/57139%^&*

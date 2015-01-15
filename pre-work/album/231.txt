@@ -1,0 +1,7 @@
+number 231
+name 这一年过去了
+artist 常宽
+introduction 
+picture http://img.xiami.net/images/album/img68/68/231.jpg
+songs 这一年过去了%^&*康定情歌%^&*未来一切会很美%^&*南泥湾%^&*浏阳河%^&*玩世不恭(2000)%^&*达坂城的姑娘%^&*简单生活%^&*茉莉花%^&*阿拉木罕%^&*
+songURLs http://www.xiami.com/song/2835%^&*http://www.xiami.com/song/2836%^&*http://www.xiami.com/song/2837%^&*http://www.xiami.com/song/2838%^&*http://www.xiami.com/song/2839%^&*http://www.xiami.com/song/2840%^&*http://www.xiami.com/song/2841%^&*http://www.xiami.com/song/2842%^&*http://www.xiami.com/song/2843%^&*http://www.xiami.com/song/2844%^&*

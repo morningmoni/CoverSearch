@@ -1,0 +1,7 @@
+number 63
+name 各位男人辛苦晒
+artist 阿牛
+introduction 
+picture http://img.xiami.net/images/album/img22/22/631419595049.jpg
+songs 开心又过一日唔开心又过一日%^&*各位男人辛苦晒%^&*失恋好烦%^&*爱你一世%^&*至冧情歌%^&*仍然在我心内%^&*感情线上%^&*另成一个家%^&*黑超女郎%^&*Hello, Hong Kong%^&*
+songURLs http://www.xiami.com/song/756%^&*http://www.xiami.com/song/757%^&*http://www.xiami.com/song/758%^&*http://www.xiami.com/song/759%^&*http://www.xiami.com/song/760%^&*http://www.xiami.com/song/761%^&*http://www.xiami.com/song/762%^&*http://www.xiami.com/song/763%^&*http://www.xiami.com/song/764%^&*http://www.xiami.com/song/765%^&*

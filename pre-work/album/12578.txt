@@ -1,0 +1,7 @@
+number 12578
+name 我就是这么快乐
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125781366018602.jpg
+songs 头发%^&*像猫的女人%^&*投资感情%^&*解脱%^&*戒烟%^&*真爱无敌%^&*恒星%^&*我就是这么快乐%^&*
+songURLs http://www.xiami.com/song/154628%^&*http://www.xiami.com/song/154629%^&*http://www.xiami.com/song/154630%^&*http://www.xiami.com/song/154631%^&*http://www.xiami.com/song/154632%^&*http://www.xiami.com/song/154633%^&*http://www.xiami.com/song/154634%^&*http://www.xiami.com/song/154635%^&*

@@ -1,0 +1,6 @@
+number 10548
+name 真情流露
+artist 刘嘉玲
+introduction picture http://img.xiami.net/images/album/img20/1920/105481312878479.jpg
+songs 别让我最后才知道%^&*我会真的嫁给你%^&*不能一生只爱你%^&*能有你就好%^&*爱很难%^&*一个我一个你%^&*爱到心慌%^&*开始飞吧%^&*对对对%^&*心事难放%^&*
+songURLs http://www.xiami.com/song/130192%^&*http://www.xiami.com/song/130193%^&*http://www.xiami.com/song/130194%^&*http://www.xiami.com/song/130195%^&*http://www.xiami.com/song/130196%^&*http://www.xiami.com/song/130197%^&*http://www.xiami.com/song/130198%^&*http://www.xiami.com/song/130199%^&*http://www.xiami.com/song/130200%^&*http://www.xiami.com/song/130201%^&*

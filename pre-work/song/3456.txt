@@ -1,0 +1,6 @@
+number 3456
+name 献上这歌
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 神仙也移民
+albumURL http://www.xiami.com/album/276

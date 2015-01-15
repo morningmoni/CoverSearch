@@ -1,0 +1,6 @@
+number 926
+name 吸血鬼
+artist Bjack%^&*
+artistURL http://www.xiami.com/artist/26%^&*
+album Funk
+albumURL http://www.xiami.com/album/80

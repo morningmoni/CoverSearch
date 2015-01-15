@@ -1,0 +1,6 @@
+number 338
+name 奋斗
+artist 阿吉仔%^&*
+artistURL http://www.xiami.com/artist/8%^&*
+album 再显奇迹
+albumURL http://www.xiami.com/album/25

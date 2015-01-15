@@ -1,0 +1,6 @@
+number 130194
+name 不能一生只爱你
+artist 刘嘉玲%^&*
+artistURL http://www.xiami.com/artist/1920%^&*
+album 真情流露
+albumURL http://www.xiami.com/album/10548

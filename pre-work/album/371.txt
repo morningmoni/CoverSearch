@@ -1,0 +1,7 @@
+number 371
+name Demo Collection Volume 1//Favorites
+artist 陈辉阳
+introduction 
+picture http://img.xiami.net/images/album/img89/89/371.jpg
+songs 我有我爱你%^&*萧邦与我%^&*二见钟情%^&*谢谢王子%^&*忘记不起%^&*明日有明天%^&*天使的礼物%^&*拈花惹草%^&*漩涡%^&*黑夜不再来%^&*日与夜%^&*终身美丽%^&*回来我身边%^&*喜欢恋爱%^&*上一次流泪%^&*少女的祈祷%^&*赤川次郎夜想曲%^&*
+songURLs http://www.xiami.com/song/4486%^&*http://www.xiami.com/song/4487%^&*http://www.xiami.com/song/4488%^&*http://www.xiami.com/song/4489%^&*http://www.xiami.com/song/4490%^&*http://www.xiami.com/song/4491%^&*http://www.xiami.com/song/4492%^&*http://www.xiami.com/song/4493%^&*http://www.xiami.com/song/4494%^&*http://www.xiami.com/song/4495%^&*http://www.xiami.com/song/4496%^&*http://www.xiami.com/song/4497%^&*http://www.xiami.com/song/4498%^&*http://www.xiami.com/song/4499%^&*http://www.xiami.com/song/4500%^&*http://www.xiami.com/song/4501%^&*http://www.xiami.com/song/4502%^&*

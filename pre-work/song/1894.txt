@@ -1,0 +1,7 @@
+number 1894
+name Hey Paula
+artist 蔡济文%^&*赵学而%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E6%B5%8E%E6%96%87%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B5%B5%E5%AD%A6%E8%80%8C%^&*
+album You&#039;re The Only
+albumURL http://www.xiami.com/album/152

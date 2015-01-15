@@ -1,0 +1,6 @@
+number 389610
+name 垃圾
+artist 卢巧音%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%8D%A2%E5%B7%A7%E9%9F%B3%^&*
+album 鼓舞辉阳
+albumURL http://www.xiami.com/album/32688

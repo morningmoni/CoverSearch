@@ -1,0 +1,6 @@
+number 444655
+name 是你才有
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img61/239261/1307239262.jpg
+songs 是你才有%^&*解酒%^&*为着咱的爱%^&*爱的出帆%^&*爱情新路线%^&*骗我憨憨迺%^&*一定会赢%^&*梦故乡%^&*我的心中%^&*夜曲情深%^&*
+songURLs http://www.xiami.com/song/1770252661%^&*http://www.xiami.com/song/1770252662%^&*http://www.xiami.com/song/1770252663%^&*http://www.xiami.com/song/1770252664%^&*http://www.xiami.com/song/1770252665%^&*http://www.xiami.com/song/1770252666%^&*http://www.xiami.com/song/1770252667%^&*http://www.xiami.com/song/1770252668%^&*http://www.xiami.com/song/1770252669%^&*http://www.xiami.com/song/1770252670%^&*

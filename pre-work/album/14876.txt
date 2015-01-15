@@ -1,0 +1,7 @@
+number 14876
+name Ready To Fly
+artist 2个女生
+introduction 
+picture http://img.xiami.net/images/album/img70/2870/148761387961731.jpg
+songs Ready To Fly%^&*她一定很爱你%^&*不在乎%^&*崩溃%^&*犯了错%^&*打扫%^&*Summer Holidays%^&*洒脱%^&*在梦里%^&*Eternal Love%^&*
+songURLs http://www.xiami.com/song/183082%^&*http://www.xiami.com/song/183083%^&*http://www.xiami.com/song/183084%^&*http://www.xiami.com/song/183085%^&*http://www.xiami.com/song/183086%^&*http://www.xiami.com/song/183087%^&*http://www.xiami.com/song/183088%^&*http://www.xiami.com/song/183089%^&*http://www.xiami.com/song/183090%^&*http://www.xiami.com/song/183091%^&*

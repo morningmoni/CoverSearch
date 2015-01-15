@@ -1,0 +1,7 @@
+number 385321
+name ROMANCE
+artist 蔡兴麟
+introduction 十首来自蔡兴麟第一次尝试创作的歌曲,有多首蔡兴麟影视作品主题曲
+picture http://img.xiami.net/images/album/img49/49/3853211276742485.jpg
+songs 寻%^&*相信%^&*别把我忘掉%^&*说爱%^&*不了情%^&*没有你%^&*明星%^&*It`s Alright%^&*再爱我%^&*爱久久%^&*
+songURLs http://www.xiami.com/song/1769573852%^&*http://www.xiami.com/song/1769573853%^&*http://www.xiami.com/song/1769573854%^&*http://www.xiami.com/song/1769573855%^&*http://www.xiami.com/song/1769573856%^&*http://www.xiami.com/song/1769573857%^&*http://www.xiami.com/song/1769573858%^&*http://www.xiami.com/song/1769573859%^&*http://www.xiami.com/song/1769573860%^&*http://www.xiami.com/song/1769573861%^&*

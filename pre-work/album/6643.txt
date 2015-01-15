@@ -1,0 +1,7 @@
+number 6643
+name 十一月的萧邦
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/66431380418169.jpg
+songs 夜曲%^&*蓝色风暴%^&*发如雪%^&*黑色毛衣%^&*四面楚歌%^&*枫%^&*浪漫手机%^&*逆鳞%^&*麦芽糖%^&*珊瑚海%^&*飘移%^&*一路向北%^&*
+songURLs http://www.xiami.com/song/376035%^&*http://www.xiami.com/song/376036%^&*http://www.xiami.com/song/376037%^&*http://www.xiami.com/song/376038%^&*http://www.xiami.com/song/376039%^&*http://www.xiami.com/song/376040%^&*http://www.xiami.com/song/376041%^&*http://www.xiami.com/song/376042%^&*http://www.xiami.com/song/376043%^&*http://www.xiami.com/song/376044%^&*http://www.xiami.com/song/376045%^&*http://www.xiami.com/song/376046%^&*

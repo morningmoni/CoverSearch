@@ -1,0 +1,6 @@
+number 2818
+name 杞人忧天
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 1985-2002精选纪念1
+albumURL http://www.xiami.com/album/229

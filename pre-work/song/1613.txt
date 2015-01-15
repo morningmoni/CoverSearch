@@ -1,0 +1,6 @@
+number 1613
+name 恕难从命
+artist 张学友%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BC%A0%E5%AD%A6%E5%8F%8B%^&*
+album 完美先生
+albumURL http://www.xiami.com/album/130

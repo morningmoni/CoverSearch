@@ -1,0 +1,6 @@
+number 394129
+name 在那遥远的地方
+artist 李泰祥%^&*
+artistURL http://www.xiami.com/artist/550%^&*
+album 中国交响世纪1 边疆狂想乐
+albumURL http://www.xiami.com/album/33019

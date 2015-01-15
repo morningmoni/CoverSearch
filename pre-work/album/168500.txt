@@ -1,0 +1,7 @@
+number 168500
+name 20世纪中华歌坛名人百集珍藏版
+artist 董文华
+introduction 20世纪中华歌坛名人百集珍藏版 系列第3集
+picture http://img.xiami.net/images/album/img0/1500/1685001275198989.jpg
+songs 血染的风采%^&*村寨的吉他声%^&*十五的月亮%^&*妈妈爸爸商量过%^&*早晨的心情%^&*长城长%^&*月亮之歌%^&*叫我怎能抹得开%^&*寻找童年%^&*春歌%^&*浪花，海的颂歌%^&*江南雨%^&*也曾%^&*宝宝摇篮曲%^&*野山歌%^&*今天是你的生日%^&*
+songURLs http://www.xiami.com/song/2079930%^&*http://www.xiami.com/song/2079931%^&*http://www.xiami.com/song/2079932%^&*http://www.xiami.com/song/2079933%^&*http://www.xiami.com/song/2079934%^&*http://www.xiami.com/song/2079935%^&*http://www.xiami.com/song/2079936%^&*http://www.xiami.com/song/2079937%^&*http://www.xiami.com/song/2079938%^&*http://www.xiami.com/song/2079939%^&*http://www.xiami.com/song/2079940%^&*http://www.xiami.com/song/2079941%^&*http://www.xiami.com/song/2079942%^&*http://www.xiami.com/song/2079943%^&*http://www.xiami.com/song/2079944%^&*http://www.xiami.com/song/1769539937%^&*

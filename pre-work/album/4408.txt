@@ -1,0 +1,6 @@
+number 4408
+name 风起云涌
+artist 庹宗华
+introduction picture http://img.xiami.net/images/album/img80/880/44081318389007.jpg
+songs 说明白%^&*是爱在敲门吗%^&*这一生我只牵你的手%^&*夜太浪漫%^&*想想可惜%^&*好像你才是我的情人%^&*所有情爱%^&*算不算是一对恋人%^&*请你从此停留在我怀抱%^&*寻找一颗星%^&*一半%^&*还有谁像我一样%^&*一生情不绝%^&*现在才懂%^&*
+songURLs http://www.xiami.com/song/53673%^&*http://www.xiami.com/song/53674%^&*http://www.xiami.com/song/53675%^&*http://www.xiami.com/song/53676%^&*http://www.xiami.com/song/53677%^&*http://www.xiami.com/song/53678%^&*http://www.xiami.com/song/53679%^&*http://www.xiami.com/song/53680%^&*http://www.xiami.com/song/53681%^&*http://www.xiami.com/song/53682%^&*http://www.xiami.com/song/53683%^&*http://www.xiami.com/song/53684%^&*http://www.xiami.com/song/53685%^&*http://www.xiami.com/song/53686%^&*

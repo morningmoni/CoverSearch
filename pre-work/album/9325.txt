@@ -1,0 +1,6 @@
+number 9325
+name 街知巷闻
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 为了爱%^&*叹物价飞扬%^&*春残梦断时%^&*我在这边%^&*午夜恩情%^&*山盟海誓%^&*青春似逝水%^&*好女儿%^&*寄旧%^&*怀念%^&*离别泪%^&*雨中花%^&*
+songURLs http://www.xiami.com/song/115649%^&*http://www.xiami.com/song/115650%^&*http://www.xiami.com/song/115651%^&*http://www.xiami.com/song/115652%^&*http://www.xiami.com/song/115653%^&*http://www.xiami.com/song/115654%^&*http://www.xiami.com/song/115655%^&*http://www.xiami.com/song/115656%^&*http://www.xiami.com/song/115657%^&*http://www.xiami.com/song/115658%^&*http://www.xiami.com/song/115659%^&*http://www.xiami.com/song/115660%^&*

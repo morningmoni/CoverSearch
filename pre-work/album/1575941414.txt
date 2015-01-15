@@ -1,0 +1,7 @@
+number 1575941414
+name 有一个美丽的地方 单曲集
+artist 宋祖英
+introduction 
+picture http://img.xiami.net/images/album/img10/2110/15759414141375941592.jpg
+songs 有一个美丽的地方%^&*天地一丹霞%^&*香港明天更好%^&*拥军爱民大秧歌%^&*让我们舞起来%^&*感谢春天%^&*今夜想起你%^&*枉凝眉%^&*谢谢你人民警察%^&*山歌好比春江水%^&*毛主席的话儿记心上%^&*
+songURLs http://www.xiami.com/song/1772083019%^&*http://www.xiami.com/song/1772083020%^&*http://www.xiami.com/song/1772083021%^&*http://www.xiami.com/song/1772083022%^&*http://www.xiami.com/song/1772083023%^&*http://www.xiami.com/song/1772083024%^&*http://www.xiami.com/song/1772083025%^&*http://www.xiami.com/song/1772083026%^&*http://www.xiami.com/song/1772083027%^&*http://www.xiami.com/song/1772083028%^&*http://www.xiami.com/song/1772083030%^&*

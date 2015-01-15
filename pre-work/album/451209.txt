@@ -1,0 +1,6 @@
+number 451209
+name 谁在意
+artist 周美茵
+introduction picture http://img.xiami.net/images/album/img50/2550/4512091310363718.jpg
+songs 谁在意%^&*失恋季节%^&*心醉%^&*谁在意（音乐伴唱）%^&*失恋季节（音乐伴唱）%^&*心醉（音乐伴唱）%^&*
+songURLs http://www.xiami.com/song/1770324055%^&*http://www.xiami.com/song/1770324056%^&*http://www.xiami.com/song/1770324057%^&*http://www.xiami.com/song/1770324058%^&*http://www.xiami.com/song/1770324059%^&*http://www.xiami.com/song/1770324060%^&*

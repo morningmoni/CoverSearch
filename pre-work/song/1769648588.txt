@@ -1,0 +1,6 @@
+number 1769648588
+name 想念新歌
+artist 蔡淳佳%^&*
+artistURL http://www.xiami.com/artist/1340%^&*
+album 时间的礼盒 新歌+淳情精选
+albumURL http://www.xiami.com/album/391682

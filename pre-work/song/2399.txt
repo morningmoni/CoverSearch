@@ -1,0 +1,6 @@
+number 2399
+name 爱的苦酒
+artist 蔡镇冲%^&*
+artistURL http://www.xiami.com/artist/52%^&*
+album 金曲会知音
+albumURL http://www.xiami.com/album/195

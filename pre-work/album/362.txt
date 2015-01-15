@@ -1,0 +1,6 @@
+number 362
+name 百花亭
+artist 陈浩德
+introduction picture http://img.xiami.net/images/album/img85/85/3621234252161.jpg
+songs 百花亭%^&*携着你双手%^&*请你走%^&*月是故乡明%^&*昨夜又春风%^&*窗儿隔着纱%^&*船员心声%^&*秋风吹谢了春红%^&*盼知音%^&*蝶恋花%^&*来迟了%^&*热烈的吻%^&*情人在遥远%^&*相思泪%^&*
+songURLs http://www.xiami.com/song/4379%^&*http://www.xiami.com/song/4380%^&*http://www.xiami.com/song/4381%^&*http://www.xiami.com/song/4382%^&*http://www.xiami.com/song/4383%^&*http://www.xiami.com/song/4384%^&*http://www.xiami.com/song/4385%^&*http://www.xiami.com/song/4386%^&*http://www.xiami.com/song/4387%^&*http://www.xiami.com/song/4388%^&*http://www.xiami.com/song/4389%^&*http://www.xiami.com/song/4390%^&*http://www.xiami.com/song/4391%^&*http://www.xiami.com/song/4392%^&*

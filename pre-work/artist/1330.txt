@@ -1,0 +1,7 @@
+number 1330
+name 贝贝
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artist/12112720628682.jpg
+albums 九阴筝经%^&*贝贝4%^&*贝贝3%^&*贝贝2-醉金迷%^&*贝贝1%^&*
+albumURLs http://www.xiami.com/album/530853%^&*http://www.xiami.com/album/6886%^&*http://www.xiami.com/album/6887%^&*http://www.xiami.com/album/6888%^&*http://www.xiami.com/album/6889%^&*

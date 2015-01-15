@@ -1,0 +1,7 @@
+number 85
+name 陈浩德
+place Hongkong 香港
+introduction 自小喜爱音乐，並曾组织乐队。因为唱片公司监制的一个构想－长头发乐队唱广东歌，结果在一九七三年演绎了他第一首粤语歌《悲秋风》而大受欢迎，其后的《劲草娇花》和《分飞燕》（合唱：甄秀仪），更为他带来了大批蓝领听众。大碟《畅饮在今宵》获金唱片的荣誉，也是他最满意的唱片之一。
+picture http://img.xiami.net/images/artist/11920519631966.jpg
+albums 经典重温2%^&*金碟精选%^&*风飘飘%^&*雨的启示%^&*爱如春风%^&*畅饮在今宵%^&*黎明%^&*我为你心碎%^&*曲终残夜%^&*百花亭%^&*
+albumURLs http://www.xiami.com/album/1111365338%^&*http://www.xiami.com/album/385884%^&*http://www.xiami.com/album/385886%^&*http://www.xiami.com/album/356%^&*http://www.xiami.com/album/357%^&*http://www.xiami.com/album/358%^&*http://www.xiami.com/album/359%^&*http://www.xiami.com/album/361%^&*http://www.xiami.com/album/360%^&*http://www.xiami.com/album/362%^&*

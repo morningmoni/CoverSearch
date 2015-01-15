@@ -1,0 +1,6 @@
+number 141
+name 梦的预言
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1411334021582.jpg
+songs 用手走路%^&*原因%^&*五十年不变%^&*顺流逆流%^&*飘忽的爱%^&*无依的忧郁%^&*避寒%^&*梦的预言%^&*恕难从命%^&*亮了红灯%^&*
+songURLs http://www.xiami.com/song/1750%^&*http://www.xiami.com/song/1751%^&*http://www.xiami.com/song/1752%^&*http://www.xiami.com/song/1753%^&*http://www.xiami.com/song/1754%^&*http://www.xiami.com/song/1755%^&*http://www.xiami.com/song/1756%^&*http://www.xiami.com/song/1757%^&*http://www.xiami.com/song/1758%^&*http://www.xiami.com/song/1759%^&*

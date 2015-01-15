@@ -1,0 +1,6 @@
+number 445569
+name 乡土情歌2
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img3/869703/1307869703.jpg
+songs 初恋梦%^&*不免心糟糟%^&*故乡作醮迎闹热%^&*落大雨彼一日%^&*春宵舞伴%^&*满山春色%^&*内山姑娘要出嫁%^&*多情的小姑娘%^&*小姑娘入城%^&*车站惜别%^&*碧潭假期%^&*
+songURLs http://www.xiami.com/song/1770263893%^&*http://www.xiami.com/song/1770263894%^&*http://www.xiami.com/song/1770263895%^&*http://www.xiami.com/song/1770263896%^&*http://www.xiami.com/song/1770263897%^&*http://www.xiami.com/song/1770263898%^&*http://www.xiami.com/song/1770263899%^&*http://www.xiami.com/song/1770263900%^&*http://www.xiami.com/song/1770263901%^&*http://www.xiami.com/song/1770263902%^&*http://www.xiami.com/song/1770263903%^&*

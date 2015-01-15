@@ -1,0 +1,6 @@
+number 10667
+name 100分
+artist 柳影虹
+introduction picture http://img.xiami.net/images/pic/04/03/10089122302m_2.jpg
+songs 一百分%^&*请你将爱留下%^&*好风为你吹%^&*换到千般恨%^&*爱的日记%^&*相思夫人%^&*一夕到天晓%^&*陪着你走%^&*爱情路%^&*心花片片飞%^&*人在狂风里%^&*情人无觅处%^&*今天一切属你%^&*
+songURLs http://www.xiami.com/song/131494%^&*http://www.xiami.com/song/131495%^&*http://www.xiami.com/song/131496%^&*http://www.xiami.com/song/131497%^&*http://www.xiami.com/song/131498%^&*http://www.xiami.com/song/131499%^&*http://www.xiami.com/song/131500%^&*http://www.xiami.com/song/131501%^&*http://www.xiami.com/song/131502%^&*http://www.xiami.com/song/131503%^&*http://www.xiami.com/song/131504%^&*http://www.xiami.com/song/131505%^&*http://www.xiami.com/song/131506%^&*

@@ -1,0 +1,6 @@
+number 490
+name 城市之夜MV
+artist 艾尔肯%^&*
+artistURL http://www.xiami.com/artist/16%^&*
+album 城市之夜(新疆版)
+albumURL http://www.xiami.com/album/41

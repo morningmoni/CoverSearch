@@ -1,0 +1,6 @@
+number 8575
+name 转身
+artist 高慧君
+introduction picture http://img.xiami.net/images/album/img50/1550/85751394419631.jpg
+songs 转身%^&*我不觉得%^&*笑不出來%^&*爱与愿违%^&*伤心的女人唱歌%^&*失眠%^&*弄丢%^&*插翅难飞%^&*高兴就好%^&*若即若离%^&*有爱快讲%^&*不必再拖%^&*
+songURLs http://www.xiami.com/song/106643%^&*http://www.xiami.com/song/106644%^&*http://www.xiami.com/song/106645%^&*http://www.xiami.com/song/106646%^&*http://www.xiami.com/song/106647%^&*http://www.xiami.com/song/106648%^&*http://www.xiami.com/song/106649%^&*http://www.xiami.com/song/106650%^&*http://www.xiami.com/song/106651%^&*http://www.xiami.com/song/106652%^&*http://www.xiami.com/song/106653%^&*http://www.xiami.com/song/106654%^&*

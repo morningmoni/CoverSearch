@@ -1,0 +1,7 @@
+number 2410
+name 于希平
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/11977004775701.jpg
+albums 想要你也难,不想你也难%^&*单心%^&*
+albumURLs http://www.xiami.com/album/13079%^&*http://www.xiami.com/album/13078%^&*

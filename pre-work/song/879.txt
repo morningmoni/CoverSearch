@@ -1,0 +1,6 @@
+number 879
+name 电子合成器,埙、箫
+artist 电子合成编程:捞仔%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%94%B5%E5%AD%90%E5%90%88%E6%88%90%E7%BC%96%E7%A8%8B%3A%E6%8D%9E%E4%BB%94%^&*
+album 二泉映月
+albumURL http://www.xiami.com/album/75

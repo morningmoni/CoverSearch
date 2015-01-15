@@ -1,0 +1,6 @@
+number 1771479556
+name 钢铁是眼泪炼成的
+artist 姜鹏%^&*
+artistURL http://www.xiami.com/artist/450%^&*
+album 心爱的宝贝
+albumURL http://www.xiami.com/album/555342

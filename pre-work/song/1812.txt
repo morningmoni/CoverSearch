@@ -1,0 +1,6 @@
+number 1812
+name 愿我还是我电影《黄祸》主题曲
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 再见也许不再会
+albumURL http://www.xiami.com/album/147

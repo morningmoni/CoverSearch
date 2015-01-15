@@ -1,0 +1,6 @@
+number 95944
+name 十字路口
+artist 戴恩玲%^&*
+artistURL http://www.xiami.com/artist/1470%^&*
+album 你是我的第一个
+albumURL http://www.xiami.com/album/7799

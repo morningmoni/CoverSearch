@@ -1,0 +1,6 @@
+number 327
+name 男性一生哭三摆
+artist 阿吉仔%^&*
+artistURL http://www.xiami.com/artist/8%^&*
+album 月娘我问你
+albumURL http://www.xiami.com/album/24

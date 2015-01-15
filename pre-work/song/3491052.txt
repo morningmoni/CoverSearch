@@ -1,0 +1,6 @@
+number 3491052
+name 来生缘
+artist 曹玉荣%^&*
+artistURL http://www.xiami.com/artist/64%^&*
+album 来生缘
+albumURL http://www.xiami.com/album/220

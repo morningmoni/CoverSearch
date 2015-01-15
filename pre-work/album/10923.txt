@@ -1,0 +1,7 @@
+number 10923
+name 床前明月光
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109231383223115.jpg
+songs 床前明月光%^&*女儿红%^&*想得开%^&*挑剔%^&*我看着寂寞长大%^&*眼中钉%^&*爱上狼的羊%^&*飘零%^&*东西%^&*空城%^&*
+songURLs http://www.xiami.com/song/134942%^&*http://www.xiami.com/song/134943%^&*http://www.xiami.com/song/134944%^&*http://www.xiami.com/song/134945%^&*http://www.xiami.com/song/134946%^&*http://www.xiami.com/song/134947%^&*http://www.xiami.com/song/134948%^&*http://www.xiami.com/song/134949%^&*http://www.xiami.com/song/134950%^&*http://www.xiami.com/song/134951%^&*

@@ -1,0 +1,6 @@
+number 2579
+name 走出孤独电影&quot;期待你长大&quot;主题曲
+artist 曹松章%^&*
+artistURL http://www.xiami.com/artist/60%^&*
+album 精选集
+albumURL http://www.xiami.com/album/211

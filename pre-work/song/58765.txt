@@ -1,0 +1,6 @@
+number 58765
+name 让你爱上我是我的罪
+artist 吴秀波%^&*
+artistURL http://www.xiami.com/artist/970%^&*
+album 爱之战
+albumURL http://www.xiami.com/album/4855

@@ -1,0 +1,7 @@
+number 325020
+name 痴情胆
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/3250201388306382.jpg
+songs 痴情胆%^&*不甘你哭%^&*刻字%^&*无条件的爱情%^&*悲情海岸%^&*水水的人生%^&*爱一个人%^&*秋夜恋情%^&*生命中的过客%^&*变色缘%^&*
+songURLs http://www.xiami.com/song/3619898%^&*http://www.xiami.com/song/3619899%^&*http://www.xiami.com/song/3619900%^&*http://www.xiami.com/song/3619901%^&*http://www.xiami.com/song/3619902%^&*http://www.xiami.com/song/3619903%^&*http://www.xiami.com/song/3619904%^&*http://www.xiami.com/song/3619905%^&*http://www.xiami.com/song/3619906%^&*http://www.xiami.com/song/3619907%^&*

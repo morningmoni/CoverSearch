@@ -1,0 +1,6 @@
+number 14859
+name 童年时光
+artist 乐家姊妹
+introduction picture http://img.xiami.net/images/pic/04/03/10087167040m_2.jpg
+songs 童年时光%^&*谁明白我心事%^&*中秋明月照%^&*理想永属你%^&*怀念那地地方%^&*热舞狂歌%^&*春光无限好%^&*乘风千里%^&*青春满希望%^&*渔家乐%^&*与你欢笑%^&*海滩上%^&*
+songURLs http://www.xiami.com/song/182896%^&*http://www.xiami.com/song/182897%^&*http://www.xiami.com/song/182898%^&*http://www.xiami.com/song/182899%^&*http://www.xiami.com/song/182900%^&*http://www.xiami.com/song/182901%^&*http://www.xiami.com/song/182902%^&*http://www.xiami.com/song/182903%^&*http://www.xiami.com/song/182904%^&*http://www.xiami.com/song/182905%^&*http://www.xiami.com/song/182906%^&*http://www.xiami.com/song/182907%^&*

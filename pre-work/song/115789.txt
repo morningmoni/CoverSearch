@@ -1,0 +1,6 @@
+number 115789
+name 歌乐良宵
+artist 丽莎%^&*
+artistURL http://www.xiami.com/artist/1680%^&*
+album 一水隔天涯
+albumURL http://www.xiami.com/album/9335

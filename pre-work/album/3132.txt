@@ -1,0 +1,6 @@
+number 3132
+name 兰花草
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/31321344219690.jpg
+songs 让我们看云去%^&*兰花草%^&*黄色的玫瑰%^&*小雨中的回忆%^&*心恋%^&*寻梦园%^&*雨中即景%^&*我的心里没有她%^&*爱是你爱是我%^&*钻石%^&*夜归人%^&*大江东去%^&*
+songURLs http://www.xiami.com/song/38666%^&*http://www.xiami.com/song/38667%^&*http://www.xiami.com/song/38668%^&*http://www.xiami.com/song/38669%^&*http://www.xiami.com/song/38670%^&*http://www.xiami.com/song/38671%^&*http://www.xiami.com/song/38672%^&*http://www.xiami.com/song/38673%^&*http://www.xiami.com/song/38674%^&*http://www.xiami.com/song/38675%^&*http://www.xiami.com/song/38676%^&*http://www.xiami.com/song/38677%^&*

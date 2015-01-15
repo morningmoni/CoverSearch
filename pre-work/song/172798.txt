@@ -1,0 +1,6 @@
+number 172798
+name 一把伞
+artist 183Club%^&*
+artistURL http://www.xiami.com/artist/2590%^&*
+album 183Club 首张同名专辑
+albumURL http://www.xiami.com/album/13997

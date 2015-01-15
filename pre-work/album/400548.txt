@@ -1,0 +1,6 @@
+number 400548
+name 情缘
+artist 蔡济文
+introduction picture http://img.xiami.net/images/album/img44/44/4005481283763357.jpg
+songs 不要躲%^&*慢慢地陪着你走%^&*平凡心%^&*情缘%^&*一颗真心真正深爱着你%^&*
+songURLs http://www.xiami.com/song/1769748625%^&*http://www.xiami.com/song/1769748626%^&*http://www.xiami.com/song/1769748627%^&*http://www.xiami.com/song/1769748628%^&*http://www.xiami.com/song/1769748629%^&*

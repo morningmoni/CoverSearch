@@ -1,0 +1,6 @@
+number 83089
+name 我是战士我是歌手
+artist 巴哈尔古丽%^&*
+artistURL http://www.xiami.com/artist/1310%^&*
+album 中国新民歌发烧天碟
+albumURL http://www.xiami.com/album/6793

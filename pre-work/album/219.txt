@@ -1,0 +1,7 @@
+number 219
+name 胡思乱想
+artist 曹玉荣
+introduction 
+picture http://img.xiami.net/images/album/img64/64/2191385710701.jpg
+songs 愿君心记取%^&*孤雁%^&*梅花梦%^&*星星是我看你的眼晴%^&*小城大事%^&*老鼠爱大米%^&*望春风%^&*风中有朵雨做的云%^&*星语心愿%^&*问情%^&*假如爱有天意%^&*黄昏%^&*后来%^&*
+songURLs http://www.xiami.com/song/2663%^&*http://www.xiami.com/song/2664%^&*http://www.xiami.com/song/2665%^&*http://www.xiami.com/song/2666%^&*http://www.xiami.com/song/2667%^&*http://www.xiami.com/song/2668%^&*http://www.xiami.com/song/2669%^&*http://www.xiami.com/song/2670%^&*http://www.xiami.com/song/2671%^&*http://www.xiami.com/song/2672%^&*http://www.xiami.com/song/2673%^&*http://www.xiami.com/song/2674%^&*http://www.xiami.com/song/2675%^&*

@@ -1,0 +1,7 @@
+number 353713
+name 害怕爱上你
+artist 陈琳
+introduction 曾以一首《你的柔情我永远不懂》红遍大陆的著名歌手陈琳乘胜追击于1996年发行了第二张专辑《害怕爱上你》，并于同年3月24日获第二届&ldquo;日本96亚洲歌手公开赛&rdquo;罗兰德大奖。
+picture http://img.xiami.net/images/album/img0/1400/3537131257311646.jpg
+songs 我在飞却飞得好累%^&*还是你最好%^&*害怕爱上你%^&*春天的旋律%^&*与你共舞%^&*第五季%^&*心跳%^&*相爱的人爱吧%^&*往事%^&*阳光还是那么金黄%^&*
+songURLs http://www.xiami.com/song/1769198016%^&*http://www.xiami.com/song/1769198017%^&*http://www.xiami.com/song/1769198018%^&*http://www.xiami.com/song/1769198019%^&*http://www.xiami.com/song/1769198020%^&*http://www.xiami.com/song/1769198021%^&*http://www.xiami.com/song/1769198022%^&*http://www.xiami.com/song/1769198023%^&*http://www.xiami.com/song/1769198024%^&*http://www.xiami.com/song/1769198025%^&*

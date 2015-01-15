@@ -1,0 +1,7 @@
+number 10922
+name Larger Than Life
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109221387341873.jpg
+songs 不快不吐%^&*艳舞台%^&*电话谋杀案%^&*同窗会%^&*女人烦%^&*反翻版%^&*无名氏%^&*想不起来%^&*悠然自得%^&*比生命更大%^&*
+songURLs http://www.xiami.com/song/134932%^&*http://www.xiami.com/song/134933%^&*http://www.xiami.com/song/134934%^&*http://www.xiami.com/song/134935%^&*http://www.xiami.com/song/134936%^&*http://www.xiami.com/song/134937%^&*http://www.xiami.com/song/134938%^&*http://www.xiami.com/song/134939%^&*http://www.xiami.com/song/134940%^&*http://www.xiami.com/song/134941%^&*

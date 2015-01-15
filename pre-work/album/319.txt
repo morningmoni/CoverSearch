@@ -1,0 +1,7 @@
+number 319
+name 69FM
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/319.jpg
+songs 69 Fm Mixtape%^&*
+songURLs http://www.xiami.com/song/3865%^&*

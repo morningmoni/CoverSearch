@@ -1,0 +1,7 @@
+number 2310
+name 辛夷
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11977122878003.jpg
+albums Angel%^&*
+albumURLs http://www.xiami.com/album/12383%^&*

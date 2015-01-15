@@ -1,0 +1,6 @@
+number 358197
+name 无情雨
+artist 王中平
+introduction picture http://img.xiami.net/images/album/img30/930/3581971260153981.jpg
+songs 无情雨%^&*偷心%^&*愁夜梦%^&*起落人生%^&*气魄%^&*英雄泪%^&*人生色彩%^&*无情做你爱别人%^&*爱你呦%^&*祝福你啦%^&*
+songURLs http://www.xiami.com/song/1769250237%^&*http://www.xiami.com/song/1769250238%^&*http://www.xiami.com/song/1769250239%^&*http://www.xiami.com/song/1769250240%^&*http://www.xiami.com/song/1769250241%^&*http://www.xiami.com/song/1769250242%^&*http://www.xiami.com/song/1769250243%^&*http://www.xiami.com/song/1769250244%^&*http://www.xiami.com/song/1769250245%^&*http://www.xiami.com/song/1769250246%^&*

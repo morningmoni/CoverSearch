@@ -1,0 +1,7 @@
+number 4080
+name 夜夜寂寞
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40801387372011.jpg
+songs 夜夜寂寞%^&*想你想得好孤寂 (深夜回忆剧场版)%^&*别再怪我痴情%^&*弱点%^&*九百九十九朵玫瑰 (深情演奏版)%^&*
+songURLs http://www.xiami.com/song/49927%^&*http://www.xiami.com/song/49928%^&*http://www.xiami.com/song/49929%^&*http://www.xiami.com/song/49930%^&*http://www.xiami.com/song/49931%^&*

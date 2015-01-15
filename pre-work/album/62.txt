@@ -1,0 +1,7 @@
+number 62
+name 滚石香港黄金十年 阿牛精选
+artist 阿牛
+introduction 
+picture http://img.xiami.net/images/album/img22/22/621383033639.jpg
+songs 至冧情歌%^&*我是你的小小狗%^&*老夫子情歌%^&*对面的女孩看过来%^&*唱歌给你听%^&*我和我的四个妹妹%^&*大肚腩%^&*城市·蓝天%^&*牵牛花%^&*爱我久久%^&*星星亮了%^&*踩着三轮车卖菜的老阿伯%^&*Mamak档%^&*来来歌%^&*Oh Honey Honey%^&*
+songURLs http://www.xiami.com/song/741%^&*http://www.xiami.com/song/742%^&*http://www.xiami.com/song/743%^&*http://www.xiami.com/song/744%^&*http://www.xiami.com/song/745%^&*http://www.xiami.com/song/746%^&*http://www.xiami.com/song/747%^&*http://www.xiami.com/song/748%^&*http://www.xiami.com/song/749%^&*http://www.xiami.com/song/750%^&*http://www.xiami.com/song/751%^&*http://www.xiami.com/song/752%^&*http://www.xiami.com/song/753%^&*http://www.xiami.com/song/754%^&*http://www.xiami.com/song/755%^&*

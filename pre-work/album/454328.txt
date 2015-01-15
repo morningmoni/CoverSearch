@@ -1,0 +1,6 @@
+number 454328
+name 平安就是福
+artist 七郎
+introduction picture http://img.xiami.net/images/album/img86/420186/1311420186.jpg
+songs 平安就是福%^&*浪人歌声%^&*他乡情歌%^&*世间活菩萨%^&*阿母啊%^&*新ㄟ心心相爱%^&*树枝插无唉%^&*喜酒三杯%^&*为何不是我%^&*流浪之歌%^&*平安就是福%^&*浪人歌声%^&*他乡情歌%^&*
+songURLs http://www.xiami.com/song/1770358481%^&*http://www.xiami.com/song/1770358482%^&*http://www.xiami.com/song/1770358483%^&*http://www.xiami.com/song/1770358484%^&*http://www.xiami.com/song/1770358485%^&*http://www.xiami.com/song/1770358486%^&*http://www.xiami.com/song/1770358487%^&*http://www.xiami.com/song/1770358488%^&*http://www.xiami.com/song/1770358489%^&*http://www.xiami.com/song/1770358490%^&*http://www.xiami.com/song/1770358491%^&*http://www.xiami.com/song/1770358492%^&*http://www.xiami.com/song/1770358493%^&*

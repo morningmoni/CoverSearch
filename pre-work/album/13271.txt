@@ -1,0 +1,7 @@
+number 13271
+name 歌声妹影
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132711361966813.jpg
+songs Time To Say Goodbye%^&*意难忘%^&*Mamma Mia%^&*康定情歌%^&*卡门%^&*心事谁人知%^&*天才白痴梦%^&*I Will Always Love You%^&*凤凰于飞%^&*Ain&#039;t No Sunshine%^&*
+songURLs http://www.xiami.com/song/163384%^&*http://www.xiami.com/song/163385%^&*http://www.xiami.com/song/163386%^&*http://www.xiami.com/song/163387%^&*http://www.xiami.com/song/1770393192%^&*http://www.xiami.com/song/163389%^&*http://www.xiami.com/song/163390%^&*http://www.xiami.com/song/163391%^&*http://www.xiami.com/song/163392%^&*http://www.xiami.com/song/163393%^&*

@@ -1,0 +1,7 @@
+number 12576
+name 花咲
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125761366018332.jpg
+songs 没有你的圣诞节%^&*爱只剩一秒%^&*深渊%^&*宁愿爱你%^&*舍不得%^&*完美%^&*Try%^&*凭感觉%^&*讨厌%^&*红色爱情海%^&*
+songURLs http://www.xiami.com/song/154607%^&*http://www.xiami.com/song/154608%^&*http://www.xiami.com/song/154609%^&*http://www.xiami.com/song/154610%^&*http://www.xiami.com/song/154611%^&*http://www.xiami.com/song/154612%^&*http://www.xiami.com/song/154613%^&*http://www.xiami.com/song/154614%^&*http://www.xiami.com/song/154615%^&*http://www.xiami.com/song/154616%^&*

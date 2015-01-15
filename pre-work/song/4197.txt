@@ -1,0 +1,6 @@
+number 4197
+name 你让我孤孤单单
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱7
+albumURL http://www.xiami.com/album/346

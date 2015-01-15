@@ -1,0 +1,6 @@
+number 147
+name 再见也许不再会
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1471334021914.jpg
+songs 再见也许不再会%^&*回到我身边%^&*你话过%^&*愿我还是我%^&*误闯新战圈%^&*风中劲草%^&*影子与我%^&*歌声背后%^&*一首苦歌%^&*苦恼嘅玩意%^&*奇异的生物%^&*
+songURLs http://www.xiami.com/song/1809%^&*http://www.xiami.com/song/1810%^&*http://www.xiami.com/song/1811%^&*http://www.xiami.com/song/1812%^&*http://www.xiami.com/song/1813%^&*http://www.xiami.com/song/1814%^&*http://www.xiami.com/song/1815%^&*http://www.xiami.com/song/1816%^&*http://www.xiami.com/song/1817%^&*http://www.xiami.com/song/1818%^&*http://www.xiami.com/song/1819%^&*

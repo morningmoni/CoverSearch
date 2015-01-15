@@ -1,0 +1,7 @@
+number 2560
+name 周云
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11976851071149.jpg
+albums 释放自己%^&*
+albumURLs http://www.xiami.com/album/13875%^&*

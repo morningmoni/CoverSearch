@@ -1,0 +1,6 @@
+number 4742
+name 难忘的温泉乡
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 酒国恋歌
+albumURL http://www.xiami.com/album/395

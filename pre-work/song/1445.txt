@@ -1,0 +1,6 @@
+number 1445
+name 是又怎样
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 绝对空虚
+albumURL http://www.xiami.com/album/118

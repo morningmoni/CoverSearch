@@ -1,0 +1,7 @@
+number 6905
+name 等一个晴天 新歌+精选
+artist 蔡淳佳
+introduction 
+picture http://img.xiami.net/images/album/img40/1340/69051383555660.png
+songs 恋之憩%^&*等一个晴天%^&*永远的愚人%^&*风铃%^&*陪我看日出%^&*有一天我会%^&*小夫妻%^&*有你多好%^&*突发奇想%^&*有心人,有情人%^&*对不起,我爱你%^&*蝴蝶%^&*爱如潮水%^&*左右为难%^&*雨天%^&*谈心%^&*未知的以后%^&*好女人%^&*他和她%^&*星星眼睛%^&*南屏晚钟%^&*我想快乐些%^&*让我擦掉你的泪%^&*看见%^&*
+songURLs http://www.xiami.com/song/84292%^&*http://www.xiami.com/song/84293%^&*http://www.xiami.com/song/84294%^&*http://www.xiami.com/song/84295%^&*http://www.xiami.com/song/84296%^&*http://www.xiami.com/song/84297%^&*http://www.xiami.com/song/84298%^&*http://www.xiami.com/song/84299%^&*http://www.xiami.com/song/84300%^&*http://www.xiami.com/song/84301%^&*http://www.xiami.com/song/84302%^&*http://www.xiami.com/song/84303%^&*http://www.xiami.com/song/84304%^&*http://www.xiami.com/song/84305%^&*http://www.xiami.com/song/84306%^&*http://www.xiami.com/song/84307%^&*http://www.xiami.com/song/84308%^&*http://www.xiami.com/song/84309%^&*http://www.xiami.com/song/84310%^&*http://www.xiami.com/song/84311%^&*http://www.xiami.com/song/84312%^&*http://www.xiami.com/song/84313%^&*http://www.xiami.com/song/84314%^&*http://www.xiami.com/song/84315%^&*

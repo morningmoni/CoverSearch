@@ -1,0 +1,7 @@
+number 375186
+name 分开旅行
+artist 刘若英%^&*黄立行%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%88%98%E8%8B%A5%E8%8B%B1%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E7%AB%8B%E8%A1%8C%^&*
+album 我的失败与伟大
+albumURL http://www.xiami.com/album/10598

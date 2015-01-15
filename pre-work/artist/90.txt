@@ -1,0 +1,7 @@
+number 90
+name 陈加洛
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/11920536736377.jpg
+albums 痛到感觉不到%^&*
+albumURLs http://www.xiami.com/album/375%^&*

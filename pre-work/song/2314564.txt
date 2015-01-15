@@ -1,0 +1,6 @@
+number 2314564
+name 海底针MV
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 新曲与精选
+albumURL http://www.xiami.com/album/191844

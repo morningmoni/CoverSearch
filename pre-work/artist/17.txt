@@ -1,0 +1,7 @@
+number 17
+name 安德尊
+place Hongkong 香港
+introduction 花名：大王身高／体重：180cm／75kg兴趣／运动：乒乓球口头禅／小动作：「哈哈哈」最尊敬的人物：祖母、爸爸、妈妈
+picture http://img.xiami.net/images/artistlogo/11/13320496196011.jpg
+albums 老懵董笑歌集%^&*
+albumURLs http://www.xiami.com/album/43%^&*

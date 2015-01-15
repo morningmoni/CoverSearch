@@ -1,0 +1,6 @@
+number 3840
+name 九寨沟之歌
+artist 容中尔甲
+introduction picture http://img.xiami.net/images/pic/04/04/10125014838m_2.jpg
+songs 九寨情缘%^&*扎嘎拉%^&*走向圣地%^&*神奇的九寨%^&*心中的歌%^&*启程的心%^&*灵魂的故乡%^&*欢聚一堂%^&*九寨之恋%^&*异乡路谣%^&*背水姑娘%^&*阿妈的笑脸%^&*雪域之光%^&*经幡%^&*阿坝情歌%^&*扎西德勒%^&*
+songURLs http://www.xiami.com/song/47222%^&*http://www.xiami.com/song/47223%^&*http://www.xiami.com/song/47224%^&*http://www.xiami.com/song/47225%^&*http://www.xiami.com/song/47226%^&*http://www.xiami.com/song/47227%^&*http://www.xiami.com/song/47228%^&*http://www.xiami.com/song/47229%^&*http://www.xiami.com/song/47230%^&*http://www.xiami.com/song/47231%^&*http://www.xiami.com/song/47232%^&*http://www.xiami.com/song/47233%^&*http://www.xiami.com/song/47234%^&*http://www.xiami.com/song/47235%^&*http://www.xiami.com/song/47236%^&*http://www.xiami.com/song/47237%^&*

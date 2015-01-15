@@ -1,0 +1,7 @@
+number 68
+name 爱我久久
+artist 阿牛
+introduction 
+picture http://img.xiami.net/images/album/img22/22/681383032782.jpg
+songs 爱我久久%^&*来来歌%^&*榴莲歌儿一家唱%^&*你还好吗%^&*Oh Honey Honey%^&*带我去流浪%^&*你家在哪里?%^&*村子最近怎么不一样%^&*Blue Blur 22%^&*老夫子情歌%^&*牵牛花%^&*裙摆摇摇%^&*欠我的时光%^&*Kuala Terengganu%^&*爱我久久(Karaoke Version)%^&*
+songURLs http://www.xiami.com/song/805%^&*http://www.xiami.com/song/806%^&*http://www.xiami.com/song/807%^&*http://www.xiami.com/song/808%^&*http://www.xiami.com/song/809%^&*http://www.xiami.com/song/810%^&*http://www.xiami.com/song/811%^&*http://www.xiami.com/song/812%^&*http://www.xiami.com/song/813%^&*http://www.xiami.com/song/814%^&*http://www.xiami.com/song/815%^&*http://www.xiami.com/song/816%^&*http://www.xiami.com/song/817%^&*http://www.xiami.com/song/818%^&*http://www.xiami.com/song/819%^&*

@@ -1,0 +1,6 @@
+number 1772938582
+name 如果我能飞
+artist 蔡兴国%^&*
+artistURL http://www.xiami.com/artist/48%^&*
+album 如果我能飞
+albumURL http://www.xiami.com/album/498510706

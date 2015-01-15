@@ -1,0 +1,6 @@
+number 3189
+name 深爱着你
+artist 吕方%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%95%E6%96%B9%^&*
+album 紫色的回忆
+albumURL http://www.xiami.com/album/257

@@ -1,0 +1,6 @@
+number 2305
+name 无人熟识
+artist 孙建平 & Sweet Style%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AD%99%E5%BB%BA%E5%B9%B3+%26+Sweet+Style%^&*
+album 台湾南歌精选辑
+albumURL http://www.xiami.com/album/187

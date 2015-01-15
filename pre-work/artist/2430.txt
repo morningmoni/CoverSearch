@@ -1,0 +1,7 @@
+number 2430
+name 云凯弦
+place China 中国大陆
+introduction 云凯弦五岁随父学小提琴，七岁首次与广州乐团合作。1995年获全奖学金赴美攻读，师从女小提琴家Camille Wicks及Fredell Lacks。云氏於2001年以优秀成绩取得曼哈顿音乐学院的音乐硕士。云氏经常活跃於世界乐坛上，曾参与太平洋音乐节、Schleswig-Holstein Music Festival等大型音乐活动，以独奏家及室内乐手身份在南北美洲、欧亚多国巡回演出，深受好评。云氏现为香港小交响乐团第二小提琴首席。
+picture http://img.xiami.net/images/artist/11977036426888.jpg
+albums 扣人心弦%^&*
+albumURLs http://www.xiami.com/album/13108%^&*

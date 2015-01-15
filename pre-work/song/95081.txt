@@ -1,0 +1,6 @@
+number 95081
+name 红豆The Red Bean
+artist 陈悦%^&*
+artistURL http://www.xiami.com/artist/1450%^&*
+album 无词歌
+albumURL http://www.xiami.com/album/7738

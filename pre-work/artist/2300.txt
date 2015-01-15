@@ -1,0 +1,7 @@
+number 2300
+name 谢丽金
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/11977094765085.jpg
+albums 暗恋%^&*永远的女孩%^&*
+albumURLs http://www.xiami.com/album/12337%^&*http://www.xiami.com/album/12338%^&*

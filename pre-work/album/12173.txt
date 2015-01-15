@@ -1,0 +1,7 @@
+number 12173
+name 内心戏·爱上一个人
+artist 吴倩莲
+introduction 
+picture http://img.xiami.net/images/album/img50/2250/121731317269472.jpg
+songs 爱上一个人%^&*我们都要好好过%^&*情愿%^&*计算够不够细心%^&*多情的爱人%^&*为爱逃亡%^&*来点伤心的音乐%^&*你偷偷爱上别人%^&*明天你是否会来带我走%^&*牧羊姑娘(国语版)%^&*
+songURLs http://www.xiami.com/song/149588%^&*http://www.xiami.com/song/149589%^&*http://www.xiami.com/song/149590%^&*http://www.xiami.com/song/149591%^&*http://www.xiami.com/song/149592%^&*http://www.xiami.com/song/149593%^&*http://www.xiami.com/song/149594%^&*http://www.xiami.com/song/149595%^&*http://www.xiami.com/song/149596%^&*http://www.xiami.com/song/149597%^&*

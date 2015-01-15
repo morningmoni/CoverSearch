@@ -1,0 +1,7 @@
+number 6906
+name 有一天我会
+artist 蔡淳佳
+introduction 
+picture http://img.xiami.net/images/album/img40/1340/69061378458539.jpg
+songs 有你多好%^&*有一天我会%^&*星星眼睛%^&*让我擦掉你的泪%^&*未知的以后%^&*南屏晚钟%^&*老朋友%^&*小夫妻%^&*平凡就是幸福%^&*孤单长发%^&*郁金香%^&*梦在手里%^&*我想听你说%^&*非常特别的你%^&*
+songURLs http://www.xiami.com/song/84316%^&*http://www.xiami.com/song/84317%^&*http://www.xiami.com/song/84318%^&*http://www.xiami.com/song/84319%^&*http://www.xiami.com/song/84320%^&*http://www.xiami.com/song/84321%^&*http://www.xiami.com/song/84322%^&*http://www.xiami.com/song/84323%^&*http://www.xiami.com/song/84324%^&*http://www.xiami.com/song/84325%^&*http://www.xiami.com/song/84326%^&*http://www.xiami.com/song/84327%^&*http://www.xiami.com/song/84328%^&*http://www.xiami.com/song/84329%^&*

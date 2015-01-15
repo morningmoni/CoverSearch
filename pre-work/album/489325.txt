@@ -1,0 +1,7 @@
+number 489325
+name 爱你无罪
+artist 蔡小虎
+introduction 新演歌唱将
+picture http://img.xiami.net/images/album/img47/47/4893251326851374.jpg
+songs 爱你无罪%^&*鸳鸯一场%^&*随风来去%^&*憨甲有胜%^&*不停的陀螺%^&*无情风伤心雨%^&*爱情一级棒%^&*悲欢乱心晟%^&*世间尚可憐%^&*伤心交乎你%^&*
+songURLs http://www.xiami.com/song/1770754386%^&*http://www.xiami.com/song/1770754387%^&*http://www.xiami.com/song/1770754388%^&*http://www.xiami.com/song/1770754389%^&*http://www.xiami.com/song/1770754390%^&*http://www.xiami.com/song/1770754391%^&*http://www.xiami.com/song/1770754392%^&*http://www.xiami.com/song/1770754393%^&*http://www.xiami.com/song/1770754394%^&*http://www.xiami.com/song/1770754395%^&*

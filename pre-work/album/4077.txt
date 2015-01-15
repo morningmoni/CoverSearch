@@ -1,0 +1,7 @@
+number 4077
+name 步步高升
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40771373009536.jpg
+songs 步步高升 (Radio Remix)%^&*步步高升 (Edit Version)%^&*步步高升%^&*九百九十九朵玫瑰%^&*
+songURLs http://www.xiami.com/song/49888%^&*http://www.xiami.com/song/49889%^&*http://www.xiami.com/song/49890%^&*http://www.xiami.com/song/49891%^&*

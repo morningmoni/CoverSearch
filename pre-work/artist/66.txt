@@ -1,0 +1,7 @@
+number 66
+name 长田
+place 
+introduction 
+picture http://img.xiami.net/images/artistlogo/57/13345506246257.jpg
+albums 伤心%^&*年轻的心%^&*一部跑车%^&*
+albumURLs http://www.xiami.com/album/507084%^&*http://www.xiami.com/album/227%^&*http://www.xiami.com/album/171399%^&*

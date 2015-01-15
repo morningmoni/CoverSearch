@@ -1,0 +1,7 @@
+number 167
+name 今生最爱的人
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img0/1671284012537.jpg
+songs 今生最爱的人%^&*挺你到底%^&*永远醉置你身边%^&*心落雪%^&*心爱的人%^&*放你自由飞%^&*醉生梦死%^&*孤云%^&*亲爱的妈妈%^&*无情夜玫瑰%^&*等你回头%^&*离情千万步%^&*
+songURLs http://www.xiami.com/song/2064%^&*http://www.xiami.com/song/2065%^&*http://www.xiami.com/song/2066%^&*http://www.xiami.com/song/2067%^&*http://www.xiami.com/song/2068%^&*http://www.xiami.com/song/2069%^&*http://www.xiami.com/song/2070%^&*http://www.xiami.com/song/2071%^&*http://www.xiami.com/song/2072%^&*http://www.xiami.com/song/2073%^&*http://www.xiami.com/song/2074%^&*http://www.xiami.com/song/2075%^&*

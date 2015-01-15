@@ -1,0 +1,6 @@
+number 140
+name 蔡国权 同名专辑
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1401334021718.jpg
+songs 人墙%^&*夏日终结的恋人%^&*不装饰你的梦%^&*用手走路%^&*爱的独白%^&*谁最爱你%^&*星夜%^&*风中暖流%^&*原因%^&*堆梦%^&*梦的预言%^&*燃亮我%^&*友情%^&*
+songURLs http://www.xiami.com/song/1737%^&*http://www.xiami.com/song/1738%^&*http://www.xiami.com/song/1739%^&*http://www.xiami.com/song/1740%^&*http://www.xiami.com/song/1741%^&*http://www.xiami.com/song/1742%^&*http://www.xiami.com/song/1743%^&*http://www.xiami.com/song/1744%^&*http://www.xiami.com/song/1745%^&*http://www.xiami.com/song/1746%^&*http://www.xiami.com/song/1747%^&*http://www.xiami.com/song/1748%^&*http://www.xiami.com/song/1749%^&*

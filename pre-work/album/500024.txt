@@ -1,0 +1,6 @@
+number 500024
+name 神仙
+artist 姜鹏
+introduction picture http://img.xiami.net/images/album/img50/450/5000241353909240.jpg
+songs 神仙%^&*
+songURLs http://www.xiami.com/song/1770866779%^&*

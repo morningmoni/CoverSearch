@@ -1,0 +1,6 @@
+number 137
+name 听说爱会是精彩
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img0/1371284010745.jpg
+songs 听说爱会是精彩%^&*梦里可是谁%^&*物质爱情%^&*世事如棋%^&*最后一次%^&*从来没怪你别离%^&*天意人心%^&*烽烟情焰%^&*真情推销员%^&*夕阳细雨%^&*Make A Wish Over You%^&*
+songURLs http://www.xiami.com/song/1703%^&*http://www.xiami.com/song/1704%^&*http://www.xiami.com/song/1705%^&*http://www.xiami.com/song/1706%^&*http://www.xiami.com/song/1707%^&*http://www.xiami.com/song/1708%^&*http://www.xiami.com/song/1709%^&*http://www.xiami.com/song/1710%^&*http://www.xiami.com/song/1711%^&*http://www.xiami.com/song/1712%^&*http://www.xiami.com/song/1713%^&*

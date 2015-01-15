@@ -1,0 +1,7 @@
+number 2280
+name 萧蔷
+place Taiwan 台湾
+introduction 小档案生日：1968年8月13日星座：狮子座血型：A型身高：170厘米体重：48公斤藉贯：台北市语言：国语、英语、台语学历：金瓯女中 文化大学宗教：佛教座佑铭：保持愉快的好心情兴趣：阅读、看电视、弹钢琴、室内设计、吃美食专长：表演、演讲、美感鉴赏擅长乐器：钢琴最喜欢的演员：凯西贝兹最常做的运动：睡前做做仰卧起坐，持续不断个人保养秘方：熬些汤品喝，粉光参、枸杞子也是她补养身子的最爱。大事记1991年&mdash;&mdash;强棒出击票选"梦中情人"第三名1992年&mdash;&mdash;十大模特儿选拔第八名1992年&mdash;&mdash; 时报周刊票选梦中情人第二名1993年&mdash;&mdash;民生报票选金钟奖最受欢迎女演员第二名1993年&mdash;&mdash;台澎金马军中情人调查第二名1994-1995年&mdash;&mdash;联广全省市调最受欢迎女演员第二名
+picture http://img.xiami.net/images/artist/12049655727382.jpg
+albums 不够温柔%^&*Bella 同名专辑%^&*
+albumURLs http://www.xiami.com/album/528854%^&*http://www.xiami.com/album/12263%^&*

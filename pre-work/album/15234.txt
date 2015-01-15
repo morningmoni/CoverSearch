@@ -1,0 +1,7 @@
+number 15234
+name Seventh Day
+artist Seventh Day
+introduction 2002年出版，异象工场最新的超强三人组合～周巽光、陈玺恩和赵治德组成Seventh Day。感动从耳朵开始，真诚来自第七天的创作。唱片是以现时国语流行音乐的风格为创作目标，并将基督教的信息放到歌曲之中。大碟有台湾歌手周杰伦式的创作，也有日本歌手宇多田光的轻快节。
+picture http://img.xiami.net/images/album/img90/2990/152341290763299.jpg
+songs 我终于%^&*Thank You For Your Love%^&*大时代的魔咒%^&*在这个世界%^&*一体两面%^&*I See The Future%^&*改变%^&*多尔萨克的传说%^&*有你的天空很蓝%^&*Thank You For Your Love (Acoustic版)%^&*
+songURLs http://www.xiami.com/song/187233%^&*http://www.xiami.com/song/187234%^&*http://www.xiami.com/song/187235%^&*http://www.xiami.com/song/187236%^&*http://www.xiami.com/song/187237%^&*http://www.xiami.com/song/187238%^&*http://www.xiami.com/song/187239%^&*http://www.xiami.com/song/187240%^&*http://www.xiami.com/song/187241%^&*http://www.xiami.com/song/187242%^&*

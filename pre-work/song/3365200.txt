@@ -1,0 +1,6 @@
+number 3365200
+name 半个相框
+artist 艾成%^&*
+artistURL http://www.xiami.com/artist/15%^&*
+album Edsion Mr.I
+albumURL http://www.xiami.com/album/38

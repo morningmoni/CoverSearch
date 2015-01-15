@@ -1,0 +1,6 @@
+number 8214
+name 长城长
+artist 董文华
+introduction picture http://img.xiami.net/images/album/img0/1500/8214.jpg
+songs 春天的故事%^&*十五的月亮%^&*望星空%^&*月亮走.我也走%^&*长城长%^&*走进春天%^&*千古情%^&*日月与星辰%^&*道路%^&*想给边防军写封信%^&*相聚别离俩依依%^&*我们的心并不遥远%^&*不朽的黄河%^&*黄河黄%^&*
+songURLs http://www.xiami.com/song/2136700%^&*http://www.xiami.com/song/2136701%^&*http://www.xiami.com/song/2136702%^&*http://www.xiami.com/song/2136703%^&*http://www.xiami.com/song/2136704%^&*http://www.xiami.com/song/2136705%^&*http://www.xiami.com/song/2136706%^&*http://www.xiami.com/song/2136707%^&*http://www.xiami.com/song/2136708%^&*http://www.xiami.com/song/2136709%^&*http://www.xiami.com/song/2136710%^&*http://www.xiami.com/song/2136711%^&*http://www.xiami.com/song/2136712%^&*http://www.xiami.com/song/2136713%^&*

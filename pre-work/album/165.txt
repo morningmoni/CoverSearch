@@ -1,0 +1,7 @@
+number 165
+name 心疼
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img0/1651284011856.jpg
+songs 心疼%^&*梦中的探戈%^&*坚强的爱%^&*玛莉小姑娘%^&*红颜落崁%^&*爱无剩%^&*六月的雨%^&*心比你搁卡痛%^&*爱着你的人%^&*一生最爱%^&*
+songURLs http://www.xiami.com/song/2044%^&*http://www.xiami.com/song/2045%^&*http://www.xiami.com/song/2046%^&*http://www.xiami.com/song/2047%^&*http://www.xiami.com/song/2048%^&*http://www.xiami.com/song/2049%^&*http://www.xiami.com/song/2050%^&*http://www.xiami.com/song/2051%^&*http://www.xiami.com/song/2052%^&*http://www.xiami.com/song/2053%^&*

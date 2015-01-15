@@ -1,0 +1,6 @@
+number 1191
+name 从前有座山
+artist 程琳%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%A8%8B%E7%90%B3%^&*
+album 毕晓世的音乐之旅 全心作品集
+albumURL http://www.xiami.com/album/102

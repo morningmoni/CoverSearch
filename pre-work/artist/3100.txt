@@ -1,0 +1,7 @@
+number 3100
+name 威镇The City Band
+place Hongkong 香港
+introduction 威镇是来自香港的乐队，于1980年出道，主音为威利，由冯伟林（威利）、冯镜辉、Ricky、Tony和阿友组成。有别于八十年代中后期的乐队组合，乐队各成员主要负责乐器演奏，较少参与创作。现乐队主唱威利仍活跃于歌坛，携同好友们（如，吕珊、张伟文、胡美仪、李隆基等人）一起开演唱会。不得不提的是，威利是1980年代初电视剧《猎鹰》主题歌《胸怀大志》的演唱者。威镇乐队代表作有《阳光空气》《落叶季节》《阳光与希望》等。
+picture http://img.xiami.net/images/artistlogo/80/13791315486680.jpg
+albums 乐在途中%^&*城市之歌%^&*
+albumURLs http://www.xiami.com/album/15582%^&*http://www.xiami.com/album/15581%^&*

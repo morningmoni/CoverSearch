@@ -1,0 +1,7 @@
+number 6650
+name 叶惠美
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/66501387132591.jpg
+songs 以父之名%^&*懦夫%^&*晴天%^&*三年二班%^&*东风破%^&*你听得到%^&*同一种调调%^&*她的睫毛%^&*爱情悬崖%^&*梯田%^&*双刀%^&*
+songURLs http://www.xiami.com/song/376047%^&*http://www.xiami.com/song/376048%^&*http://www.xiami.com/song/376049%^&*http://www.xiami.com/song/376050%^&*http://www.xiami.com/song/376051%^&*http://www.xiami.com/song/376052%^&*http://www.xiami.com/song/376053%^&*http://www.xiami.com/song/376054%^&*http://www.xiami.com/song/376055%^&*http://www.xiami.com/song/376056%^&*http://www.xiami.com/song/376057%^&*

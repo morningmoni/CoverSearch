@@ -1,0 +1,6 @@
+number 488844
+name 筝心情歌
+artist 付娜
+introduction picture http://img.xiami.net/images/album/img14/433914/1326433914.jpg
+songs 男儿当自强%^&*楚歌%^&*浪子心声%^&*倩女幽魂%^&*满江红%^&*难捨难分%^&*万里长城永不倒%^&*旧梦不须记%^&*铁血丹心%^&*纸船%^&*上海滩%^&*沧海一声笑%^&*
+songURLs http://www.xiami.com/song/1770749889%^&*http://www.xiami.com/song/1770749890%^&*http://www.xiami.com/song/1770749891%^&*http://www.xiami.com/song/1770749892%^&*http://www.xiami.com/song/1770749893%^&*http://www.xiami.com/song/1770749894%^&*http://www.xiami.com/song/1770749895%^&*http://www.xiami.com/song/1770749896%^&*http://www.xiami.com/song/1770749897%^&*http://www.xiami.com/song/1770749898%^&*http://www.xiami.com/song/1770749899%^&*http://www.xiami.com/song/1770749900%^&*

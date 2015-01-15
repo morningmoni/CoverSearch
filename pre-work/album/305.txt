@@ -1,0 +1,7 @@
+number 305
+name 闽江琴韵
+artist 陈长林
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10121652808m_2.jpg
+songs 龙朔操%^&*雉朝飞%^&*庄周梦蝶%^&*大胡笳%^&*潇湘水云%^&*阳关三叠%^&*平沙落雁%^&*春江花月夜%^&*
+songURLs http://www.xiami.com/song/3719%^&*http://www.xiami.com/song/3720%^&*http://www.xiami.com/song/3721%^&*http://www.xiami.com/song/3722%^&*http://www.xiami.com/song/3723%^&*http://www.xiami.com/song/3724%^&*http://www.xiami.com/song/3725%^&*http://www.xiami.com/song/3726%^&*

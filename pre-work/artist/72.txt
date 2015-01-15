@@ -1,0 +1,7 @@
+number 72
+name 陈柏全
+place Taiwan 台湾
+introduction 生 日 : 1969.2.12血 型 : A型星 座 : 水瓶座兴 趣 : 弹吉他、羽球、游泳、旅游喜欢的音乐类型：Folk、Rock、unplug梦 想 : 带了把吉他去环游世界经历： 曾出过二张个人专辑(关于昨夜) [1995年歌林唱片发行](陪你狂乱) [1996年百代唱片发行]现任：亚洲电台FM92.7&ldquo;音乐不插电&rdquo;主持人特色及风格：俊帅的外型，弹一手好吉他，有着浓厚的学生王子的气息，每一首情歌让他来诠释，都变成一幕幕充满画面的回忆，声音线条无比温暖
+picture http://img.xiami.net/images/artist/11959383161654.jpg
+albums 陪你狂乱%^&*关于昨夜%^&*
+albumURLs http://www.xiami.com/album/300%^&*http://www.xiami.com/album/299%^&*

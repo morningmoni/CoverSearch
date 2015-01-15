@@ -1,0 +1,6 @@
+number 1768957533
+name 坚强
+artist 黄维德%^&*
+artistURL http://www.xiami.com/artist/400%^&*
+album 坚强
+albumURL http://www.xiami.com/album/334197

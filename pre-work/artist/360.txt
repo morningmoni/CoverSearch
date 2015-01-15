@@ -1,0 +1,7 @@
+number 360
+name 胡越山
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artistlogo/19/12846068341119.jpg
+albums 胡越山 同名专辑%^&*
+albumURLs http://www.xiami.com/album/1580%^&*

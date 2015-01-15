@@ -1,0 +1,6 @@
+number 2466
+name 寻梦
+artist 曹阿咏%^&*
+artistURL http://www.xiami.com/artist/55%^&*
+album 一个人去闯
+albumURL http://www.xiami.com/album/200

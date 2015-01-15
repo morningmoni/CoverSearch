@@ -1,0 +1,7 @@
+number 3293672
+name 细数
+artist 江美琪%^&*吴克羣%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B1%9F%E7%BE%8E%E7%90%AA%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%B4%E5%85%8B%E7%BE%A3%^&*
+album 夜奔
+albumURL http://www.xiami.com/album/297284

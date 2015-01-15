@@ -1,0 +1,6 @@
+number 3545329
+name 没有时候的时候
+artist 施孝荣%^&*
+artistURL http://www.xiami.com/artist/820%^&*
+album 千年之旅
+albumURL http://www.xiami.com/album/318490

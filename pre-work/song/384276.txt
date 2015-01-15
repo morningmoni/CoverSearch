@@ -1,0 +1,6 @@
+number 384276
+name 星星亮了MV
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 1998个人第一张创作专辑
+albumURL http://www.xiami.com/album/32404

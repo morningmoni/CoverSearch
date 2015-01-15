@@ -1,0 +1,6 @@
+number 1307
+name 蔚蓝色的杭盖(蒙语版)
+artist 布仁巴雅尔%^&*
+artistURL http://www.xiami.com/artist/39%^&*
+album 杭盖
+albumURL http://www.xiami.com/album/108

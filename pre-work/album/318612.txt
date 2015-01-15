@@ -1,0 +1,6 @@
+number 318612
+name 我的心里只有你没有她
+artist 纪宏仁
+introduction picture http://img.xiami.net/images/album/img30/430/3186121234842869.jpg
+songs 城市台北%^&*我的心里没有她%^&*爱就半大不小的年纪%^&*这样消失了%^&*飞鸟%^&*电动摇滚%^&*甜蜜的梦%^&*地下英雄 I%^&*地下英雄 II%^&*
+songURLs http://www.xiami.com/song/3539125%^&*http://www.xiami.com/song/3539126%^&*http://www.xiami.com/song/3539127%^&*http://www.xiami.com/song/3539128%^&*http://www.xiami.com/song/3539129%^&*http://www.xiami.com/song/3539130%^&*http://www.xiami.com/song/3539131%^&*http://www.xiami.com/song/3539132%^&*http://www.xiami.com/song/3539133%^&*

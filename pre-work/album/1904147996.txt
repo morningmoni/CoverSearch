@@ -1,0 +1,7 @@
+number 1904147996
+name 白帆日记
+artist 关燕仪
+introduction 
+picture http://img.xiami.net/images/album/img70/1570/19041479961404147996.jpg
+songs 98年的海%^&*尘埃%^&*白帆%^&*菩提本无树%^&*疯姑娘%^&*我住长江头%^&*记忆%^&*如果明天%^&*生命在飘%^&*君生我未生%^&*
+songURLs http://www.xiami.com/song/1773318431%^&*http://www.xiami.com/song/1773318432%^&*http://www.xiami.com/song/1773318433%^&*http://www.xiami.com/song/1773318434%^&*http://www.xiami.com/song/1773318435%^&*http://www.xiami.com/song/1773318436%^&*http://www.xiami.com/song/1773318437%^&*http://www.xiami.com/song/1773318438%^&*http://www.xiami.com/song/1773318439%^&*http://www.xiami.com/song/1773318440%^&*

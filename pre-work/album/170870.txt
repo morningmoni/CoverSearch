@@ -1,0 +1,7 @@
+number 170870
+name 水晶音乐2 曹俊鸿的离情
+artist 曹俊鸿
+introduction 
+picture http://img.xiami.net/images/album/img59/59/170870.jpg
+songs Auld Langsyne 魂断蓝桥%^&*萍聚%^&*升旗典礼的回忆%^&*偶然%^&*钟声轻轻响%^&*道别%^&*再别康桥%^&*骊歌%^&*真夏の果实%^&*送别%^&*
+songURLs http://www.xiami.com/song/2110516%^&*http://www.xiami.com/song/2110517%^&*http://www.xiami.com/song/2110518%^&*http://www.xiami.com/song/2110519%^&*http://www.xiami.com/song/2110520%^&*http://www.xiami.com/song/2110521%^&*http://www.xiami.com/song/2110522%^&*http://www.xiami.com/song/2110523%^&*http://www.xiami.com/song/2110524%^&*http://www.xiami.com/song/2110525%^&*

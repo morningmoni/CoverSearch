@@ -1,0 +1,7 @@
+number 7768
+name 原住民山地情歌1
+artist 春妹
+introduction 在每一场音乐的分享中，创作或演唱的歌手，用歌声带领着人们游走在山谷与潮汐之间，像一场旅行，跟着声音的纵走，寻访自己的风中奇缘。由于没有办法在录音室中再去复制一次相同的互动，我们用现场写真的录音，酿出最为动人的这张合辑。听觉上，它有属于自己适宜的温度；感官上，每首歌有不同海拔的呼吸。
+picture http://img.xiami.net/images/pic/04/01/10011727812m_2.jpg
+songs 高山情歌%^&*想念你%^&*留住客人%^&*山地痴情梦%^&*盼你回来%^&*心相随%^&*远方的情郎%^&*怨情郎%^&*火焰之舞%^&*爱苗%^&*少年郎%^&*甜美的秘密%^&*
+songURLs http://www.xiami.com/song/95517%^&*http://www.xiami.com/song/95518%^&*http://www.xiami.com/song/95519%^&*http://www.xiami.com/song/95520%^&*http://www.xiami.com/song/95521%^&*http://www.xiami.com/song/95522%^&*http://www.xiami.com/song/95523%^&*http://www.xiami.com/song/95524%^&*http://www.xiami.com/song/95525%^&*http://www.xiami.com/song/95526%^&*http://www.xiami.com/song/95527%^&*http://www.xiami.com/song/95528%^&*

@@ -1,0 +1,7 @@
+number 2730
+name False Alarm
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artist/12103031604999.jpg
+albums 世界真係好撚大同%^&*The Time Is Coming%^&*False Alarm%^&*
+albumURLs http://www.xiami.com/album/560824%^&*http://www.xiami.com/album/14551%^&*http://www.xiami.com/album/540534%^&*

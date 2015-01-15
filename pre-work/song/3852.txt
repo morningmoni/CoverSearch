@@ -1,0 +1,6 @@
+number 3852
+name 好聚好散MV
+artist 陈冠蒲%^&*
+artistURL http://www.xiami.com/artist/79%^&*
+album 就让你走
+albumURL http://www.xiami.com/album/317

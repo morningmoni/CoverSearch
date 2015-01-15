@@ -1,0 +1,6 @@
+number 12996
+name 紧紧拥抱我
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/12996.jpg
+songs 永远是你纯纯的脸%^&*紧紧拥抱我%^&*成熟少女心%^&*为何不是我%^&*想你是我的坏习惯%^&*最佳男主角%^&*他的方法都一样%^&*失恋纪念日%^&*选错电影、选错你%^&*少女十诫%^&*
+songURLs http://www.xiami.com/song/159881%^&*http://www.xiami.com/song/159882%^&*http://www.xiami.com/song/159883%^&*http://www.xiami.com/song/159884%^&*http://www.xiami.com/song/159885%^&*http://www.xiami.com/song/159886%^&*http://www.xiami.com/song/159887%^&*http://www.xiami.com/song/159888%^&*http://www.xiami.com/song/159889%^&*http://www.xiami.com/song/159890%^&*

@@ -1,0 +1,6 @@
+number 574614
+name 爱唱蓝调的鱼
+artist 侃侃
+introduction picture http://img.xiami.net/
+songs 爱唱蓝调的鱼%^&*阿娅%^&*爱情啊%^&*
+songURLs http://www.xiami.com/song/1771635154%^&*http://www.xiami.com/song/1771635155%^&*http://www.xiami.com/song/1771635156%^&*

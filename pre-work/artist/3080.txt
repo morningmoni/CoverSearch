@@ -1,0 +1,7 @@
+number 3080
+name 跳房子田原
+place China 中国大陆
+introduction 小档案姓名：田原生日：1985年3月30日身高：165cm体重：48kg血型：A星座：牡羊座出生地：武汉喜欢的颜色：红喜欢的电影：《Fight club》、《穆荷兰道》喜欢的乐队：Smashing Pumpkins喜欢的歌手：Sam Philips（女）吉他/程序编写：李涛&刘利敏大事记2000年6月 &ldquo;跳房子&rdquo;乐队成立于武汉2001年5月 签约摩登天空2001年7月 原主唱离队；田原加入乐队，担任主唱并负责歌词创作2001年7月 &ldquo;跳房子&rdquo;乐队首张全英文专辑录制完成2002年6月 单曲&ldquo;Animal Fazenda&rdquo;收录于合辑《摩登天空4》中2002年6月 田原应邀参加瑞典&ldquo;Global City,Global Youth&rdquo;国际音乐节，并受到瑞典公主接见2002年6月 &ldquo;跳房子&rdquo;Music Video&ldquo;A Wishful Way&rdquo;与&ldquo;When I think of You&rdquo;分别在瑞典和丹麦拍摄2002年8月 英国Channel4电视台赴中国制作田原专题片2002年10月&ldquo;跳房子&rdquo;乐队首张专辑《A Wishful Way》及主唱田原首部长篇小说《斑马森林》同步出版
+picture http://img.xiami.net/images/artist/12271609627209.jpg
+albums A Wishful Way%^&*
+albumURLs http://www.xiami.com/album/15552%^&*

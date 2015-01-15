@@ -1,0 +1,6 @@
+number 181615
+name 昨天、今天、下雨天
+artist 红苹果女子合唱组%^&*
+artistURL http://www.xiami.com/artist/2800%^&*
+album 昨天·今天·下雨天
+albumURL http://www.xiami.com/album/14736

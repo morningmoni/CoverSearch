@@ -1,0 +1,6 @@
+number 102521
+name 或许我们可以
+artist 范文芳%^&*
+artistURL http://www.xiami.com/artist/1510%^&*
+album 想你
+albumURL http://www.xiami.com/album/8252

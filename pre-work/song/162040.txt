@@ -1,0 +1,6 @@
+number 162040
+name 轻轻叫一声亲爱的
+artist 詹曼铃%^&*
+artistURL http://www.xiami.com/artist/2440%^&*
+album 轻声细语
+albumURL http://www.xiami.com/album/13170

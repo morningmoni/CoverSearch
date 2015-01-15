@@ -1,0 +1,7 @@
+number 173
+name 赌情博爱
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img0/1731284018648.jpg
+songs 赌情搏爱%^&*我不甘%^&*有梦尚美%^&*伤心小巷%^&*敬酒%^&*酒醒情袂醒%^&*酒杯情%^&*稳准%^&*乎你水当当%^&*重感情的人%^&*赌情搏爱(卡拉)%^&*有梦尚美(卡拉)%^&*
+songURLs http://www.xiami.com/song/2142%^&*http://www.xiami.com/song/2143%^&*http://www.xiami.com/song/2144%^&*http://www.xiami.com/song/2145%^&*http://www.xiami.com/song/2146%^&*http://www.xiami.com/song/2147%^&*http://www.xiami.com/song/2148%^&*http://www.xiami.com/song/2149%^&*http://www.xiami.com/song/2150%^&*http://www.xiami.com/song/2151%^&*http://www.xiami.com/song/2152%^&*http://www.xiami.com/song/2153%^&*

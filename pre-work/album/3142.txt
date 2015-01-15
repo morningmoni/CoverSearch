@@ -1,0 +1,7 @@
+number 3142
+name 诺言
+artist 刘文正
+introduction 
+picture http://img.xiami.net/images/album/img70/670/31421345166277.jpg
+songs 诺言%^&*邂逅%^&*再相见%^&*雨恋%^&*信任%^&*寻%^&*如果%^&*绿色大地%^&*珊珊%^&*诗意%^&*
+songURLs http://www.xiami.com/song/38776%^&*http://www.xiami.com/song/38777%^&*http://www.xiami.com/song/38778%^&*http://www.xiami.com/song/38779%^&*http://www.xiami.com/song/38780%^&*http://www.xiami.com/song/38781%^&*http://www.xiami.com/song/38782%^&*http://www.xiami.com/song/38783%^&*http://www.xiami.com/song/38784%^&*http://www.xiami.com/song/38785%^&*

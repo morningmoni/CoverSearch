@@ -1,0 +1,7 @@
+number 266
+name Love In L.A.
+artist 陈百强
+introduction 《Love In L.A.》是香港歌手陈百强发行的第二十张专辑。这张专辑值得推介的曲目是收录的第一首歌曲《天生不是情人》由林夕填词，然后为乐迷所更为钟爱的却是专辑中另外两首歌曲。其一是《一生不可自决》，很多人觉得这是陈百强一生的写照，赖健聪作曲，向雪怀填词的《一生不可自决》，透出的悲凉哀痛，令听者心碎。陈百强曾公开表示希望《寂寞的感觉》是其人生中最后一首悲伤之作，而此作品亦继承其一贯唯美伤感的风格。1991年度十大劲歌金曲&ldquo;十大劲歌金曲第一季季选&rdquo;：《一生不可自决》
+picture http://img.xiami.net/images/album/img70/70/2661334049265.jpg
+songs 天生不是情人%^&*寂寞的感觉%^&*南北一家亲%^&*双星情歌%^&*心痛%^&*梦唏嘘%^&*一生不可自决%^&*醉翁之意%^&*半生人%^&*爱在今宵%^&*
+songURLs http://www.xiami.com/song/3348%^&*http://www.xiami.com/song/3349%^&*http://www.xiami.com/song/3350%^&*http://www.xiami.com/song/3351%^&*http://www.xiami.com/song/3352%^&*http://www.xiami.com/song/3353%^&*http://www.xiami.com/song/3354%^&*http://www.xiami.com/song/3355%^&*http://www.xiami.com/song/3356%^&*http://www.xiami.com/song/3357%^&*

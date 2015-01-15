@@ -1,0 +1,7 @@
+number 13285
+name 姊妹
+artist 张惠妹
+introduction 由张雨生亲自担当制作人，为张惠妹定身打造<姐妹> 金曲。专辑中<原来你什么都不要>更是KTV点唱金曲，专辑发行一个星期就疯狂卖出30万张，全台湾销售量破百万，更身为新人的张惠妹打造多首经典曲目，也给歌坛打入了一针强心剂，既能跳又能唱的阿妹张惠妹一炮而红。让人无法忘怀的美好，十年来无可替代的精彩——姊妹十年前，张惠妹用她原始奔放的声音叫醒了整个乐坛十年后，乐坛开始想念那最初最纯粹的感动乐坛抢手翻唱曲“原来你什么都不想要”——用心聆听原唱的浓情演绎“姊妹”——妈妈即兴和声，姐妹快乐帮腔，阿Mei一家的音乐“丰年祭”、“剪爱”，“解脱”，“空中的梦想家”多首经典，这一次，不能再错过。
+picture http://img.xiami.net/images/album/img50/2450/132851361942705.jpg
+songs 原来你什么都不要%^&*姊妹%^&*解脱%^&*冲动%^&*水蓝色眼泪%^&*剪爱%^&*背叛%^&*爱到不能收%^&*认真%^&*空中的梦想家%^&*
+songURLs http://www.xiami.com/song/163527%^&*http://www.xiami.com/song/163528%^&*http://www.xiami.com/song/163529%^&*http://www.xiami.com/song/163530%^&*http://www.xiami.com/song/163531%^&*http://www.xiami.com/song/163532%^&*http://www.xiami.com/song/163533%^&*http://www.xiami.com/song/163534%^&*http://www.xiami.com/song/163535%^&*http://www.xiami.com/song/163536%^&*

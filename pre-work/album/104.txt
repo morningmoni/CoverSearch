@@ -1,0 +1,7 @@
+number 104
+name 新民乐二胡
+artist 卞留念
+introduction 
+picture http://img.xiami.net/images/album/img36/36/104.jpg
+songs 吐鲁番的姑娘%^&*巴赫A小调小提琴协奏曲第一乐章%^&*面纱蒙住你的美丽%^&*花街%^&*春梦%^&*时光飞逝%^&*阳关三叠%^&*二泉映月%^&*茉莉花%^&*小河淌水 (马头琴演奏)%^&*康定情歌%^&*心火%^&*虞美人(京胡演奏)%^&*
+songURLs http://www.xiami.com/song/1216%^&*http://www.xiami.com/song/1217%^&*http://www.xiami.com/song/1218%^&*http://www.xiami.com/song/1219%^&*http://www.xiami.com/song/1220%^&*http://www.xiami.com/song/1221%^&*http://www.xiami.com/song/1222%^&*http://www.xiami.com/song/1223%^&*http://www.xiami.com/song/1224%^&*http://www.xiami.com/song/1225%^&*http://www.xiami.com/song/1226%^&*http://www.xiami.com/song/1227%^&*http://www.xiami.com/song/1228%^&*

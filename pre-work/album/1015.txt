@@ -1,0 +1,6 @@
+number 1015
+name 秋水长天
+artist 冯晓泉
+introduction picture http://img.xiami.net/images/album/img30/230/10151418288192.jpg
+songs 秋水长天%^&*走马看天下%^&*来去今生%^&*乖孩子%^&*苦涩的歌%^&*寇老西儿%^&*壮志飞扬%^&*结婚照片%^&*稻草人%^&*情浓意暖%^&*华人酒%^&*冰糖葫芦%^&*
+songURLs http://www.xiami.com/song/25163%^&*http://www.xiami.com/song/25164%^&*http://www.xiami.com/song/25165%^&*http://www.xiami.com/song/25166%^&*http://www.xiami.com/song/25167%^&*http://www.xiami.com/song/25168%^&*http://www.xiami.com/song/25169%^&*http://www.xiami.com/song/25170%^&*http://www.xiami.com/song/25171%^&*http://www.xiami.com/song/25172%^&*http://www.xiami.com/song/1773782493%^&*http://www.xiami.com/song/1773782494%^&*

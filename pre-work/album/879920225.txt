@@ -1,0 +1,7 @@
+number 879920225
+name 我只需要知道
+artist 邓建明
+introduction 
+picture http://img.xiami.net/images/album/img80/180/8799202251381050782.jpg
+songs 我只需要知道%^&*
+songURLs http://www.xiami.com/song/1772204973%^&*

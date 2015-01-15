@@ -1,0 +1,7 @@
+number 4659
+name 精选集
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/46591375423871.jpg
+songs 向天要一点爱%^&*天上小星星%^&*梦有多长有多远%^&*大地勇士%^&*于是我痛哭一场%^&*天知道我爱你%^&*飞翔在自己的天堂%^&*少了一边的月亮%^&*我要头也不回的走%^&*当爱还来得及%^&*
+songURLs http://www.xiami.com/song/56484%^&*http://www.xiami.com/song/56485%^&*http://www.xiami.com/song/56486%^&*http://www.xiami.com/song/56487%^&*http://www.xiami.com/song/56488%^&*http://www.xiami.com/song/56489%^&*http://www.xiami.com/song/56490%^&*http://www.xiami.com/song/56491%^&*http://www.xiami.com/song/56492%^&*http://www.xiami.com/song/56493%^&*

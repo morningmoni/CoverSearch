@@ -1,0 +1,7 @@
+number 2630
+name Bliss
+place Hongkong 香港
+introduction 小简介Bliss有2位成员，古驰和Oscar。你对这2个名字陌生吗？尚在2人的首张专辑还未面世的时候，大家已经早在在收音机听过他们的派台歌，他们早已为同公司的Juno和吴日言作曲填词，还有更早期为李彩嬅、小雪和2R等担任过幕后工作，所以别看2人&ldquo;生面口&rdquo;，其实他们的音乐，早已进驻你耳朵&hellip;&hellip;Bliss 的首张专辑里面全部作品由古驰作曲，词方面则大部分由Oscar负责，亦因为他们除了唱之外还参与幕后及后期工作，过程也更为繁复，专辑筹备的时间亦增加不少。由6月开始做的专辑，包括多种不同的音乐风格，Jazz、Bossa Nova、Rock等都会在专辑中出现，古驰说，希望第一张专辑在音乐上能做到全面一点，不同的曲风都有，这样专辑会更丰富。而这张专辑的Theme，想讲爱，&ldquo;爱分很多种，男女间的爱、亲人间的爱、还有朋友间的爱&hellip;&hellip;这些在专辑内都会提及，但我更想写的，是一些被人忽略了的爱，好像新派台歌&ldquo;F.M&rdquo;，就是一首讲单亲家庭的歌，这个题材很少有，但其实单亲家庭亦有爱存在，只是大家都好像遗忘了，这不健全却确实存在的爱。&rdquo;
+picture http://img.xiami.net/images/artist/12059980236448.jpg
+albums Return to Bliss%^&*A Change In The Weather%^&*We Are%^&*
+albumURLs http://www.xiami.com/album/320991%^&*http://www.xiami.com/album/2099983471%^&*http://www.xiami.com/album/14176%^&*

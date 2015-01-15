@@ -1,0 +1,6 @@
+number 9323
+name 日落盼郎归
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 日落盼郎归%^&*相思暗断肠%^&*想的是谁%^&*难忘的情人%^&*月下订盟心%^&*情人颂%^&*茶山姑娘%^&*相思断魂%^&*盼郎词%^&*千里送君行%^&*月夜泛轻舟%^&*天降良缘%^&*一曲难寄情怀%^&*天涯踏遍觅郎归%^&*
+songURLs http://www.xiami.com/song/115621%^&*http://www.xiami.com/song/115622%^&*http://www.xiami.com/song/115623%^&*http://www.xiami.com/song/115624%^&*http://www.xiami.com/song/115625%^&*http://www.xiami.com/song/115626%^&*http://www.xiami.com/song/115627%^&*http://www.xiami.com/song/115628%^&*http://www.xiami.com/song/115629%^&*http://www.xiami.com/song/115630%^&*http://www.xiami.com/song/115631%^&*http://www.xiami.com/song/115632%^&*http://www.xiami.com/song/115633%^&*http://www.xiami.com/song/115634%^&*

@@ -1,0 +1,6 @@
+number 32835
+name 秋意上心头
+artist 江明学
+introduction picture http://img.xiami.net/images/album/img40/440/328351413985255.jpg
+songs 秋意上心头%^&*给你呆呆%^&*流水年华%^&*下雨城市%^&*相思%^&*最后一次携手%^&*堆积%^&*北风%^&*倘若%^&*萍聚%^&*
+songURLs http://www.xiami.com/song/392010%^&*http://www.xiami.com/song/392011%^&*http://www.xiami.com/song/392012%^&*http://www.xiami.com/song/392013%^&*http://www.xiami.com/song/392014%^&*http://www.xiami.com/song/392015%^&*http://www.xiami.com/song/392016%^&*http://www.xiami.com/song/392017%^&*http://www.xiami.com/song/392018%^&*http://www.xiami.com/song/392019%^&*

@@ -1,0 +1,7 @@
+number 230743
+name 群星会8
+artist 姚莉
+introduction GPC-5158
+picture http://img.xiami.net/images/album/img70/2370/2307431338720863.jpg
+songs 秋的怀念%^&*那个不多情%^&*人隔万重山%^&*小放牛%^&*带着眼泪唱%^&*重逢%^&*得不到的爱情%^&*秦淮河畔%^&*寂寞的等待%^&*苏州河边%^&*玫瑰玫瑰我爱你%^&*白兰香%^&*恭喜恭喜%^&*喜临门%^&*不要你%^&*花落谁家%^&*永远的怀念%^&*你给我回音%^&*南海之晨%^&*风雨交响曲%^&*夜风雨%^&*
+songURLs http://www.xiami.com/song/2690649%^&*http://www.xiami.com/song/2690650%^&*http://www.xiami.com/song/2690651%^&*http://www.xiami.com/song/2690652%^&*http://www.xiami.com/song/2690653%^&*http://www.xiami.com/song/2690654%^&*http://www.xiami.com/song/2690655%^&*http://www.xiami.com/song/2690656%^&*http://www.xiami.com/song/2690657%^&*http://www.xiami.com/song/2690658%^&*http://www.xiami.com/song/2690659%^&*http://www.xiami.com/song/2690660%^&*http://www.xiami.com/song/1771050615%^&*http://www.xiami.com/song/1771050616%^&*http://www.xiami.com/song/1771050617%^&*http://www.xiami.com/song/1771050618%^&*http://www.xiami.com/song/1771050619%^&*http://www.xiami.com/song/1771050620%^&*http://www.xiami.com/song/1771050621%^&*http://www.xiami.com/song/1771050622%^&*http://www.xiami.com/song/1771050623%^&*

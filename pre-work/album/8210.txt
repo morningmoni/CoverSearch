@@ -1,0 +1,6 @@
+number 8210
+name 池中萍
+artist 董文华
+introduction picture http://img.xiami.net/images/album/img0/1500/8210.jpg
+songs 池中萍%^&*橄榄树%^&*无语%^&*兰花草%^&*播下美丽鲜花的种子%^&*但愿人长久%^&*小河淌水%^&*玛依拉%^&*送别%^&*微风细雨%^&*池中萍(伴奏)%^&*送别(伴奏)%^&*
+songURLs http://www.xiami.com/song/101960%^&*http://www.xiami.com/song/101961%^&*http://www.xiami.com/song/101962%^&*http://www.xiami.com/song/101963%^&*http://www.xiami.com/song/101964%^&*http://www.xiami.com/song/101965%^&*http://www.xiami.com/song/101966%^&*http://www.xiami.com/song/101967%^&*http://www.xiami.com/song/101968%^&*http://www.xiami.com/song/101969%^&*http://www.xiami.com/song/101970%^&*http://www.xiami.com/song/101971%^&*

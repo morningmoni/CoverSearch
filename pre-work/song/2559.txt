@@ -1,0 +1,6 @@
+number 2559
+name 笑我笨
+artist 曹格%^&*
+artistURL http://www.xiami.com/artist/58%^&*
+album 曹格Gary
+albumURL http://www.xiami.com/album/209

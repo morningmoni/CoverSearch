@@ -1,0 +1,6 @@
+number 32697
+name 宝贝计划 电影原声大碟
+artist 陈辉阳
+introduction picture http://img.xiami.net/images/album/img58/7158/32697.jpg
+songs 爸妈的话%^&*Beginning%^&*Kidnap The Baby%^&*Cars Chasing No.1%^&*Cars Chasing No.2%^&*爸妈的话%^&*Looking From Glass%^&*Crazy Woman Is Coming%^&*Baby Is Crying%^&*Chasing The Bus%^&*Same Remains%^&*Supermarket%^&*Regret%^&*Everybody Is Here%^&*You And Me And The Baby%^&*爸妈的话%^&*Saving The Baby%^&*Secret Place%^&*Big Fight%^&*Freeze In%^&*Sorrow%^&*Baby Is Gonna Die/The End%^&*
+songURLs http://www.xiami.com/song/389798%^&*http://www.xiami.com/song/389799%^&*http://www.xiami.com/song/389800%^&*http://www.xiami.com/song/389801%^&*http://www.xiami.com/song/389802%^&*http://www.xiami.com/song/389803%^&*http://www.xiami.com/song/389804%^&*http://www.xiami.com/song/389805%^&*http://www.xiami.com/song/389806%^&*http://www.xiami.com/song/389807%^&*http://www.xiami.com/song/389808%^&*http://www.xiami.com/song/389809%^&*http://www.xiami.com/song/389810%^&*http://www.xiami.com/song/389811%^&*http://www.xiami.com/song/389812%^&*http://www.xiami.com/song/389813%^&*http://www.xiami.com/song/389814%^&*http://www.xiami.com/song/389815%^&*http://www.xiami.com/song/389816%^&*http://www.xiami.com/song/389817%^&*http://www.xiami.com/song/389818%^&*http://www.xiami.com/song/389819%^&*

@@ -1,0 +1,6 @@
+number 10666
+name 少年黄飞鸿
+artist 柳影虹
+introduction picture http://img.xiami.net/images/album/img50/1950/10666.jpg
+songs 愿你走快步%^&*月夜想当年%^&*断肠梦%^&*救救孩子%^&*下雨天%^&*重头爱一遍%^&*少年黄飞鸿%^&*午夜梦魂牵%^&*爱的过客%^&*梦中叫着谁%^&*摇篮曲%^&*少年黄飞鸿主题音乐%^&*
+songURLs http://www.xiami.com/song/131482%^&*http://www.xiami.com/song/131483%^&*http://www.xiami.com/song/131484%^&*http://www.xiami.com/song/131485%^&*http://www.xiami.com/song/131486%^&*http://www.xiami.com/song/131487%^&*http://www.xiami.com/song/131488%^&*http://www.xiami.com/song/131489%^&*http://www.xiami.com/song/131490%^&*http://www.xiami.com/song/131491%^&*http://www.xiami.com/song/131492%^&*http://www.xiami.com/song/131493%^&*

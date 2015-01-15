@@ -1,0 +1,6 @@
+number 1452
+name 爱是何价
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 绝对空虚
+albumURL http://www.xiami.com/album/118

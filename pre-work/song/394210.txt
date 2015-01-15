@@ -1,0 +1,6 @@
+number 394210
+name 双雁影
+artist 李泰祥%^&*
+artistURL http://www.xiami.com/artist/550%^&*
+album 中国交响世纪4 台湾幻想曲
+albumURL http://www.xiami.com/album/520686

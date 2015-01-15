@@ -1,0 +1,7 @@
+number 130
+name 完美先生
+artist 蔡国权
+introduction 
+picture http://img.xiami.net/images/album/img43/43/1301334021884.jpg
+songs 让我假设有你%^&*自夸%^&*花之恋%^&*完美先生%^&*不装饰你的梦%^&*风中劲草%^&*顺流逆流%^&*寒傲似冰%^&*如梦初醒%^&*一切也愿意%^&*是谁在我耳边唱%^&*冬%^&*亮了红灯%^&*不应再犹豫%^&*爱情组曲%^&*再恋%^&*醉人的一晚%^&*世事如棋%^&*真假情话%^&*飘忽的爱%^&*童年%^&*恕难从命%^&*创造命运%^&*长夜%^&*真金不怕熊炉火%^&*香江暖流%^&*再见也许不再会%^&*
+songURLs http://www.xiami.com/song/1592%^&*http://www.xiami.com/song/1593%^&*http://www.xiami.com/song/1594%^&*http://www.xiami.com/song/1595%^&*http://www.xiami.com/song/1596%^&*http://www.xiami.com/song/1597%^&*http://www.xiami.com/song/1598%^&*http://www.xiami.com/song/1599%^&*http://www.xiami.com/song/1600%^&*http://www.xiami.com/song/1601%^&*http://www.xiami.com/song/1602%^&*http://www.xiami.com/song/1603%^&*http://www.xiami.com/song/1604%^&*http://www.xiami.com/song/1605%^&*http://www.xiami.com/song/1606%^&*http://www.xiami.com/song/1607%^&*http://www.xiami.com/song/1608%^&*http://www.xiami.com/song/1609%^&*http://www.xiami.com/song/1610%^&*http://www.xiami.com/song/1611%^&*http://www.xiami.com/song/1612%^&*http://www.xiami.com/song/1613%^&*http://www.xiami.com/song/1614%^&*http://www.xiami.com/song/1615%^&*http://www.xiami.com/song/1616%^&*http://www.xiami.com/song/1617%^&*http://www.xiami.com/song/1618%^&*

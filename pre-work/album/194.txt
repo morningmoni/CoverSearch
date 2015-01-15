@@ -1,0 +1,7 @@
+number 194
+name 生命的太阳
+artist 蔡振南
+introduction 多桑最炽热的歌声演出蔡振南首张个人专辑吴念真: 歌声是这个人最宝贵的东西，尤其是他歌声中的情感，释放了台湾民间的苦闷与压抑侯孝贤: 只有他自己来演唱他自己的创作，更能表现出歌曲的神韵，也才带给她更大的创作空间，创作和唱歌对他而言几乎是互动的詹宏志: 当你听见一次蔡振南，几乎就不可能忘记蔡振南火势推荐:生命的太阳 母亲的名叫台湾 抬头一下看
+picture http://img.xiami.net/images/album/img51/51/1941317286307.jpg
+songs 生命的太阳%^&*抬头一下看%^&*野玫瑰%^&*母亲的名字叫台湾%^&*一只鸟仔哮啾啾%^&*一直摇头%^&*流浪天涯伴吉他%^&*最后的谈判%^&*放浪人生%^&*黑暗天%^&*流浪之歌%^&*
+songURLs http://www.xiami.com/song/2387%^&*http://www.xiami.com/song/2388%^&*http://www.xiami.com/song/2389%^&*http://www.xiami.com/song/2390%^&*http://www.xiami.com/song/2391%^&*http://www.xiami.com/song/2392%^&*http://www.xiami.com/song/2393%^&*http://www.xiami.com/song/2394%^&*http://www.xiami.com/song/2395%^&*http://www.xiami.com/song/2396%^&*http://www.xiami.com/song/2397%^&*

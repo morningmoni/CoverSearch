@@ -1,0 +1,7 @@
+number 273
+name 我的所有
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2731338860993.jpg
+songs 烟雨凄迷%^&*从今以后%^&*盼三年%^&*至爱%^&*未唱的歌%^&*我的故事%^&*长伴千世纪%^&*漫长盼望%^&*无声胜有声%^&*梦里人%^&*凝望%^&*迷失中有着你%^&*痴心眼内藏%^&*
+songURLs http://www.xiami.com/song/389528%^&*http://www.xiami.com/song/389529%^&*http://www.xiami.com/song/389530%^&*http://www.xiami.com/song/389531%^&*http://www.xiami.com/song/389532%^&*http://www.xiami.com/song/389533%^&*http://www.xiami.com/song/389534%^&*http://www.xiami.com/song/389535%^&*http://www.xiami.com/song/389536%^&*http://www.xiami.com/song/389537%^&*http://www.xiami.com/song/389538%^&*http://www.xiami.com/song/389539%^&*http://www.xiami.com/song/389540%^&*

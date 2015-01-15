@@ -1,0 +1,7 @@
+number 134
+name 天意人心(名曲经典)
+artist 蔡国权
+introduction 
+picture http://img.xiami.net/images/album/img0/1341284010289.jpg
+songs 天意人心%^&*怀念你一世纪%^&*寒傲似冰%^&*风中劲草%^&*创作我的歌%^&*追忆%^&*想念你%^&*无心快语%^&*是谁在我耳边唱%^&*最后的一班渡轮%^&*情难舍%^&*世事如棋%^&*爱的独白%^&*尽诉心中情%^&*
+songURLs http://www.xiami.com/song/1656%^&*http://www.xiami.com/song/1657%^&*http://www.xiami.com/song/1658%^&*http://www.xiami.com/song/1659%^&*http://www.xiami.com/song/1660%^&*http://www.xiami.com/song/1661%^&*http://www.xiami.com/song/1662%^&*http://www.xiami.com/song/1663%^&*http://www.xiami.com/song/1664%^&*http://www.xiami.com/song/1665%^&*http://www.xiami.com/song/1666%^&*http://www.xiami.com/song/1667%^&*http://www.xiami.com/song/1668%^&*http://www.xiami.com/song/1669%^&*

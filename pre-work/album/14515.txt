@@ -1,0 +1,7 @@
+number 14515
+name Ja Ja Jammin On A Groovy Wave
+artist Echo
+introduction 这是一张Echo混音专辑。Echo组合以唱大路情歌为主，但若论组合风格，则以《第四者》、《舌战》等最为突出。拆伙之后李蕙敏继续其歌唱事业，而区海伦则在婚后已退出娱乐圈。
+picture http://img.xiami.net/images/album/img20/2720/145151375345125.jpg
+songs 高温赤裸%^&*风度·疯道 Mix%^&*准许我爱你 (Remix)%^&*第四者 Mix 第四者%^&*深呼吸 (Not Again Remix)%^&*Hello！Goodbye！ (Summer Remix)%^&*情是空 Mix 情是梦%^&*不再纠缠 (Celebration Party Remix)%^&*
+songURLs http://www.xiami.com/song/179146%^&*http://www.xiami.com/song/179147%^&*http://www.xiami.com/song/179148%^&*http://www.xiami.com/song/179149%^&*http://www.xiami.com/song/179150%^&*http://www.xiami.com/song/179151%^&*http://www.xiami.com/song/179152%^&*http://www.xiami.com/song/179153%^&*

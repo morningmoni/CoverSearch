@@ -1,0 +1,7 @@
+number 7445
+name 你的柔情我永远不懂
+artist 陈琳
+introduction 
+picture http://img.xiami.net/images/album/img0/1400/7445.jpg
+songs 假如爱上别人早点告诉我%^&*永远找不到爱你的方式%^&*你的柔情我永远不懂%^&*平衡%^&*My Love So Long%^&*冷雨%^&*温柔的距离%^&*这一刻我是真心的%^&*走不出你的目光%^&*我不愿爱得太疲惫%^&*
+songURLs http://www.xiami.com/song/91871%^&*http://www.xiami.com/song/91872%^&*http://www.xiami.com/song/91873%^&*http://www.xiami.com/song/91874%^&*http://www.xiami.com/song/91875%^&*http://www.xiami.com/song/91876%^&*http://www.xiami.com/song/91877%^&*http://www.xiami.com/song/91878%^&*http://www.xiami.com/song/91879%^&*http://www.xiami.com/song/91880%^&*

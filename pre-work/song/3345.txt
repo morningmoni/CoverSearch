@@ -1,0 +1,6 @@
+number 3345
+name 痴情岁月
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 亲爱的您
+albumURL http://www.xiami.com/album/265

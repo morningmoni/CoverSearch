@@ -1,0 +1,7 @@
+number 369
+name 12金钗众生花
+artist 陈辉阳
+introduction 
+picture http://img.xiami.net/images/album/img89/89/3691315916286.jpg
+songs 十二金钗 (Prelude)%^&*众生花%^&*荼蘼时代%^&*Vissi D&#039;arte (I Lived For Art)%^&*酒涡与燕窝%^&*三千年前 (Remix)%^&*天涯歌女 (So Poetic Remix)%^&*星星月亮太阳%^&*爱情动物%^&*走出红楼%^&*我自跳我舞%^&*想这样得那样%^&*流芳怨%^&*三千年后%^&*众生花 (古筝 Remix)%^&*
+songURLs http://www.xiami.com/song/4455%^&*http://www.xiami.com/song/4456%^&*http://www.xiami.com/song/4457%^&*http://www.xiami.com/song/4458%^&*http://www.xiami.com/song/4459%^&*http://www.xiami.com/song/4460%^&*http://www.xiami.com/song/4461%^&*http://www.xiami.com/song/4462%^&*http://www.xiami.com/song/4463%^&*http://www.xiami.com/song/4464%^&*http://www.xiami.com/song/4465%^&*http://www.xiami.com/song/4466%^&*http://www.xiami.com/song/4467%^&*http://www.xiami.com/song/4468%^&*http://www.xiami.com/song/4469%^&*

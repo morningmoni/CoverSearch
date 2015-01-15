@@ -1,0 +1,7 @@
+number 75
+name 陈德彰
+place Hongkong 香港
+introduction 1985年，由陈德彰和黄耀光组成二人乐队Raidas，陈德彰（主唱），黄耀光（作曲），林夕几乎包办全部的歌词。乐队的起名非常有趣，因为二人全都喜欢看美国的电影《夺宝奇兵》，所以就以第一集《失落的圣约柜》的英文电影名Raides（稍作改变）做为乐队的名字。斯皮尔伯格+乔治卢卡斯+哈里森福特，的确是非常精彩。1989年，因为意见不合，乐队解散（有人认为自己的收入应该高过对方），陈德彰单飞后在&ldquo;艺视&rdquo;又出了一张专集&ldquo;此情可待&rdquo;后，就转入华纳公司发展，但是也只出了一张专集&ldquo;只有爱&rdquo;。虽然请来了他的哥哥为他作曲，但不尽如人意。1991年10月，在广州天河城体育馆举行的&ldquo;华纳群星献爱心&rdquo;演唱会上，陈德彰演唱了《别人的歌》、《只有爱》，非常受欢迎。
+picture http://img.xiami.net/images/artistlogo/8/14186365107208.jpg
+albums 现代重奏有你室乐演唱会%^&*只有爱%^&*此情可待%^&*
+albumURLs http://www.xiami.com/album/306%^&*http://www.xiami.com/album/308%^&*http://www.xiami.com/album/309%^&*

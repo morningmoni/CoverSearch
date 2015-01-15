@@ -1,0 +1,7 @@
+number 350
+name 古典琴诉III
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img0/3501288864261.jpg
+songs 萧邦:第一号诙谐曲,作品20,B小调%^&*萧邦:第二号诙谐曲,作品31,降B小调%^&*李斯特:奏鸣曲&quot;旦丁读后感&quot;%^&*萧邦:第三号诙谐曲,作品39,升C小调%^&*萧邦:第四号诙谐曲,作品45,E小调%^&*拉威尔:小丑的晨歌%^&*莫札特:D小调幻想曲K.397%^&*
+songURLs http://www.xiami.com/song/4227%^&*http://www.xiami.com/song/4228%^&*http://www.xiami.com/song/4229%^&*http://www.xiami.com/song/4230%^&*http://www.xiami.com/song/4231%^&*http://www.xiami.com/song/4232%^&*http://www.xiami.com/song/4233%^&*

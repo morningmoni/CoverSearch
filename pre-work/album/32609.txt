@@ -1,0 +1,7 @@
+number 32609
+name 米
+artist 何欣穗
+introduction 
+picture http://img.xiami.net/images/album/img10/1610/326091369638617.jpg
+songs 时间没有等我%^&*三种解释%^&*讽刺 (2005 Acoustic Version)%^&*
+songURLs http://www.xiami.com/song/388265%^&*http://www.xiami.com/song/388266%^&*http://www.xiami.com/song/388267%^&*

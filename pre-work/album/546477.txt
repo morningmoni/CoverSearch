@@ -1,0 +1,6 @@
+number 546477
+name 跟你谈恋爱
+artist 詹曼铃
+introduction picture http://img.xiami.net/images/album/img98/664798/1349664798.jpg
+songs 窗外的小雨%^&*伤情%^&*孤单月%^&*嗨呀嗨呀%^&*恋爱%^&*缘份%^&*已经无心%^&*碍到别人尪%^&*爱情批%^&*一切做伊飞%^&*
+songURLs http://www.xiami.com/song/1771356941%^&*http://www.xiami.com/song/1771356942%^&*http://www.xiami.com/song/1771356943%^&*http://www.xiami.com/song/1771356944%^&*http://www.xiami.com/song/1771356945%^&*http://www.xiami.com/song/1771356946%^&*http://www.xiami.com/song/1771356947%^&*http://www.xiami.com/song/1771356948%^&*http://www.xiami.com/song/1771356949%^&*http://www.xiami.com/song/1771356950%^&*

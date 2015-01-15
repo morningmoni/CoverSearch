@@ -1,0 +1,7 @@
+number 253425
+name 中国民歌精英
+artist 宋祖英
+introduction 1994年首次CD化发行，专辑名称为《中国民歌精英》 ISRC: CN-F25-94-337-00/A.J62009年第二次再版，专辑改名为《中国湖南民歌》 ISRC: CN-F25-09-304-00/A.J6宋祖英首张个人专辑珍藏版中国音乐学院民乐队伴奏珠江音像出品
+picture http://img.xiami.net/images/album/img10/2110/2534251398601308.jpg
+songs 四季花儿开%^&*辣椒歌%^&*瓜子歌%^&*马桑树儿搭灯台%^&*阿哥你莫走%^&*一根竹子容易弯%^&*郎从对门来%^&*小小幺姑%^&*上四川%^&*嘀格调%^&*小背篓%^&*几时再回吊脚楼%^&*乡里妹子进城来%^&*今日苗山歌最多%^&*
+songURLs http://www.xiami.com/song/2902418%^&*http://www.xiami.com/song/2902419%^&*http://www.xiami.com/song/2902420%^&*http://www.xiami.com/song/2902421%^&*http://www.xiami.com/song/2902422%^&*http://www.xiami.com/song/2902423%^&*http://www.xiami.com/song/2902424%^&*http://www.xiami.com/song/1769929716%^&*http://www.xiami.com/song/1769929717%^&*http://www.xiami.com/song/1769929718%^&*http://www.xiami.com/song/1769929719%^&*http://www.xiami.com/song/1769929720%^&*http://www.xiami.com/song/1769929721%^&*http://www.xiami.com/song/1769929722%^&*

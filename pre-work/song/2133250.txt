@@ -1,0 +1,6 @@
+number 2133250
+name 一生何求
+artist 杜冲%^&*
+artistURL http://www.xiami.com/artist/200%^&*
+album 情缘
+albumURL http://www.xiami.com/album/172605

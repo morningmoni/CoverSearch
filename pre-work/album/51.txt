@@ -1,0 +1,7 @@
+number 51
+name Polaris
+artist 강타
+introduction 
+picture http://img.xiami.net/images/album/img19/19/511236590036.jpg
+songs 오 그대를%^&*별의 고백(Essay)%^&*북극성%^&*Thanks God%^&*스물 셋%^&*겨울(나의 이야기 하나)(Essay)%^&*In Your Eyes%^&*당신이 알고 있던 난...(Still...)%^&*Doobidub%^&*나...세상...나(I Will)(My Story2)(Essay)%^&*그 해 여름%^&*Blue Moon%^&*하얀 얼굴로%^&*오늘같이 이런 창밖이 좋아%^&*북극성(Instrumental)%^&*
+songURLs http://www.xiami.com/song/3402326%^&*http://www.xiami.com/song/3402327%^&*http://www.xiami.com/song/3402328%^&*http://www.xiami.com/song/3402329%^&*http://www.xiami.com/song/3402330%^&*http://www.xiami.com/song/3402331%^&*http://www.xiami.com/song/3402332%^&*http://www.xiami.com/song/3402333%^&*http://www.xiami.com/song/3402334%^&*http://www.xiami.com/song/3402335%^&*http://www.xiami.com/song/3402336%^&*http://www.xiami.com/song/3402337%^&*http://www.xiami.com/song/3402338%^&*http://www.xiami.com/song/3402339%^&*http://www.xiami.com/song/3402340%^&*

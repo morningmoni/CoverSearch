@@ -1,0 +1,6 @@
+number 467
+name 今天我家有聚会
+artist 艾尔肯%^&*
+artistURL http://www.xiami.com/artist/16%^&*
+album 博客
+albumURL http://www.xiami.com/album/39

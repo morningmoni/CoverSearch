@@ -1,0 +1,7 @@
+number 6907
+name 日出
+artist 蔡淳佳
+introduction 
+picture http://img.xiami.net/images/album/img40/1340/69071318040434.jpg
+songs 不还你%^&*陪我看日出%^&*突发奇想%^&*与生俱来%^&*Rain(Interlude)%^&*雨天%^&*爱上你的时候%^&*好女人%^&*Future(Interlude)%^&*你的未来%^&*我想快乐些%^&*蝴蝶%^&*看见%^&*陪我看日出(Karaoke)%^&*突发奇想(Karaoke)%^&*
+songURLs http://www.xiami.com/song/84337%^&*http://www.xiami.com/song/84338%^&*http://www.xiami.com/song/84339%^&*http://www.xiami.com/song/84340%^&*http://www.xiami.com/song/84341%^&*http://www.xiami.com/song/84342%^&*http://www.xiami.com/song/84343%^&*http://www.xiami.com/song/84344%^&*http://www.xiami.com/song/84345%^&*http://www.xiami.com/song/84346%^&*http://www.xiami.com/song/84347%^&*http://www.xiami.com/song/84348%^&*http://www.xiami.com/song/84349%^&*http://www.xiami.com/song/84350%^&*http://www.xiami.com/song/84351%^&*

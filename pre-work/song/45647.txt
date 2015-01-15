@@ -1,0 +1,6 @@
+number 45647
+name 回乡的囝仔
+artist 七郎%^&*
+artistURL http://www.xiami.com/artist/780%^&*
+album 情海波浪
+albumURL http://www.xiami.com/album/3717

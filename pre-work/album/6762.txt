@@ -1,0 +1,7 @@
+number 6762
+name 是不是梦
+artist 艾敬
+introduction 
+picture http://img.xiami.net/images/album/img0/1300/6762.jpg
+songs 水牛66%^&*纽约,纽约%^&*Party%^&*摩擦%^&*Stupid Girl%^&*是不是梦%^&*雪花儿%^&*你是我的天使%^&*天空原野 (一)%^&*天空原野 (二)  [纯音乐 艾敬朗读]%^&*
+songURLs http://www.xiami.com/song/381913%^&*http://www.xiami.com/song/381914%^&*http://www.xiami.com/song/381915%^&*http://www.xiami.com/song/381916%^&*http://www.xiami.com/song/381917%^&*http://www.xiami.com/song/381918%^&*http://www.xiami.com/song/381919%^&*http://www.xiami.com/song/381920%^&*http://www.xiami.com/song/381921%^&*http://www.xiami.com/song/381922%^&*

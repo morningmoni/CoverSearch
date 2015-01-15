@@ -1,0 +1,6 @@
+number 1396
+name 诱惑
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album Kenneth Today
+albumURL http://www.xiami.com/album/113

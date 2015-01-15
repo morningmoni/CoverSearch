@@ -1,0 +1,7 @@
+number 1887
+name 圣诞音乐盒
+artist 纪宏仁
+introduction RC-1531987年滚石发行的卡带专辑。
+picture http://img.xiami.net/images/pic/04/03/10103764098m_2.jpg
+songs 圣诞老人进城咯%^&*齐来崇拜%^&*普世欢腾%^&*听那天使的歌声%^&*平安夜%^&*小伯利恒%^&*这位奇妙婴孩是谁%^&*张灯与结彩%^&*第一个圣诞夜%^&*荣耀的礼赞%^&*
+songURLs http://www.xiami.com/song/1772328157%^&*http://www.xiami.com/song/1772328158%^&*http://www.xiami.com/song/1772328159%^&*http://www.xiami.com/song/1772328160%^&*http://www.xiami.com/song/1772328161%^&*http://www.xiami.com/song/1772328162%^&*http://www.xiami.com/song/1772328163%^&*http://www.xiami.com/song/1772328164%^&*http://www.xiami.com/song/1772328165%^&*http://www.xiami.com/song/1772328166%^&*

@@ -1,0 +1,7 @@
+number 2082
+name 难分难离
+artist 蔡小虎%^&*王瑞霞%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%B0%8F%E8%99%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%8E%8B%E7%91%9E%E9%9C%9E%^&*
+album 蝴蝶梦
+albumURL http://www.xiami.com/album/168

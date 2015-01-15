@@ -1,0 +1,7 @@
+number 14895
+name 那个季节里的歌4
+artist 刘罡
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10136643958m_2.jpg
+songs 迟来的爱%^&*读你%^&*爱你一万年%^&*片片枫叶情%^&*蜗牛%^&*谈心%^&*追梦人%^&*恰似你的温柔%^&*挥着翅膀的女孩%^&*羞答答的玫瑰静悄悄地开%^&*有一天我会%^&*约定%^&*难得有情人%^&*
+songURLs http://www.xiami.com/song/183242%^&*http://www.xiami.com/song/183243%^&*http://www.xiami.com/song/183244%^&*http://www.xiami.com/song/183245%^&*http://www.xiami.com/song/183246%^&*http://www.xiami.com/song/183247%^&*http://www.xiami.com/song/183248%^&*http://www.xiami.com/song/183249%^&*http://www.xiami.com/song/183250%^&*http://www.xiami.com/song/183251%^&*http://www.xiami.com/song/183252%^&*http://www.xiami.com/song/183253%^&*http://www.xiami.com/song/183254%^&*

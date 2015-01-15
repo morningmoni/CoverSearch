@@ -1,0 +1,6 @@
+number 1596
+name 不装饰你的梦MV
+artist 蔡国权%^&*
+artistURL http://www.xiami.com/artist/43%^&*
+album 完美先生
+albumURL http://www.xiami.com/album/130

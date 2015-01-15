@@ -1,0 +1,6 @@
+number 1197
+name 叫三毛的女孩
+artist 腾格尔%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%85%BE%E6%A0%BC%E5%B0%94%^&*
+album 毕晓世的音乐之旅 全心作品集
+albumURL http://www.xiami.com/album/102

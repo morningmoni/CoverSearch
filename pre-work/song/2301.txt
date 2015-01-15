@@ -1,0 +1,6 @@
+number 2301
+name 想你到天光
+artist 江蕙%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B1%9F%E8%95%99%^&*
+album 台湾南歌精选辑
+albumURL http://www.xiami.com/album/187

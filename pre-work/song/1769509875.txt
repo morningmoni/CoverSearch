@@ -1,0 +1,6 @@
+number 1769509875
+name 超人不会飞
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album 跨时代
+albumURL http://www.xiami.com/album/380285

@@ -1,0 +1,6 @@
+number 2414
+name 三分钟的爱
+artist 蔡镇冲%^&*
+artistURL http://www.xiami.com/artist/52%^&*
+album 金曲会知音
+albumURL http://www.xiami.com/album/195

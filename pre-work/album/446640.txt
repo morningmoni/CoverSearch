@@ -1,0 +1,6 @@
+number 446640
+name 码头酒
+artist 陈雷
+introduction picture http://img.xiami.net/images/album/img47/296147/1308296147.jpg
+songs 码头酒%^&*我是为你好%^&*罗汉脚仔%^&*感情的线路%^&*甭搁推%^&*永远不变的爱%^&*港边惜别%^&*故乡的月%^&*流浪之歌%^&*再会呀港都%^&*三年的旧情%^&*流浪的吉普赛姑娘%^&*
+songURLs http://www.xiami.com/song/1770275457%^&*http://www.xiami.com/song/1770275458%^&*http://www.xiami.com/song/1770275459%^&*http://www.xiami.com/song/1770275460%^&*http://www.xiami.com/song/1770275461%^&*http://www.xiami.com/song/1770275462%^&*http://www.xiami.com/song/1770275463%^&*http://www.xiami.com/song/1770275464%^&*http://www.xiami.com/song/1770275465%^&*http://www.xiami.com/song/1770275466%^&*http://www.xiami.com/song/1770275467%^&*http://www.xiami.com/song/1770275468%^&*

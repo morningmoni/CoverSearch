@@ -1,0 +1,7 @@
+number 32934
+name 我是罗美玲
+artist 罗美玲
+introduction 温暖系的鼓舞＋疗伤系的抚慰，她就像凉凉秋意中的一杯热珍奶，有点甜、有点暖、有点QQ的好感觉，让你上瘾的好声音--『我是罗美玲』
+picture http://img.xiami.net/images/album/img70/1970/329341377838236.jpg
+songs 不一样的爱%^&*睡过头%^&*转转%^&*生日领悟%^&*一个星期的纪念日%^&*不能说走就走%^&*喜欢就是喜欢%^&*说不出我爱你%^&*姐妹淘%^&*不痛多好%^&*青春悲喜曲%^&*
+songURLs http://www.xiami.com/song/393059%^&*http://www.xiami.com/song/393060%^&*http://www.xiami.com/song/393061%^&*http://www.xiami.com/song/393062%^&*http://www.xiami.com/song/393063%^&*http://www.xiami.com/song/393064%^&*http://www.xiami.com/song/393065%^&*http://www.xiami.com/song/393066%^&*http://www.xiami.com/song/393067%^&*http://www.xiami.com/song/393068%^&*http://www.xiami.com/song/393069%^&*

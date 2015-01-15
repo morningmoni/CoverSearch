@@ -1,0 +1,7 @@
+number 520
+name 李家明
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artist/95/12488557647495.jpg
+albums 情没法设防%^&*回到真我%^&*不老的情人%^&*
+albumURLs http://www.xiami.com/album/335341%^&*http://www.xiami.com/album/2275%^&*http://www.xiami.com/album/2276%^&*

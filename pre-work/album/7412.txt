@@ -1,0 +1,7 @@
+number 7412
+name 揭晓
+artist 陈洁仪
+introduction 
+picture http://img.xiami.net/images/album/img90/1390/74121391090606.jpg
+songs 揭晓%^&*失踪%^&*分裂%^&*分享孤独(粤语版)%^&*我怕%^&*爱情在那天开始%^&*这一分钟%^&*风景%^&*你如果好锡我%^&*最后一课%^&*
+songURLs http://www.xiami.com/song/91525%^&*http://www.xiami.com/song/91526%^&*http://www.xiami.com/song/91527%^&*http://www.xiami.com/song/91528%^&*http://www.xiami.com/song/91529%^&*http://www.xiami.com/song/91530%^&*http://www.xiami.com/song/91531%^&*http://www.xiami.com/song/91532%^&*http://www.xiami.com/song/91533%^&*http://www.xiami.com/song/91534%^&*

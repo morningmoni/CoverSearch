@@ -1,0 +1,6 @@
+number 53987
+name 秋思
+artist 王昌元%^&*
+artistURL http://www.xiami.com/artist/890%^&*
+album 中国古筝名家名曲2
+albumURL http://www.xiami.com/album/4434

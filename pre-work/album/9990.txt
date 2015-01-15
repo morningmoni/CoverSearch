@@ -1,0 +1,7 @@
+number 9990
+name 同一个星空下
+artist 李心洁
+introduction 
+picture http://img.xiami.net/images/album/img20/1820/99901387134179.jpg
+songs 你的好%^&*同一个星空下%^&*第一次约会%^&*Happy Together%^&*任性%^&*吵架%^&*想哭得时候我跳舞%^&*空虚%^&*哎呀哎呀%^&*翩翩起舞%^&*
+songURLs http://www.xiami.com/song/123304%^&*http://www.xiami.com/song/123305%^&*http://www.xiami.com/song/123306%^&*http://www.xiami.com/song/123307%^&*http://www.xiami.com/song/123308%^&*http://www.xiami.com/song/123309%^&*http://www.xiami.com/song/123310%^&*http://www.xiami.com/song/123311%^&*http://www.xiami.com/song/123312%^&*http://www.xiami.com/song/123313%^&*

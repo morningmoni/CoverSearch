@@ -1,0 +1,6 @@
+number 3766
+name 十万个可能
+artist 陈德彰%^&*
+artistURL http://www.xiami.com/artist/75%^&*
+album 此情可待
+albumURL http://www.xiami.com/album/309

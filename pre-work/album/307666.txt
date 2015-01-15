@@ -1,0 +1,7 @@
+number 307666
+name 丢丢弹
+artist 陈雷
+introduction 
+picture http://img.xiami.net/images/album/img0/100/307666.gif
+songs 丢丢弹%^&*我若变好额%^&*放呼醉%^&*快乐免开钱%^&*无采我的爱%^&*换角度想看你%^&*那个人%^&*爱人不免惊%^&*阮欲返来去%^&*啥款%^&*
+songURLs http://www.xiami.com/song/3402873%^&*http://www.xiami.com/song/3402874%^&*http://www.xiami.com/song/3402875%^&*http://www.xiami.com/song/3402876%^&*http://www.xiami.com/song/3402877%^&*http://www.xiami.com/song/3402878%^&*http://www.xiami.com/song/3402879%^&*http://www.xiami.com/song/3402880%^&*http://www.xiami.com/song/3402881%^&*http://www.xiami.com/song/3402882%^&*

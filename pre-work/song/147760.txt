@@ -1,0 +1,6 @@
+number 147760
+name 照亮自己
+artist 王默君%^&*
+artistURL http://www.xiami.com/artist/2190%^&*
+album 纪念遗作专辑
+albumURL http://www.xiami.com/album/11999

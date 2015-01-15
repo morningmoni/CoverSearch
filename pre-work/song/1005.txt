@@ -1,0 +1,6 @@
+number 1005
+name Empty Room空房间
+artist Daydream%^&*
+artistURL http://www.xiami.com/artist/30%^&*
+album Little Comfort
+albumURL http://www.xiami.com/album/87

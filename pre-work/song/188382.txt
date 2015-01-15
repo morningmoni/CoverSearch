@@ -1,0 +1,6 @@
+number 188382
+name 情缘(音乐版)
+artist 水琉璃%^&*
+artistURL http://www.xiami.com/artist/3040%^&*
+album 心灵菩提
+albumURL http://www.xiami.com/album/15349

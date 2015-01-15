@@ -1,0 +1,6 @@
+number 3128
+name 秋蝉
+artist 刘文正
+introduction picture http://img.xiami.net/images/pic/07/01/50_20070708_160231_3955m_2.jpg
+songs 秋蝉%^&*小姑娘%^&*雨中的故事%^&*小草%^&*考生的话%^&*绿色的初恋%^&*一条日光大道%^&*欢聚%^&*春天的故事%^&*西北雁%^&*阳光和小雨%^&*不要说是我负你%^&*
+songURLs http://www.xiami.com/song/38620%^&*http://www.xiami.com/song/38621%^&*http://www.xiami.com/song/38622%^&*http://www.xiami.com/song/38623%^&*http://www.xiami.com/song/38624%^&*http://www.xiami.com/song/38625%^&*http://www.xiami.com/song/38626%^&*http://www.xiami.com/song/38627%^&*http://www.xiami.com/song/38628%^&*http://www.xiami.com/song/38629%^&*http://www.xiami.com/song/38630%^&*http://www.xiami.com/song/38631%^&*

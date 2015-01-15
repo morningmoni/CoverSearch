@@ -1,0 +1,7 @@
+number 3122
+name 一段情
+artist 刘文正
+introduction 《一段情》海山版和宝丽金版曲目略有不同，海山版独家收录一曲《天蚕变》，且曲序也不一样。宝丽金版曲序A: 1.一段情、2.忘了我的错、3.请留住你的脚步、4.期待、5.月光下的你B: 1.爱不要给太多、2.我的女主角、3.改过、4.忘了吧、5.不要说再见、6.再爱我一次海山版曲序A: 1.请留住你的脚步、2.期待、3.我的女主角、4.月光下的你、5.天蚕变B: 1.一段情、2.忘了我的错、3.爱不要给太多、4.改过、5.忘了吧
+picture http://img.xiami.net/images/album/img70/670/31221394021525.jpg
+songs 一段情%^&*忘了我的错%^&*请留住你的脚步%^&*期待%^&*月光下的你%^&*爱不要给太多%^&*我的女主角%^&*改过%^&*忘了吧%^&*不要说再见%^&*再爱我一次%^&*天蚕变%^&*
+songURLs http://www.xiami.com/song/1772173256%^&*http://www.xiami.com/song/1772173257%^&*http://www.xiami.com/song/1772173258%^&*http://www.xiami.com/song/1772173259%^&*http://www.xiami.com/song/1772173260%^&*http://www.xiami.com/song/1772173261%^&*http://www.xiami.com/song/1772173262%^&*http://www.xiami.com/song/1772173263%^&*http://www.xiami.com/song/1772173264%^&*http://www.xiami.com/song/1772173265%^&*http://www.xiami.com/song/1772173266%^&*http://www.xiami.com/song/1772605741%^&*

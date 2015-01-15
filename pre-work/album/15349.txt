@@ -1,0 +1,7 @@
+number 15349
+name 心灵菩提
+artist 水琉璃
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10142563078m_2.jpg
+songs 水琉璃%^&*宁静夜%^&*天空%^&*佛陀圆无曲%^&*丰收年华%^&*乐土%^&*清净法身佛%^&*秋铃%^&*祈福%^&*情缘(音乐版)%^&*水琉璃(音乐版)%^&*清净法身佛(音乐版)%^&*
+songURLs http://www.xiami.com/song/188373%^&*http://www.xiami.com/song/188374%^&*http://www.xiami.com/song/188375%^&*http://www.xiami.com/song/188376%^&*http://www.xiami.com/song/188377%^&*http://www.xiami.com/song/188378%^&*http://www.xiami.com/song/188379%^&*http://www.xiami.com/song/188380%^&*http://www.xiami.com/song/188381%^&*http://www.xiami.com/song/188382%^&*http://www.xiami.com/song/188383%^&*http://www.xiami.com/song/188384%^&*

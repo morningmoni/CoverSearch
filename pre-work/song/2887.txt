@@ -1,0 +1,6 @@
+number 2887
+name 新天地
+artist 常宽%^&*
+artistURL http://www.xiami.com/artist/68%^&*
+album 高仓健快走开
+albumURL http://www.xiami.com/album/237

@@ -1,0 +1,7 @@
+number 3024
+name 曾在你怀抱
+artist 陈百强%^&*林姗姗%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E7%99%BE%E5%BC%BA%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E5%A7%97%E5%A7%97%^&*
+album 完全 陈百强
+albumURL http://www.xiami.com/album/248

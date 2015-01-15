@@ -1,0 +1,6 @@
+number 8996
+name 一家一减你
+artist 邓建明%^&*
+artistURL http://www.xiami.com/artist/180%^&*
+album Joey Music Factory
+albumURL http://www.xiami.com/album/739

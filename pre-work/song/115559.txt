@@ -1,0 +1,6 @@
+number 115559
+name 爱像雷电
+artist 丽莎%^&*
+artistURL http://www.xiami.com/artist/1680%^&*
+album 回想曲
+albumURL http://www.xiami.com/album/9318

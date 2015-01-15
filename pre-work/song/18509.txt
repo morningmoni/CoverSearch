@@ -1,0 +1,6 @@
+number 18509
+name 等郎
+artist 李泰祥%^&*
+artistURL http://www.xiami.com/artist/550%^&*
+album 偶然与追寻
+albumURL http://www.xiami.com/album/2476

@@ -1,0 +1,6 @@
+number 4261
+name 丽萨
+artist 汤潮
+introduction picture http://img.xiami.net/images/album/img60/860/4261.jpg
+songs 丽萨%^&*天堂姑娘%^&*爱已欠费停机%^&*愿意%^&*有情人终成眷属(对唱)%^&*你这个让我爱错的女人%^&*让我哭吧%^&*地铁玫瑰%^&*花开的时候我回来%^&*中国男人%^&*丽萨(伴奏)%^&*有情人终成眷属(伴奏)%^&*
+songURLs http://www.xiami.com/song/52270%^&*http://www.xiami.com/song/52271%^&*http://www.xiami.com/song/52272%^&*http://www.xiami.com/song/52273%^&*http://www.xiami.com/song/52274%^&*http://www.xiami.com/song/52275%^&*http://www.xiami.com/song/52276%^&*http://www.xiami.com/song/52277%^&*http://www.xiami.com/song/52278%^&*http://www.xiami.com/song/52279%^&*http://www.xiami.com/song/52280%^&*http://www.xiami.com/song/52281%^&*

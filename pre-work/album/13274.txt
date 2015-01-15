@@ -1,0 +1,7 @@
+number 13274
+name 感觉
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132741360220632.jpg
+songs 给我感觉%^&*日出%^&*给我感觉(Unplugged)%^&*给我感觉(弦乐版)%^&*
+songURLs http://www.xiami.com/song/163426%^&*http://www.xiami.com/song/163428%^&*http://www.xiami.com/song/163430%^&*http://www.xiami.com/song/163431%^&*

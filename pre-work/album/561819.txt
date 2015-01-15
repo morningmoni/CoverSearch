@@ -1,0 +1,7 @@
+number 561819
+name 一篇故事
+artist 胡歌
+introduction 《一篇故事》是由唐人电影打造的都市时尚系列剧《刷新3+7》的片尾曲，由胡歌演唱。
+picture http://img.xiami.net/images/album/img50/350/5618191354873049.jpg
+songs 一篇故事%^&*
+songURLs http://www.xiami.com/song/1771511469%^&*

@@ -1,0 +1,7 @@
+number 13312
+name 水平衡
+artist 张米亚
+introduction 美国新世纪音乐最佳厂牌Narada唱片公司，近年来力荐的华人钢琴家－张米亚，继佳评如潮的新世纪钢琴独奏专辑&ldquo;美梦&ldquo;(Sweet Dreams)之后，再度献上她最优美，充满感性的完美创作．在这张名为水平衡(Water Circles)的专辑中Mia将来自中国古代先人的智慧结晶转化升华，在每一首曲子的旋律中，似乎都蕴含着丰硕美满的人生意涵．在简单的封面内页中，我们阅读到管子对&ldquo;水&rdquo;的诠释：水是地球之母，是一切创造的泉源，同时孕育了天地间的万物．透过深刻而柔顺的琴音，带领着听者进入一个纯净无邪的世外桃园．在Mia的琴音中有一股抚慰人心的温暖力量，那种贴近心崁的声音像是初春的第一道绵绵细雨，带来温暖和滋润，为大地增添蓬勃朝气。
+picture http://img.xiami.net/images/album/img60/2460/13312.jpg
+songs Water Circles%^&*Spring Shower%^&*Stream%^&*Lily Pond%^&*Fountain%^&*Wishing Well%^&*Waterdance%^&*Lagoon%^&*Riverside%^&*Tide Pool%^&*Morning Dew%^&*Floating%^&*
+songURLs http://www.xiami.com/song/163820%^&*http://www.xiami.com/song/163821%^&*http://www.xiami.com/song/163822%^&*http://www.xiami.com/song/163823%^&*http://www.xiami.com/song/163824%^&*http://www.xiami.com/song/163825%^&*http://www.xiami.com/song/163826%^&*http://www.xiami.com/song/163827%^&*http://www.xiami.com/song/163828%^&*http://www.xiami.com/song/163829%^&*http://www.xiami.com/song/163830%^&*http://www.xiami.com/song/163831%^&*

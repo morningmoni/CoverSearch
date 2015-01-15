@@ -1,0 +1,6 @@
+number 86734
+name 四月六日
+artist 蔡诗芸%^&*
+artistURL http://www.xiami.com/artist/1350%^&*
+album 紫外线
+albumURL http://www.xiami.com/album/7049

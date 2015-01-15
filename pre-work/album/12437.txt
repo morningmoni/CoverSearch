@@ -1,0 +1,7 @@
+number 12437
+name 小提琴协奏曲 洪湖·梁祝
+artist 徐惟聆
+introduction 
+picture http://img.xiami.net/images/album/img20/2320/124371401284450.jpg
+songs 洪湖小提琴协奏曲%^&*梁祝小提琴协奏曲%^&*江河水%^&*
+songURLs http://www.xiami.com/song/152761%^&*http://www.xiami.com/song/152762%^&*http://www.xiami.com/song/152763%^&*

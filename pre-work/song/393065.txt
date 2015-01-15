@@ -1,0 +1,6 @@
+number 393065
+name 喜欢就是喜欢
+artist 罗美玲%^&*
+artistURL http://www.xiami.com/artist/1970%^&*
+album 我是罗美玲
+albumURL http://www.xiami.com/album/32934

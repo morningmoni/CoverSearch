@@ -1,0 +1,6 @@
+number 5070
+name 槟城艳
+artist 陈任%^&*
+artistURL http://www.xiami.com/artist/112%^&*
+album Joe Chan 2nd Impression
+albumURL http://www.xiami.com/album/425

@@ -1,0 +1,6 @@
+number 3591
+name 还是爱你
+artist 莫少聪
+introduction picture http://img.xiami.net/images/pic/04/03/10085732725m_2.jpg
+songs 玩肚饿%^&*无声的告别%^&*最佳女主角%^&*再见你的晚上%^&*这夜有没有天亮%^&*越恨越爱%^&*斜望%^&*其实我还是爱你%^&*终于都失去你%^&*回来身边好吗?%^&*
+songURLs http://www.xiami.com/song/44076%^&*http://www.xiami.com/song/44077%^&*http://www.xiami.com/song/44078%^&*http://www.xiami.com/song/44079%^&*http://www.xiami.com/song/44080%^&*http://www.xiami.com/song/44081%^&*http://www.xiami.com/song/44082%^&*http://www.xiami.com/song/44083%^&*http://www.xiami.com/song/44084%^&*http://www.xiami.com/song/44085%^&*

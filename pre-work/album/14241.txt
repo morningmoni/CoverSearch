@@ -1,0 +1,7 @@
+number 14241
+name 乘着歌声的翅膀
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14241.jpg
+songs 乘着歌声的翅膀%^&*星星索%^&*欢喜之歌%^&*伦敦德里小调%^&*种稻%^&*小白花%^&*梦幻曲(德国)%^&*卡布利岛(意大利)%^&*苏罗河流水(印尼)%^&*跳起我的霍拉舞(以色列)%^&*野宴(英格兰)%^&*乒乓碰(美国)%^&*山腰上的家%^&*快,快进来跳舞%^&*
+songURLs http://www.xiami.com/song/175835%^&*http://www.xiami.com/song/175836%^&*http://www.xiami.com/song/175837%^&*http://www.xiami.com/song/175838%^&*http://www.xiami.com/song/175839%^&*http://www.xiami.com/song/175840%^&*http://www.xiami.com/song/175841%^&*http://www.xiami.com/song/175842%^&*http://www.xiami.com/song/175843%^&*http://www.xiami.com/song/175844%^&*http://www.xiami.com/song/175845%^&*http://www.xiami.com/song/175846%^&*http://www.xiami.com/song/175847%^&*http://www.xiami.com/song/175848%^&*

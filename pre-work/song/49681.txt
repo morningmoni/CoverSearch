@@ -1,0 +1,6 @@
+number 49681
+name 因为爱你
+artist 邰正宵%^&*
+artistURL http://www.xiami.com/artist/850%^&*
+album 蓝色贝壳
+albumURL http://www.xiami.com/album/4060

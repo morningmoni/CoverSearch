@@ -1,0 +1,6 @@
+number 115772
+name 卖歌辛酸史
+artist 丽莎%^&*
+artistURL http://www.xiami.com/artist/1680%^&*
+album 相思泪
+albumURL http://www.xiami.com/album/9334

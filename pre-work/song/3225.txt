@@ -1,0 +1,6 @@
+number 3225
+name 对不对
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 离不开…
+albumURL http://www.xiami.com/album/258

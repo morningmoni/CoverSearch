@@ -1,0 +1,7 @@
+number 4434
+name 中国古筝名家名曲2
+artist 王昌元
+introduction 
+picture http://img.xiami.net/images/pic/04/05/10143929981m_2.jpg
+songs 高山流水%^&*海青拿天鹅%^&*雪山春晓%^&*荔枝红%^&*东海渔歌%^&*战台风%^&*梅花三弄%^&*出水莲%^&*秋思%^&*迎花轿%^&*秦桑曲%^&*
+songURLs http://www.xiami.com/song/53979%^&*http://www.xiami.com/song/53980%^&*http://www.xiami.com/song/53981%^&*http://www.xiami.com/song/53982%^&*http://www.xiami.com/song/53983%^&*http://www.xiami.com/song/53984%^&*http://www.xiami.com/song/53985%^&*http://www.xiami.com/song/53986%^&*http://www.xiami.com/song/53987%^&*http://www.xiami.com/song/53988%^&*http://www.xiami.com/song/53989%^&*

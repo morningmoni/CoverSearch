@@ -1,0 +1,6 @@
+number 146
+name 一生爱您一个
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1461334021895.jpg
+songs 一生爱你一个%^&*车厢岁月%^&*六日爱七天%^&*飘渺%^&*无心快语%^&*吉人天相%^&*爱恋时候%^&*乐韵表心事%^&*面庞的探访%^&*新的指引%^&*固执%^&*
+songURLs http://www.xiami.com/song/1798%^&*http://www.xiami.com/song/1799%^&*http://www.xiami.com/song/1800%^&*http://www.xiami.com/song/1801%^&*http://www.xiami.com/song/1802%^&*http://www.xiami.com/song/1803%^&*http://www.xiami.com/song/1804%^&*http://www.xiami.com/song/1805%^&*http://www.xiami.com/song/1806%^&*http://www.xiami.com/song/1807%^&*http://www.xiami.com/song/1808%^&*

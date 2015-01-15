@@ -1,0 +1,6 @@
+number 6825
+name 新歌+Remix
+artist 柏安妮
+introduction picture http://img.xiami.net/images/album/img0/68251267690271.jpg
+songs 不举伞的雨天%^&*不想再拥有(Remix)%^&*尖东(Remix)%^&*魔鬼的火窝(Remix)%^&*
+songURLs http://www.xiami.com/song/83449%^&*http://www.xiami.com/song/83450%^&*http://www.xiami.com/song/83451%^&*http://www.xiami.com/song/83452%^&*

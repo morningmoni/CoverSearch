@@ -1,0 +1,7 @@
+number 43777
+name 昨天晚上的分手电话
+artist 满江%^&*金海心%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%BB%A1%E6%B1%9F%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%87%91%E6%B5%B7%E5%BF%83%^&*
+album 烟火
+albumURL http://www.xiami.com/album/3556

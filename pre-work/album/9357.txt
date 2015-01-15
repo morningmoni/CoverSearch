@@ -1,0 +1,7 @@
+number 9357
+name 船歌
+artist 冀璠
+introduction 
+picture http://img.xiami.net/images/album/img90/1690/9357.jpg
+songs 嘉和舞曲%^&*军队进行曲%^&*蝴蝶%^&*船歌%^&*潺潺流水%^&*幽默曲%^&*时间舞曲%^&*阿尼塔之舞%^&*春之歌%^&*爱的致敬%^&*西班牙之舞%^&*喷泉%^&*弄臣%^&*梦想曲%^&*圣母颂%^&*
+songURLs http://www.xiami.com/song/1771047610%^&*http://www.xiami.com/song/1771047609%^&*http://www.xiami.com/song/116037%^&*http://www.xiami.com/song/1771047611%^&*http://www.xiami.com/song/1771047612%^&*http://www.xiami.com/song/1771047613%^&*http://www.xiami.com/song/1771047614%^&*http://www.xiami.com/song/1771047615%^&*http://www.xiami.com/song/1771047616%^&*http://www.xiami.com/song/1771047617%^&*http://www.xiami.com/song/1771047618%^&*http://www.xiami.com/song/1771047619%^&*http://www.xiami.com/song/1771047620%^&*http://www.xiami.com/song/1771047621%^&*http://www.xiami.com/song/1771047622%^&*

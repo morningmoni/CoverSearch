@@ -1,0 +1,7 @@
+number 10920
+name I'm So Happy
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109201387338326.jpg
+songs 童梦失魂夜%^&*我很快乐%^&*笑%^&*同声一哭%^&*断章一%^&*美女与怪兽%^&*爱的教育%^&*阴差阳错%^&*全日凶%^&*床呀!床!%^&*由十七岁开始%^&*断章二%^&*
+songURLs http://www.xiami.com/song/134910%^&*http://www.xiami.com/song/134911%^&*http://www.xiami.com/song/134912%^&*http://www.xiami.com/song/134913%^&*http://www.xiami.com/song/134914%^&*http://www.xiami.com/song/134915%^&*http://www.xiami.com/song/134916%^&*http://www.xiami.com/song/134917%^&*http://www.xiami.com/song/134918%^&*http://www.xiami.com/song/134919%^&*http://www.xiami.com/song/134920%^&*http://www.xiami.com/song/134921%^&*

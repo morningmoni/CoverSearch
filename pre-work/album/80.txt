@@ -1,0 +1,7 @@
+number 80
+name Funk
+artist Bjack
+introduction 
+picture http://img.xiami.net/images/album/img26/26/801398915219.jpg
+songs 挑什么%^&*Prada小姐%^&*吸血鬼%^&*巷口集会%^&*没有人会管%^&*
+songURLs http://www.xiami.com/song/924%^&*http://www.xiami.com/song/925%^&*http://www.xiami.com/song/926%^&*http://www.xiami.com/song/927%^&*http://www.xiami.com/song/928%^&*

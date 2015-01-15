@@ -1,0 +1,6 @@
+number 4118
+name 幸福不用等
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 候鸟流星雨
+albumURL http://www.xiami.com/album/338

@@ -1,0 +1,6 @@
+number 3036
+name 地下裁判团原曲：&quot;It&#039;s Sin&quot; PET SHOP BOYS
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 完全 陈百强
+albumURL http://www.xiami.com/album/248

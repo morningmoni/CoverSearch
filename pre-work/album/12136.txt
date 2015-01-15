@@ -1,0 +1,6 @@
+number 12136
+name 文佩玲
+artist 文佩玲
+introduction picture http://img.xiami.net/images/album/img30/2230/12136.jpg
+songs 浪子Jacky%^&*零晨情人%^&*紫色香槟夜%^&*知音千个%^&*火焰霓虹%^&*曾经爱过%^&*等着你回来%^&*未如天算%^&*午夜狂奔%^&*追问%^&*
+songURLs http://www.xiami.com/song/2049757%^&*http://www.xiami.com/song/2049758%^&*http://www.xiami.com/song/2049759%^&*http://www.xiami.com/song/2049760%^&*http://www.xiami.com/song/2049761%^&*http://www.xiami.com/song/2049762%^&*http://www.xiami.com/song/2049763%^&*http://www.xiami.com/song/2049764%^&*http://www.xiami.com/song/2049765%^&*http://www.xiami.com/song/2049766%^&*

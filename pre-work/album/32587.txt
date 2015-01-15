@@ -1,0 +1,7 @@
+number 32587
+name 幸福氧气
+artist 卓文萱
+introduction 
+picture http://img.xiami.net/images/album/img80/2580/325871385086498.jpg
+songs 幸福氧气%^&*手心%^&*小脾气%^&*最后，盐对胡椒说…%^&*疯了疯了%^&*自从遇见你%^&*读心术%^&*忍心%^&*被你爱过我很快乐%^&*甜甜圈%^&*
+songURLs http://www.xiami.com/song/387875%^&*http://www.xiami.com/song/387876%^&*http://www.xiami.com/song/387877%^&*http://www.xiami.com/song/387878%^&*http://www.xiami.com/song/387879%^&*http://www.xiami.com/song/387880%^&*http://www.xiami.com/song/387881%^&*http://www.xiami.com/song/387882%^&*http://www.xiami.com/song/387883%^&*http://www.xiami.com/song/387884%^&*

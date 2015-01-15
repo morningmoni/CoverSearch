@@ -1,0 +1,6 @@
+number 52276
+name 让我哭吧
+artist 汤潮%^&*
+artistURL http://www.xiami.com/artist/860%^&*
+album 丽萨
+albumURL http://www.xiami.com/album/4261

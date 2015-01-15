@@ -1,0 +1,7 @@
+number 12993
+name 安妮的王子
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/129931393813354.jpg
+songs 小教父%^&*诱惑我的心%^&*Sayonara%^&*Second Chance%^&*与敌人共枕%^&*十二少%^&*亲密的背后%^&*恶魔的新娘%^&*陪在你左右%^&*诱惑我的心(Kala版)%^&*
+songURLs http://www.xiami.com/song/159847%^&*http://www.xiami.com/song/159848%^&*http://www.xiami.com/song/159849%^&*http://www.xiami.com/song/159850%^&*http://www.xiami.com/song/159851%^&*http://www.xiami.com/song/159852%^&*http://www.xiami.com/song/159853%^&*http://www.xiami.com/song/159854%^&*http://www.xiami.com/song/159855%^&*http://www.xiami.com/song/159856%^&*

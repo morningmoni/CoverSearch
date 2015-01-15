@@ -1,0 +1,7 @@
+number 150
+name 成震
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11979738792939.jpg
+albums 未锁之门%^&*A20高速公路(吉他中国系列唱片4)%^&*
+albumURLs http://www.xiami.com/album/340914%^&*http://www.xiami.com/album/657%^&*

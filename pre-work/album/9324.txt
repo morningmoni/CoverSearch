@@ -1,0 +1,6 @@
+number 9324
+name 分飞燕
+artist 丽莎
+introduction picture http://img.xiami.net/images/pic/04/03/10092629079m_2.jpg
+songs 负心汉%^&*甜蜜的回忆%^&*情迷意乱%^&*恨绵绵%^&*一水隔天涯%^&*泪痕%^&*秋风吹谢了春红%^&*分飞燕%^&*蝶影满桃园%^&*情如梦%^&*春花快谢了%^&*怕记旧日情%^&*孤灯泪影%^&*心声泪影%^&*
+songURLs http://www.xiami.com/song/115635%^&*http://www.xiami.com/song/115636%^&*http://www.xiami.com/song/115637%^&*http://www.xiami.com/song/115638%^&*http://www.xiami.com/song/115639%^&*http://www.xiami.com/song/115640%^&*http://www.xiami.com/song/115641%^&*http://www.xiami.com/song/115642%^&*http://www.xiami.com/song/115643%^&*http://www.xiami.com/song/115644%^&*http://www.xiami.com/song/115645%^&*http://www.xiami.com/song/115646%^&*http://www.xiami.com/song/115647%^&*http://www.xiami.com/song/115648%^&*

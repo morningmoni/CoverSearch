@@ -1,0 +1,6 @@
+number 1923
+name 歌
+artist 江明学
+introduction picture http://img.xiami.net/images/album/img40/440/1923.jpg
+songs 歌%^&*给安妮的一封信%^&*想一次你 换一次疼%^&*你总是那么地那么%^&*我剩下的寂寞刚刚好%^&*换个心情%^&*如果真的可以%^&*你是我的唯一%^&*我还有心 我还有爱%^&*那年夏季%^&*
+songURLs http://www.xiami.com/song/35859%^&*http://www.xiami.com/song/35860%^&*http://www.xiami.com/song/35861%^&*http://www.xiami.com/song/35862%^&*http://www.xiami.com/song/35863%^&*http://www.xiami.com/song/35864%^&*http://www.xiami.com/song/35865%^&*http://www.xiami.com/song/35866%^&*http://www.xiami.com/song/35867%^&*http://www.xiami.com/song/35868%^&*

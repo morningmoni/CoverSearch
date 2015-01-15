@@ -1,0 +1,6 @@
+number 3859
+name 泪
+artist 陈冠希%^&*
+artistURL http://www.xiami.com/artist/80%^&*
+album 让我再次介绍我自己
+albumURL http://www.xiami.com/album/318

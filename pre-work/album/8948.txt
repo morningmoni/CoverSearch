@@ -1,0 +1,7 @@
+number 8948
+name 多桑
+artist 洪百慧
+introduction 
+picture http://img.xiami.net/images/album/img20/1620/89481392632408.jpg
+songs 重逢日子%^&*多桑%^&*用心肝爱过的人%^&*阿母的话%^&*不甘送别你%^&*青春赌一摆%^&*一生只有你%^&*异乡情%^&*叫我怎样甘%^&*爱你的心%^&*
+songURLs http://www.xiami.com/song/111178%^&*http://www.xiami.com/song/111179%^&*http://www.xiami.com/song/111180%^&*http://www.xiami.com/song/111181%^&*http://www.xiami.com/song/111182%^&*http://www.xiami.com/song/111183%^&*http://www.xiami.com/song/111184%^&*http://www.xiami.com/song/111185%^&*http://www.xiami.com/song/111186%^&*http://www.xiami.com/song/111187%^&*

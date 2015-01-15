@@ -1,0 +1,10 @@
+number 154668
+name 蜗牛MV
+artist 许茹芸%^&*齐秦%^&*熊天平%^&*动力火车%^&*李洁%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%AE%B8%E8%8C%B9%E8%8A%B8%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BD%90%E7%A7%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%86%8A%E5%A4%A9%E5%B9%B3%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%8E%E6%B4%81%^&*
+album 真爱无敌
+albumURL http://www.xiami.com/album/12580

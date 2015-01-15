@@ -1,0 +1,6 @@
+number 345
+name 钢琴之爱6
+artist 陈冠宇
+introduction picture http://img.xiami.net/images/pic/04/01/10002225578m_2.jpg
+songs 那一场风花雪月的事%^&*你在他乡%^&*出嫁%^&*选择%^&*难以抗拒你容颜%^&*明明白白我的心%^&*潇洒走一回%^&*来生缘%^&*这里有爱等我回来%^&*我记得你眼里的依恋%^&*
+songURLs http://www.xiami.com/song/4180%^&*http://www.xiami.com/song/4181%^&*http://www.xiami.com/song/4182%^&*http://www.xiami.com/song/4183%^&*http://www.xiami.com/song/4184%^&*http://www.xiami.com/song/4185%^&*http://www.xiami.com/song/4186%^&*http://www.xiami.com/song/4187%^&*http://www.xiami.com/song/4188%^&*http://www.xiami.com/song/4189%^&*

@@ -1,0 +1,6 @@
+number 419301
+name 让太空人跳舞
+artist 瓢虫
+introduction picture http://img.xiami.net/images/album/img60/2960/4193011294392234.jpg
+songs 旅行车%^&*国王的飞马%^&*落下海里的声音%^&*让航天员跳舞%^&*新歌%^&*国王的飞马(Fish混音版)%^&*鬼小孩(DJ@llen混音版)%^&*
+songURLs http://www.xiami.com/song/1769959249%^&*http://www.xiami.com/song/1769959250%^&*http://www.xiami.com/song/1769959251%^&*http://www.xiami.com/song/1769959252%^&*http://www.xiami.com/song/1769959253%^&*http://www.xiami.com/song/1769959254%^&*http://www.xiami.com/song/1769959255%^&*

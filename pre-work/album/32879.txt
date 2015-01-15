@@ -1,0 +1,7 @@
+number 32879
+name 蔡淳佳EP
+artist 蔡淳佳
+introduction 十二位音乐人联名 真诚推荐新加坡销售小天后蔡淳佳最新单曲全球温暖首发
+picture http://img.xiami.net/images/album/img40/1340/328791383555764.jpg
+songs 蔡淳佳ID%^&*依恋%^&*等一个晴天%^&*
+songURLs http://www.xiami.com/song/392438%^&*http://www.xiami.com/song/392439%^&*http://www.xiami.com/song/392440%^&*

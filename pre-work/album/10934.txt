@@ -1,0 +1,6 @@
+number 10934
+name 变
+artist 梅艳芳
+introduction picture http://img.xiami.net/images/album/img0/2000/109341417781448.jpeg
+songs 绯闻中的女人%^&*飞跃舞台%^&*坏女孩%^&*冰山大火%^&*妖女%^&*似火探戈%^&*欲望野兽街%^&*封面女郎%^&*梦里共醉%^&*Touch%^&*回头已是百年身%^&*梦姬%^&*黑夜的豹%^&*
+songURLs http://www.xiami.com/song/135078%^&*http://www.xiami.com/song/135079%^&*http://www.xiami.com/song/135080%^&*http://www.xiami.com/song/135081%^&*http://www.xiami.com/song/135082%^&*http://www.xiami.com/song/135083%^&*http://www.xiami.com/song/135084%^&*http://www.xiami.com/song/135085%^&*http://www.xiami.com/song/135086%^&*http://www.xiami.com/song/135087%^&*http://www.xiami.com/song/135088%^&*http://www.xiami.com/song/135089%^&*http://www.xiami.com/song/135090%^&*

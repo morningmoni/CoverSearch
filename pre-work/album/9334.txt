@@ -1,0 +1,6 @@
+number 9334
+name 相思泪
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 难忘旧爱%^&*相思泪%^&*百花亭之恋%^&*思君怨%^&*啤酒女郎%^&*情话绵绵%^&*花团锦簇%^&*夜夜寄相思%^&*相思梦难圆%^&*卖歌辛酸史%^&*禅院钟声%^&*卖花女%^&*红豆相思%^&*丝丝泪%^&*一段情%^&*情人在远方%^&*
+songURLs http://www.xiami.com/song/115763%^&*http://www.xiami.com/song/115764%^&*http://www.xiami.com/song/115765%^&*http://www.xiami.com/song/115766%^&*http://www.xiami.com/song/115767%^&*http://www.xiami.com/song/115768%^&*http://www.xiami.com/song/115769%^&*http://www.xiami.com/song/115770%^&*http://www.xiami.com/song/115771%^&*http://www.xiami.com/song/115772%^&*http://www.xiami.com/song/115773%^&*http://www.xiami.com/song/115774%^&*http://www.xiami.com/song/115775%^&*http://www.xiami.com/song/115776%^&*http://www.xiami.com/song/115777%^&*http://www.xiami.com/song/115778%^&*

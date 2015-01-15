@@ -1,0 +1,6 @@
+number 3141
+name 可爱的女孩·永恒的爱
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/3141.jpg
+songs 可爱的女孩%^&*青青山脉%^&*神话%^&*小小心愿%^&*惜别%^&*永恒的爱%^&*永远牢记你%^&*妈妈%^&*方砖路上%^&*你多可爱%^&*
+songURLs http://www.xiami.com/song/38766%^&*http://www.xiami.com/song/38767%^&*http://www.xiami.com/song/38768%^&*http://www.xiami.com/song/38769%^&*http://www.xiami.com/song/38770%^&*http://www.xiami.com/song/38771%^&*http://www.xiami.com/song/38772%^&*http://www.xiami.com/song/38773%^&*http://www.xiami.com/song/38774%^&*http://www.xiami.com/song/38775%^&*

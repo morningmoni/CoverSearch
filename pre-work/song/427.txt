@@ -1,0 +1,6 @@
+number 427
+name 别军营
+artist 阿振%^&*
+artistURL http://www.xiami.com/artist/13%^&*
+album 兵心
+albumURL http://www.xiami.com/album/36

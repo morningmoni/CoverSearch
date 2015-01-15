@@ -1,0 +1,7 @@
+number 14239
+name 阿拉木汗
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14239.jpg
+songs 阿拉木汗%^&*格桑卓玛%^&*阿瓦尔古里%^&*花儿与少年%^&*小河淌水%^&*在那遥远的地方%^&*康定情歌%^&*森吉德玛%^&*送情郎%^&*六月茉莉%^&*等你到天明%^&*都达尔和玛丽亚%^&*
+songURLs http://www.xiami.com/song/175809%^&*http://www.xiami.com/song/175810%^&*http://www.xiami.com/song/175811%^&*http://www.xiami.com/song/175812%^&*http://www.xiami.com/song/175813%^&*http://www.xiami.com/song/175814%^&*http://www.xiami.com/song/175815%^&*http://www.xiami.com/song/175816%^&*http://www.xiami.com/song/175817%^&*http://www.xiami.com/song/175818%^&*http://www.xiami.com/song/175819%^&*http://www.xiami.com/song/175820%^&*

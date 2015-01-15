@@ -1,0 +1,6 @@
+number 123269
+name 追追追
+artist 李心洁%^&*
+artistURL http://www.xiami.com/artist/1820%^&*
+album 爱像大海
+albumURL http://www.xiami.com/album/9984

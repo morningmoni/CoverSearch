@@ -1,0 +1,7 @@
+number 22
+name 黄昏思情
+artist 阿吉仔
+introduction 
+picture http://img.xiami.net/images/album/img0/221281605737.jpg
+songs 黄昏思情%^&*爱情走马灯%^&*东港未了情%^&*走唱人生%^&*将感情放水流%^&*悲情的城市%^&*可怜恋花再会吧%^&*温泉乡的吉他%^&*惜别夜港边%^&*黄昏思情(伴唱)%^&*雾夜的灯塔%^&*故乡的月%^&*何时再相会%^&*爱情走马灯(伴唱)%^&*东港未了情(伴唱)%^&*
+songURLs http://www.xiami.com/song/289%^&*http://www.xiami.com/song/290%^&*http://www.xiami.com/song/291%^&*http://www.xiami.com/song/292%^&*http://www.xiami.com/song/293%^&*http://www.xiami.com/song/294%^&*http://www.xiami.com/song/295%^&*http://www.xiami.com/song/296%^&*http://www.xiami.com/song/297%^&*http://www.xiami.com/song/301%^&*http://www.xiami.com/song/298%^&*http://www.xiami.com/song/299%^&*http://www.xiami.com/song/300%^&*http://www.xiami.com/song/302%^&*http://www.xiami.com/song/303%^&*

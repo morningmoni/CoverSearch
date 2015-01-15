@@ -1,0 +1,6 @@
+number 33879
+name 突然之间
+artist 黄维德%^&*
+artistURL http://www.xiami.com/artist/400%^&*
+album 好Man
+albumURL http://www.xiami.com/album/1773

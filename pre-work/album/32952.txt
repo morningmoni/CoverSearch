@@ -1,0 +1,7 @@
+number 32952
+name 我很好
+artist 刘若英
+introduction 
+picture http://img.xiami.net/images/album/img30/1930/32952.jpg
+songs 我很好%^&*熊%^&*落跑新娘%^&*给你%^&*还是一样%^&*栀子花%^&*静静坐着%^&*口香糖%^&*12月3日，北京%^&*训练%^&*不能跟情人说的话%^&*
+songURLs http://www.xiami.com/song/393304%^&*http://www.xiami.com/song/393305%^&*http://www.xiami.com/song/393306%^&*http://www.xiami.com/song/393307%^&*http://www.xiami.com/song/393308%^&*http://www.xiami.com/song/393309%^&*http://www.xiami.com/song/393310%^&*http://www.xiami.com/song/393311%^&*http://www.xiami.com/song/393312%^&*http://www.xiami.com/song/393313%^&*http://www.xiami.com/song/393314%^&*

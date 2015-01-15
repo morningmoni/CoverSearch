@@ -1,0 +1,6 @@
+number 1924
+name 零点10分
+artist 江明学
+introduction picture http://img.xiami.net/images/album/img40/440/19241413985162.jpg
+songs 零点十分%^&*月台%^&*惘然%^&*我剩下的寂寞刚刚好%^&*夏天的眼泪%^&*放羊的孩子%^&*真诚的拥抱何须双手%^&*Kiss 台北%^&*庸庸碌碌的世界%^&*寂寞的角色%^&*让一切错过重新连在一起%^&*如果真有来生%^&*
+songURLs http://www.xiami.com/song/35869%^&*http://www.xiami.com/song/35870%^&*http://www.xiami.com/song/35871%^&*http://www.xiami.com/song/35872%^&*http://www.xiami.com/song/35873%^&*http://www.xiami.com/song/35874%^&*http://www.xiami.com/song/35875%^&*http://www.xiami.com/song/35876%^&*http://www.xiami.com/song/35877%^&*http://www.xiami.com/song/35878%^&*http://www.xiami.com/song/35879%^&*http://www.xiami.com/song/35880%^&*

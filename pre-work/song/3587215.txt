@@ -1,0 +1,6 @@
+number 3587215
+name 情雪
+artist 阿强%^&*
+artistURL http://www.xiami.com/artist/11%^&*
+album 兄弟
+albumURL http://www.xiami.com/album/322299

@@ -1,0 +1,7 @@
+number 12580
+name 真爱无敌
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125801366018708.jpg
+songs 真爱无敌%^&*一直是晴天%^&*我就是这么快乐%^&*禁止悲伤%^&*蜗牛%^&*恒星%^&*一天一天%^&*Today%^&*我懂你不懂%^&*痞子%^&*忘%^&*
+songURLs http://www.xiami.com/song/383398%^&*http://www.xiami.com/song/383399%^&*http://www.xiami.com/song/383400%^&*http://www.xiami.com/song/383401%^&*http://www.xiami.com/song/154668%^&*http://www.xiami.com/song/383403%^&*http://www.xiami.com/song/383404%^&*http://www.xiami.com/song/383405%^&*http://www.xiami.com/song/383406%^&*http://www.xiami.com/song/383407%^&*http://www.xiami.com/song/383408%^&*

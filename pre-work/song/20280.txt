@@ -1,0 +1,6 @@
+number 20280
+name 好与不好之外
+artist 刘瑞政%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%88%98%E7%91%9E%E6%94%BF%^&*
+album 好与不好之外
+albumURL http://www.xiami.com/album/2622

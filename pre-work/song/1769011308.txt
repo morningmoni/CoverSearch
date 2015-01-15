@@ -1,0 +1,6 @@
+number 1769011308
+name 农庄 &lt;维语&gt;
+artist 艾尔肯%^&*
+artistURL http://www.xiami.com/artist/16%^&*
+album 一千零一夜
+albumURL http://www.xiami.com/album/338468

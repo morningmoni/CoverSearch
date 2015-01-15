@@ -1,0 +1,6 @@
+number 2307
+name 心在故乡
+artist 陈百潭%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E7%99%BE%E6%BD%AD%^&*
+album 台湾南歌精选辑
+albumURL http://www.xiami.com/album/187

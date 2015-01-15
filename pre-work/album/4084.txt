@@ -1,0 +1,7 @@
+number 4084
+name 为我喝彩
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40841387371424.jpg
+songs 迷藏%^&*Don&#039;t Say Goodbye%^&*拥抱%^&*明明对你还有感情%^&*梦想编织的翅膀%^&*为我喝彩%^&*请你不要笑我傻%^&*我被爱伤害%^&*深爱着你%^&*只要你曾经拥有梦%^&*
+songURLs http://www.xiami.com/song/49966%^&*http://www.xiami.com/song/49967%^&*http://www.xiami.com/song/49968%^&*http://www.xiami.com/song/49969%^&*http://www.xiami.com/song/49970%^&*http://www.xiami.com/song/49971%^&*http://www.xiami.com/song/49972%^&*http://www.xiami.com/song/49973%^&*http://www.xiami.com/song/49974%^&*http://www.xiami.com/song/49975%^&*

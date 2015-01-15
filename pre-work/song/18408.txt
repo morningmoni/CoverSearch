@@ -1,0 +1,7 @@
+number 18408
+name 这是一个秘密
+artist 林文俊%^&*徐芊君%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E6%96%87%E4%BF%8A%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BE%90%E8%8A%8A%E5%90%9B%^&*
+album 自彼次遇到你
+albumURL http://www.xiami.com/album/2468

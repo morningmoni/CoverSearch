@@ -1,0 +1,7 @@
+number 9550
+name 独立日
+artist 金海心
+introduction 
+picture http://img.xiami.net/images/album/img20/1720/95501368094241.jpg
+songs 阳光下的星星%^&*绵羊%^&*比天空还远的季节%^&*右手戒指%^&*独立日%^&*江郎%^&*Lolita%^&*与爱情有关(新版)%^&*蜘蛛的蜜蜂%^&*Ready To Take Me Away%^&*
+songURLs http://www.xiami.com/song/118210%^&*http://www.xiami.com/song/118211%^&*http://www.xiami.com/song/118212%^&*http://www.xiami.com/song/118213%^&*http://www.xiami.com/song/118214%^&*http://www.xiami.com/song/118215%^&*http://www.xiami.com/song/118216%^&*http://www.xiami.com/song/118217%^&*http://www.xiami.com/song/118218%^&*http://www.xiami.com/song/118219%^&*

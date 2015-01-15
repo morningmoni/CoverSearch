@@ -1,0 +1,7 @@
+number 4651
+name 平凡的幸福
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/4651.jpg
+songs 你乎我感动的每一天%^&*梦到你%^&*作阵走%^&*放开的是我%^&*时间的手链%^&*明明知影%^&*青春换来一瞑%^&*内心一句话%^&*态度%^&*伤心的人%^&*
+songURLs http://www.xiami.com/song/56402%^&*http://www.xiami.com/song/56403%^&*http://www.xiami.com/song/56404%^&*http://www.xiami.com/song/56405%^&*http://www.xiami.com/song/56406%^&*http://www.xiami.com/song/56407%^&*http://www.xiami.com/song/56408%^&*http://www.xiami.com/song/56409%^&*http://www.xiami.com/song/56410%^&*http://www.xiami.com/song/56411%^&*

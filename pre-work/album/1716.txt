@@ -1,0 +1,7 @@
+number 1716
+name 感谢·情人
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17161398489749.jpg
+songs 情人%^&*白鹭鸶%^&*长假%^&*你呀你%^&*少年悍将%^&*忘情歌%^&*错觉%^&*不要害怕%^&*她教我的事%^&*感谢%^&*风中花%^&*
+songURLs http://www.xiami.com/song/33054%^&*http://www.xiami.com/song/33055%^&*http://www.xiami.com/song/33056%^&*http://www.xiami.com/song/33057%^&*http://www.xiami.com/song/33058%^&*http://www.xiami.com/song/33059%^&*http://www.xiami.com/song/33060%^&*http://www.xiami.com/song/33061%^&*http://www.xiami.com/song/33062%^&*http://www.xiami.com/song/33063%^&*http://www.xiami.com/song/33064%^&*

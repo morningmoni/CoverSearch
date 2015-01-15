@@ -1,0 +1,6 @@
+number 1930
+name 永远最爱你是谁
+artist 蔡济文%^&*
+artistURL http://www.xiami.com/artist/44%^&*
+album Day Break
+albumURL http://www.xiami.com/album/156

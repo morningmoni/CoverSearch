@@ -1,0 +1,7 @@
+number 15328
+name 海滨之歌
+artist 圣女合唱组
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10142807910m_2.jpg
+songs 如歌的行板%^&*G弦上的咏叹调%^&*伦敦德里小调%^&*小步舞曲%^&*破车瘦老的马%^&*经文歌%^&*桑塔露琪亚%^&*旅愁%^&*海滨之歌%^&*莫斯科郊外的晚上%^&*
+songURLs http://www.xiami.com/song/188148%^&*http://www.xiami.com/song/188149%^&*http://www.xiami.com/song/188150%^&*http://www.xiami.com/song/188151%^&*http://www.xiami.com/song/188152%^&*http://www.xiami.com/song/188153%^&*http://www.xiami.com/song/188154%^&*http://www.xiami.com/song/188155%^&*http://www.xiami.com/song/188156%^&*http://www.xiami.com/song/188157%^&*

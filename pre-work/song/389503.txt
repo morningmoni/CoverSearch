@@ -1,0 +1,6 @@
+number 389503
+name 灰色恋曲
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 精装陈百强
+albumURL http://www.xiami.com/album/271

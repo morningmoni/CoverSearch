@@ -1,0 +1,7 @@
+number 75998
+name 好日子
+artist 宋祖英
+introduction ISRC-CN-A09-98-317-00长城艺术文化公司发行的一张宋祖英专辑，广东杰盛代理发行。
+picture http://img.xiami.net/images/album/img10/2110/759981397315326.jpg
+songs 辣妹子%^&*好日子%^&*兵哥哥%^&*九九艳阳天%^&*等你来%^&*长大后我就成了你%^&*缅桂花开十里香%^&*十八弯水路到我家%^&*牧羊姑娘%^&*蝴蝶泉边%^&*小背篓%^&*婚誓%^&*情深意长%^&*真情永存(Live)%^&*
+songURLs http://www.xiami.com/song/1769929688%^&*http://www.xiami.com/song/1769929689%^&*http://www.xiami.com/song/1769929690%^&*http://www.xiami.com/song/1769929691%^&*http://www.xiami.com/song/1769929692%^&*http://www.xiami.com/song/1769929693%^&*http://www.xiami.com/song/1769929694%^&*http://www.xiami.com/song/1769929695%^&*http://www.xiami.com/song/1769929696%^&*http://www.xiami.com/song/1769929697%^&*http://www.xiami.com/song/1769929698%^&*http://www.xiami.com/song/1769929699%^&*http://www.xiami.com/song/1769929700%^&*http://www.xiami.com/song/1769929701%^&*

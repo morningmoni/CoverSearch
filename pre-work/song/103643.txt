@@ -1,0 +1,6 @@
+number 103643
+name 每次想你
+artist 费星%^&*
+artistURL http://www.xiami.com/artist/1530%^&*
+album 秋夜
+albumURL http://www.xiami.com/album/8361

@@ -1,0 +1,6 @@
+number 357123
+name 哥 只是个传说
+artist 陈旭
+introduction picture http://img.xiami.net/images/album/img28/128/3571231259559459.jpg
+songs 哥 只是个传说%^&*
+songURLs http://www.xiami.com/song/1769236446%^&*

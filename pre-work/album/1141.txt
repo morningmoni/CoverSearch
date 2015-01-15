@@ -1,0 +1,7 @@
+number 1141
+name 越陷越深
+artist 苟伟
+introduction 
+picture http://img.xiami.net/images/album/img60/260/1141.jpg
+songs 我型我Show%^&*越陷越深%^&*面不改色%^&*梦延续的瞬间%^&*想你的理由%^&*光辉岁月%^&*这样的夜%^&*网络情缘%^&*单程车票%^&*真的世界%^&*
+songURLs http://www.xiami.com/song/26473%^&*http://www.xiami.com/song/26474%^&*http://www.xiami.com/song/26475%^&*http://www.xiami.com/song/26476%^&*http://www.xiami.com/song/26477%^&*http://www.xiami.com/song/26478%^&*http://www.xiami.com/song/26479%^&*http://www.xiami.com/song/26480%^&*http://www.xiami.com/song/26481%^&*http://www.xiami.com/song/26482%^&*

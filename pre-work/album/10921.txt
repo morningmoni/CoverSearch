@@ -1,0 +1,7 @@
+number 10921
+name 没话说
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109211331278863.jpg
+songs 长藤挂铜铃%^&*大江东去%^&*痴痴的等%^&*今宵多珍重%^&*你把我灌醉%^&*沙滩%^&*用心良苦%^&*下辈子别再做女人%^&*感情包袱%^&*昨天你去哪啊%^&*
+songURLs http://www.xiami.com/song/134922%^&*http://www.xiami.com/song/134923%^&*http://www.xiami.com/song/134924%^&*http://www.xiami.com/song/134925%^&*http://www.xiami.com/song/134926%^&*http://www.xiami.com/song/134927%^&*http://www.xiami.com/song/134928%^&*http://www.xiami.com/song/134929%^&*http://www.xiami.com/song/134930%^&*http://www.xiami.com/song/134931%^&*

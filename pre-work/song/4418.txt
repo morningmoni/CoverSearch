@@ -1,0 +1,6 @@
+number 4418
+name 如果难忍
+artist 陈浩民%^&*
+artistURL http://www.xiami.com/artist/87%^&*
+album A Day With Benny
+albumURL http://www.xiami.com/album/365

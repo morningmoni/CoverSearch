@@ -1,0 +1,6 @@
+number 3045
+name 昨日.今日.明日
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 完全 陈百强
+albumURL http://www.xiami.com/album/248

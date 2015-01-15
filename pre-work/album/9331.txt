@@ -1,0 +1,6 @@
+number 9331
+name 情泪心声
+artist 丽莎
+introduction picture http://img.xiami.net/images/album/img80/1680/93311311761112.jpg
+songs 工作至上%^&*创造%^&*离情泪%^&*快乐歌王%^&*啤酒女郎%^&*难忘旧爱%^&*飘零雁%^&*情怨%^&*相思梦难圆%^&*情泪心声%^&*
+songURLs http://www.xiami.com/song/115725%^&*http://www.xiami.com/song/115726%^&*http://www.xiami.com/song/115727%^&*http://www.xiami.com/song/115728%^&*http://www.xiami.com/song/115729%^&*http://www.xiami.com/song/115730%^&*http://www.xiami.com/song/115731%^&*http://www.xiami.com/song/115732%^&*http://www.xiami.com/song/115733%^&*http://www.xiami.com/song/115734%^&*

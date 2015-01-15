@@ -1,0 +1,6 @@
+number 1770307953
+name 红豆词
+artist 奚秀兰%^&*
+artistURL http://www.xiami.com/artist/2270%^&*
+album 奚秀兰
+albumURL http://www.xiami.com/album/449699

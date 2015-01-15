@@ -1,0 +1,7 @@
+number 686
+name 知己MV
+artist 卜学亮%^&*黄子佼%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%8D%9C%E5%AD%A6%E4%BA%AE%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E5%AD%90%E4%BD%BC%^&*
+album 我爱阿亮阿亮爱我
+albumURL http://www.xiami.com/album/57

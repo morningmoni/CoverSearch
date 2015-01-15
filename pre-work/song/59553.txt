@@ -1,0 +1,6 @@
+number 59553
+name 非走不可
+artist 谢霆锋%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B0%A2%E9%9C%86%E9%94%8B%^&*
+album 展览(作品集及钢琴集)
+albumURL http://www.xiami.com/album/4915

@@ -1,0 +1,7 @@
+number 12077
+name 新多少柔情多少泪
+artist 王渝
+introduction 
+picture http://img.xiami.net/images/album/img10/2210/12077.jpg
+songs 新多少柔情多少泪%^&*相思的种子%^&*非你莫属%^&*爱缘%^&*怀念%^&*同一首歌%^&*重游%^&*不舍%^&*成就感%^&*爱在蔓延%^&*新多少柔情多少泪(Take I)%^&*
+songURLs http://www.xiami.com/song/148588%^&*http://www.xiami.com/song/148589%^&*http://www.xiami.com/song/148590%^&*http://www.xiami.com/song/148591%^&*http://www.xiami.com/song/148592%^&*http://www.xiami.com/song/148593%^&*http://www.xiami.com/song/148594%^&*http://www.xiami.com/song/148595%^&*http://www.xiami.com/song/148596%^&*http://www.xiami.com/song/148597%^&*http://www.xiami.com/song/148598%^&*

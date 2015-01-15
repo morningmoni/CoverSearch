@@ -1,0 +1,6 @@
+number 394583
+name 爱作梦的鱼
+artist 江蕙%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%B1%9F%E8%95%99%^&*
+album 我们都爱这个伦！
+albumURL http://www.xiami.com/album/33046

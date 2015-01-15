@@ -1,0 +1,6 @@
+number 180806
+name 脆弱 (卡拉OK版)
+artist 黑九月%^&*
+artistURL http://www.xiami.com/artist/2790%^&*
+album 下一个就是你
+albumURL http://www.xiami.com/album/14670

@@ -1,0 +1,7 @@
+number 1888
+name 恋舞情结
+artist 纪宏仁
+introduction 
+picture http://img.xiami.net/images/pic/04/03/10103745691m_2.jpg
+songs 紫外线%^&*亚热带%^&*
+songURLs http://www.xiami.com/song/35471%^&*http://www.xiami.com/song/35472%^&*

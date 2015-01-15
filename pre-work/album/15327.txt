@@ -1,0 +1,6 @@
+number 15327
+name 乘着歌声的翅膀
+artist 圣女合唱组
+introduction picture http://img.xiami.net/images/pic/04/04/10142784096m_2.jpg
+songs 友谊地久天长(苏格兰民歌)%^&*乘着歌声的翅膀%^&*念故乡%^&*摇篮曲%^&*幽默曲%^&*小夜曲%^&*圣母颂%^&*小步舞曲%^&*广板%^&*英雄凯旋歌%^&*英雄凯旋歌(未经Hdcd处理)%^&*
+songURLs http://www.xiami.com/song/188137%^&*http://www.xiami.com/song/188138%^&*http://www.xiami.com/song/188139%^&*http://www.xiami.com/song/188140%^&*http://www.xiami.com/song/188141%^&*http://www.xiami.com/song/188142%^&*http://www.xiami.com/song/188143%^&*http://www.xiami.com/song/188144%^&*http://www.xiami.com/song/188145%^&*http://www.xiami.com/song/188146%^&*http://www.xiami.com/song/188147%^&*

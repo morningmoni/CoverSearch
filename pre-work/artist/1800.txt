@@ -1,0 +1,7 @@
+number 1800
+name 李美凤
+place Hongkong 香港
+introduction 小档案出生日期：1963年 8月13日&nbsp;&nbsp;出生地点：中国香港&nbsp;地区：中国香港&nbsp;身高：164 厘米&nbsp;婚姻状况：已婚&nbsp;家庭成员：郑翔中(配偶)&nbsp;别名昵称：Lee Mei-Fung(别名)祖籍山东青岛，生于香港。毕业于加拿大多伦多大学经济系。1987年获&ldquo;香港小姐亚军&rdquo;后踏入娱乐圈。曾经主演过电视剧《成吉思汗》，以及《精装追女仔》续集、《电视台有难》、《画中仙》、《女记者》、《天罗地网》、《捕风汉子》、《新碧血剑》、《狂野生死恋》等影片。星座：处女座&nbsp;生肖：兔&nbsp;籍贯：山东青岛&nbsp;家庭成员：四姐一妹三兄&nbsp;婚姻：嫁台湾富商郑翔中，婚后生一对龙凤胎最喜欢的明星：夏文汐、钟楚红&nbsp;最喜欢的歌星：叶倩文&nbsp;最喜欢的人物：父母&nbsp;最喜欢的颜色：七色&nbsp;最喜欢的食物：生果&nbsp;最喜欢的动物：小狗&nbsp;嗜好：滑冰、唱歌&nbsp;最难忘的事情：大学最后一次考试&nbsp;希望到地地方：欧洲
+picture http://img.xiami.net/images/artist/12030577145796.jpg
+albums 情深透 全情歌集%^&*深爱您%^&*
+albumURLs http://www.xiami.com/album/9909%^&*http://www.xiami.com/album/9910%^&*

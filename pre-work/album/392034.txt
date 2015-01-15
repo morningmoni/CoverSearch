@@ -1,0 +1,7 @@
+number 392034
+name 黄浦江深
+artist 宋祖英
+introduction 5月1日的音乐会上，宋祖英首次演唱周杰伦为其量身打造的新歌《黄浦江深》。周杰伦也演唱改良后的《双截棍》。本场音乐会将是世博开幕后的首场大型演出，宋祖英说：&ldquo;我能作为中国音乐的代表，向世界展示中国艺术家的风采，很荣幸。&rdquo;
+picture http://img.xiami.net/images/album/img10/2110/3920341318929240.png
+songs 黄浦江深 (独唱版)%^&*
+songURLs http://www.xiami.com/song/1769652152%^&*

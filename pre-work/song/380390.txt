@@ -1,0 +1,6 @@
+number 380390
+name Changll
+artist 姚谦%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%A7%9A%E8%B0%A6%^&*
+album 恋人心中有一首诗
+albumURL http://www.xiami.com/album/9467

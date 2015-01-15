@@ -1,0 +1,7 @@
+number 42835
+name 国王游戏MV
+artist 罗志祥%^&*赛门·韦伯%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%BD%97%E5%BF%97%E7%A5%A5%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B5%9B%E9%97%A8%C2%B7%E9%9F%A6%E4%BC%AF%^&*
+album Speshow
+albumURL http://www.xiami.com/album/3475

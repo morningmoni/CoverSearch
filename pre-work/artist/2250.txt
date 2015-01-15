@@ -1,0 +1,7 @@
+number 2250
+name 吴倩莲
+place Taiwan 台湾
+introduction 小档案生 日：1968年7月3日星 座：巨蟹座身 高：166cm体 重：46kg血 型：O学 历：台北国立艺术学院婚姻状况：未婚最喜欢的歌手：Carpenter最喜欢的动物：长颈鹿籍 贯：台湾 台北最喜欢的歌手：Carpenter&nbsp;最喜欢的职业:无业游民&nbsp;最崇拜的人:孙中山&nbsp;最爱吃的食物:面&nbsp;最想去旅游的地方:非洲&nbsp;最喜欢的演员:太多&nbsp;最看重女人哪一点:不矫揉造作&nbsp;最看重男人哪一点:照顾家里&nbsp;何种品德对你最重要:敬业、乐业&nbsp;你认为最幸福的是什么:许多，小事情就很知足&nbsp;对金钱的看法:不能没有与不能去强求&nbsp;对于什么你最愿花钱:家里的东西&nbsp;孩提时代最高兴的经历:和邻居玩耍&nbsp;最想和谁共度周末:我没有周末&nbsp;如何看待感情:细水长流&nbsp;如何看待自己:仍需努力&nbsp;最讨厌的是什么:被人强迫自己&nbsp;爱好：听音乐、演戏&nbsp;擅长：唱歌、演戏
+picture http://img.xiami.net/images/artist/11969260155025.jpg
+albums 望爱%^&*回家%^&*三个星期(新曲+精选)%^&*因为爱所以等待%^&*心乱如麻%^&*内心戏·爱上一个人%^&*爱得干脆%^&*天下浪子不独你一人%^&*
+albumURLs http://www.xiami.com/album/12172%^&*http://www.xiami.com/album/12178%^&*http://www.xiami.com/album/390413%^&*http://www.xiami.com/album/12175%^&*http://www.xiami.com/album/12174%^&*http://www.xiami.com/album/12173%^&*http://www.xiami.com/album/12176%^&*http://www.xiami.com/album/12177%^&*

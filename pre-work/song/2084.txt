@@ -1,0 +1,7 @@
+number 2084
+name 无奈搁无奈MV
+artist 蔡小虎%^&*龙千玉%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E5%B0%8F%E8%99%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BE%99%E5%8D%83%E7%8E%89%^&*
+album 蝴蝶梦
+albumURL http://www.xiami.com/album/168

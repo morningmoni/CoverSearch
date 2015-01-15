@@ -1,0 +1,6 @@
+number 2231
+name 我这里有你.你这里有我
+artist 蔡兴麟%^&*
+artistURL http://www.xiami.com/artist/49%^&*
+album Don&#039;t Stop Loving…
+albumURL http://www.xiami.com/album/182

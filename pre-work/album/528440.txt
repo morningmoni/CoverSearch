@@ -1,0 +1,7 @@
+number 528440
+name 对筝当歌
+artist 付娜
+introduction 一把价值连城的古筝，一个现代唯美少女，一张让你惊叹的专辑，这个完美组合让古筝这大家熟悉但遥远的乐器活现眼前，另有一番韵味的演奏、空气感、质感、动态凌厉，充满发烧元素。
+picture http://img.xiami.net/images/album/img40/1540/5284401342489683.jpg
+songs 好日子%^&*茶山情歌%^&*一封情书%^&*水中花%^&*九百九十九朵玫瑰%^&*梦江南%^&*我有一段情%^&*晚秋%^&*路边的野花不要采%^&*枉凝眉%^&*我不想说%^&*三年%^&*
+songURLs http://www.xiami.com/song/1771167763%^&*http://www.xiami.com/song/1771167764%^&*http://www.xiami.com/song/1771167765%^&*http://www.xiami.com/song/1771167766%^&*http://www.xiami.com/song/1771167767%^&*http://www.xiami.com/song/1771167768%^&*http://www.xiami.com/song/1771167769%^&*http://www.xiami.com/song/1771167770%^&*http://www.xiami.com/song/1771167771%^&*http://www.xiami.com/song/1771167772%^&*http://www.xiami.com/song/1771167773%^&*http://www.xiami.com/song/1771167774%^&*

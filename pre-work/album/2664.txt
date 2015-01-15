@@ -1,0 +1,6 @@
+number 2664
+name New Born
+artist 汉洋
+introduction picture http://img.xiami.net/images/pic/04/02/10044648758m_2.jpg
+songs 失恋2000%^&*怪你%^&*借醉%^&*恋爱%^&*赎罪%^&*
+songURLs http://www.xiami.com/song/20700%^&*http://www.xiami.com/song/20701%^&*http://www.xiami.com/song/20702%^&*http://www.xiami.com/song/20703%^&*http://www.xiami.com/song/20704%^&*

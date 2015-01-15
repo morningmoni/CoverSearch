@@ -1,0 +1,7 @@
+number 10927
+name 女人花
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109271331278852.jpg
+songs 女人花%^&*一生爱你千百回%^&*月光(上弦月版)%^&*到明天再做好女人%^&*上火%^&*我是多么值得爱%^&*相爱%^&*受不了没有爱情%^&*越爱越无求%^&*月光(下弦月版)%^&*
+songURLs http://www.xiami.com/song/134999%^&*http://www.xiami.com/song/135000%^&*http://www.xiami.com/song/135001%^&*http://www.xiami.com/song/135002%^&*http://www.xiami.com/song/135003%^&*http://www.xiami.com/song/135004%^&*http://www.xiami.com/song/135005%^&*http://www.xiami.com/song/135006%^&*http://www.xiami.com/song/135007%^&*http://www.xiami.com/song/135008%^&*

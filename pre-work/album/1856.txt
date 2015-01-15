@@ -1,0 +1,7 @@
+number 1856
+name 开始
+artist 霍建华
+introduction 
+picture http://img.xiami.net/images/album/img20/420/1856.jpg
+songs 你好就好%^&*你的第一%^&*肩上蜻蜓%^&*指甲上的花%^&*要命的迷人%^&*碎片%^&*放弃天空的飞鸟%^&*有爱难言%^&*开始%^&*那时候%^&*
+songURLs http://www.xiami.com/song/35025%^&*http://www.xiami.com/song/35026%^&*http://www.xiami.com/song/35027%^&*http://www.xiami.com/song/35028%^&*http://www.xiami.com/song/35029%^&*http://www.xiami.com/song/35030%^&*http://www.xiami.com/song/35031%^&*http://www.xiami.com/song/35032%^&*http://www.xiami.com/song/35033%^&*http://www.xiami.com/song/35034%^&*

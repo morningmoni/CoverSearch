@@ -1,0 +1,7 @@
+number 19
+name 阿贵槌你喔
+artist 阿贵
+introduction 
+picture http://img.xiami.net/images/album/img6/6/19.jpg
+songs 我很坏%^&*红龟棵%^&*快快快快递公司%^&*露壁高跟鞋%^&*阿贵起床啰%^&*看蛇笑%^&*小芳的便当%^&*茅坑事变%^&*燕子的外双C%^&*国民教育委员会%^&*黑暗中的怪兽%^&*仙女下凡%^&*春水校歌%^&*自然课%^&*猪莲帮%^&*犀牛%^&*乘着风%^&*犀牛终结者%^&*快逃%^&*朋友%^&*体育老师擂台战%^&*自然老师实验战%^&*幕后主使者%^&*抬头吧!小鸡%^&*捕兽战队%^&*飞天粉红猪%^&*大家,再见了%^&*再会阿娜答%^&*我的爸爸%^&*任务成功%^&*
+songURLs http://www.xiami.com/song/234%^&*http://www.xiami.com/song/235%^&*http://www.xiami.com/song/236%^&*http://www.xiami.com/song/237%^&*http://www.xiami.com/song/238%^&*http://www.xiami.com/song/239%^&*http://www.xiami.com/song/240%^&*http://www.xiami.com/song/241%^&*http://www.xiami.com/song/242%^&*http://www.xiami.com/song/243%^&*http://www.xiami.com/song/244%^&*http://www.xiami.com/song/245%^&*http://www.xiami.com/song/246%^&*http://www.xiami.com/song/247%^&*http://www.xiami.com/song/248%^&*http://www.xiami.com/song/249%^&*http://www.xiami.com/song/250%^&*http://www.xiami.com/song/251%^&*http://www.xiami.com/song/252%^&*http://www.xiami.com/song/253%^&*http://www.xiami.com/song/254%^&*http://www.xiami.com/song/255%^&*http://www.xiami.com/song/256%^&*http://www.xiami.com/song/257%^&*http://www.xiami.com/song/258%^&*http://www.xiami.com/song/259%^&*http://www.xiami.com/song/260%^&*http://www.xiami.com/song/261%^&*http://www.xiami.com/song/262%^&*http://www.xiami.com/song/263%^&*

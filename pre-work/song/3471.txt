@@ -1,0 +1,6 @@
+number 3471
+name 细想
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 梦里人
+albumURL http://www.xiami.com/album/278

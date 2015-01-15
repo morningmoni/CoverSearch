@@ -1,0 +1,7 @@
+number 13262
+name The Original
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132621334562711.jpg
+songs 恋曲1990%^&*原来你什么都不要%^&*让每个人都心碎%^&*哭砂%^&*解脱%^&*站在高岗上%^&*没有烟抽的日子%^&*蓝天%^&*不要告别%^&*哭不出来%^&*Bad Boy%^&*空中的梦想家%^&*灰姑娘%^&*旅程%^&*剪爱%^&*
+songURLs http://www.xiami.com/song/163245%^&*http://www.xiami.com/song/163246%^&*http://www.xiami.com/song/163247%^&*http://www.xiami.com/song/163248%^&*http://www.xiami.com/song/163249%^&*http://www.xiami.com/song/163250%^&*http://www.xiami.com/song/163251%^&*http://www.xiami.com/song/163252%^&*http://www.xiami.com/song/163253%^&*http://www.xiami.com/song/163254%^&*http://www.xiami.com/song/163255%^&*http://www.xiami.com/song/163256%^&*http://www.xiami.com/song/163257%^&*http://www.xiami.com/song/163258%^&*http://www.xiami.com/song/163259%^&*

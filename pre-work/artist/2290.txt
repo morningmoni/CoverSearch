@@ -1,0 +1,7 @@
+number 2290
+name 晓露
+place China 中国大陆
+introduction 小简介晓露，1931出生。原名张秀琴，苏州人。40年代末先在苏州展开其歌唱生涯，后与姐姐张露在上海献唱。1953-54年间来港登台，并为百代公司灌录第一张唱片--&ldquo;同心结&rdquo;及&ldquo;舞台上的小丑&rdquo;。1956年返回上海，婚后育有一子。现赋闲在家。
+picture http://img.xiami.net/images/artist/11977075445922.jpg
+albums 百代百年系列1-迎春花%^&*
+albumURLs http://www.xiami.com/album/12295%^&*

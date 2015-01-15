@@ -1,0 +1,6 @@
+number 1769471865
+name 风和日丽
+artist 刘若英%^&*
+artistURL http://www.xiami.com/artist/1930%^&*
+album 在一起
+albumURL http://www.xiami.com/album/377241

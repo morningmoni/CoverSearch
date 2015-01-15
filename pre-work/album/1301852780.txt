@@ -1,0 +1,7 @@
+number 1301852780
+name 左手右手
+artist 马郁
+introduction 马郁，当你第一眼看到她，你会觉得她就是一个邻家大女孩。她就是这样简简单单的唱着属于她自己的心情，却能将你带到她的小小世界中，用她的声音讲诉着身边的爱情故事。《左手右手》这首歌也被选为热播电视剧《我的左右手》插曲，有人说：听马郁的歌，能让你疗伤......
+picture http://img.xiami.net/images/album/img90/1990/13018527801401852780.jpg
+songs 左手右手%^&*我们终将逝去的青春%^&*
+songURLs http://www.xiami.com/song/1773241358%^&*http://www.xiami.com/song/1773241359%^&*

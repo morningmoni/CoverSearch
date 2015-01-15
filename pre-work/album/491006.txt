@@ -1,0 +1,7 @@
+number 491006
+name 如意
+artist 刘恺威
+introduction 
+picture http://img.xiami.net/images/album/img60/660/4910061330423343.png
+songs 明天会怎样%^&*有点舍不得%^&*错怪%^&*
+songURLs http://www.xiami.com/song/1770774093%^&*http://www.xiami.com/song/1770839018%^&*http://www.xiami.com/song/1770779435%^&*

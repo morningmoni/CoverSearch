@@ -1,0 +1,6 @@
+number 305982
+name 脚踏车少年
+artist 蔡荣祖
+introduction picture http://img.xiami.net/images/album/img46/46/305982.jpg
+songs 背着行囊去流浪%^&*让我看你那美丽的眼眸%^&*我的初恋%^&*你曾经陪我走一段%^&*最后的一节课%^&*爱情电影画面%^&*不要再爱我%^&*当我开始拥有你%^&*归家的方向%^&*城市儿歌%^&*
+songURLs http://www.xiami.com/song/3381934%^&*http://www.xiami.com/song/3381935%^&*http://www.xiami.com/song/3381936%^&*http://www.xiami.com/song/3381937%^&*http://www.xiami.com/song/3381938%^&*http://www.xiami.com/song/3381939%^&*http://www.xiami.com/song/3381940%^&*http://www.xiami.com/song/3381941%^&*http://www.xiami.com/song/3381942%^&*http://www.xiami.com/song/3381943%^&*

@@ -1,0 +1,7 @@
+number 15565
+name 新世界
+artist VRF
+introduction 
+picture http://img.xiami.net/images/album/img90/3090/155651404805169.jpg
+songs New World%^&*妄想%^&*Together We Shake%^&*侍卫%^&*哈啰喂Party%^&*设计对白%^&*She%^&*下雨天%^&*寒冰掌%^&*Why Didn&#039;t You?%^&*New World 新世界%^&*Not Bad 不坏%^&*Flying In The Sky%^&*
+songURLs http://www.xiami.com/song/190922%^&*http://www.xiami.com/song/190923%^&*http://www.xiami.com/song/190924%^&*http://www.xiami.com/song/190925%^&*http://www.xiami.com/song/190926%^&*http://www.xiami.com/song/190927%^&*http://www.xiami.com/song/190928%^&*http://www.xiami.com/song/190929%^&*http://www.xiami.com/song/190930%^&*http://www.xiami.com/song/190931%^&*http://www.xiami.com/song/190932%^&*http://www.xiami.com/song/190933%^&*http://www.xiami.com/song/190934%^&*

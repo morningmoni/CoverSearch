@@ -1,0 +1,6 @@
+number 49704
+name 不要说不要
+artist 邰正宵%^&*
+artistURL http://www.xiami.com/artist/850%^&*
+album 两边
+albumURL http://www.xiami.com/album/4062

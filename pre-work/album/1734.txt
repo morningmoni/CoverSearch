@@ -1,0 +1,7 @@
+number 1734
+name 男配角心声
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17341398488853.jpg
+songs 你的眼泪%^&*你怎么舍得我难过%^&*兄弟情%^&*寂寞%^&*从现在开始思念你%^&*我该用什么样的心来对你%^&*没有别人能够%^&*别再回首%^&*是否能够飞到未来%^&*
+songURLs http://www.xiami.com/song/33270%^&*http://www.xiami.com/song/33271%^&*http://www.xiami.com/song/33272%^&*http://www.xiami.com/song/33273%^&*http://www.xiami.com/song/33274%^&*http://www.xiami.com/song/33275%^&*http://www.xiami.com/song/33276%^&*http://www.xiami.com/song/33277%^&*http://www.xiami.com/song/33278%^&*

@@ -1,0 +1,6 @@
+number 2049759
+name 紫色香槟夜
+artist 文佩玲%^&*
+artistURL http://www.xiami.com/artist/2230%^&*
+album 文佩玲
+albumURL http://www.xiami.com/album/12136

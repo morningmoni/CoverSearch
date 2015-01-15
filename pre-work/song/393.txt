@@ -1,0 +1,6 @@
+number 393
+name 至少走得比你早
+artist 阿强%^&*
+artistURL http://www.xiami.com/artist/11%^&*
+album 等候
+albumURL http://www.xiami.com/album/33

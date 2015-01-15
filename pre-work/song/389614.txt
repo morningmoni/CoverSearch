@@ -1,0 +1,6 @@
+number 389614
+name Shall We Talk
+artist 陈奕迅%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%A5%95%E8%BF%85%^&*
+album 鼓舞辉阳
+albumURL http://www.xiami.com/album/32688

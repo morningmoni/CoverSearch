@@ -1,0 +1,6 @@
+number 167375
+name 周璇名曲集
+artist 奚秀兰
+introduction picture http://img.xiami.net/images/album/img70/2270/1673751399201083.jpg
+songs 天涯歌女%^&*何日君再来%^&*月圆花好%^&*黄叶舞秋风%^&*采槟榔%^&*渔家女%^&*永远的微笑%^&*五月的风%^&*莫负青春%^&*疯狂世界%^&*花开等郎来%^&*星心相印%^&*拷红%^&*凤凰于飞%^&*
+songURLs http://www.xiami.com/song/2050245%^&*http://www.xiami.com/song/2050246%^&*http://www.xiami.com/song/2050247%^&*http://www.xiami.com/song/2050248%^&*http://www.xiami.com/song/2050249%^&*http://www.xiami.com/song/2050250%^&*http://www.xiami.com/song/2050251%^&*http://www.xiami.com/song/2050252%^&*http://www.xiami.com/song/2050253%^&*http://www.xiami.com/song/2050254%^&*http://www.xiami.com/song/2050255%^&*http://www.xiami.com/song/2050256%^&*http://www.xiami.com/song/2050257%^&*http://www.xiami.com/song/2050258%^&*

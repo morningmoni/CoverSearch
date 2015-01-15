@@ -1,0 +1,6 @@
+number 14517
+name 你是爱我还是需要我
+artist Echo
+introduction picture http://img.xiami.net/images/album/img20/2720/14517.jpg
+songs 请准许我爱你%^&*魂梦牵绊%^&*说到爱情%^&*他是我一个人的%^&*跟情人请一天假%^&*你是爱我还是需要我%^&*把年轻传染给你%^&*一半一半%^&*与寂寞共舞%^&*
+songURLs http://www.xiami.com/song/179164%^&*http://www.xiami.com/song/179165%^&*http://www.xiami.com/song/179166%^&*http://www.xiami.com/song/179167%^&*http://www.xiami.com/song/179168%^&*http://www.xiami.com/song/179169%^&*http://www.xiami.com/song/179171%^&*http://www.xiami.com/song/179170%^&*http://www.xiami.com/song/179172%^&*

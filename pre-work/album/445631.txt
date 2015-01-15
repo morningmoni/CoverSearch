@@ -1,0 +1,6 @@
+number 445631
+name 花开在旅途
+artist 蔡国庆
+introduction picture http://img.xiami.net/images/album/img42/42/4456311396404369.jpg
+songs 布朗小姐新的一天%^&*天上的云地上的人%^&*岸边树下%^&*北京的桥%^&*盛夏的果实%^&*可爱的艾丽%^&*旋律%^&*花开在旅途%^&*晚报歌%^&*我心中的故事%^&*
+songURLs http://www.xiami.com/song/1770264614%^&*http://www.xiami.com/song/1770264615%^&*http://www.xiami.com/song/1770264616%^&*http://www.xiami.com/song/1770264617%^&*http://www.xiami.com/song/1770264618%^&*http://www.xiami.com/song/1770264619%^&*http://www.xiami.com/song/1770264620%^&*http://www.xiami.com/song/1770264621%^&*http://www.xiami.com/song/1770264622%^&*http://www.xiami.com/song/1770264623%^&*

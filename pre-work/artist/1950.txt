@@ -1,0 +1,7 @@
+number 1950
+name 柳影虹
+place Hongkong 香港
+introduction 前丽的及亚视艺员，也有踏足歌唱界，声线低沉，略带磁性，代表作皆属小调风格歌曲，如《换到千般恨》、《少女慈禧》等。
+picture http://img.xiami.net/images/artist/858.jpg
+albums 柳影虹%^&*少女慈禧%^&*期待%^&*少年黄飞鸿%^&*100分%^&*
+albumURLs http://www.xiami.com/album/10663%^&*http://www.xiami.com/album/10664%^&*http://www.xiami.com/album/10665%^&*http://www.xiami.com/album/10666%^&*http://www.xiami.com/album/10667%^&*

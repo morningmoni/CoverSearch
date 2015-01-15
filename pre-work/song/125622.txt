@@ -1,0 +1,6 @@
+number 125622
+name 收藏Ⅰ(相悦版)
+artist 林慧玲%^&*
+artistURL http://www.xiami.com/artist/1860%^&*
+album 收藏 林慧玲的音乐情诗
+albumURL http://www.xiami.com/album/10178

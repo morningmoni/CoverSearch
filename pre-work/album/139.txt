@@ -1,0 +1,6 @@
+number 139
+name 投向未来
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1391336023380.jpg
+songs 最后一班渡轮%^&*冲破万重浪%^&*天地情%^&*创作我的歌%^&*零散骤雨%^&*只有你%^&*荒凉的街角%^&*投向未来%^&*叹息桥%^&*一走了之%^&*
+songURLs http://www.xiami.com/song/1727%^&*http://www.xiami.com/song/1728%^&*http://www.xiami.com/song/1729%^&*http://www.xiami.com/song/1730%^&*http://www.xiami.com/song/1731%^&*http://www.xiami.com/song/1732%^&*http://www.xiami.com/song/1733%^&*http://www.xiami.com/song/1734%^&*http://www.xiami.com/song/1735%^&*http://www.xiami.com/song/1736%^&*

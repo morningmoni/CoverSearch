@@ -1,0 +1,6 @@
+number 181834
+name 搞四
+artist 坏碑唇%^&*
+artistURL http://www.xiami.com/artist/2810%^&*
+album 搞三搞四
+albumURL http://www.xiami.com/album/14755

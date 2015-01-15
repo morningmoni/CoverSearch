@@ -1,0 +1,6 @@
+number 144
+name 风中暖流
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1441334021567.jpg
+songs 风中暖流%^&*不装饰你的梦%^&*留空的位置%^&*未寄出的信%^&*不敢说的话%^&*每篇爱诗%^&*放声Crying%^&*午夜看海%^&*Sayonara%^&*酸酸的眼睛%^&*
+songURLs http://www.xiami.com/song/1775%^&*http://www.xiami.com/song/1776%^&*http://www.xiami.com/song/1777%^&*http://www.xiami.com/song/1778%^&*http://www.xiami.com/song/1779%^&*http://www.xiami.com/song/1780%^&*http://www.xiami.com/song/1781%^&*http://www.xiami.com/song/1782%^&*http://www.xiami.com/song/1783%^&*http://www.xiami.com/song/1784%^&*

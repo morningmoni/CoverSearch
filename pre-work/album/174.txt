@@ -1,0 +1,7 @@
+number 174
+name 痴情乎人心疼
+artist 蔡小虎
+introduction 
+picture http://img.xiami.net/images/album/img47/47/1741301475588.jpg
+songs 夜夜梦%^&*痴情乎人心疼%^&*阮的心肝为你孤单%^&*冷冷清清的都市%^&*最爱你的人%^&*伤心雨那落%^&*秋风%^&*醉心%^&*又搁是暗淡的月%^&*一场情梦一出戏%^&*
+songURLs http://www.xiami.com/song/2154%^&*http://www.xiami.com/song/2155%^&*http://www.xiami.com/song/2156%^&*http://www.xiami.com/song/2157%^&*http://www.xiami.com/song/2158%^&*http://www.xiami.com/song/2159%^&*http://www.xiami.com/song/2160%^&*http://www.xiami.com/song/2161%^&*http://www.xiami.com/song/2162%^&*http://www.xiami.com/song/2163%^&*

@@ -1,0 +1,7 @@
+number 1016
+name 天上人间
+artist 冯晓泉
+introduction 《天上人间》是著名音乐人冯晓泉和夫人青年笛箫演奏家曾格格刚刚推出的精品专辑，其中收录了10首民族新音乐作品。比如大家熟悉的&ldquo;天上人间&rdquo;、&ldquo;雪山&rdquo;等乐曲。在央视春节联欢晚会上，被称为中国最年轻的音乐人冯晓泉、曾格格夫妇表演了一曲歌舞&ldquo;天上人间&rdquo;，其新民族音乐的表现形式在观众眼前闪现，让观众为之惊呼。冯晓泉是著名的青年唢呐演奏家、音乐人、歌手，他创作的&ldquo;中华民谣&rdquo;、&ldquo;冰糖葫芦&rdquo;、&ldquo;霸王别姬&rdquo;曲闻名乐坛。曾格格则是著名的青年笛箫演奏家，被喻为 &ldquo;千年玉笛第一人&rdquo;。
+picture http://img.xiami.net/images/album/img30/230/10161330417877.jpg
+songs 天上人间%^&*雪山%^&*雨中花%^&*亚非风情%^&*阳关行%^&*花之舞%^&*空%^&*逍遥自在%^&*牧场%^&*踏春歌%^&*天上人间 (二版)%^&*
+songURLs http://www.xiami.com/song/25173%^&*http://www.xiami.com/song/25174%^&*http://www.xiami.com/song/25175%^&*http://www.xiami.com/song/25176%^&*http://www.xiami.com/song/25177%^&*http://www.xiami.com/song/25178%^&*http://www.xiami.com/song/25179%^&*http://www.xiami.com/song/25180%^&*http://www.xiami.com/song/25181%^&*http://www.xiami.com/song/25182%^&*http://www.xiami.com/song/25184%^&*

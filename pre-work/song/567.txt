@@ -1,0 +1,6 @@
+number 567
+name 面具(中文版)
+artist 강타%^&*
+artistURL http://www.xiami.com/artist/19%^&*
+album Persona
+albumURL http://www.xiami.com/album/48

@@ -1,0 +1,7 @@
+number 220
+name 来生缘
+artist 曹玉荣
+introduction 如泣如诉的琴声散发出松香味道奏出画外之音传统的中国乐器二胡与电声乐器给人新的感受如泣如诉的琴声散发出松香味道奏出画外之音，青春的故事，慢慢清晰在眼前，那些曾经在生命里出现过的人都随着二胡声渐渐远去，在你我的青春角落里静静绽放。别样的二胡乐声中，回忆是山温水暖，离别是哀而不伤，牵挂是风情缱绻，爱情是浅浅清清。二胡艺术，是中国传统音乐艺术的奇葩。这件具有一千多年历史的弓弦乐器，通过不断变革、改良，已成为当今中国民族器乐中最具代表性的乐器。以其遒劲、坚韧、接近人声又略带伤惋的艺术魄力，为中国人民所喜爱。二胡沿着时间的年轮轻吟浅唱。聆听二胡，往事如烟，让人坚强淡远。力量与睿智奔涌而出，聆听二胡，是一种意境&hellip;&hellip;
+picture http://img.xiami.net/images/album/img64/64/2201385710661.jpg
+songs 来生缘%^&*渴望%^&*不能这样活%^&*城市足印%^&*篱笆墙的影子%^&*新鸳鸯蝴蝶梦%^&*野花%^&*恋曲一九九零%^&*一生何求%^&*望星空%^&*懂你%^&*
+songURLs http://www.xiami.com/song/3491052%^&*http://www.xiami.com/song/3491053%^&*http://www.xiami.com/song/3491054%^&*http://www.xiami.com/song/3491055%^&*http://www.xiami.com/song/3491056%^&*http://www.xiami.com/song/3491057%^&*http://www.xiami.com/song/3491058%^&*http://www.xiami.com/song/3491059%^&*http://www.xiami.com/song/3491060%^&*http://www.xiami.com/song/3491061%^&*http://www.xiami.com/song/3491062%^&*

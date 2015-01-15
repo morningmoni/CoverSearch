@@ -1,0 +1,7 @@
+number 135
+name 不装饰你的梦
+artist 蔡国权
+introduction 
+picture http://img.xiami.net/images/album/img43/43/1351376168153.jpg
+songs 不装饰你的梦%^&*用手走路%^&*冲破万重浪%^&*叹息桥%^&*寒傲似冰%^&*无心快语%^&*不应再犹豫%^&*风中暖流%^&*海底针%^&*再见也许不再会%^&*梦里可是谁%^&*爱情傀儡%^&*童年%^&*歌声背后%^&*人墙%^&*
+songURLs http://www.xiami.com/song/1670%^&*http://www.xiami.com/song/1671%^&*http://www.xiami.com/song/1672%^&*http://www.xiami.com/song/1673%^&*http://www.xiami.com/song/1674%^&*http://www.xiami.com/song/1675%^&*http://www.xiami.com/song/1676%^&*http://www.xiami.com/song/1677%^&*http://www.xiami.com/song/1678%^&*http://www.xiami.com/song/1679%^&*http://www.xiami.com/song/1680%^&*http://www.xiami.com/song/1681%^&*http://www.xiami.com/song/1682%^&*http://www.xiami.com/song/1683%^&*http://www.xiami.com/song/1684%^&*

@@ -1,0 +1,7 @@
+number 187
+name 台湾南歌精选辑
+artist 蔡振南
+introduction 
+picture http://img.xiami.net/images/album/img0/1871284022280.jpg
+songs 人生借过%^&*山栈花%^&*人%^&*烟花情%^&*憨阿呆%^&*想你到天光%^&*爱甲超过%^&*金针花%^&*最后的探戈%^&*无人熟识%^&*感情债上歹还%^&*心在故乡%^&*
+songURLs http://www.xiami.com/song/2296%^&*http://www.xiami.com/song/2297%^&*http://www.xiami.com/song/2298%^&*http://www.xiami.com/song/2299%^&*http://www.xiami.com/song/2300%^&*http://www.xiami.com/song/2301%^&*http://www.xiami.com/song/2302%^&*http://www.xiami.com/song/2303%^&*http://www.xiami.com/song/2304%^&*http://www.xiami.com/song/2305%^&*http://www.xiami.com/song/2306%^&*http://www.xiami.com/song/2307%^&*

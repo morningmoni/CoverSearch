@@ -1,0 +1,7 @@
+number 340908
+name 不要伤了和气
+artist 陈洁仪
+introduction 陈洁仪的第一张专辑。1993年，她签约新加坡海蝶音乐，于同年在新加坡推出首张国语专辑《不要伤了和气》，震撼新加坡传媒界。
+picture http://img.xiami.net/images/album/img90/1390/3409081389686612.jpg
+songs 不要%^&*那一个夏天(口白)%^&*伤了和气%^&*恐龙族%^&*台北的冬天(口白)%^&*都说在梦里%^&*心会跟爱一起走%^&*彩虹之国(口白)%^&*沉睡中的你%^&*为何泪流不出来%^&*下一回 (独白)%^&*走出黑暗的世界吧%^&*
+songURLs http://www.xiami.com/song/1769041655%^&*http://www.xiami.com/song/1769041656%^&*http://www.xiami.com/song/1769041657%^&*http://www.xiami.com/song/1769041658%^&*http://www.xiami.com/song/1769041659%^&*http://www.xiami.com/song/1769041660%^&*http://www.xiami.com/song/1769041661%^&*http://www.xiami.com/song/1769041662%^&*http://www.xiami.com/song/1769041663%^&*http://www.xiami.com/song/1769041664%^&*http://www.xiami.com/song/1769041665%^&*http://www.xiami.com/song/1769041666%^&*

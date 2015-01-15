@@ -1,0 +1,6 @@
+number 384304
+name 老朋友
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 无尾熊抱抱
+albumURL http://www.xiami.com/album/61

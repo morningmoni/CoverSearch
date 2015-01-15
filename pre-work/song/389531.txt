@@ -1,0 +1,6 @@
+number 389531
+name 至爱
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 我的所有
+albumURL http://www.xiami.com/album/273

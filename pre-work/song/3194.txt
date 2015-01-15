@@ -1,0 +1,6 @@
+number 3194
+name 别了丹尼
+artist 李沁怡%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%8E%E6%B2%81%E6%80%A1%^&*
+album 紫色的回忆
+albumURL http://www.xiami.com/album/257

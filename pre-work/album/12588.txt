@@ -1,0 +1,7 @@
+number 12588
+name 泪海
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125881366018689.jpg
+songs 泪海%^&*秘密%^&*四季%^&*放声大哭%^&*猫与钢琴%^&*沙漏%^&*骗自己%^&*后来你好吗%^&*我们的爱情病了%^&*天亮了%^&*
+songURLs http://www.xiami.com/song/154726%^&*http://www.xiami.com/song/154727%^&*http://www.xiami.com/song/154728%^&*http://www.xiami.com/song/154729%^&*http://www.xiami.com/song/154730%^&*http://www.xiami.com/song/154731%^&*http://www.xiami.com/song/154732%^&*http://www.xiami.com/song/154733%^&*http://www.xiami.com/song/154734%^&*http://www.xiami.com/song/154735%^&*

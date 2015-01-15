@@ -1,0 +1,6 @@
+number 32826
+name 梦想在这里发光 汉神百货
+artist 黄品源
+introduction picture http://img.xiami.net/images/album/img90/390/328261386253734.jpg
+songs 梦想在这里发光(汉神之歌深情版)%^&*爱你到永远%^&*你怎么舍得我难过%^&*花与蝶%^&*谁能让时间倒转%^&*梦想在这里发光(演奏曲)%^&*
+songURLs http://www.xiami.com/song/391905%^&*http://www.xiami.com/song/391906%^&*http://www.xiami.com/song/391907%^&*http://www.xiami.com/song/391908%^&*http://www.xiami.com/song/391909%^&*http://www.xiami.com/song/391910%^&*

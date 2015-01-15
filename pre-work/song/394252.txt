@@ -1,0 +1,6 @@
+number 394252
+name 台北的天空
+artist 李泰祥%^&*
+artistURL http://www.xiami.com/artist/550%^&*
+album 中国交响世纪6 恋恋琴声
+albumURL http://www.xiami.com/album/520137

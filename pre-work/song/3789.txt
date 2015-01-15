@@ -1,0 +1,6 @@
+number 3789
+name 雨夜女神
+artist 陈迪匡%^&*
+artistURL http://www.xiami.com/artist/76%^&*
+album 24Kiss
+albumURL http://www.xiami.com/album/311

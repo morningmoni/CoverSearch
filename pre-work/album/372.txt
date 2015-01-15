@@ -1,0 +1,6 @@
+number 372
+name 听入非非
+artist 陈辉阳
+introduction picture http://img.xiami.net/images/album/img89/89/372.jpg
+songs 日与夜%^&*明日有明天%^&*爱一个人%^&*上一次流泪%^&*我有我爱你%^&*人来人往%^&*想得太远%^&*舞吧!舞吧!%^&*他不准我哭%^&*争气%^&*你有心%^&*女人之苦%^&*上一次流泪(演奏)%^&*爱不释手%^&*
+songURLs http://www.xiami.com/song/4503%^&*http://www.xiami.com/song/4504%^&*http://www.xiami.com/song/4505%^&*http://www.xiami.com/song/4506%^&*http://www.xiami.com/song/4507%^&*http://www.xiami.com/song/4508%^&*http://www.xiami.com/song/4509%^&*http://www.xiami.com/song/4510%^&*http://www.xiami.com/song/4511%^&*http://www.xiami.com/song/4512%^&*http://www.xiami.com/song/4513%^&*http://www.xiami.com/song/4514%^&*http://www.xiami.com/song/4515%^&*http://www.xiami.com/song/4516%^&*

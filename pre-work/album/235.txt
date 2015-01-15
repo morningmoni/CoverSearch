@@ -1,0 +1,6 @@
+number 235
+name 奔向爱的怀抱
+artist 常宽
+introduction picture http://img.xiami.net/images/album/img68/68/235.jpg
+songs 奔向爱的怀抱%^&*苹果熟了%^&*女孩的烦恼%^&*妈妈的爱%^&*公共车%^&*秋雨的回忆%^&*你的歌声去向何方%^&*手挽手%^&*失意%^&*保重再保重%^&*不要再爱我%^&*昨天今天明天%^&*让岁月成为永久的隔离%^&*
+songURLs http://www.xiami.com/song/2864%^&*http://www.xiami.com/song/2865%^&*http://www.xiami.com/song/2866%^&*http://www.xiami.com/song/2867%^&*http://www.xiami.com/song/2868%^&*http://www.xiami.com/song/2869%^&*http://www.xiami.com/song/2870%^&*http://www.xiami.com/song/2871%^&*http://www.xiami.com/song/2872%^&*http://www.xiami.com/song/2873%^&*http://www.xiami.com/song/2874%^&*http://www.xiami.com/song/2875%^&*http://www.xiami.com/song/2876%^&*

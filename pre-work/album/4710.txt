@@ -1,0 +1,6 @@
+number 4710
+name 喜新恋旧
+artist 文章
+introduction picture http://img.xiami.net/images/album/img40/940/4710.jpg
+songs 序曲%^&*如果你是我%^&*另一种乡愁%^&*黑夜白天%^&*梭罗河畔%^&*谁是你最爱%^&*选择谁是一场梦%^&*初恋女%^&*趁着有爱%^&*情奔%^&*远くて汽笛を闻きながう%^&*
+songURLs http://www.xiami.com/song/57031%^&*http://www.xiami.com/song/57032%^&*http://www.xiami.com/song/57033%^&*http://www.xiami.com/song/57034%^&*http://www.xiami.com/song/57035%^&*http://www.xiami.com/song/57036%^&*http://www.xiami.com/song/57037%^&*http://www.xiami.com/song/57038%^&*http://www.xiami.com/song/57039%^&*http://www.xiami.com/song/57040%^&*http://www.xiami.com/song/57041%^&*

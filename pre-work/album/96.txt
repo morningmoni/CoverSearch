@@ -1,0 +1,6 @@
+number 96
+name 中原新乐
+artist 鲍比达
+introduction picture http://img.xiami.net/images/pic/04/02/10054173926m_2.jpg
+songs 将军令%^&*十面埋伏%^&*红豆词%^&*康定情歌%^&*渔舟唱晚%^&*满江红%^&*凤阳花鼓%^&*茉莉花%^&*长城谣%^&*我的祖国%^&*梁山伯与祝英台%^&*黄河%^&*
+songURLs http://www.xiami.com/song/1118%^&*http://www.xiami.com/song/1119%^&*http://www.xiami.com/song/1120%^&*http://www.xiami.com/song/1121%^&*http://www.xiami.com/song/1122%^&*http://www.xiami.com/song/1123%^&*http://www.xiami.com/song/1124%^&*http://www.xiami.com/song/1125%^&*http://www.xiami.com/song/1126%^&*http://www.xiami.com/song/1127%^&*http://www.xiami.com/song/1128%^&*http://www.xiami.com/song/1129%^&*

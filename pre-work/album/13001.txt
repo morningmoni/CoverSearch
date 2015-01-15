@@ -1,0 +1,6 @@
+number 13001
+name 安妮的音乐盒4
+artist 伊能静
+introduction picture http://img.xiami.net/images/album/img90/2390/130011345450820.jpg
+songs 陪在你左右%^&*萍聚%^&*紧紧拥抱我%^&*想你是我的坏习惯%^&*十二少%^&*Second Chance%^&*我的爱%^&*选错电影选错你%^&*Cry On Your Smile%^&*亲爱的背后%^&*爱的日记%^&*可以不可以%^&*钥匙儿%^&*青春的自己%^&*
+songURLs http://www.xiami.com/song/159935%^&*http://www.xiami.com/song/159936%^&*http://www.xiami.com/song/159937%^&*http://www.xiami.com/song/159938%^&*http://www.xiami.com/song/159939%^&*http://www.xiami.com/song/159940%^&*http://www.xiami.com/song/159941%^&*http://www.xiami.com/song/159942%^&*http://www.xiami.com/song/159943%^&*http://www.xiami.com/song/159944%^&*http://www.xiami.com/song/159945%^&*http://www.xiami.com/song/159946%^&*http://www.xiami.com/song/159947%^&*http://www.xiami.com/song/159948%^&*

@@ -1,0 +1,6 @@
+number 120302
+name 我在燃烧
+artist 雷安娜%^&*
+artistURL http://www.xiami.com/artist/1760%^&*
+album 温馨集
+albumURL http://www.xiami.com/album/9733

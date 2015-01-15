@@ -1,0 +1,7 @@
+number 239
+name 把你的手放在我的心上
+artist 车继铃
+introduction 
+picture http://img.xiami.net/images/pic/04/01/10005334307m_2.jpg
+songs 把你的手放在我的心上%^&*左边的心的那个地方%^&*你明知我对爱很认真%^&*想问你是否可以爱我%^&*坐在暗夜里听%^&*让风吹%^&*我还在找寻%^&*为了可以把你忘记%^&*我站在全世界的屋顶%^&*凡人歌%^&*
+songURLs http://www.xiami.com/song/2901%^&*http://www.xiami.com/song/2902%^&*http://www.xiami.com/song/2903%^&*http://www.xiami.com/song/2904%^&*http://www.xiami.com/song/2905%^&*http://www.xiami.com/song/2906%^&*http://www.xiami.com/song/2907%^&*http://www.xiami.com/song/2908%^&*http://www.xiami.com/song/2909%^&*http://www.xiami.com/song/2910%^&*

@@ -1,0 +1,6 @@
+number 47774
+name 七月的心情
+artist 施孝荣%^&*
+artistURL http://www.xiami.com/artist/820%^&*
+album 你的眼睛
+albumURL http://www.xiami.com/album/3899

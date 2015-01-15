@@ -1,0 +1,7 @@
+number 3998
+name 完美石刻
+artist 孙国庆
+introduction 
+picture http://img.xiami.net/images/album/img40/840/3998.jpg
+songs 代价%^&*完美%^&*梅%^&*只要你不离开我%^&*雄鹰%^&*热血%^&*我的爸爸%^&*再谈一次恋爱%^&*因为所以%^&*梦花%^&*唯一%^&*古船女人网%^&*不再沉睡%^&*无言%^&*
+songURLs http://www.xiami.com/song/49018%^&*http://www.xiami.com/song/49019%^&*http://www.xiami.com/song/49020%^&*http://www.xiami.com/song/49021%^&*http://www.xiami.com/song/49022%^&*http://www.xiami.com/song/49023%^&*http://www.xiami.com/song/49024%^&*http://www.xiami.com/song/49025%^&*http://www.xiami.com/song/49026%^&*http://www.xiami.com/song/49027%^&*http://www.xiami.com/song/49028%^&*http://www.xiami.com/song/49029%^&*http://www.xiami.com/song/49030%^&*http://www.xiami.com/song/49031%^&*

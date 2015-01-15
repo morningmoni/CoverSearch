@@ -1,0 +1,7 @@
+number 68150087
+name 忏悔
+artist 詹曼铃
+introduction 詹曼铃，一名中国台湾的女歌手，以唱闽南语歌曲著称，并曾与台湾戏剧一哥江宏恩对唱过两首情歌，在校园时就以靓丽的歌喉得到唱片公司的青睐。
+picture http://img.xiami.net/images/album/img40/2440/681500871368150088.jpg
+songs 忏悔%^&*成双成对%^&*相思%^&*等云%^&*爱情的故事%^&*背后%^&*阮的宝贝%^&*无人会冻甲咱拆散%^&*望爱了对时%^&*爱阮的人%^&*
+songURLs http://www.xiami.com/song/1771872848%^&*http://www.xiami.com/song/1771872849%^&*http://www.xiami.com/song/1771872850%^&*http://www.xiami.com/song/1771872851%^&*http://www.xiami.com/song/1771872852%^&*http://www.xiami.com/song/1771872853%^&*http://www.xiami.com/song/1771872854%^&*http://www.xiami.com/song/1771872855%^&*http://www.xiami.com/song/1771872856%^&*http://www.xiami.com/song/1771872857%^&*

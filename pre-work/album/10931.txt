@@ -1,0 +1,7 @@
+number 10931
+name 一个美丽的回响演唱会
+artist 梅艳芳
+introduction 梅艳芳于1995年在香港举行了《一个美丽的回响演唱会》。在此演唱会上，梅艳芳有诸多百变的形象出现，有野性如埃及法老之女，亦有艳丽大气的大姐大形象，这是梅艳芳复出后再攀事业高峰的开始。
+picture http://img.xiami.net/images/album/img0/2000/109311383225714.jpg
+songs 梦伴 (Live)%^&*We&#039;ll Be Together (Live)%^&*Faith Fully (Live)%^&*爱是没余地 (Live)%^&*莫问一生 (Live)%^&*烈女 (Live)%^&*耶利亚 (Live)%^&*梦姬 (Live)%^&*得不到的爱情 (Live)%^&*何日 / 李香兰 (Live)%^&*Medley: 愿今宵一起醉死 / Stand By Me%^&*是这样的 (Live)%^&*爱是个传奇 / 粉红色的一生%^&*明星 (Live)%^&*女人心 (Live)%^&*Melody: 分分钟需要你 / 浪子心声 / 胭脂扣 / 情人 / 明天我要嫁给你 / 凭着爱 / 心仍是冷 / 分分钟需要你%^&*情归何处 (Live)%^&*感激 (Live)%^&*Touch (Live)%^&*疾风 (Live)%^&*爱我便说爱我吧 (Live)%^&*歌之女 (Live)%^&*似水流年 (Live)%^&*
+songURLs http://www.xiami.com/song/135034%^&*http://www.xiami.com/song/135035%^&*http://www.xiami.com/song/135036%^&*http://www.xiami.com/song/135037%^&*http://www.xiami.com/song/135038%^&*http://www.xiami.com/song/135039%^&*http://www.xiami.com/song/135040%^&*http://www.xiami.com/song/135041%^&*http://www.xiami.com/song/135042%^&*http://www.xiami.com/song/135043%^&*http://www.xiami.com/song/135044%^&*http://www.xiami.com/song/135045%^&*http://www.xiami.com/song/135047%^&*http://www.xiami.com/song/135048%^&*http://www.xiami.com/song/135049%^&*http://www.xiami.com/song/135050%^&*http://www.xiami.com/song/135051%^&*http://www.xiami.com/song/135052%^&*http://www.xiami.com/song/135053%^&*http://www.xiami.com/song/135054%^&*http://www.xiami.com/song/135055%^&*http://www.xiami.com/song/135056%^&*http://www.xiami.com/song/135057%^&*

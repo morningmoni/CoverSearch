@@ -1,0 +1,7 @@
+number 14243
+name 月儿明 风儿静
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14243.jpg
+songs 悠悠扎%^&*月儿明,风儿静%^&*槟榔树下网床%^&*啊咿呀咿呀%^&*土家族摇篮曲%^&*阿尼且儿%^&*小猫儿不要叫%^&*黎族催眠歌%^&*渔家摇篮曲%^&*藏族催眠曲%^&*普茹莱弟%^&*啊来,巴郎木%^&*
+songURLs http://www.xiami.com/song/175862%^&*http://www.xiami.com/song/175863%^&*http://www.xiami.com/song/175864%^&*http://www.xiami.com/song/175865%^&*http://www.xiami.com/song/175866%^&*http://www.xiami.com/song/175867%^&*http://www.xiami.com/song/175868%^&*http://www.xiami.com/song/175869%^&*http://www.xiami.com/song/175870%^&*http://www.xiami.com/song/175871%^&*http://www.xiami.com/song/175872%^&*http://www.xiami.com/song/175873%^&*

@@ -1,0 +1,6 @@
+number 266
+name 耶诞组曲(阿贵/秀妹/阿弟)
+artist 阿贵%^&*
+artistURL http://www.xiami.com/artist/6%^&*
+album 阿贵的快乐天堂
+albumURL http://www.xiami.com/album/20

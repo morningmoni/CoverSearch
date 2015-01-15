@@ -1,0 +1,7 @@
+number 389613
+name 日与夜
+artist 林忆莲%^&*张学友%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E5%BF%86%E8%8E%B2%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BC%A0%E5%AD%A6%E5%8F%8B%^&*
+album 鼓舞辉阳
+albumURL http://www.xiami.com/album/32688

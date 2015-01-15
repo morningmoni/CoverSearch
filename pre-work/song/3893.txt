@@ -1,0 +1,8 @@
+number 3893
+name 马戏团
+artist 陈冠希%^&*Eric Kwok%^&*MC仁%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E5%86%A0%E5%B8%8C%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=Eric+Kwok%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=MC%E4%BB%81%^&*
+album The Best Collection
+albumURL http://www.xiami.com/album/321

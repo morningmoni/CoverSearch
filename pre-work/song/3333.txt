@@ -1,0 +1,6 @@
+number 3333
+name 夜的心
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 只因爱你
+albumURL http://www.xiami.com/album/264

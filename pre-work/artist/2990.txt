@@ -1,0 +1,7 @@
+number 2990
+name Seventh Day
+place Taiwan 台湾
+introduction 用流行音乐方式演绎福音的乐队组合。
+picture 
+albums Seventh Day%^&*
+albumURLs http://www.xiami.com/album/15234%^&*

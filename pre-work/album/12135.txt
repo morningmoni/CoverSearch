@@ -1,0 +1,6 @@
+number 12135
+name 斗气
+artist 文佩玲
+introduction picture http://img.xiami.net/images/album/img30/2230/121351333952977.jpg
+songs 斗气%^&*难得糊涂%^&*过火%^&*可爱不可恋%^&*从来无后悔%^&*谁曾待我好%^&*骤来的去年夏季%^&*Come On%^&*情人罗密欧%^&*知道你在等我%^&*
+songURLs http://www.xiami.com/song/149254%^&*http://www.xiami.com/song/149255%^&*http://www.xiami.com/song/149256%^&*http://www.xiami.com/song/149257%^&*http://www.xiami.com/song/149258%^&*http://www.xiami.com/song/149259%^&*http://www.xiami.com/song/149260%^&*http://www.xiami.com/song/149261%^&*http://www.xiami.com/song/149262%^&*http://www.xiami.com/song/149263%^&*

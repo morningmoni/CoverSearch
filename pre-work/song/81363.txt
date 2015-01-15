@@ -1,0 +1,6 @@
+number 81363
+name 双截棍
+artist 周杰伦%^&*
+artistURL http://www.xiami.com/artist/1260%^&*
+album Initial J
+albumURL http://www.xiami.com/album/6644

@@ -1,0 +1,6 @@
+number 1771130760
+name 若无你
+artist 阿吉仔%^&*
+artistURL http://www.xiami.com/artist/8%^&*
+album 阿吉仔台语专辑2
+albumURL http://www.xiami.com/album/525013

@@ -1,0 +1,7 @@
+number 438443
+name 红裙子
+artist 林慧玲
+introduction 
+picture http://img.xiami.net/images/album/img49/33049/1304033050.jpg
+songs 小菊花%^&*红裙子%^&*我飞%^&*下雨了%^&*蓝蝴蝶(演奏曲)%^&*背影%^&*寂寞呜啦啦%^&*爱在咖啡的季节(演奏曲)%^&*深海%^&*独白%^&*
+songURLs http://www.xiami.com/song/1770179894%^&*http://www.xiami.com/song/1770179895%^&*http://www.xiami.com/song/1770179896%^&*http://www.xiami.com/song/1770179897%^&*http://www.xiami.com/song/1770179898%^&*http://www.xiami.com/song/1770179899%^&*http://www.xiami.com/song/1770179900%^&*http://www.xiami.com/song/1770179901%^&*http://www.xiami.com/song/1770179902%^&*http://www.xiami.com/song/1770179903%^&*

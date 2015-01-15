@@ -1,0 +1,6 @@
+number 2048069
+name 青春舞曲
+artist 王洛宾%^&*
+artistURL http://www.xiami.com/artist/910%^&*
+album 西部歌王
+albumURL http://www.xiami.com/album/4607

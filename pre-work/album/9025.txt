@@ -1,0 +1,7 @@
+number 9025
+name 爱已经满满的
+artist 黄嘉千
+introduction 
+picture http://img.xiami.net/images/album/img50/1650/90251318400843.jpg
+songs 爱已经满满的%^&*故意%^&*风铃%^&*随心所欲%^&*爱你是快乐%^&*直觉%^&*冷落%^&*句点%^&*等着你%^&*向前飞%^&*
+songURLs http://www.xiami.com/song/385537%^&*http://www.xiami.com/song/385538%^&*http://www.xiami.com/song/385539%^&*http://www.xiami.com/song/385540%^&*http://www.xiami.com/song/385541%^&*http://www.xiami.com/song/385542%^&*http://www.xiami.com/song/385543%^&*http://www.xiami.com/song/385544%^&*http://www.xiami.com/song/385545%^&*http://www.xiami.com/song/385546%^&*

@@ -1,0 +1,7 @@
+number 7523
+name 这样的夜晚你需不需要我
+artist 陈铭洲
+introduction 
+picture http://img.xiami.net/images/pic/04/04/1014319432m_2.jpg
+songs 这样的夜晚你需不需要我%^&*醉过以后一起飞%^&*感觉%^&*任性%^&*爱的边缘%^&*距离%^&*一个没有雨的晚上%^&*让爱继续%^&*你的世界是不是有点冷%^&*醉过以后一起飞(Karaoke)%^&*
+songURLs http://www.xiami.com/song/92713%^&*http://www.xiami.com/song/92714%^&*http://www.xiami.com/song/92715%^&*http://www.xiami.com/song/92716%^&*http://www.xiami.com/song/92717%^&*http://www.xiami.com/song/92718%^&*http://www.xiami.com/song/92719%^&*http://www.xiami.com/song/92720%^&*http://www.xiami.com/song/92721%^&*http://www.xiami.com/song/92722%^&*

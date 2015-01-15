@@ -1,0 +1,7 @@
+number 14237
+name 童年
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14237.jpg
+songs 童年%^&*泼水歌%^&*快乐的向前走%^&*小花帽%^&*同桌的你%^&*外婆的澎湖湾%^&*弯弯的月亮%^&*西风的话%^&*马兰情歌%^&*竹楼情%^&*露沙兰%^&*鲁冰花%^&*
+songURLs http://www.xiami.com/song/175785%^&*http://www.xiami.com/song/175786%^&*http://www.xiami.com/song/175787%^&*http://www.xiami.com/song/175788%^&*http://www.xiami.com/song/175789%^&*http://www.xiami.com/song/175790%^&*http://www.xiami.com/song/175791%^&*http://www.xiami.com/song/175792%^&*http://www.xiami.com/song/175793%^&*http://www.xiami.com/song/175794%^&*http://www.xiami.com/song/175795%^&*http://www.xiami.com/song/175796%^&*

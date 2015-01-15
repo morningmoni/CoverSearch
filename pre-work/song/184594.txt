@@ -1,0 +1,6 @@
+number 184594
+name 欢乐颂
+artist 面孔%^&*
+artistURL http://www.xiami.com/artist/2920%^&*
+album 火的本能
+albumURL http://www.xiami.com/album/15008

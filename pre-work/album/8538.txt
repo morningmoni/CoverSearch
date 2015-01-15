@@ -1,0 +1,7 @@
+number 8538
+name 丝丝入扣
+artist 付娜
+introduction 
+picture http://img.xiami.net/images/album/img40/1540/85381410253865.jpg
+songs 思想枝%^&*雪梅思君%^&*渔家女%^&*双鱼座%^&*风马旗%^&*天竺少女%^&*情为何物%^&*沉默是金%^&*只求相爱过一生%^&*千里之外%^&*我是痴情无限%^&*安平追想曲%^&*流浪歌%^&*
+songURLs http://www.xiami.com/song/106263%^&*http://www.xiami.com/song/106264%^&*http://www.xiami.com/song/106265%^&*http://www.xiami.com/song/106266%^&*http://www.xiami.com/song/106267%^&*http://www.xiami.com/song/106268%^&*http://www.xiami.com/song/106269%^&*http://www.xiami.com/song/106270%^&*http://www.xiami.com/song/106271%^&*http://www.xiami.com/song/106272%^&*http://www.xiami.com/song/106273%^&*http://www.xiami.com/song/106274%^&*http://www.xiami.com/song/106275%^&*

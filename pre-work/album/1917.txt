@@ -1,0 +1,6 @@
+number 1917
+name 情歌风情画
+artist 江明学
+introduction picture http://img.xiami.net/images/album/img40/440/19171413984838.jpg
+songs 雨%^&*雨中的故事%^&*伞与散(口白)%^&*找一个下雨天%^&*台北雨%^&*漏雨(口白)%^&*雨,那会落抹停%^&*大雨的夜里%^&*新雨夜花%^&*不再躲雨(口白)%^&*今夜又搁块落雨%^&*泪的小雨%^&*无情雨有情人(口白)%^&*雨的旋律%^&*心雨%^&*第二道彩虹%^&*
+songURLs http://www.xiami.com/song/35781%^&*http://www.xiami.com/song/35782%^&*http://www.xiami.com/song/35783%^&*http://www.xiami.com/song/35784%^&*http://www.xiami.com/song/35785%^&*http://www.xiami.com/song/35786%^&*http://www.xiami.com/song/35787%^&*http://www.xiami.com/song/35788%^&*http://www.xiami.com/song/35789%^&*http://www.xiami.com/song/35790%^&*http://www.xiami.com/song/35791%^&*http://www.xiami.com/song/35792%^&*http://www.xiami.com/song/35793%^&*http://www.xiami.com/song/35794%^&*http://www.xiami.com/song/35795%^&*http://www.xiami.com/song/35796%^&*

@@ -1,0 +1,6 @@
+number 2335
+name 金针花
+artist 蔡振南%^&*
+artistURL http://www.xiami.com/artist/51%^&*
+album 江山楼
+albumURL http://www.xiami.com/album/189

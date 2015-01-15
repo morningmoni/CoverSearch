@@ -1,0 +1,6 @@
+number 4200
+name 别怕我伤心
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱9-爱在星光下
+albumURL http://www.xiami.com/album/347

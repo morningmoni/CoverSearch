@@ -1,0 +1,6 @@
+number 2762
+name 得来不易
+artist 侧田%^&*
+artistURL http://www.xiami.com/artist/65%^&*
+album No Protection (Dual Disc Version)
+albumURL http://www.xiami.com/album/224

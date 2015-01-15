@@ -1,0 +1,7 @@
+number 312
+name 古刹铜钟
+artist 陈迪匡
+introduction 
+picture http://img.xiami.net/images/album/img76/76/3121392900545.jpg
+songs 古刹铜钟%^&*光阴的玩偶%^&*街中那是我%^&*谁人不出错%^&*机仔机女%^&*靓歌伴星河%^&*小岛春巴布%^&*星期日下午%^&*莫再彷徨%^&*她%^&*没法再装傻%^&*
+songURLs http://www.xiami.com/song/3790%^&*http://www.xiami.com/song/3791%^&*http://www.xiami.com/song/3792%^&*http://www.xiami.com/song/3793%^&*http://www.xiami.com/song/3794%^&*http://www.xiami.com/song/3795%^&*http://www.xiami.com/song/3796%^&*http://www.xiami.com/song/3797%^&*http://www.xiami.com/song/3798%^&*http://www.xiami.com/song/3799%^&*http://www.xiami.com/song/3800%^&*

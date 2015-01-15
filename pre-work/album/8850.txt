@@ -1,0 +1,7 @@
+number 8850
+name 感动
+artist 韩红
+introduction 沉寂两年的韩红终于推出了自己第五张“韩氏”音乐大碟—《感动》。这张凝聚了韩红五年情感积蓄的新专辑，以感恩的心去真诚面对每一位朋友。《感动》一如既往汇聚了很多“乐坛名将”，金少刚、捞仔、刘麟、李军、王晓峰、李延亮、陈彤、金武林、胡海泉、刘效松等创作、配乐、编曲领域的明星逐一上阵，合力帮韩红打造这张最新唱片。专辑的主打歌“感动”是CCTV特别节目《感动中国》的主题曲；曾在春节联欢晚会倍受好评的“天路”则是一首献给修筑青藏铁路的英雄们的歌，值得一提的是，专辑中特别收录了“天路”World Music版；与高明骏合唱的“让爱做主”、与李泉对唱的“我决定爱你”是两首风格不同的对唱情歌；胡海泉精心为韩红创作的“爱”让韩红尝试了她从未用过的唱法；韩红参与创作的“生命”、“回来”等五首作品，内容涉及倡导保护野生动物、歌颂和平反对战争、关注平凡人物等多个层面，使专辑带有强烈的公益性。
+picture http://img.xiami.net/images/album/img90/1590/88501366868587.jpg
+songs 天路 (传统版)%^&*感动%^&*我决定爱你%^&*爱%^&*生命%^&*流浪%^&*生命不言败%^&*让爱做主%^&*回来%^&*天使%^&*天路 (世界音乐版)%^&*
+songURLs http://www.xiami.com/song/110126%^&*http://www.xiami.com/song/110127%^&*http://www.xiami.com/song/110128%^&*http://www.xiami.com/song/110129%^&*http://www.xiami.com/song/110130%^&*http://www.xiami.com/song/110131%^&*http://www.xiami.com/song/110132%^&*http://www.xiami.com/song/110133%^&*http://www.xiami.com/song/110134%^&*http://www.xiami.com/song/110135%^&*http://www.xiami.com/song/110136%^&*

@@ -1,0 +1,7 @@
+number 3263
+name 妈妈的歌谣
+artist 吕继宏
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10132467965m_2.jpg
+songs 妈妈的歌谣%^&*恩重如山%^&*鹰翔%^&*兵妈妈%^&*梦中小纸船%^&*回四川%^&*当兵的月亮%^&*再见了,大别山%^&*小白鹿%^&*白发亲娘%^&*莎黛%^&*梦回故乡%^&*我像雪花天上来%^&*
+songURLs http://www.xiami.com/song/40099%^&*http://www.xiami.com/song/40100%^&*http://www.xiami.com/song/40101%^&*http://www.xiami.com/song/40102%^&*http://www.xiami.com/song/40103%^&*http://www.xiami.com/song/40104%^&*http://www.xiami.com/song/40105%^&*http://www.xiami.com/song/40106%^&*http://www.xiami.com/song/40107%^&*http://www.xiami.com/song/40108%^&*http://www.xiami.com/song/40109%^&*http://www.xiami.com/song/40110%^&*http://www.xiami.com/song/40111%^&*

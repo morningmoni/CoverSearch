@@ -1,0 +1,6 @@
+number 176
+name 小王子的音乐书
+artist 蔡兴国
+introduction picture http://img.xiami.net/images/album/img48/48/1761397904896.jpg
+songs 小叮当%^&*萤火虫之墓%^&*红猪和他的朋友%^&*魔女宅急便%^&*风之谷%^&*豆豆龙%^&*欢喜碰碰狸%^&*红猪进行曲%^&*龙猫的故乡%^&*心之谷%^&*稍息立正站好%^&*
+songURLs http://www.xiami.com/song/2164%^&*http://www.xiami.com/song/2165%^&*http://www.xiami.com/song/2166%^&*http://www.xiami.com/song/2167%^&*http://www.xiami.com/song/2168%^&*http://www.xiami.com/song/2169%^&*http://www.xiami.com/song/2170%^&*http://www.xiami.com/song/2171%^&*http://www.xiami.com/song/2172%^&*http://www.xiami.com/song/2173%^&*http://www.xiami.com/song/2174%^&*

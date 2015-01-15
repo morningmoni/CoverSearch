@@ -1,0 +1,7 @@
+number 14244
+name 闭上蓝色眼睛
+artist 北京天使合唱团
+introduction 
+picture http://img.xiami.net/images/album/img50/2650/14244.jpg
+songs 莫扎特摇篮曲%^&*布拉姆斯摇篮曲%^&*意大利摇篮曲%^&*孩子睡了%^&*秋夜摇眠曲%^&*睡吧,小宝贝%^&*舒伯特摇篮曲%^&*黑妈妈摇篮曲%^&*啊!顿河%^&*日本摇篮曲%^&*伊丽伊丽%^&*约赛兰摇篮曲%^&*印度摇篮曲%^&*
+songURLs http://www.xiami.com/song/175874%^&*http://www.xiami.com/song/175875%^&*http://www.xiami.com/song/175876%^&*http://www.xiami.com/song/175877%^&*http://www.xiami.com/song/175878%^&*http://www.xiami.com/song/175879%^&*http://www.xiami.com/song/175880%^&*http://www.xiami.com/song/175881%^&*http://www.xiami.com/song/175882%^&*http://www.xiami.com/song/175883%^&*http://www.xiami.com/song/175884%^&*http://www.xiami.com/song/175885%^&*http://www.xiami.com/song/175886%^&*

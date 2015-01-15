@@ -1,0 +1,7 @@
+number 240
+name 甘子辉
+place Hongkong 香港
+introduction 
+picture http://img.xiami.net/images/artist/11985605546357.jpg
+albums 换季情人%^&*
+albumURLs http://www.xiami.com/album/1045%^&*

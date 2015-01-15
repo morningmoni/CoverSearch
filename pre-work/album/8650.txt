@@ -1,0 +1,7 @@
+number 8650
+name 往事只能回味
+artist 古璇
+introduction 
+picture http://img.xiami.net/images/album/img60/1560/8650.jpg
+songs 眼泪为谁流%^&*沉默的夜空%^&*走远路%^&*往事只能回味%^&*半梦半醒之间%^&*人生舞台%^&*一杯咖啡%^&*相逢在小树林%^&*丑小鸭%^&*沿着湖畔找到你%^&*卖馄饨%^&*不会再回头%^&*
+songURLs http://www.xiami.com/song/107435%^&*http://www.xiami.com/song/107436%^&*http://www.xiami.com/song/107437%^&*http://www.xiami.com/song/107438%^&*http://www.xiami.com/song/107439%^&*http://www.xiami.com/song/107440%^&*http://www.xiami.com/song/107441%^&*http://www.xiami.com/song/107442%^&*http://www.xiami.com/song/107443%^&*http://www.xiami.com/song/107444%^&*http://www.xiami.com/song/107445%^&*http://www.xiami.com/song/107446%^&*

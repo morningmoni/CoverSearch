@@ -1,0 +1,7 @@
+number 274
+name 冬暖
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2741333244534.jpg
+songs 感情到老%^&*盼三年%^&*燃点真爱%^&*长伴千世纪%^&*愿意再等%^&*爱的伤痕%^&*Where Are You%^&*暂别的爱%^&*一语道破%^&*冬恋%^&*
+songURLs http://www.xiami.com/song/3428%^&*http://www.xiami.com/song/3429%^&*http://www.xiami.com/song/3430%^&*http://www.xiami.com/song/3431%^&*http://www.xiami.com/song/3432%^&*http://www.xiami.com/song/3433%^&*http://www.xiami.com/song/3434%^&*http://www.xiami.com/song/3435%^&*http://www.xiami.com/song/3436%^&*http://www.xiami.com/song/3437%^&*

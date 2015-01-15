@@ -1,0 +1,7 @@
+number 32209
+name Jay 同名专辑
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/322091387132408.jpg
+songs 可爱女人%^&*完美主义%^&*星晴%^&*娘子%^&*斗牛%^&*黑色幽默%^&*伊斯坦堡%^&*印第安老斑鸠%^&*龙卷风%^&*反方向的钟%^&*
+songURLs http://www.xiami.com/song/375995%^&*http://www.xiami.com/song/375996%^&*http://www.xiami.com/song/375997%^&*http://www.xiami.com/song/375998%^&*http://www.xiami.com/song/375999%^&*http://www.xiami.com/song/376000%^&*http://www.xiami.com/song/376001%^&*http://www.xiami.com/song/376002%^&*http://www.xiami.com/song/376003%^&*http://www.xiami.com/song/376004%^&*

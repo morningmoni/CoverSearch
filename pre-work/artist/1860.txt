@@ -1,0 +1,7 @@
+number 1860
+name 林慧玲米拉拉
+place Taiwan 台湾
+introduction 林慧玲，剧场首席配乐家，曾与舞蹈家罗曼菲、古名伸、导演吴念真、纪录片导演张照堂合作，以空间感独具的音乐语法，在舞台上影像上创造一道道惊艳风景。
+picture http://img.xiami.net/images/artistlogo/8/13040580084908.jpg
+albums 真爱100天 电影原声带%^&*欲望·佐·耽奴%^&*红裙子%^&*香味天使-钢琴创作专辑%^&*米拉的城市情歌%^&*遇见米拉拉%^&*三狗组%^&*收藏 林慧玲的音乐情诗%^&*
+albumURLs http://www.xiami.com/album/383533845%^&*http://www.xiami.com/album/511949%^&*http://www.xiami.com/album/438443%^&*http://www.xiami.com/album/436761%^&*http://www.xiami.com/album/372482%^&*http://www.xiami.com/album/324187%^&*http://www.xiami.com/album/319956%^&*http://www.xiami.com/album/10178%^&*

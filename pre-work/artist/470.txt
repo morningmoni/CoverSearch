@@ -1,0 +1,7 @@
+number 470
+name Andy Kao
+place Taiwan 台湾
+introduction 
+picture http://img.xiami.net/images/artist/11997707514172.jpg
+albums 我是你的几分之几%^&*
+albumURLs http://www.xiami.com/album/2030%^&*

@@ -1,0 +1,6 @@
+number 4708
+name 强颜欢笑
+artist 文章
+introduction picture http://img.xiami.net/images/album/img40/940/4708.jpg
+songs 强颜欢笑%^&*爱比不爱更寂寞%^&*一言难尽%^&*一次爱一次伤%^&*现在你会在哪里%^&*风雨给我,温暖给你%^&*一厢情愿%^&*Say yes%^&*痛也要继续%^&*风舞%^&*
+songURLs http://www.xiami.com/song/57021%^&*http://www.xiami.com/song/57022%^&*http://www.xiami.com/song/57023%^&*http://www.xiami.com/song/57024%^&*http://www.xiami.com/song/57025%^&*http://www.xiami.com/song/57026%^&*http://www.xiami.com/song/57027%^&*http://www.xiami.com/song/57028%^&*http://www.xiami.com/song/57029%^&*http://www.xiami.com/song/57030%^&*

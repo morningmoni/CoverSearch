@@ -1,0 +1,6 @@
+number 777
+name 老夫子情歌MV
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 至冧情歌
+albumURL http://www.xiami.com/album/65

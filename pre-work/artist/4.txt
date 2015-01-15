@@ -1,0 +1,7 @@
+number 4
+name 阿弟仔
+place Taiwan 台湾
+introduction 阿弟仔，台湾歌手、词曲作家、音乐制作人，本名张健伟，台湾基隆市人，1976年出生。作品凭着直觉与天赋释放出强烈的个人音乐风格，音乐作品早期以台语为主，近年来成为不少华语知名歌手如蔡依林、萧亚轩、罗志祥、张靓颖、张惠妹、那英、郁可唯、卓文萱、萧敬腾、梁文音、大嘴巴、自由发挥等人的词曲作家与唱片制作人。曾先后出版音乐专辑两张，从第一张专辑开始，就凭着直觉与天赋释放出强烈的个人音乐风格，成为炙手可热的年轻创作歌手，曾获&ldquo;金曲歌王&rdquo;称号。出生地: 台湾宜兰生 日: 1976-12-12身 高: 168cm体 重: 60KG血 型: O星 座: 人马座视力：近视250度嗜好、兴趣：音乐、运动、美术学历：基隆高中经历：广告制片、歌手、词曲作者、音乐
+picture http://img.xiami.net/images/artistlogo/24/12849788353624.jpg
+albums 1188%^&*自慰精选 (独立纪念盘)%^&*平衡%^&*我是人%^&*我没读书%^&*
+albumURLs http://www.xiami.com/album/6%^&*http://www.xiami.com/album/7%^&*http://www.xiami.com/album/8%^&*http://www.xiami.com/album/9%^&*http://www.xiami.com/album/10%^&*

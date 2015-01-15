@@ -1,0 +1,6 @@
+number 175
+name 春夏秋冬
+artist 蔡小虎
+introduction picture http://img.xiami.net/images/pic/04/03/10104513816m_2.jpg
+songs 春夏秋冬%^&*再会梦中人%^&*因为了解%^&*流恋草%^&*女人心%^&*留恋%^&*若有可能%^&*不倘放弃阮的爱%^&*期待搁再来相逢的彼时%^&*鸳鸯梦%^&*重搬%^&*为什麽想起你%^&*
+songURLs http://www.xiami.com/song/1770201128%^&*http://www.xiami.com/song/1770201129%^&*http://www.xiami.com/song/1770201130%^&*http://www.xiami.com/song/1770201131%^&*http://www.xiami.com/song/1770201132%^&*http://www.xiami.com/song/1770201133%^&*http://www.xiami.com/song/1770201134%^&*http://www.xiami.com/song/1770201135%^&*http://www.xiami.com/song/1770201136%^&*http://www.xiami.com/song/1770201137%^&*http://www.xiami.com/song/1770201138%^&*http://www.xiami.com/song/1770201139%^&*

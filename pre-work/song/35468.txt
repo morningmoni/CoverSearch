@@ -1,0 +1,6 @@
+number 35468
+name 太多太多
+artist 纪宏仁%^&*
+artistURL http://www.xiami.com/artist/430%^&*
+album 纪宏仁的舞夜电话
+albumURL http://www.xiami.com/album/1886

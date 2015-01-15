@@ -1,0 +1,6 @@
+number 2050536
+name 六神无主
+artist 蔡国庆%^&*
+artistURL http://www.xiami.com/artist/42%^&*
+album 庆祝
+albumURL http://www.xiami.com/album/167395

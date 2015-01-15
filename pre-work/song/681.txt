@@ -1,0 +1,6 @@
+number 681
+name 宝贝不要哭MV
+artist 卜学亮%^&*
+artistURL http://www.xiami.com/artist/21%^&*
+album 我爱阿亮阿亮爱我
+albumURL http://www.xiami.com/album/57

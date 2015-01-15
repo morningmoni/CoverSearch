@@ -1,0 +1,6 @@
+number 13875
+name 释放自己
+artist 周云
+introduction picture http://img.xiami.net/images/pic/04/04/10129694069m_2.jpg
+songs 寂寞在唱歌%^&*啊,朋友再见%^&*门没锁%^&*电台情歌%^&*一千零一个愿望%^&*亲爱的你怎么不在身边%^&*下辈子如果我还记得你%^&*听说%^&*释放自己%^&*十年%^&*相见恨晚%^&*街角的祝福%^&*
+songURLs http://www.xiami.com/song/171381%^&*http://www.xiami.com/song/171382%^&*http://www.xiami.com/song/171383%^&*http://www.xiami.com/song/171384%^&*http://www.xiami.com/song/171385%^&*http://www.xiami.com/song/171386%^&*http://www.xiami.com/song/171387%^&*http://www.xiami.com/song/171388%^&*http://www.xiami.com/song/171389%^&*http://www.xiami.com/song/171390%^&*http://www.xiami.com/song/171391%^&*http://www.xiami.com/song/171392%^&*

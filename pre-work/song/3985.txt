@@ -1,0 +1,6 @@
+number 3985
+name Number Nine
+artist 陈冠希%^&*
+artistURL http://www.xiami.com/artist/80%^&*
+album Hits Or Misses
+albumURL http://www.xiami.com/album/326

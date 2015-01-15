@@ -1,0 +1,6 @@
+number 148
+name 在你耳边唱
+artist 蔡国权
+introduction picture http://img.xiami.net/images/album/img43/43/1481334021930.jpg
+songs 是谁在我耳边唱%^&*追忆%^&*六指琴魔%^&*天天在等你%^&*不想再逗留%^&*成长的代价%^&*寒傲似冰%^&*想起你%^&*让我飞%^&*小角色%^&*放胆唱%^&*
+songURLs http://www.xiami.com/song/1820%^&*http://www.xiami.com/song/1821%^&*http://www.xiami.com/song/1822%^&*http://www.xiami.com/song/1823%^&*http://www.xiami.com/song/1824%^&*http://www.xiami.com/song/1825%^&*http://www.xiami.com/song/1826%^&*http://www.xiami.com/song/1827%^&*http://www.xiami.com/song/1828%^&*http://www.xiami.com/song/1829%^&*http://www.xiami.com/song/1830%^&*

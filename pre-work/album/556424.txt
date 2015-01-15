@@ -1,0 +1,7 @@
+number 556424
+name 今夜难得有情人
+artist 梁雁翎
+introduction 是梁雁翎的第六张专辑，她带着十年的经历与心情、沉淀与感念，又一次走到了大家的面前，用她最真挚热情的歌声来表达自己、感悟他人。在她的歌声里，每一首歌都是一个故事，完整或残缺，美好或伤痛，无论你我有多不同，在听故事的时候感受总是相通的，这种感觉很奇妙，这就是音乐的魔力。
+picture http://img.xiami.net/images/album/img40/1840/5564241353034340.jpg
+songs 今生难得有情人%^&*真心对我%^&*爱你到永久%^&*跟你飞%^&*为你变得美丽%^&*不敢想%^&*独舞%^&*女人百合%^&*来世相约%^&*为你变得美丽（管弦乐版）%^&*
+songURLs http://www.xiami.com/song/1771457270%^&*http://www.xiami.com/song/1771457271%^&*http://www.xiami.com/song/1771457272%^&*http://www.xiami.com/song/1771457273%^&*http://www.xiami.com/song/1771457274%^&*http://www.xiami.com/song/1771457275%^&*http://www.xiami.com/song/1771457276%^&*http://www.xiami.com/song/1771457277%^&*http://www.xiami.com/song/1771457278%^&*http://www.xiami.com/song/1771457279%^&*

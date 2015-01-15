@@ -1,0 +1,6 @@
+number 1771856832
+name 三种解释
+artist 穗好乐团%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%A9%97%E5%A5%BD%E4%B9%90%E5%9B%A2%^&*
+album 鸡叫春
+albumURL http://www.xiami.com/album/1267806805

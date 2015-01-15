@@ -1,0 +1,9 @@
+number 1214
+name 新吉利话
+artist 戴娆%^&*林依轮%^&*季红%^&*王璐遥%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%88%B4%E5%A8%86%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9E%97%E4%BE%9D%E8%BD%AE%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AD%A3%E7%BA%A2%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E7%8E%8B%E7%92%90%E9%81%A5%^&*
+album 东方雄鹰 经典回放
+albumURL http://www.xiami.com/album/103

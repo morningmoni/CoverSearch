@@ -1,0 +1,7 @@
+number 380973
+name 舞者为王REMIX混音极选
+artist 罗志祥
+introduction 
+picture http://img.xiami.net/images/album/img20/720/3809731274064675.jpg
+songs 爱的主场秀 (SHOW Trance Remix)%^&*个中强手 (Hot Shot - Violent Electro Remix)%^&*一支独秀 (Funky Breakbeat Remix)%^&*撑腰 (Back Up Trance Remix)%^&*当我们宅一块 (Nu Jazz Downtempo Remix)%^&*搞定 (Funky House Remix)%^&*罗生门 (Euro Techno Remix)%^&*小事变乐事%^&*
+songURLs http://www.xiami.com/song/1769518564%^&*http://www.xiami.com/song/1769518565%^&*http://www.xiami.com/song/1769518566%^&*http://www.xiami.com/song/1769518567%^&*http://www.xiami.com/song/1769518568%^&*http://www.xiami.com/song/1769518569%^&*http://www.xiami.com/song/1769518570%^&*http://www.xiami.com/song/1769518571%^&*

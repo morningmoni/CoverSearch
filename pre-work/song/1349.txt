@@ -1,0 +1,6 @@
+number 1349
+name 突爆的光芒
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 风华再现 2000精选
+albumURL http://www.xiami.com/album/111

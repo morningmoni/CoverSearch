@@ -1,0 +1,7 @@
+number 3026
+name 我们的生活充满阳光
+artist 刘罡
+introduction 
+picture http://img.xiami.net/images/album/img50/650/3026.jpg
+songs 绒花%^&*我们的生活充满阳光%^&*南泥湾%^&*雁南飞%^&*翻身农奴把歌唱%^&*弹起我心爱的土琵琶%^&*美丽的神话%^&*我的祖国%^&*映山红%^&*洪湖水浪打浪%^&*我是不是你开的玩笑%^&*
+songURLs http://www.xiami.com/song/37039%^&*http://www.xiami.com/song/37040%^&*http://www.xiami.com/song/37041%^&*http://www.xiami.com/song/37042%^&*http://www.xiami.com/song/37043%^&*http://www.xiami.com/song/37044%^&*http://www.xiami.com/song/37045%^&*http://www.xiami.com/song/37046%^&*http://www.xiami.com/song/37047%^&*http://www.xiami.com/song/37048%^&*http://www.xiami.com/song/37049%^&*

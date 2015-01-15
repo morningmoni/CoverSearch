@@ -1,0 +1,7 @@
+number 13453
+name 赢
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/134531388306792.jpg
+songs 赢%^&*夜快车%^&*爱你%^&*随人路随%^&*车站%^&*了断%^&*我若酒醉拢是你%^&*旧厝%^&*陷阱%^&*同床无同命%^&*
+songURLs http://www.xiami.com/song/165722%^&*http://www.xiami.com/song/165723%^&*http://www.xiami.com/song/165724%^&*http://www.xiami.com/song/165725%^&*http://www.xiami.com/song/165726%^&*http://www.xiami.com/song/165727%^&*http://www.xiami.com/song/165728%^&*http://www.xiami.com/song/165729%^&*http://www.xiami.com/song/165730%^&*http://www.xiami.com/song/165731%^&*

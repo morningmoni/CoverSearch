@@ -1,0 +1,7 @@
+number 11361
+name True Love
+artist 饶嬿婷
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10141316877m_2.jpg
+songs 赞美(Intro Version)%^&*伊甸园%^&*才知道%^&*True Love%^&*饶嬿婷%^&*听我说%^&*世界因为有你%^&*没关系%^&*为什么%^&*云开了%^&*因着爱%^&*赞美%^&*
+songURLs http://www.xiami.com/song/139784%^&*http://www.xiami.com/song/139785%^&*http://www.xiami.com/song/139786%^&*http://www.xiami.com/song/139787%^&*http://www.xiami.com/song/139788%^&*http://www.xiami.com/song/139789%^&*http://www.xiami.com/song/139790%^&*http://www.xiami.com/song/139791%^&*http://www.xiami.com/song/139792%^&*http://www.xiami.com/song/139793%^&*http://www.xiami.com/song/139794%^&*http://www.xiami.com/song/139795%^&*

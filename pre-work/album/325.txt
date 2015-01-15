@@ -1,0 +1,7 @@
+number 325
+name Please Steal This Album
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/3251391345949.jpg
+songs 大力D%^&*欺生%^&*即影即有%^&*马戏团%^&*Wake Up%^&*怕 Introducing The Balliticians%^&*听着%^&*香港地%^&*Easy%^&*尼古丁%^&*唔知为乜%^&*战争%^&*U Like Me%^&*Outro%^&*Hidden Track%^&*
+songURLs http://www.xiami.com/song/3967%^&*http://www.xiami.com/song/3968%^&*http://www.xiami.com/song/3969%^&*http://www.xiami.com/song/3970%^&*http://www.xiami.com/song/3971%^&*http://www.xiami.com/song/3972%^&*http://www.xiami.com/song/3973%^&*http://www.xiami.com/song/3974%^&*http://www.xiami.com/song/3975%^&*http://www.xiami.com/song/3976%^&*http://www.xiami.com/song/3977%^&*http://www.xiami.com/song/3978%^&*http://www.xiami.com/song/3979%^&*http://www.xiami.com/song/3980%^&*http://www.xiami.com/song/3981%^&*

@@ -1,0 +1,7 @@
+number 1732
+name 真心
+artist 黄品源
+introduction 
+picture http://img.xiami.net/images/album/img90/390/17321398488868.jpg
+songs 它给我不同的快乐%^&*花与蝶%^&*纵然有一天我们分离%^&*月夜情书%^&*永远拢共款%^&*雨后的彩虹%^&*大海的烦恼%^&*远离激情那一天%^&*停留在我心中的灵魂%^&*
+songURLs http://www.xiami.com/song/33252%^&*http://www.xiami.com/song/33253%^&*http://www.xiami.com/song/33254%^&*http://www.xiami.com/song/33255%^&*http://www.xiami.com/song/33256%^&*http://www.xiami.com/song/33257%^&*http://www.xiami.com/song/33258%^&*http://www.xiami.com/song/33259%^&*http://www.xiami.com/song/33260%^&*

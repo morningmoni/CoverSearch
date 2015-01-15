@@ -1,0 +1,7 @@
+number 10928
+name 镜花水月
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109281387341805.jpg
+songs 火凤凰之舞%^&*爱的感觉%^&*镜花水月%^&*为什么是你%^&*甚么都有的女人%^&*夜蛇%^&*第六个星期%^&*有心人%^&*抱紧眼前人%^&*镜花水月(Reprise)%^&*Good Night%^&*
+songURLs http://www.xiami.com/song/135009%^&*http://www.xiami.com/song/135010%^&*http://www.xiami.com/song/135011%^&*http://www.xiami.com/song/135012%^&*http://www.xiami.com/song/135013%^&*http://www.xiami.com/song/135014%^&*http://www.xiami.com/song/135015%^&*http://www.xiami.com/song/135016%^&*http://www.xiami.com/song/135017%^&*http://www.xiami.com/song/135018%^&*http://www.xiami.com/song/135019%^&*

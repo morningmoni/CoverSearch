@@ -1,0 +1,7 @@
+number 12571
+name 云且留住
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125711366018294.jpg
+songs 神话%^&*云且留住%^&*聚散两依依%^&*在水一方%^&*却上心头%^&*诗意%^&*秋歌%^&*我怎能离开你%^&*庭院深深%^&*月朦胧鸟朦胧%^&*
+songURLs http://www.xiami.com/song/383433%^&*http://www.xiami.com/song/383434%^&*http://www.xiami.com/song/383435%^&*http://www.xiami.com/song/383436%^&*http://www.xiami.com/song/383437%^&*http://www.xiami.com/song/383438%^&*http://www.xiami.com/song/383439%^&*http://www.xiami.com/song/383440%^&*http://www.xiami.com/song/383441%^&*http://www.xiami.com/song/383442%^&*

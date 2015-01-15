@@ -1,0 +1,7 @@
+number 11641
+name 最后精选
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/116411326618282.png
+songs 最后 一个人%^&*思念加倍%^&*慢慢等%^&*妈妈你无对我讲%^&*秘密情人%^&*爱你爱到心痛%^&*不通将阮放%^&*心爱的别走%^&*手下留情%^&*憨憨为你等%^&*铁枝路的两条线%^&*伴阮过一生%^&*为爱活下去%^&*牺牲%^&*有爱过%^&*
+songURLs http://www.xiami.com/song/143222%^&*http://www.xiami.com/song/143223%^&*http://www.xiami.com/song/143224%^&*http://www.xiami.com/song/143225%^&*http://www.xiami.com/song/143226%^&*http://www.xiami.com/song/143227%^&*http://www.xiami.com/song/143228%^&*http://www.xiami.com/song/143229%^&*http://www.xiami.com/song/143230%^&*http://www.xiami.com/song/143231%^&*http://www.xiami.com/song/143232%^&*http://www.xiami.com/song/143233%^&*http://www.xiami.com/song/143234%^&*http://www.xiami.com/song/143235%^&*http://www.xiami.com/song/143236%^&*

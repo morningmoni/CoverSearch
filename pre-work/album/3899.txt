@@ -1,0 +1,6 @@
+number 3899
+name 你的眼睛
+artist 施孝荣
+introduction picture http://img.xiami.net/images/album/img20/820/3899.jpg
+songs 你的眼睛%^&*七月的心情%^&*他的名字叫做朋友%^&*等着%^&*见山还是山%^&*边城过客%^&*永远的脚步%^&*梦土%^&*沉醉%^&*归处%^&*
+songURLs http://www.xiami.com/song/47773%^&*http://www.xiami.com/song/47774%^&*http://www.xiami.com/song/47775%^&*http://www.xiami.com/song/47776%^&*http://www.xiami.com/song/47777%^&*http://www.xiami.com/song/47778%^&*http://www.xiami.com/song/47779%^&*http://www.xiami.com/song/47780%^&*http://www.xiami.com/song/47781%^&*http://www.xiami.com/song/47782%^&*

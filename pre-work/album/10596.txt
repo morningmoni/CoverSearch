@@ -1,0 +1,7 @@
+number 10596
+name 听说? 台湾预购限定盘
+artist 刘若英
+introduction 
+picture http://img.xiami.net/images/album/img30/1930/105961372338218.jpg
+songs 春光%^&*还以颜色%^&*花开花谢%^&*多少遗憾%^&*
+songURLs http://www.xiami.com/song/375171%^&*http://www.xiami.com/song/375172%^&*http://www.xiami.com/song/375173%^&*http://www.xiami.com/song/375174%^&*

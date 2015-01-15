@@ -1,0 +1,7 @@
+number 25178
+name 花之舞
+artist 冯晓泉%^&*曾格格%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%86%AF%E6%99%93%E6%B3%89%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9B%BE%E6%A0%BC%E6%A0%BC%^&*
+album 天上人间
+albumURL http://www.xiami.com/album/1016

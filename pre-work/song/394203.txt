@@ -1,0 +1,6 @@
+number 394203
+name 四季红
+artist 李泰祥%^&*
+artistURL http://www.xiami.com/artist/550%^&*
+album 中国交响世纪4 台湾幻想曲
+albumURL http://www.xiami.com/album/520686

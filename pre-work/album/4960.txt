@@ -1,0 +1,7 @@
+number 4960
+name 七招
+artist 夏金城
+introduction 一个的士司机，热爱音乐，热爱歌曲创作，因为得不到认同，愤而变卖所有家产，自费300多万元港币出版了3张唱片，一张你听完一定拍案跳起的唱片。。。。。。一个异常传奇的人物香港本土最通俗的创作关于--夏金城  的一点点曲、词、监制：夏金城出品动机：最紧要开心重点曲目：为了靓靓、迫巴士、马小灵制作宗旨：反映现实。老少咸宜、自然真诚曲词禁忌：对齐作状、转弯拐角、意识不良备注：二十年来在香港一直保持销量和“TALKING POINT”
+picture http://img.xiami.net/images/album/img90/990/49601345802873.jpg
+songs 你令我着迷%^&*改变%^&*言论自由%^&*又一首情爱歌%^&*做人老婆好凄凉%^&*小心过马路%^&*惨惨惨%^&*
+songURLs http://www.xiami.com/song/60082%^&*http://www.xiami.com/song/60083%^&*http://www.xiami.com/song/60084%^&*http://www.xiami.com/song/60085%^&*http://www.xiami.com/song/60086%^&*http://www.xiami.com/song/60087%^&*http://www.xiami.com/song/60088%^&*

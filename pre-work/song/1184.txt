@@ -1,0 +1,7 @@
+number 1184
+name 总会等到那一天
+artist 毛宁%^&*那英%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%AF%9B%E5%AE%81%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%82%A3%E8%8B%B1%^&*
+album 毕晓世的音乐之旅 全心作品集
+albumURL http://www.xiami.com/album/102

@@ -1,0 +1,7 @@
+number 299751
+name 牧羊曲
+artist 郑绪岚
+introduction 
+picture http://img.xiami.net/images/album/img30/2530/2997511372742440.jpg
+songs 飞吧 鸽子%^&*牧羊曲%^&*大海啊故乡%^&*太阳岛上%^&*鼓浪屿之波%^&*化蝶%^&*妈妈留给我一首歌%^&*红叶情%^&*新月又挂天边%^&*家是千年不了情%^&*枉凝眉%^&*鹭飞回来了%^&*
+songURLs http://www.xiami.com/song/1769697796%^&*http://www.xiami.com/song/1769697797%^&*http://www.xiami.com/song/1769697798%^&*http://www.xiami.com/song/1769697799%^&*http://www.xiami.com/song/1769697800%^&*http://www.xiami.com/song/1769697801%^&*http://www.xiami.com/song/1769697802%^&*http://www.xiami.com/song/1769697803%^&*http://www.xiami.com/song/1769697804%^&*http://www.xiami.com/song/1769697805%^&*http://www.xiami.com/song/1769697806%^&*http://www.xiami.com/song/1769697807%^&*

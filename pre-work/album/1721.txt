@@ -1,0 +1,7 @@
+number 1721
+name 十年浓情 情歌精选
+artist 黄品源
+introduction 兼具了作词、作曲、能弹、能唱、能编曲、能制作多样才华的黄品源，自14岁接触音乐后，在台湾民歌餐厅的演唱造就了他对于音乐的狂爱与执着。20岁时为了证明自己才华，与哥哥报名参加&ldquo;第一届青春之星校际音乐大赛&rdquo;，初试啼声即荣获第2名。22岁拿着自己的创作毛遂自荐给制作人沉光远，得其赏识正式签约。从首张专辑《男配角心声》开始，黄品源以亲身经历真实感最直接的素材，清楚地唱腔直击人心，在台湾专辑总销售量超越100万张以上。无论形象和音乐创作才华可说是台湾艺人中最具本土性的代表的人物。这张专辑《十年浓情情歌精选》内所有的作品，全部由黄品源作曲，大部份的也由自己执笔。其中&ldquo;我该用什么样的心来对你&rdquo;被黄凯芹改唱为红极一时的&ldquo;伤尽我心的说话&rdquo;；&ldquo;爱你到永远&rdquo;集中、英、日于一身的，曾带给了歌迷不少惊喜。12首情歌代表着黄品源十年来对歌迷的感谢，代表黄品源对爱情世界的执着！
+picture http://img.xiami.net/images/album/img90/390/17211419594312.jpg
+songs 你怎么舍得我难过%^&*我该用什么样的心来对你%^&*你的眼泪%^&*兄弟情%^&*晚安,我的爱%^&*当我再次接到电话的时候%^&*流浪的心%^&*月夜情书%^&*纵然有一天我们分离%^&*别离开我%^&*新年快乐%^&*爱你到永远%^&*
+songURLs http://www.xiami.com/song/33121%^&*http://www.xiami.com/song/33122%^&*http://www.xiami.com/song/33123%^&*http://www.xiami.com/song/33124%^&*http://www.xiami.com/song/33125%^&*http://www.xiami.com/song/33126%^&*http://www.xiami.com/song/33127%^&*http://www.xiami.com/song/33128%^&*http://www.xiami.com/song/33129%^&*http://www.xiami.com/song/33130%^&*http://www.xiami.com/song/33131%^&*http://www.xiami.com/song/33132%^&*

@@ -1,0 +1,8 @@
+number 45644
+name 怀念的故乡
+artist 怡君%^&*一绫%^&*七郎%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%80%A1%E5%90%9B%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%B8%80%E7%BB%AB%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%B8%83%E9%83%8E%^&*
+album 情海波浪
+albumURL http://www.xiami.com/album/3717

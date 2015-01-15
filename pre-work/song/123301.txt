@@ -1,0 +1,7 @@
+number 123301
+name Don&#039;t make me cry, 谁要你赞乖 (合唱版)
+artist 李心洁%^&*Dear Mom%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9D%8E%E5%BF%83%E6%B4%81%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=Dear+Mom%^&*
+album 成全我
+albumURL http://www.xiami.com/album/9989

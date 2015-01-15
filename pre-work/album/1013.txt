@@ -1,0 +1,7 @@
+number 1013
+name 格上听泉
+artist 冯晓泉
+introduction 
+picture http://img.xiami.net/images/album/img30/230/1013.jpg
+songs 桃花源%^&*天上人间(无忧版)%^&*阳关行%^&*牧歌%^&*雪山%^&*雨中花%^&*亚非风情%^&*花之舞%^&*空%^&*逍遥自在%^&*踏春歌%^&*科尔沁草原(牧场)%^&*天上人间(云南风情版)%^&*天上人间(喜庆版)%^&*爱情头等舱%^&*魔笛%^&*简爱%^&*赶牲灵2005%^&*小人鱼的故事%^&*Holiday%^&*因为爱%^&*旧的电唱机%^&*情有独钟%^&*心照不宣%^&*再回南泥湾%^&*天下一家%^&*
+songURLs http://www.xiami.com/song/25125%^&*http://www.xiami.com/song/25126%^&*http://www.xiami.com/song/25127%^&*http://www.xiami.com/song/25128%^&*http://www.xiami.com/song/25129%^&*http://www.xiami.com/song/25130%^&*http://www.xiami.com/song/25131%^&*http://www.xiami.com/song/25132%^&*http://www.xiami.com/song/25133%^&*http://www.xiami.com/song/25134%^&*http://www.xiami.com/song/25135%^&*http://www.xiami.com/song/25136%^&*http://www.xiami.com/song/25137%^&*http://www.xiami.com/song/25138%^&*http://www.xiami.com/song/25139%^&*http://www.xiami.com/song/25140%^&*http://www.xiami.com/song/25141%^&*http://www.xiami.com/song/25142%^&*http://www.xiami.com/song/25143%^&*http://www.xiami.com/song/25144%^&*http://www.xiami.com/song/25145%^&*http://www.xiami.com/song/25146%^&*http://www.xiami.com/song/25147%^&*http://www.xiami.com/song/25148%^&*http://www.xiami.com/song/25149%^&*http://www.xiami.com/song/25150%^&*

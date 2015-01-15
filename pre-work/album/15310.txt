@@ -1,0 +1,6 @@
+number 15310
+name 偏爱你的心
+artist 少女队
+introduction picture http://img.xiami.net/images/album/img20/3020/153101321977934.png
+songs 偏爱你的心%^&*Bye-Bye My Love%^&*一封旧情书%^&*唯一的唯一%^&*当你离开的时候%^&*恋爱计时器%^&*我的心事你知不知道%^&*把心情折成一只蝴蝶%^&*爱要轻轻松松放个假%^&*早晨的约会%^&*
+songURLs http://www.xiami.com/song/187960%^&*http://www.xiami.com/song/187961%^&*http://www.xiami.com/song/187962%^&*http://www.xiami.com/song/187963%^&*http://www.xiami.com/song/187964%^&*http://www.xiami.com/song/187965%^&*http://www.xiami.com/song/187966%^&*http://www.xiami.com/song/187967%^&*http://www.xiami.com/song/187968%^&*http://www.xiami.com/song/187969%^&*

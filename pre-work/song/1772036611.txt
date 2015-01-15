@@ -1,0 +1,6 @@
+number 1772036611
+name 海鸥的天空
+artist 蔡国庆%^&*
+artistURL http://www.xiami.com/artist/42%^&*
+album 堆积狂想
+albumURL http://www.xiami.com/album/974477630

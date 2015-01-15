@@ -1,0 +1,6 @@
+number 27841
+name 下个入口
+artist 郭顶%^&*
+artistURL http://www.xiami.com/artist/280%^&*
+album 郭顶 同名专辑
+albumURL http://www.xiami.com/album/1248

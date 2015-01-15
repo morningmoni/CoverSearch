@@ -1,0 +1,7 @@
+number 260872
+name 圣诞
+artist 黄绮珊
+introduction 黄绮珊作为一个实力派歌手，在整个唱片行业低迷的时候，推出又一新作，不是为了让人们不要忘记她和她的声音，在她或欢呼或低吟的歌声中，唱出被人们遗忘很久的召唤，永恒的召唤；被人们丢失已久的佳音，圣诞佳音。
+picture http://img.xiami.net/images/album/img60/1660/2608721359211803.jpg
+songs 齐来崇拜%^&*马槽%^&*新生王%^&*圣诞夜%^&*荣耀%^&*小伯利恒%^&*圣诞佳音%^&*普世欢腾%^&*主寻亡羊%^&*圣诞快乐%^&*
+songURLs http://www.xiami.com/song/1771637100%^&*http://www.xiami.com/song/1771637101%^&*http://www.xiami.com/song/1771637102%^&*http://www.xiami.com/song/1771637103%^&*http://www.xiami.com/song/1771637104%^&*http://www.xiami.com/song/1771637105%^&*http://www.xiami.com/song/1771637106%^&*http://www.xiami.com/song/1771637107%^&*http://www.xiami.com/song/1771637108%^&*http://www.xiami.com/song/1771637109%^&*

@@ -1,0 +1,7 @@
+number 12991
+name 恋爱
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/12991.jpg
+songs 电话中拥抱你%^&*孤单约会%^&*爱心考试%^&*暖的心 冷的吻%^&*知你为我好%^&*我等你%^&*千千眼睛%^&*偷恋%^&*我这样傻%^&*爱多痛多%^&*新生的我%^&*
+songURLs http://www.xiami.com/song/374136%^&*http://www.xiami.com/song/374137%^&*http://www.xiami.com/song/374138%^&*http://www.xiami.com/song/374139%^&*http://www.xiami.com/song/374140%^&*http://www.xiami.com/song/374141%^&*http://www.xiami.com/song/374142%^&*http://www.xiami.com/song/374143%^&*http://www.xiami.com/song/374144%^&*http://www.xiami.com/song/374145%^&*http://www.xiami.com/song/374135%^&*

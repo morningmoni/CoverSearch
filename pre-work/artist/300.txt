@@ -1,0 +1,7 @@
+number 300
+name 海俊杰
+place Hongkong 香港
+introduction 小档案姓名：海俊杰&nbsp;英文名：Gabriel Harrison出生日期：1972年11月17号血统：四分一英国人（父亲是中、英混血儿）高度：5'7"出生地点：香港（17岁移民到美国纽约麻省）就读中学：Randolph High, Massachusetts宠物：狗狗&ldquo;Baby Harrison&rdquo;现居：北角∕侧渔涌区（我估&hellip;）&nbsp;&nbsp;入行经过：第13届新秀歌唱大赛冠军；同年被华星及无线签下奖项：1994年度十大劲歌今曲最有前途男新人&ndash;银奖圈中亲人：陈慧珊&ndash;表姐圈中挚友：马俊伟最爱歌手：谭咏伦，张学友最爱演员：李小龙嗜好：咏春，唱歌，赛车&nbsp;&nbsp;曾拍之电视剧：总有出头天、邰私群英、天降财神、当女人爱上男人、阖府统请、型事侦缉档案、风证实录、离岛特警&hellip;&hellip;曾拍之电影：功夫特警、傻妹闯黑关、心思思&hellip;&hellip;曾出唱片：徵风中&hellip;&hellip;舞台经验：中国――深圳、长沙、东莞、江门、韶关、山海基马来西亚等地个人兴趣：功夫、游泳、唱歌、演戏、电影
+picture http://img.xiami.net/images/artist/11992445511792.jpg
+albums 微风中的海%^&*
+albumURLs http://www.xiami.com/album/1400%^&*

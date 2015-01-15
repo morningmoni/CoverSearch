@@ -1,0 +1,6 @@
+number 4406
+name 怀抱
+artist 庹宗华
+introduction picture http://img.xiami.net/images/album/img80/880/4406.jpg
+songs 好像你才是我的情人%^&*请你从此停留在我怀抱%^&*请你仔细听这一句%^&*谁知道会怎样%^&*让自己的明天不一样%^&*熟悉的陌生人%^&*想想可惜%^&*寂寞的说法%^&*会不会再一次选择%^&*
+songURLs http://www.xiami.com/song/53654%^&*http://www.xiami.com/song/53655%^&*http://www.xiami.com/song/53656%^&*http://www.xiami.com/song/53657%^&*http://www.xiami.com/song/53658%^&*http://www.xiami.com/song/53659%^&*http://www.xiami.com/song/53660%^&*http://www.xiami.com/song/53661%^&*http://www.xiami.com/song/53662%^&*

@@ -1,0 +1,7 @@
+number 10926
+name 芳踪乍现 台北演唱会实录
+artist 梅艳芳
+introduction 芳踪乍现(台北演唱会实录)梅艳芳的歌声和形象使人们眼界大开，发现女歌手原来可以不像邓丽君、姚苏蓉、徐小凤，女歌手也可以表现得很放肆，可以中性化得非常帅，可以面无表情。原来，不以柔情、华贵和缠绵标榜的女人也可以很有魅力。梅艳芳的地位越来越不可动摇，媒体和歌迷渐渐习惯了她的冷漠、她的豪迈、她的妖艳、她的百变，还有她热力四射的性感、她永远空茫永远等待的眼神。
+picture http://img.xiami.net/images/album/img0/2000/109261388457979.jpg
+songs 亲密爱人 (Live)%^&*女人花 (Live)%^&*一生爱你千百回 (Live)%^&*月亮代表我的心 (Live)%^&*明天我要嫁给你 (Live)%^&*
+songURLs http://www.xiami.com/song/134994%^&*http://www.xiami.com/song/134995%^&*http://www.xiami.com/song/134996%^&*http://www.xiami.com/song/134997%^&*http://www.xiami.com/song/134998%^&*

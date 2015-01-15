@@ -1,0 +1,7 @@
+number 32589
+name Children Sucker
+artist 表儿
+introduction 
+picture http://img.xiami.net/images/album/img37/37/32589.jpg
+songs 放荡少年时%^&*爱的逃兵%^&*爱情真无奈%^&*LET IT BE%^&*故乡人情味%^&*朋友！Take it easy%^&*友情一万年%^&*西瓜靠大边%^&*白贼话%^&*矛盾的氛围%^&*
+songURLs http://www.xiami.com/song/387921%^&*http://www.xiami.com/song/387922%^&*http://www.xiami.com/song/387923%^&*http://www.xiami.com/song/387924%^&*http://www.xiami.com/song/387925%^&*http://www.xiami.com/song/387926%^&*http://www.xiami.com/song/387927%^&*http://www.xiami.com/song/387928%^&*http://www.xiami.com/song/387929%^&*http://www.xiami.com/song/387930%^&*

@@ -1,0 +1,6 @@
+number 4520
+name 嫌弃
+artist 陈辉阳%^&*
+artistURL http://www.xiami.com/artist/89%^&*
+album 与音乐谈情
+albumURL http://www.xiami.com/album/373

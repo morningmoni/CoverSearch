@@ -1,0 +1,6 @@
+number 145
+name 相信我可以
+artist 阿杜%^&*
+artistURL http://www.xiami.com/artist/5%^&*
+album I...Do
+albumURL http://www.xiami.com/album/12

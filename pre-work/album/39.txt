@@ -1,0 +1,7 @@
+number 39
+name 博客
+artist 艾尔肯
+introduction 几年前，我们怀揣着梦想的火种启程上路，走出了沙漠，走过了城市，饱尝了艰辛；也收获过繁华，付出了代价，更遭遇过纷扰&hellip;&hellip;恍然间，我们才彻悟，千百年前跋涉在丝绸之路上的祖先，是承受了怎样的重量，才最终凿通这条文明的血脉。时至今日，我们又颠沛流离在一片喧嚣华丽的灯火变幻当中，却依然&ldquo;不识时务&rdquo;地背负着寂寞踽踽前行，只为了这生命中注定的使命。真正的知音会了解，我们并没有原地踏步；真正的知音也会惊艳，这张专辑有了更加滚烫的温度。它的能量不仅来自于吐鲁番的红云、昆仑山的积雪、帕米尔的鹰笛、塔克拉玛干的风暴，更来自于灵魂的深夜自审、web2.0时代的扣问、少年时代的美丽心恋、和都市浮生的无奈&hellip;&hellip;如果你懂，就和我们一起继续上路吧；你我都知道，前程的寂寞，依然漫长。第5张音乐专辑&ldquo;艾尔肯-博客&rdquo;
+picture http://img.xiami.net/images/album/img0/391282210069.jpg
+songs 楼兰姑娘%^&*痴心一场%^&*你不在%^&*我想%^&*60迈夜车%^&*To Be Or Not To Be%^&*今天我家有聚会%^&*民歌联唱%^&*海枯石烂%^&*昆仑%^&*姑娘%^&*火焰山%^&*石头剪子布%^&*城市之夜(伴奏)%^&*
+songURLs http://www.xiami.com/song/461%^&*http://www.xiami.com/song/462%^&*http://www.xiami.com/song/463%^&*http://www.xiami.com/song/464%^&*http://www.xiami.com/song/465%^&*http://www.xiami.com/song/466%^&*http://www.xiami.com/song/467%^&*http://www.xiami.com/song/468%^&*http://www.xiami.com/song/469%^&*http://www.xiami.com/song/470%^&*http://www.xiami.com/song/471%^&*http://www.xiami.com/song/472%^&*http://www.xiami.com/song/473%^&*http://www.xiami.com/song/474%^&*

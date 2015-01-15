@@ -1,0 +1,6 @@
+number 127724
+name 趴啦趴嗱
+artist 林心如%^&*
+artistURL http://www.xiami.com/artist/1890%^&*
+album 趴啦趴嗱
+albumURL http://www.xiami.com/album/10348

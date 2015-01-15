@@ -1,0 +1,6 @@
+number 60056
+name 六合彩
+artist 夏金城%^&*
+artistURL http://www.xiami.com/artist/990%^&*
+album 98作品集
+albumURL http://www.xiami.com/album/4958

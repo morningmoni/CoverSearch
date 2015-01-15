@@ -1,0 +1,6 @@
+number 3145
+name 刘文正民歌精选
+artist 刘文正
+introduction picture http://img.xiami.net/images/album/img70/670/31451361777142.jpg
+songs 秋蝉%^&*外婆的澎湖湾%^&*兰花草%^&*恰似你的温柔%^&*浮云游子%^&*归人!沙城%^&*乡间的小路%^&*三月里的小雨%^&*云且留住%^&*跟夏天说再见%^&*让我们看云去%^&*却上心头%^&*雨中即景%^&*俏姑娘%^&*
+songURLs http://www.xiami.com/song/1771264567%^&*http://www.xiami.com/song/1771264568%^&*http://www.xiami.com/song/1771264569%^&*http://www.xiami.com/song/1771264570%^&*http://www.xiami.com/song/1771264571%^&*http://www.xiami.com/song/1771264572%^&*http://www.xiami.com/song/1771264573%^&*http://www.xiami.com/song/1771264574%^&*http://www.xiami.com/song/1771264575%^&*http://www.xiami.com/song/1771264576%^&*http://www.xiami.com/song/1771264577%^&*http://www.xiami.com/song/1771264578%^&*http://www.xiami.com/song/1771264579%^&*http://www.xiami.com/song/1771264580%^&*

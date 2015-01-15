@@ -1,0 +1,6 @@
+number 98511138
+name 男人与女人
+artist 蔡兴国
+introduction picture http://img.xiami.net/images/album/img37/511137/5111371398511137.jpg
+songs 说你%^&*男人与女人%^&*天鹅的梦%^&*教我如何忘记你%^&*短歌%^&*情歌唱晚%^&*渴望爱情%^&*泰勒嘉花园%^&*龙舌兰%^&*夜的恋曲%^&*
+songURLs http://www.xiami.com/song/1772938591%^&*http://www.xiami.com/song/1772938592%^&*http://www.xiami.com/song/1772938593%^&*http://www.xiami.com/song/1772938594%^&*http://www.xiami.com/song/1772938595%^&*http://www.xiami.com/song/1772938596%^&*http://www.xiami.com/song/1772938597%^&*http://www.xiami.com/song/1772938598%^&*http://www.xiami.com/song/1772938599%^&*http://www.xiami.com/song/1772938600%^&*

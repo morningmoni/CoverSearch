@@ -1,0 +1,7 @@
+number 2050
+name 千惠子
+place China 中国大陆
+introduction 
+picture http://img.xiami.net/images/artist/11978710725096.jpg
+albums 对话Ⅲ-当琵琶遇上千惠子%^&*
+albumURLs http://www.xiami.com/album/11306%^&*

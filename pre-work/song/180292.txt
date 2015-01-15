@@ -1,0 +1,8 @@
+number 180292
+name 키 작은 노래歌
+artist Girl Friends%^&*HAHA%^&*일문(一文)%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=Girl+Friends%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=HAHA%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%EC%9D%BC%EB%AC%B8%28%E4%B8%80%E6%96%87%29%^&*
+album Another Myself
+albumURL http://www.xiami.com/album/14620

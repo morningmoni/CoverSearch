@@ -1,0 +1,7 @@
+number 209
+name 曹格Gary
+artist 曹格
+introduction 
+picture http://img.xiami.net/images/album/img58/58/2091365763039.jpg
+songs 笑我笨%^&*对不起,我不爱你%^&*风%^&*One Try%^&*你我之间%^&*寂寞空气%^&*孩子%^&*爱自己%^&*快快快%^&*宝贝%^&*
+songURLs http://www.xiami.com/song/2559%^&*http://www.xiami.com/song/2560%^&*http://www.xiami.com/song/2561%^&*http://www.xiami.com/song/2562%^&*http://www.xiami.com/song/2563%^&*http://www.xiami.com/song/2564%^&*http://www.xiami.com/song/2565%^&*http://www.xiami.com/song/2566%^&*http://www.xiami.com/song/2567%^&*http://www.xiami.com/song/2568%^&*

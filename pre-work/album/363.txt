@@ -1,0 +1,7 @@
+number 363
+name 补习之迷恋
+artist 陈浩峰
+introduction 
+picture http://img.xiami.net/images/album/img86/86/363.jpg
+songs 万世师表开场组曲(纯音乐)%^&*补习之迷恋(天王版)%^&*补习之迷恋(天后版)%^&*礼与非礼(君子版)%^&*孔子陪住你%^&*唱K回忆录%^&*孔巨基%^&*礼与非礼(小人Demo)%^&*
+songURLs http://www.xiami.com/song/4393%^&*http://www.xiami.com/song/4394%^&*http://www.xiami.com/song/4395%^&*http://www.xiami.com/song/4396%^&*http://www.xiami.com/song/4397%^&*http://www.xiami.com/song/4398%^&*http://www.xiami.com/song/4399%^&*http://www.xiami.com/song/4400%^&*

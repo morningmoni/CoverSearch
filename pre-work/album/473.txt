@@ -1,0 +1,7 @@
+number 473
+name 巴山恋曲
+artist 陈爽
+introduction 
+picture http://img.xiami.net/images/album/img20/120/473.jpg
+songs 爱归谁%^&*雁南飞%^&*苦爱%^&*Suthannah%^&*花儿红%^&*巴山恋曲%^&*像孩子一样%^&*卓玛姑娘%^&*呼啦啦%^&*玛卡丽娜%^&*我的这些年%^&*
+songURLs http://www.xiami.com/song/5684%^&*http://www.xiami.com/song/5685%^&*http://www.xiami.com/song/5686%^&*http://www.xiami.com/song/5687%^&*http://www.xiami.com/song/5688%^&*http://www.xiami.com/song/5689%^&*http://www.xiami.com/song/5690%^&*http://www.xiami.com/song/5691%^&*http://www.xiami.com/song/5692%^&*http://www.xiami.com/song/5693%^&*http://www.xiami.com/song/5694%^&*

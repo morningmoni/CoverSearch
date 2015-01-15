@@ -1,0 +1,7 @@
+number 12584
+name 茹此精彩13首
+artist 许茹芸
+introduction 
+picture http://img.xiami.net/images/album/img30/2330/125841366018670.jpg
+songs 留低锁匙%^&*哭墙 (广东)%^&*半首歌%^&*独角戏%^&*如果云知道%^&*后来你好吗%^&*日光机场%^&*猫与钢琴%^&*执着%^&*泪海%^&*寄信人%^&*你的眼睛%^&*突然想爱你%^&*
+songURLs http://www.xiami.com/song/383420%^&*http://www.xiami.com/song/383421%^&*http://www.xiami.com/song/383422%^&*http://www.xiami.com/song/383423%^&*http://www.xiami.com/song/383424%^&*http://www.xiami.com/song/383425%^&*http://www.xiami.com/song/383426%^&*http://www.xiami.com/song/383427%^&*http://www.xiami.com/song/383428%^&*http://www.xiami.com/song/383429%^&*http://www.xiami.com/song/383430%^&*http://www.xiami.com/song/383431%^&*http://www.xiami.com/song/383432%^&*

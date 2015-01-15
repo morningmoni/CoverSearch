@@ -1,0 +1,7 @@
+number 2623
+name 东方情思录
+artist 梁文福
+introduction 
+picture http://img.xiami.net/images/album/img90/590/26231334743889.jpg
+songs 赤道河水谣%^&*流水词%^&*我从东岸走向西%^&*君自远海来%^&*哪里走%^&*躲不过的你%^&*外面有鬼%^&*阿祖的大福饼%^&*对来做什么%^&*叠情折义%^&*
+songURLs http://www.xiami.com/song/20288%^&*http://www.xiami.com/song/20289%^&*http://www.xiami.com/song/20290%^&*http://www.xiami.com/song/20291%^&*http://www.xiami.com/song/20292%^&*http://www.xiami.com/song/20293%^&*http://www.xiami.com/song/20294%^&*http://www.xiami.com/song/20295%^&*http://www.xiami.com/song/20296%^&*http://www.xiami.com/song/20297%^&*

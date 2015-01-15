@@ -1,0 +1,7 @@
+number 202
+name 黄河大合唱
+artist 曹丁
+introduction 
+picture http://img.xiami.net/images/pic/04/04/10113991548m_2.jpg
+songs 黄河船夫曲%^&*黄河颂%^&*黄水谣%^&*河边对口曲%^&*黄河怨%^&*保卫黄河%^&*怒吼吧,黄河!%^&*东方红%^&*义勇军进行曲%^&*国际歌%^&*我的祖国%^&*血染的风采%^&*
+songURLs http://www.xiami.com/song/2475%^&*http://www.xiami.com/song/2476%^&*http://www.xiami.com/song/2477%^&*http://www.xiami.com/song/2478%^&*http://www.xiami.com/song/2479%^&*http://www.xiami.com/song/2480%^&*http://www.xiami.com/song/2481%^&*http://www.xiami.com/song/2482%^&*http://www.xiami.com/song/2483%^&*http://www.xiami.com/song/2484%^&*http://www.xiami.com/song/2485%^&*http://www.xiami.com/song/2486%^&*

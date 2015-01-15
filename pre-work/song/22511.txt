@@ -1,0 +1,6 @@
+number 22511
+name 宝贝
+artist 林子良%^&*
+artistURL http://www.xiami.com/artist/640%^&*
+album Free Style R&amp;B 全创作1号
+albumURL http://www.xiami.com/album/2809

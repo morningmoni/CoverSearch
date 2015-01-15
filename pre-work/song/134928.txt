@@ -1,0 +1,6 @@
+number 134928
+name 用心良苦
+artist 梅艳芳%^&*
+artistURL http://www.xiami.com/artist/2000%^&*
+album 没话说
+albumURL http://www.xiami.com/album/10921

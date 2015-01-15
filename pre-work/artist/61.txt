@@ -1,0 +1,7 @@
+number 61
+name 曹西平
+place Taiwan 台湾
+introduction 曹西平来自医师世家，只有他进入演艺圈。曹西平曾经开了一间可丽饼店，里面的模型例用了十二星作为区分，相当有特色，作品散见于国内各大知名综艺节目中。本名：曹西平英文名：Denny Tsao星座：水瓶座出生地：台湾台中语言能力：国语、台语、英语,日语，泰语专长工作：电视、电台活动节目主持、舞蹈、歌唱、戏剧电影演出作品:长艺电影企业有限公司 「爱与死 」&hellip;等知名电影电视主持作品：中国电视公司「来电五十」三立电视台「大梦想家」
+picture http://img.xiami.net/images/artistlogo/18/13876975926118.jpg
+albums 狂热%^&*罗曼蒂克%^&*爱情陷阱%^&*曾来入梦%^&*野性的青春%^&*
+albumURLs http://www.xiami.com/album/407084%^&*http://www.xiami.com/album/685435033%^&*http://www.xiami.com/album/88975045%^&*http://www.xiami.com/album/215%^&*http://www.xiami.com/album/1288975182%^&*

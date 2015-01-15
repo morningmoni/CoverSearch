@@ -1,0 +1,6 @@
+number 2370
+name 可爱可恨
+artist 蔡振南%^&*
+artistURL http://www.xiami.com/artist/51%^&*
+album 可爱可恨
+albumURL http://www.xiami.com/album/192

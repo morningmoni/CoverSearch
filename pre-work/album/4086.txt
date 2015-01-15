@@ -1,0 +1,7 @@
+number 4086
+name 理想男孩
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40861387371273.jpg
+songs 爱上我或是离开我%^&*说出我心中的爱%^&*现在我真的爱你%^&*轻轻问一声%^&*我以为我是你最后的依恋%^&*忘记那天需要多少年%^&*是雨还是眼泪%^&*负你太多%^&*流浪的风%^&*该不该期待%^&*
+songURLs http://www.xiami.com/song/49986%^&*http://www.xiami.com/song/49987%^&*http://www.xiami.com/song/49988%^&*http://www.xiami.com/song/49989%^&*http://www.xiami.com/song/49990%^&*http://www.xiami.com/song/49991%^&*http://www.xiami.com/song/49992%^&*http://www.xiami.com/song/49993%^&*http://www.xiami.com/song/49994%^&*http://www.xiami.com/song/49995%^&*

@@ -1,0 +1,7 @@
+number 452433
+name 粤听粤好听·明星
+artist 李跃君
+introduction 李跃君的声音有无法描述的磁力，也许是用了非常干净的伴奏的原因吧。每首歌的伴奏几乎都很干净，拿第一首歌《寂寞公路》来说吧，主要用了钢琴，有的歌只听到用了吉它，乐器不多而感染力不减，更纯净。一如歌手的形象：黑色始终，黑色的眼睛，黑色的睫毛，黑色的头发，黑色的外套，走在寂寞的公路上，一个人&hellip;&hellip;她的形象，她的声音，被录音师恰如其份的调成了寂寞的色调。
+picture http://img.xiami.net/images/album/img30/1830/4524331340594295.jpg
+songs 明星%^&*一水隔天涯%^&*为什么%^&*在水中央%^&*下雨天%^&*万般情%^&*何处觅蓬莱%^&*每当变幻时%^&*泥路上%^&*迟来的春天%^&*小李飞刀%^&*爱的根源%^&*
+songURLs http://www.xiami.com/song/1770337256%^&*http://www.xiami.com/song/1770337257%^&*http://www.xiami.com/song/1770337258%^&*http://www.xiami.com/song/1770337259%^&*http://www.xiami.com/song/1770337260%^&*http://www.xiami.com/song/1770337261%^&*http://www.xiami.com/song/1770337262%^&*http://www.xiami.com/song/1770337263%^&*http://www.xiami.com/song/1770337264%^&*http://www.xiami.com/song/1770337265%^&*http://www.xiami.com/song/1770337266%^&*http://www.xiami.com/song/1770337267%^&*

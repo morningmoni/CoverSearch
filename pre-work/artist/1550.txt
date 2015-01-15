@@ -1,0 +1,7 @@
+number 1550
+name 高慧君
+place Taiwan 台湾
+introduction 个人档案英文名∶Francesca生日∶8月24日星座∶处女座血型∶A身高∶16lcm体重∶47kg出生地∶嘉义排行∶老大学历∶大专嗜好∶唱歌、打PS语言∶国语、英文专长∶唱歌个性∶随和宗教∶天主教最喜欢的动物∶狗最喜欢的食物∶都喜欢最想做的事∶开演唱会最喜欢的数字∶5最喜欢的季节∶秋最得意的事∶和张学友合唱
+picture http://img.xiami.net/images/artist/11984870394378.jpg
+albums 点播女人心%^&*忘了%^&*转身%^&*认真的女人最美丽%^&*
+albumURLs http://www.xiami.com/album/8573%^&*http://www.xiami.com/album/8574%^&*http://www.xiami.com/album/8575%^&*http://www.xiami.com/album/8576%^&*

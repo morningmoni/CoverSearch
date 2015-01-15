@@ -1,0 +1,6 @@
+number 38079
+name 电动玩具
+artist 刘文正%^&*
+artistURL http://www.xiami.com/artist/670%^&*
+album 闪亮岁月(刘文正全集1)
+albumURL http://www.xiami.com/album/3105

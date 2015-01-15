@@ -1,0 +1,6 @@
+number 2030
+name 我是你的几分之几
+artist Andy Kao
+introduction picture http://img.xiami.net/images/pic/04/05/10143493436m_2.jpg
+songs 我是你的几分之几%^&*我是你的几分之几(伴奏)%^&*
+songURLs http://www.xiami.com/song/12754%^&*http://www.xiami.com/song/12755%^&*

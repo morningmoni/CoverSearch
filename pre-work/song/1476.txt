@@ -1,0 +1,6 @@
+number 1476
+name 爱情乐与怒
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album 高温境界
+albumURL http://www.xiami.com/album/120

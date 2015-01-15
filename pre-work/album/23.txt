@@ -1,0 +1,7 @@
+number 23
+name 歹命囝仔
+artist 阿吉仔
+introduction 
+picture http://img.xiami.net/images/album/img0/231281605777.jpg
+songs 歹命囝仔%^&*旧情深深%^&*希望你作伴%^&*船只海岸%^&*查埔人的心情%^&*台北发的尾班车%^&*悲恋的公路%^&*男性的纯情%^&*请你信赖我%^&*可怜的小姑娘%^&*第二的故乡%^&*可爱的马%^&*歹命囝仔(二胡演奏)%^&*旧情深深(二胡演奏)%^&*船只海岸(二胡演奏)%^&*
+songURLs http://www.xiami.com/song/304%^&*http://www.xiami.com/song/305%^&*http://www.xiami.com/song/306%^&*http://www.xiami.com/song/307%^&*http://www.xiami.com/song/308%^&*http://www.xiami.com/song/309%^&*http://www.xiami.com/song/310%^&*http://www.xiami.com/song/311%^&*http://www.xiami.com/song/312%^&*http://www.xiami.com/song/313%^&*http://www.xiami.com/song/314%^&*http://www.xiami.com/song/315%^&*http://www.xiami.com/song/316%^&*http://www.xiami.com/song/317%^&*http://www.xiami.com/song/318%^&*

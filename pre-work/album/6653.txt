@@ -1,0 +1,7 @@
+number 6653
+name Fantasy Plus
+artist 周杰伦
+introduction 2001年台湾最畅销的男歌手周杰伦，压轴巨献超人气作品《Fantasy Plus (EP + VCD)》，收录了Jay在桃园巨蛋演唱会上，重新演唱过去他写给吴宗宪的&lsquo;你比从前快乐&rsquo;、咻比嘟哗的&lsquo;世界末日&rsquo;和许茹芸的&lsquo;蜗牛&rsquo;这三首歌。由于周杰伦的歌曲在KTV点歌排行榜名次居高不下，这张EP还附上一张有《范特西》专辑中十首歌MTV的VCD，另外更附送4种不同颜色头巾及精美写真集，数量有限，送完即止！
+picture http://img.xiami.net/images/album/img60/1260/66531387132474.jpg
+songs 蜗牛%^&*你比从前快乐%^&*世界末日%^&*
+songURLs http://www.xiami.com/song/81512%^&*http://www.xiami.com/song/81513%^&*http://www.xiami.com/song/81514%^&*

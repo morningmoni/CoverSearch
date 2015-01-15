@@ -1,0 +1,6 @@
+number 4208
+name 执迷不悔
+artist 陈冠宇%^&*
+artistURL http://www.xiami.com/artist/81%^&*
+album 钢琴之爱9-爱在星光下
+albumURL http://www.xiami.com/album/347

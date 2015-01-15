@@ -1,0 +1,6 @@
+number 270
+name 你的电话(阿贵/燕子/小芳)
+artist 阿贵%^&*
+artistURL http://www.xiami.com/artist/6%^&*
+album 阿贵的快乐天堂
+albumURL http://www.xiami.com/album/20

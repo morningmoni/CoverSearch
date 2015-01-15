@@ -1,0 +1,6 @@
+number 39476
+name 禅院钟声
+artist 卢海鹏%^&*
+artistURL http://www.xiami.com/artist/690%^&*
+album 禅院钟声
+albumURL http://www.xiami.com/album/3207

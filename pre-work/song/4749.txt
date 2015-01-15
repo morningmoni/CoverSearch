@@ -1,0 +1,6 @@
+number 4749
+name 天天醉
+artist 陈雷%^&*
+artistURL http://www.xiami.com/artist/100%^&*
+album 拚出头
+albumURL http://www.xiami.com/album/396

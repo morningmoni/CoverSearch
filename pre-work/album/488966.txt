@@ -1,0 +1,7 @@
+number 488966
+name 问天
+artist 阿吉仔
+introduction 
+picture http://img.xiami.net/images/album/img8/8/4889661326700612.png
+songs 问天%^&*朋友斗支持%^&*人生的歌%^&*为爱赌强%^&*艰苦相照顾%^&*旧棉絮被%^&*憨人歌%^&*吉他%^&*心疼那个名%^&*过去的种种%^&*
+songURLs http://www.xiami.com/song/1770751257%^&*http://www.xiami.com/song/1770751258%^&*http://www.xiami.com/song/1770751259%^&*http://www.xiami.com/song/1770751260%^&*http://www.xiami.com/song/1770751261%^&*http://www.xiami.com/song/1770751262%^&*http://www.xiami.com/song/1770751263%^&*http://www.xiami.com/song/1770751264%^&*http://www.xiami.com/song/1770751265%^&*http://www.xiami.com/song/1770751266%^&*

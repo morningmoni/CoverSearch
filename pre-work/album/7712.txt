@@ -1,0 +1,6 @@
+number 7712
+name 收集
+artist 陈依依
+introduction picture http://img.xiami.net/images/album/img40/1440/7712.jpg
+songs 问路精灵%^&*绝版情人%^&*收集%^&*爱过才懂%^&*绝不%^&*中了爱情的计%^&*4.7公尺的吻%^&*例外%^&*爱情履历表%^&*回音谷%^&*
+songURLs http://www.xiami.com/song/94727%^&*http://www.xiami.com/song/94728%^&*http://www.xiami.com/song/94729%^&*http://www.xiami.com/song/94730%^&*http://www.xiami.com/song/94731%^&*http://www.xiami.com/song/94732%^&*http://www.xiami.com/song/94733%^&*http://www.xiami.com/song/94734%^&*http://www.xiami.com/song/94735%^&*http://www.xiami.com/song/94736%^&*

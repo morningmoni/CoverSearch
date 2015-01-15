@@ -1,0 +1,7 @@
+number 115509
+name 分飞燕
+artist 丽莎%^&*吕达%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E4%B8%BD%E8%8E%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%95%E8%BE%BE%^&*
+album 名曲金典1
+albumURL http://www.xiami.com/album/9314

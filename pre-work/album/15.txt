@@ -1,0 +1,7 @@
+number 15
+name 哈啰
+artist 阿杜
+introduction 
+picture http://img.xiami.net/images/album/img5/5/151385532307.jpg
+songs 哈啰%^&*下雨的时候会想你%^&*走向前%^&*退让%^&*小说%^&*无能为力%^&*死心彻底%^&*爱你比我重要%^&*Hello%^&*祝你快乐%^&*
+songURLs http://www.xiami.com/song/195%^&*http://www.xiami.com/song/196%^&*http://www.xiami.com/song/197%^&*http://www.xiami.com/song/198%^&*http://www.xiami.com/song/199%^&*http://www.xiami.com/song/200%^&*http://www.xiami.com/song/201%^&*http://www.xiami.com/song/202%^&*http://www.xiami.com/song/203%^&*http://www.xiami.com/song/204%^&*

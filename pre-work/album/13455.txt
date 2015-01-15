@@ -1,0 +1,7 @@
+number 13455
+name 甲你同款
+artist 张秀卿
+introduction 
+picture http://img.xiami.net/images/album/img80/2480/134551388306578.jpg
+songs 心情妆婎婎%^&*期待有缘%^&*花花%^&*为何春天还会来%^&*讲会出的欢喜%^&*冷冷的棉被%^&*憨憨不知春%^&*甘愿糊涂%^&*无需要等待的爱%^&*放手%^&*
+songURLs http://www.xiami.com/song/165744%^&*http://www.xiami.com/song/165745%^&*http://www.xiami.com/song/165746%^&*http://www.xiami.com/song/165747%^&*http://www.xiami.com/song/165748%^&*http://www.xiami.com/song/165749%^&*http://www.xiami.com/song/165750%^&*http://www.xiami.com/song/165751%^&*http://www.xiami.com/song/165752%^&*http://www.xiami.com/song/165753%^&*

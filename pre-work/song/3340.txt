@@ -1,0 +1,6 @@
+number 3340
+name 试问谁没错
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 亲爱的您
+albumURL http://www.xiami.com/album/265

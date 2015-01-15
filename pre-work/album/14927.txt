@@ -1,0 +1,6 @@
+number 14927
+name 第一次
+artist 螺丝钉
+introduction picture http://img.xiami.net/images/album/img90/2890/14927.jpg
+songs First Time%^&*Pretty Woman%^&*Happy Happy I Love You%^&*Yes!Today%^&*
+songURLs http://www.xiami.com/song/183582%^&*http://www.xiami.com/song/183583%^&*http://www.xiami.com/song/183584%^&*http://www.xiami.com/song/183585%^&*

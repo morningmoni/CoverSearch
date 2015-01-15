@@ -1,0 +1,6 @@
+number 141211
+name 夜想
+artist 史辰兰%^&*
+artistURL http://www.xiami.com/artist/2100%^&*
+album 荒芜记
+albumURL http://www.xiami.com/album/11473

@@ -1,0 +1,6 @@
+number 812
+name 村子最近怎么不一样
+artist 阿牛%^&*
+artistURL http://www.xiami.com/artist/22%^&*
+album 爱我久久
+albumURL http://www.xiami.com/album/68

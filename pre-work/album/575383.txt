@@ -1,0 +1,6 @@
+number 575383
+name 说起我的梦
+artist 张云儿
+introduction picture http://img.xiami.net/images/album/img90/2490/5753831359429807.jpg
+songs 你是我的唯一%^&*只要你过得比我好%^&*说起了我的梦%^&*爱的连线%^&*不要走，不要走%^&*是否我真的一无所有%^&*爱到最高点%^&*你喜欢我的歌吗？%^&*把悲伤还给悲伤%^&*动不动就说爱我%^&*珍重再见%^&*我用思念包装我的心%^&*
+songURLs http://www.xiami.com/song/1771642255%^&*http://www.xiami.com/song/1771642256%^&*http://www.xiami.com/song/1771642257%^&*http://www.xiami.com/song/1771642258%^&*http://www.xiami.com/song/1771642259%^&*http://www.xiami.com/song/1771642260%^&*http://www.xiami.com/song/1771642261%^&*http://www.xiami.com/song/1771642262%^&*http://www.xiami.com/song/1771642263%^&*http://www.xiami.com/song/1771642264%^&*http://www.xiami.com/song/1771642265%^&*http://www.xiami.com/song/1771642266%^&*

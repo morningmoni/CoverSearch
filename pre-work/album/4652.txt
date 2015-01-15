@@ -1,0 +1,7 @@
+number 4652
+name 我们的那一年
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/46521378174227.jpg
+songs 天无闲%^&*我们的那一年%^&*因为你有我(不软弱)%^&*冠军曲%^&*吻和泪%^&*遥控器%^&*泪的颜色%^&*纠缠一辈子%^&*时间的箭%^&*向天要一点爱%^&*蝌蚪的尾巴%^&*生命中那一刻满意过%^&*
+songURLs http://www.xiami.com/song/56412%^&*http://www.xiami.com/song/56413%^&*http://www.xiami.com/song/56414%^&*http://www.xiami.com/song/56415%^&*http://www.xiami.com/song/56416%^&*http://www.xiami.com/song/56417%^&*http://www.xiami.com/song/56418%^&*http://www.xiami.com/song/56419%^&*http://www.xiami.com/song/56420%^&*http://www.xiami.com/song/56421%^&*http://www.xiami.com/song/56422%^&*http://www.xiami.com/song/56423%^&*

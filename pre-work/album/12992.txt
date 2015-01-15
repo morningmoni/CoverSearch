@@ -1,0 +1,7 @@
+number 12992
+name 游戏
+artist 伊能静
+introduction 伊能静加盟飞碟唱片公司后推出的第一张专辑，唱片公司当时意图一改安妮往日的玉女型像，改走性感路线，因此在专辑的封面和宣传照上大作性感文章，但是也许伊能静玉女型像早已深入人心，再加上这次伊能静史无前例的包办完专辑中所有歌曲的填词工作，这在当时台湾偶像歌手中可以说是前所未有，因此，歌迷和媒体对这张专辑的关注程度主要集中在歌曲上，反而似乎忽略了唱片公司对伊能静新造型精心打造的良苦用心。这张专辑中收录了多首脍炙人心的歌曲，其中包括大受欢迎的&ldquo;萤火虫&rdquo;，这首歌后来成为1993年世界展望会主题曲，&ldquo;我不过是你的游戏吗？&rdquo;展现出annie开始走向成熟的第一步，&ldquo;怕怕&rdquo;描述的是少女矛盾的初恋心情，诙谐可爱，充满逗趣，&ldquo;恶女&rdquo;节奏扣人心弦，紧张急促，把对爱情充满绝望，满是报复的心理表现得淋漓尽致，&ldquo;新生的我&rdquo;是一首很值得珍藏的立、励志歌，&ldquo;我等你&rdquo;&ldquo;我喜欢听你说我爱你&rdquo;情深款款，柔情万千。
+picture http://img.xiami.net/images/album/img90/2390/12992.jpg
+songs 我不过是你的游戏吗？%^&*萤火虫%^&*爱我又恨我%^&*我喜欢听你说我爱你%^&*怕怕%^&*我等你%^&*我不告诉你%^&*偷偷的%^&*恶女%^&*新生的我%^&*
+songURLs http://www.xiami.com/song/374201%^&*http://www.xiami.com/song/374202%^&*http://www.xiami.com/song/374203%^&*http://www.xiami.com/song/374204%^&*http://www.xiami.com/song/374205%^&*http://www.xiami.com/song/374206%^&*http://www.xiami.com/song/374207%^&*http://www.xiami.com/song/374208%^&*http://www.xiami.com/song/374209%^&*http://www.xiami.com/song/374210%^&*

@@ -1,0 +1,6 @@
+number 309
+name 此情可待
+artist 陈德彰
+introduction picture http://img.xiami.net/images/album/img75/75/3091331105290.jpg
+songs 辩方证人%^&*如果那天%^&*披肩%^&*此情可待%^&*十万个可能%^&*所谓无所谓%^&*从前…%^&*知得太多%^&*好事%^&*为何是我%^&*
+songURLs http://www.xiami.com/song/3762%^&*http://www.xiami.com/song/3763%^&*http://www.xiami.com/song/3764%^&*http://www.xiami.com/song/3765%^&*http://www.xiami.com/song/3766%^&*http://www.xiami.com/song/3767%^&*http://www.xiami.com/song/3768%^&*http://www.xiami.com/song/3769%^&*http://www.xiami.com/song/3770%^&*http://www.xiami.com/song/3771%^&*

@@ -1,0 +1,6 @@
+number 374
+name 声音变魔术
+artist 陈辉阳
+introduction picture http://img.xiami.net/images/album/img89/89/3741405349149.jpg
+songs 暗涌%^&*黑夜不再来%^&*终身美丽%^&*少女的祈祷%^&*Shall We Talk%^&*痛爱%^&*K歌之王%^&*如何掉眼泪%^&*漩涡(演奏)%^&*灰姑娘%^&*绝%^&*我和巴哈在米埔野餐%^&*爱情白皮书%^&*漩涡 (Strings Version)%^&*会过去的 (第一稿)%^&*我和巴哈在米埔野餐 (苦荣与小苦妹版)%^&*
+songURLs http://www.xiami.com/song/4531%^&*http://www.xiami.com/song/4532%^&*http://www.xiami.com/song/4533%^&*http://www.xiami.com/song/4534%^&*http://www.xiami.com/song/4535%^&*http://www.xiami.com/song/4536%^&*http://www.xiami.com/song/4537%^&*http://www.xiami.com/song/4538%^&*http://www.xiami.com/song/4539%^&*http://www.xiami.com/song/4540%^&*http://www.xiami.com/song/4541%^&*http://www.xiami.com/song/4542%^&*http://www.xiami.com/song/4543%^&*http://www.xiami.com/song/4544%^&*http://www.xiami.com/song/4545%^&*http://www.xiami.com/song/1773020176%^&*

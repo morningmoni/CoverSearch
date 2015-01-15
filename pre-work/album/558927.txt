@@ -1,0 +1,6 @@
+number 558927
+name 月亮代表我的心
+artist 江明学
+introduction picture http://img.xiami.net/images/album/img40/440/5589271353982428.jpg
+songs 相思河畔%^&*喝采%^&*轻启我的心灵%^&*温馨的回忆%^&*自己的天空%^&*月亮代表我的心%^&*牵引%^&*意难忘%^&*心影%^&*神秘女郎%^&*
+songURLs http://www.xiami.com/song/1771483678%^&*http://www.xiami.com/song/1771483679%^&*http://www.xiami.com/song/1771483680%^&*http://www.xiami.com/song/1771483681%^&*http://www.xiami.com/song/1771483682%^&*http://www.xiami.com/song/1771483683%^&*http://www.xiami.com/song/1771483684%^&*http://www.xiami.com/song/1771483685%^&*http://www.xiami.com/song/1771483686%^&*http://www.xiami.com/song/1771483687%^&*

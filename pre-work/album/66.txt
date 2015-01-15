@@ -1,0 +1,7 @@
+number 66
+name 我们一家都是人
+artist 阿牛
+introduction 
+picture http://img.xiami.net/images/album/img22/22/661383032960.jpg
+songs Abu-Ne-Ne%^&*我们一家都是人%^&*你是我的心肝%^&*阿明的心辜%^&*Oh!打埔%^&*没钱没镭%^&*阿光爱阿芳%^&*水查某%^&*Kopi-O厚厚一杯别太甜%^&*查某十八一蕊花%^&*
+songURLs http://www.xiami.com/song/782%^&*http://www.xiami.com/song/783%^&*http://www.xiami.com/song/784%^&*http://www.xiami.com/song/785%^&*http://www.xiami.com/song/786%^&*http://www.xiami.com/song/787%^&*http://www.xiami.com/song/788%^&*http://www.xiami.com/song/789%^&*http://www.xiami.com/song/790%^&*http://www.xiami.com/song/791%^&*

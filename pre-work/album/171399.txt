@@ -1,0 +1,7 @@
+number 171399
+name 一部跑车
+artist 长田
+introduction 
+picture http://img.xiami.net/images/album/img66/66/171399.jpg
+songs 一部跑车%^&*时差%^&*四季%^&*风的男孩%^&*异国恋人%^&*成人如你%^&*台北下雪%^&*忘了时间的钟%^&*IF%^&*时计的针%^&*
+songURLs http://www.xiami.com/song/2117299%^&*http://www.xiami.com/song/2117300%^&*http://www.xiami.com/song/2117301%^&*http://www.xiami.com/song/2117302%^&*http://www.xiami.com/song/2117303%^&*http://www.xiami.com/song/2117304%^&*http://www.xiami.com/song/2117305%^&*http://www.xiami.com/song/2117306%^&*http://www.xiami.com/song/2117307%^&*http://www.xiami.com/song/2117308%^&*

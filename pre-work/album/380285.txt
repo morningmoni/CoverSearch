@@ -1,0 +1,7 @@
+number 380285
+name 跨时代
+artist 周杰伦
+introduction ⊙Jay：「音乐，像吸血鬼永远不老，跨时代也跨越世代，超屌！」
+picture http://img.xiami.net/images/album/img60/1260/3802851380418323.jpg
+songs 跨时代%^&*说了再见%^&*烟花易冷%^&*免费教学录像带%^&*好久不见%^&*雨下一整晚%^&*嘻哈空姐%^&*我落泪 情绪零碎%^&*爱的飞行日记%^&*自导自演%^&*超人不会飞%^&*免费教学录像带(内地版)%^&*超人不会飞(内地版)%^&*
+songURLs http://www.xiami.com/song/1769509865%^&*http://www.xiami.com/song/1769509866%^&*http://www.xiami.com/song/1769509867%^&*http://www.xiami.com/song/1769509868%^&*http://www.xiami.com/song/1769509869%^&*http://www.xiami.com/song/1769509870%^&*http://www.xiami.com/song/1769520296%^&*http://www.xiami.com/song/1769509872%^&*http://www.xiami.com/song/1769509873%^&*http://www.xiami.com/song/1769509874%^&*http://www.xiami.com/song/1769509875%^&*http://www.xiami.com/song/1771007852%^&*http://www.xiami.com/song/1771007853%^&*

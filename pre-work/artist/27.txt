@@ -1,0 +1,7 @@
+number 27
+name Boss上山博树
+place Taiwan 台湾
+introduction 上山博树（10月07日－），艺名BOSS，1993年为欧阳菲菲专属舞群在台湾出道，1994年1月与加藤成夫、吉田耕介、石川浩充、有川贞臣、元岛洋、大和史子、深泽千惠等8人以TOKYO D.为名发行第一张专辑FOREVER，专业的舞技及青春活泼的形象 在台湾广受青少年朋友的欢迎，此团体于1996年8月解散，共发行7张专辑。TOKYO D.解散后，BOSS及成员COOL MAN在台北东区合开了舞蹈教室&ldquo;舞狂工厂&rdquo;，并活跃于台湾演艺圈，除了主持带状节目，代言广告，在1999年发行个人EP哭饿， 近年来并成立了个人经纪公司&ldquo;蓝舍无限&rdquo;，签下了螺丝钉乐团。
+picture http://img.xiami.net/images/artistlogo/66/13111300053766.jpg
+albums 哭饿%^&*
+albumURLs http://www.xiami.com/album/249928%^&*

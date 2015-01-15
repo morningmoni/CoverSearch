@@ -1,0 +1,6 @@
+number 1520
+name 人在寂寞里
+artist 蔡枫华%^&*
+artistURL http://www.xiami.com/artist/41%^&*
+album IQ成熟时
+albumURL http://www.xiami.com/album/124

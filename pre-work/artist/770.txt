@@ -1,0 +1,7 @@
+number 770
+name 潘协庆
+place Taiwan 台湾
+introduction 潘协庆，潘美辰的哥哥。台湾最著名的词曲创作人之一。潘协庆曾经写出无数好歌，王菲、范玮琪、周华健、刘若英、梁静茹、张学友、梅艳芳、那英、任贤齐、杜德伟、徐怀钰、梁咏琪、陈洁仪、郑秀文、无印良品、辛晓琪、许茹芸&hellip;&hellip;几乎所有港台歌手都会收录他的创作。1966/01/29身高176CM体重69KG学历：台湾花莲高农森林科（第一名毕业为众多媒体推崇至&ldquo;森林环保宝宝&rdquo;）专长：1，词曲创作2，造型设计3，发型设计4，服装设计 5，舞蹈个性：1，开朗中带有羞涩的情感2，好孩子般的纯真思绪3，随和4，喜欢和人打成一片自认最具魅力的地方：舞台上的自信
+picture http://img.xiami.net/images/artistlogo/59/13832925083859.jpg
+albums 亲爱的奶奶 电影原声带%^&*爱情当铺%^&*变了真心%^&*不该认真%^&*你有没有一个叫做寂寞的朋友%^&*Sunrise Sunset%^&*
+albumURLs http://www.xiami.com/album/571510%^&*http://www.xiami.com/album/3681%^&*http://www.xiami.com/album/3682%^&*http://www.xiami.com/album/3683%^&*http://www.xiami.com/album/3685%^&*http://www.xiami.com/album/3684%^&*

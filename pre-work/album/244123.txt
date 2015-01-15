@@ -1,0 +1,8 @@
+number 244123
+name 北国之恋
+artist 吕继宏
+introduction 国际标准音像记录编码ISRC：
+ CN-F13-10-302-00/A.J6
+picture http://img.xiami.net/images/album/img0/700/2441231307204089.jpg
+songs 节日电话%^&*我家清水门前流%^&*百家门%^&*北国之恋%^&*楼上楼下%^&*为祖国远航%^&*遥远的地方%^&*人民万岁%^&*今夜我们在海边数星星%^&*战士为国守安详%^&*咱老百姓%^&*军港的晚霞%^&*故乡恋%^&*咱老百姓 伴奏%^&*
+songURLs http://www.xiami.com/song/1770252446%^&*http://www.xiami.com/song/1770252447%^&*http://www.xiami.com/song/1770252448%^&*http://www.xiami.com/song/1770252449%^&*http://www.xiami.com/song/1770252450%^&*http://www.xiami.com/song/1770252451%^&*http://www.xiami.com/song/1770252452%^&*http://www.xiami.com/song/1770252453%^&*http://www.xiami.com/song/1770252454%^&*http://www.xiami.com/song/1770252455%^&*http://www.xiami.com/song/1770252456%^&*http://www.xiami.com/song/1770252457%^&*http://www.xiami.com/song/1770252458%^&*http://www.xiami.com/song/1770252459%^&*

@@ -1,0 +1,7 @@
+number 306
+name 现代重奏有你室乐演唱会
+artist 陈德彰
+introduction 
+picture http://img.xiami.net/images/pic/04/03/10101799175m_2.jpg
+songs 似水流年%^&*浪子心声%^&*爱与痛的边缘%^&*传说%^&*某月某日%^&*不舍弃%^&*今宵多珍重%^&*谁愿放手%^&*味道%^&*吸烟的女人%^&*别人的歌%^&*倾心%^&*你把我灌醉%^&*伤心的小鹦鹉%^&*流星雨%^&*
+songURLs http://www.xiami.com/song/3727%^&*http://www.xiami.com/song/3728%^&*http://www.xiami.com/song/3729%^&*http://www.xiami.com/song/3730%^&*http://www.xiami.com/song/3731%^&*http://www.xiami.com/song/3732%^&*http://www.xiami.com/song/3733%^&*http://www.xiami.com/song/3734%^&*http://www.xiami.com/song/3735%^&*http://www.xiami.com/song/3736%^&*http://www.xiami.com/song/3737%^&*http://www.xiami.com/song/3738%^&*http://www.xiami.com/song/3739%^&*http://www.xiami.com/song/3740%^&*http://www.xiami.com/song/3741%^&*

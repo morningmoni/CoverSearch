@@ -1,0 +1,7 @@
+number 330
+name Ed Is On
+artist 陈冠希
+introduction 
+picture http://img.xiami.net/images/album/img80/80/3301378787919.jpg
+songs 夜风%^&*故意%^&*超速游戏%^&*我知道你的秘密%^&*Be My Bady%^&*Angel%^&*Imaginary boy%^&*情感爆炸%^&*你让我失眠%^&*你 (粤语版)%^&*夜风 (Good Times Mix)%^&*
+songURLs http://www.xiami.com/song/4035%^&*http://www.xiami.com/song/4036%^&*http://www.xiami.com/song/4037%^&*http://www.xiami.com/song/4038%^&*http://www.xiami.com/song/4039%^&*http://www.xiami.com/song/4040%^&*http://www.xiami.com/song/4041%^&*http://www.xiami.com/song/4042%^&*http://www.xiami.com/song/4043%^&*http://www.xiami.com/song/4044%^&*http://www.xiami.com/song/4045%^&*

@@ -1,0 +1,7 @@
+number 340
+name 百老汇之夜
+artist 陈冠宇
+introduction 1994年12月，由「巨石唱片」公司的安排，陈冠宇前往英国伦敦，与「英国广播音乐会管弦乐团」灌录「百老汇歌舞剧钢琴协奏曲」。这是一张突破国人制作唱片的能量的跨国录音，无论是编曲、录音及演奏都是符合国际水准的高优质产品，连英国人都竖起两只大姆指称赞。
+picture http://img.xiami.net/images/album/img81/81/3401338450340.JPG
+songs 歌剧魅影 选粹%^&*猫 选粹%^&*我和我的女孩 选粹%^&*悲惨世界 选粹%^&*为你疯狂 选粹%^&*西贡小姐 选粹%^&*日落大道 选粹%^&*
+songURLs http://www.xiami.com/song/4133%^&*http://www.xiami.com/song/4134%^&*http://www.xiami.com/song/4135%^&*http://www.xiami.com/song/4136%^&*http://www.xiami.com/song/4137%^&*http://www.xiami.com/song/4138%^&*http://www.xiami.com/song/4139%^&*

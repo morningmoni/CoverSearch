@@ -1,0 +1,6 @@
+number 3687
+name 几度夕阳红
+artist 陈彼得%^&*
+artistURL http://www.xiami.com/artist/73%^&*
+album 吾爱吾师·几度夕阳红
+albumURL http://www.xiami.com/album/301

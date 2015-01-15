@@ -1,0 +1,6 @@
+number 4333
+name 洒脱是英雄
+artist 陈浩德%^&*
+artistURL http://www.xiami.com/artist/85%^&*
+album 畅饮在今宵
+albumURL http://www.xiami.com/album/358

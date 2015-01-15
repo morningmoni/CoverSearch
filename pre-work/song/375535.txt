@@ -1,0 +1,6 @@
+number 375535
+name 受伤的提琴手
+artist 同恩%^&*
+artistURL http://www.xiami.com/artist/2160%^&*
+album 不准哭
+albumURL http://www.xiami.com/album/11798

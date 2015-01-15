@@ -1,0 +1,6 @@
+number 130182
+name 情冷却
+artist 刘嘉玲%^&*
+artistURL http://www.xiami.com/artist/1920%^&*
+album 情冷却
+albumURL http://www.xiami.com/album/10547

@@ -1,0 +1,7 @@
+number 492325
+name 中国歌坛明星集2 王洁实 谢莉斯
+artist 王洁实
+introduction PCD-5429 / ISRC CN-F12-95-385-00/A.J6从1978年起，他们的二重唱从东北唱遍全国。他们用校园歌曲的方式向中国歌坛介绍并展示了“通俗”唱法，并演唱了许多优秀的创作歌曲，电影歌曲，中国民歌。他们的演唱配合默契，台风端庄大方，风格亲切自然，能准确把握歌曲的特色和内涵，并注入鲜明的个性，艺术上独树一帜，二人的合唱部分尤其和谐、动听、更具魅力，成为八十年代以来二人组合的黄金搭档。他们演唱过的歌曲像《校园的早晨》、《笑比哭好》、《九九艳阳天》、《龙船调》、《花儿为什么这样红》等歌曲至今广为流传，影响了几代人。
+picture http://img.xiami.net/images/album/img0/900/4923251332049811.jpg
+songs 婚誓%^&*外婆的澎湖湾%^&*假如%^&*九九艳阳天%^&*敖包相会%^&*校园的早晨%^&*何日才相会%^&*龙船调%^&*故乡恋情%^&*夫妻双双把家还%^&*追求%^&*难诉相思%^&*想妹一天又一天%^&*原野牧歌%^&*踏浪%^&*绣荷包%^&*
+songURLs http://www.xiami.com/song/1770873488%^&*http://www.xiami.com/song/1770873489%^&*http://www.xiami.com/song/1770873490%^&*http://www.xiami.com/song/1770873491%^&*http://www.xiami.com/song/1770873492%^&*http://www.xiami.com/song/1770873493%^&*http://www.xiami.com/song/1770873494%^&*http://www.xiami.com/song/1770873495%^&*http://www.xiami.com/song/1770873496%^&*http://www.xiami.com/song/1770873497%^&*http://www.xiami.com/song/1770873498%^&*http://www.xiami.com/song/1770873499%^&*http://www.xiami.com/song/1770873500%^&*http://www.xiami.com/song/1770873501%^&*http://www.xiami.com/song/1770873502%^&*http://www.xiami.com/song/1770873503%^&*

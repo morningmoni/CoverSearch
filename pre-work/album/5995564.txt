@@ -1,0 +1,7 @@
+number 5995564
+name 快乐小吃部
+artist 七郎
+introduction 台湾歌手七郎最新专辑《快乐小吃部》此张专辑收录歌曲10首，MV有7首。专辑同名主打歌曲《快乐小吃部》旋律轻快、流畅。
+picture http://img.xiami.net/images/album/img80/780/59955641405995564.jpg
+songs 快乐小吃部%^&*台湾兄弟%^&*咱ㄟ梦%^&*落漆%^&*十五暝%^&*梦の玫瑰%^&*金针山之恋%^&*一夜情%^&*痴情风雨暝%^&*问酒%^&*
+songURLs http://www.xiami.com/song/1773366829%^&*http://www.xiami.com/song/1773366830%^&*http://www.xiami.com/song/1773366831%^&*http://www.xiami.com/song/1773366832%^&*http://www.xiami.com/song/1773366833%^&*http://www.xiami.com/song/1773366834%^&*http://www.xiami.com/song/1773366835%^&*http://www.xiami.com/song/1773366836%^&*http://www.xiami.com/song/1773366837%^&*http://www.xiami.com/song/1773366838%^&*

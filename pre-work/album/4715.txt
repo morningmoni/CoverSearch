@@ -1,0 +1,6 @@
+number 4715
+name 清晨
+artist 文章
+introduction picture http://img.xiami.net/images/pic/04/02/10059873167m_2.jpg
+songs 你%^&*梦土上%^&*千千万万个爱你%^&*当这支舞以后%^&*终点站%^&*序曲%^&*似曾相识%^&*影子背后%^&*爱的自白%^&*命运武士%^&*心焰%^&*两岸灯火%^&*
+songURLs http://www.xiami.com/song/57082%^&*http://www.xiami.com/song/57083%^&*http://www.xiami.com/song/57084%^&*http://www.xiami.com/song/57085%^&*http://www.xiami.com/song/57086%^&*http://www.xiami.com/song/57087%^&*http://www.xiami.com/song/57088%^&*http://www.xiami.com/song/57089%^&*http://www.xiami.com/song/57090%^&*http://www.xiami.com/song/57091%^&*http://www.xiami.com/song/57092%^&*http://www.xiami.com/song/57093%^&*

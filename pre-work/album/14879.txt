@@ -1,0 +1,7 @@
+number 14879
+name 2个女生 同名专辑
+artist 2个女生
+introduction 1997年2月，廖永其、杨孝芬两人于香港参加亚洲音乐节，被新加坡海蝶音乐老板许环良发掘，签约海蝶音乐及科艺百代唱片，并组成&ldquo;2个女生&rdquo;。于同年8月推出首张专辑《2个女生同名专辑》，正式进军乐坛，她们亦参与碟中部份歌曲的词曲创作，主打歌包括《啄木鸟》、《Faraway》，以及重唱彭羚的国语旧作《天使》。
+picture http://img.xiami.net/images/album/img70/2870/148791387961608.jpg
+songs Faraway%^&*啄木鸟%^&*真的不懂%^&*别怕%^&*这天%^&*让我忘了你%^&*别说%^&*我又哭了%^&*口是心非%^&*天使%^&*
+songURLs http://www.xiami.com/song/183102%^&*http://www.xiami.com/song/183103%^&*http://www.xiami.com/song/183104%^&*http://www.xiami.com/song/183105%^&*http://www.xiami.com/song/183106%^&*http://www.xiami.com/song/183107%^&*http://www.xiami.com/song/183108%^&*http://www.xiami.com/song/183109%^&*http://www.xiami.com/song/183110%^&*http://www.xiami.com/song/183111%^&*

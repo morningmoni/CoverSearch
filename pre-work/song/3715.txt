@@ -1,0 +1,6 @@
+number 3715
+name 记得1981
+artist 陈彼得%^&*
+artistURL http://www.xiami.com/artist/73%^&*
+album 也是情歌
+albumURL http://www.xiami.com/album/304

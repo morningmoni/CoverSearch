@@ -1,0 +1,6 @@
+number 14945
+name MP4(AVCD)
+artist MP4
+introduction picture http://img.xiami.net/images/pic/04/02/10053037020m_2.jpg
+songs Format Data, Not Playable%^&*打工仔心声 (Video)%^&*乜嘢系恋爱%^&*K歌人民共和国%^&*给爸爸的信%^&*啲嗒乐坛男歌手%^&*Let&#039;s Get Wicked%^&*得把声(齐齐Jam)%^&*打工仔心声%^&*给爸爸的信(DJ Simon Extended Mix)%^&*
+songURLs http://www.xiami.com/song/183784%^&*http://www.xiami.com/song/183785%^&*http://www.xiami.com/song/183786%^&*http://www.xiami.com/song/183787%^&*http://www.xiami.com/song/183788%^&*http://www.xiami.com/song/183789%^&*http://www.xiami.com/song/183790%^&*http://www.xiami.com/song/183791%^&*http://www.xiami.com/song/183792%^&*http://www.xiami.com/song/183793%^&*

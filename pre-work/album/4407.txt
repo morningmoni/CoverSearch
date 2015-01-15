@@ -1,0 +1,6 @@
+number 4407
+name 为你担心
+artist 庹宗华
+introduction picture http://img.xiami.net/images/album/img80/880/4407.jpg
+songs 伤心不能说%^&*因为我会担心%^&*我是多么认真地%^&*我想说的是%^&*今天你匆匆与我擦肩%^&*把自己收藏起来%^&*在时间转动的地方停留%^&*哭够的时候%^&*周六的下午%^&*演出%^&*
+songURLs http://www.xiami.com/song/53663%^&*http://www.xiami.com/song/53664%^&*http://www.xiami.com/song/53665%^&*http://www.xiami.com/song/53666%^&*http://www.xiami.com/song/53667%^&*http://www.xiami.com/song/53668%^&*http://www.xiami.com/song/53669%^&*http://www.xiami.com/song/53670%^&*http://www.xiami.com/song/53671%^&*http://www.xiami.com/song/53672%^&*

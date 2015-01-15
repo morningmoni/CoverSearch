@@ -1,0 +1,6 @@
+number 160290
+name 鱼在水中游
+artist 泳儿%^&*
+artistURL http://www.xiami.com/artist/2400%^&*
+album 感应
+albumURL http://www.xiami.com/album/13031

@@ -1,0 +1,7 @@
+number 338
+name 候鸟流星雨
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img81/81/338.jpg
+songs 流星雨%^&*情非得已%^&*Love Of My Life%^&*Perfect Moment%^&*候鸟流星雨%^&*为你执着%^&*谁让你流泪%^&*幸福不用等%^&*第一时间%^&*我是真的真的很爱你%^&*Here We Are%^&*And I Love You So%^&*
+songURLs http://www.xiami.com/song/4111%^&*http://www.xiami.com/song/4112%^&*http://www.xiami.com/song/4113%^&*http://www.xiami.com/song/4114%^&*http://www.xiami.com/song/4115%^&*http://www.xiami.com/song/4116%^&*http://www.xiami.com/song/4117%^&*http://www.xiami.com/song/4118%^&*http://www.xiami.com/song/4119%^&*http://www.xiami.com/song/4120%^&*http://www.xiami.com/song/4121%^&*http://www.xiami.com/song/4122%^&*

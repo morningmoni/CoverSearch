@@ -1,0 +1,6 @@
+number 2110565
+name I swear
+artist 曹俊鸿%^&*
+artistURL http://www.xiami.com/artist/59%^&*
+album 水晶音乐VI
+albumURL http://www.xiami.com/album/170874

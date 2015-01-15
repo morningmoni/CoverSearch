@@ -1,0 +1,7 @@
+number 299
+name 关于昨夜
+artist 陈柏全
+introduction 
+picture http://img.xiami.net/images/album/img0/2991284699311.jpg
+songs 想问你是否可以爱我%^&*梦是无限延伸的路%^&*为了可以把你忘记%^&*关于昨夜%^&*那年的阳明山%^&*一颗不再属于我的心%^&*Do You Understand%^&*我宁愿你伤心%^&*不要问我爱不爱你%^&*其实我也会哭%^&*
+songURLs http://www.xiami.com/song/3664%^&*http://www.xiami.com/song/3665%^&*http://www.xiami.com/song/3666%^&*http://www.xiami.com/song/3667%^&*http://www.xiami.com/song/3668%^&*http://www.xiami.com/song/3669%^&*http://www.xiami.com/song/3670%^&*http://www.xiami.com/song/3671%^&*http://www.xiami.com/song/3672%^&*http://www.xiami.com/song/3673%^&*

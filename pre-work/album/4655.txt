@@ -1,0 +1,7 @@
+number 4655
+name 后悔·为爱苦一生
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/46551375423929.jpg
+songs 后悔%^&*为爱苦一生%^&*情到深处无怨尤%^&*走远路的人%^&*一千个缠绵%^&*一往情深%^&*满街都是寂寞的朋友吗%^&*把手交给你%^&*今生无悔%^&*情到深处无怨尤(吉它弹唱)%^&*
+songURLs http://www.xiami.com/song/56444%^&*http://www.xiami.com/song/56445%^&*http://www.xiami.com/song/56446%^&*http://www.xiami.com/song/56447%^&*http://www.xiami.com/song/56448%^&*http://www.xiami.com/song/56449%^&*http://www.xiami.com/song/56450%^&*http://www.xiami.com/song/56451%^&*http://www.xiami.com/song/56452%^&*http://www.xiami.com/song/56453%^&*

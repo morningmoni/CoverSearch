@@ -1,0 +1,6 @@
+number 49876
+name 怎样你才会喜欢我
+artist 邰正宵%^&*
+artistURL http://www.xiami.com/artist/850%^&*
+album 用情太深
+albumURL http://www.xiami.com/album/4076

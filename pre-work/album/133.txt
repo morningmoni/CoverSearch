@@ -1,0 +1,7 @@
+number 133
+name 环球真经典系列
+artist 蔡国权
+introduction 
+picture http://img.xiami.net/images/album/img0/1331284010219.jpg
+songs 寒傲似冰%^&*不装饰你的梦%^&*再见也许不再会%^&*不应再犹豫%^&*风中劲草%^&*童年%^&*爱情组曲%^&*是谁在我耳边唱%^&*顺流逆流%^&*世事如棋%^&*怀念你一世纪%^&*长夜%^&*爱到浓时%^&*追忆%^&*无心快语%^&*天意人心%^&*
+songURLs http://www.xiami.com/song/1640%^&*http://www.xiami.com/song/1641%^&*http://www.xiami.com/song/1642%^&*http://www.xiami.com/song/1643%^&*http://www.xiami.com/song/1644%^&*http://www.xiami.com/song/1645%^&*http://www.xiami.com/song/1646%^&*http://www.xiami.com/song/1647%^&*http://www.xiami.com/song/1648%^&*http://www.xiami.com/song/1649%^&*http://www.xiami.com/song/1650%^&*http://www.xiami.com/song/1651%^&*http://www.xiami.com/song/1652%^&*http://www.xiami.com/song/1653%^&*http://www.xiami.com/song/2107423%^&*http://www.xiami.com/song/2107424%^&*

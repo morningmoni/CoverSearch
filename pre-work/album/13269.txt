@@ -1,0 +1,7 @@
+number 13269
+name 旅程
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132691370673317.jpg
+songs 旅程%^&*骄傲%^&*心诚则灵%^&*爱已蔓延%^&*家路%^&*倒数三秒%^&*雪地%^&*爱或不爱%^&*让你飞%^&*你的颜色%^&*Come Together%^&*Addicted to Love%^&*Blue Bayou%^&*Bizarre Love Triangle%^&*Now and Forever%^&*Big Spender%^&*Can&#039;t Take My Eyes off You%^&*I have Nothing%^&*
+songURLs http://www.xiami.com/song/377753%^&*http://www.xiami.com/song/377754%^&*http://www.xiami.com/song/377755%^&*http://www.xiami.com/song/377756%^&*http://www.xiami.com/song/377757%^&*http://www.xiami.com/song/377758%^&*http://www.xiami.com/song/377759%^&*http://www.xiami.com/song/377760%^&*http://www.xiami.com/song/377761%^&*http://www.xiami.com/song/377762%^&*http://www.xiami.com/song/377763%^&*http://www.xiami.com/song/377764%^&*http://www.xiami.com/song/377765%^&*http://www.xiami.com/song/377766%^&*http://www.xiami.com/song/377767%^&*http://www.xiami.com/song/377768%^&*http://www.xiami.com/song/377769%^&*http://www.xiami.com/song/377770%^&*

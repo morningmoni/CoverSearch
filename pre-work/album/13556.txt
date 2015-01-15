@@ -1,0 +1,6 @@
+number 13556
+name Something Special
+artist 甄楚倩
+introduction picture http://img.xiami.net/images/album/img10/2510/135561334562772.jpg
+songs 不想一再失去他%^&*Love Me Tonight%^&*你真的可以忘记我吗?%^&*唯有在晚上才能La La La La Li%^&*Let&#039;s Get Smooth%^&*一生放暑假%^&*不羁的男人%^&*喜欢你什么%^&*留在我身边%^&*La La La La Li(Interlude)%^&*
+songURLs http://www.xiami.com/song/166892%^&*http://www.xiami.com/song/166893%^&*http://www.xiami.com/song/166894%^&*http://www.xiami.com/song/166895%^&*http://www.xiami.com/song/166896%^&*http://www.xiami.com/song/166897%^&*http://www.xiami.com/song/166898%^&*http://www.xiami.com/song/166899%^&*http://www.xiami.com/song/166900%^&*http://www.xiami.com/song/166901%^&*

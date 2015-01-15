@@ -1,0 +1,6 @@
+number 3309
+name 迷失中有着你
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 至爱纪念集
+albumURL http://www.xiami.com/album/263

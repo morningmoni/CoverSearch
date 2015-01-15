@@ -1,0 +1,6 @@
+number 298
+name 全港至叻星
+artist 陈百祥
+introduction picture http://img.xiami.net/images/album/img71/71/2981411378223.jpg
+songs 我至叻%^&*成日咁叻%^&*分甘同味 (友情版)%^&*运财有福星 (运财至叻星)%^&*是是非非是是非 (娱乐版)%^&*锡锡自己%^&*小芳 (国语版)%^&*各领风骚%^&*马照跑%^&*运财至叻星 (游戏版)%^&*
+songURLs http://www.xiami.com/song/3654%^&*http://www.xiami.com/song/3655%^&*http://www.xiami.com/song/3656%^&*http://www.xiami.com/song/3657%^&*http://www.xiami.com/song/3658%^&*http://www.xiami.com/song/3659%^&*http://www.xiami.com/song/3660%^&*http://www.xiami.com/song/3661%^&*http://www.xiami.com/song/3662%^&*http://www.xiami.com/song/3663%^&*

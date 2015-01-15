@@ -1,0 +1,6 @@
+number 149255
+name 难得糊涂
+artist 文佩玲%^&*
+artistURL http://www.xiami.com/artist/2230%^&*
+album 斗气
+albumURL http://www.xiami.com/album/12135

@@ -1,0 +1,7 @@
+number 12985
+name 舞夜 Remix
+artist 伊能静
+introduction 
+picture http://img.xiami.net/images/album/img90/2390/12985.jpg
+songs 悲伤茱丽叶组曲%^&*19岁的最后一天%^&*我是猫%^&*悲伤茱丽叶%^&*上帝救我组曲%^&*快活歌(Jajambo)组曲%^&*红颜美人多薄命%^&*陪在你左右%^&*想爱就说出来%^&*Merry X&#039;mas 圣诞快乐%^&*
+songURLs http://www.xiami.com/song/374231%^&*http://www.xiami.com/song/374232%^&*http://www.xiami.com/song/374233%^&*http://www.xiami.com/song/374234%^&*http://www.xiami.com/song/374235%^&*http://www.xiami.com/song/374236%^&*http://www.xiami.com/song/374237%^&*http://www.xiami.com/song/374238%^&*http://www.xiami.com/song/374239%^&*http://www.xiami.com/song/374240%^&*

@@ -1,0 +1,6 @@
+number 1773844488
+name 谁是你知音
+artist 蒋志光%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%92%8B%E5%BF%97%E5%85%89%^&*
+album 传奇巨声
+albumURL http://www.xiami.com/album/1519989060

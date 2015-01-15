@@ -1,0 +1,7 @@
+number 32950
+name Best Show
+artist 罗志祥
+introduction 15首罗志祥最经典、最受欢迎的单曲，珍藏2003~2006我们最骄傲的美好记忆！感谢你给过的、珍惜我拥有的，街头小子蜕变成舞台霸王全纪录！
+picture http://img.xiami.net/images/album/img20/720/32950.jpg
+songs 精舞门%^&*呛司呛司%^&*幸福猎人%^&*黑眼圈恋爱达人%^&*恋爱达人%^&*狐狸精%^&*力量%^&*自我催眠%^&*机器娃娃%^&*淘汰郎%^&*小丑鱼%^&*好朋友%^&*爱转角%^&*猛男日记%^&*Twinkle%^&*
+songURLs http://www.xiami.com/song/393273%^&*http://www.xiami.com/song/393274%^&*http://www.xiami.com/song/393275%^&*http://www.xiami.com/song/393276%^&*http://www.xiami.com/song/393277%^&*http://www.xiami.com/song/393278%^&*http://www.xiami.com/song/393279%^&*http://www.xiami.com/song/393280%^&*http://www.xiami.com/song/393281%^&*http://www.xiami.com/song/393282%^&*http://www.xiami.com/song/393283%^&*http://www.xiami.com/song/393284%^&*http://www.xiami.com/song/393285%^&*http://www.xiami.com/song/393286%^&*http://www.xiami.com/song/393303%^&*

@@ -1,0 +1,7 @@
+number 3352
+name 坚固柔情
+artist 罗纮武
+introduction 
+picture http://img.xiami.net/images/album/img10/710/3352.jpg
+songs 破茧%^&*坚固柔情%^&*太阳总是照着月亮%^&*发亮女生%^&*出航%^&*邀伴%^&*藏身音乐盒%^&*回家%^&*
+songURLs http://www.xiami.com/song/41434%^&*http://www.xiami.com/song/41435%^&*http://www.xiami.com/song/41436%^&*http://www.xiami.com/song/41437%^&*http://www.xiami.com/song/41438%^&*http://www.xiami.com/song/41439%^&*http://www.xiami.com/song/41440%^&*http://www.xiami.com/song/41441%^&*

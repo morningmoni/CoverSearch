@@ -1,0 +1,6 @@
+number 187964
+name 当你离开的时候
+artist 少女队%^&*
+artistURL http://www.xiami.com/artist/3020%^&*
+album 偏爱你的心
+albumURL http://www.xiami.com/album/15310

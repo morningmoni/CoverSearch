@@ -1,0 +1,7 @@
+number 13260
+name 我要快乐？
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132601304408480.jpg
+songs 平常心%^&*人质%^&*不像个大人%^&*因为你在%^&*我要快乐？%^&*Chinese Girl%^&*不要乱说%^&*单纯%^&*所以我愿意%^&*海阔天空%^&*
+songURLs http://www.xiami.com/song/377743%^&*http://www.xiami.com/song/377744%^&*http://www.xiami.com/song/377745%^&*http://www.xiami.com/song/377746%^&*http://www.xiami.com/song/377747%^&*http://www.xiami.com/song/377748%^&*http://www.xiami.com/song/377749%^&*http://www.xiami.com/song/377750%^&*http://www.xiami.com/song/377751%^&*http://www.xiami.com/song/377752%^&*

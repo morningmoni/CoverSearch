@@ -1,0 +1,7 @@
+number 318490
+name 千年之旅
+artist 施孝荣
+introduction 
+picture http://img.xiami.net/images/album/img20/820/3184901418621327.jpg
+songs 千年之旅%^&*没有时候的时候%^&*探索%^&*拆伙%^&*航%^&*把酒%^&*破晓%^&*盲者之歌%^&*老兵%^&*预兆%^&*今夜%^&*
+songURLs http://www.xiami.com/song/3545328%^&*http://www.xiami.com/song/3545329%^&*http://www.xiami.com/song/3545330%^&*http://www.xiami.com/song/3545331%^&*http://www.xiami.com/song/3545332%^&*http://www.xiami.com/song/3545333%^&*http://www.xiami.com/song/3545334%^&*http://www.xiami.com/song/3545335%^&*http://www.xiami.com/song/3545336%^&*http://www.xiami.com/song/3545337%^&*http://www.xiami.com/song/3545338%^&*

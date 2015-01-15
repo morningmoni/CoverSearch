@@ -1,0 +1,7 @@
+number 10925
+name 变奏
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109251336979354.jpg
+songs 你留我在此%^&*怀旧%^&*相思河畔%^&*东山飘雨西山晴%^&*槟城艳%^&*Medley: 一水隔天涯/变%^&*梭罗河之恋%^&*今天我非常寂寞%^&*榴梿飘香%^&*她比烟花寂莫%^&*
+songURLs http://www.xiami.com/song/134984%^&*http://www.xiami.com/song/134985%^&*http://www.xiami.com/song/134986%^&*http://www.xiami.com/song/134987%^&*http://www.xiami.com/song/134988%^&*http://www.xiami.com/song/134989%^&*http://www.xiami.com/song/134990%^&*http://www.xiami.com/song/134991%^&*http://www.xiami.com/song/134992%^&*http://www.xiami.com/song/134993%^&*

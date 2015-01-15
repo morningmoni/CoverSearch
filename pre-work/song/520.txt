@@ -1,0 +1,6 @@
+number 520
+name 无敌Go Go Go
+artist 安德尊%^&*
+artistURL http://www.xiami.com/artist/17%^&*
+album 老懵董笑歌集
+albumURL http://www.xiami.com/album/43

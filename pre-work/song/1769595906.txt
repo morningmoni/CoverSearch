@@ -1,0 +1,7 @@
+number 1769595906
+name 爱的名字
+artist 梁文福%^&*赖向华%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%A2%81%E6%96%87%E7%A6%8F%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%B5%96%E5%90%91%E5%8D%8E%^&*
+album 爱的名字
+albumURL http://www.xiami.com/album/387238

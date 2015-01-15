@@ -1,0 +1,6 @@
+number 3365202
+name 只因有你
+artist 艾成%^&*
+artistURL http://www.xiami.com/artist/15%^&*
+album Edsion Mr.I
+albumURL http://www.xiami.com/album/38

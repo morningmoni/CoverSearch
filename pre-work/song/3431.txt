@@ -1,0 +1,6 @@
+number 3431
+name 长伴千世纪
+artist 陈百强%^&*
+artistURL http://www.xiami.com/artist/70%^&*
+album 冬暖
+albumURL http://www.xiami.com/album/274

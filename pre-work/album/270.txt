@@ -1,0 +1,7 @@
+number 270
+name 一生何求
+artist 陈百强
+introduction 
+picture http://img.xiami.net/images/album/img70/70/2701322714025.jpg
+songs Hot Night%^&*背着良心的说话%^&*流浪者%^&*对不对%^&*过去…永远如此%^&*冷暖风铃%^&*心碎路口%^&*谁是知己%^&*一生何求%^&*奢侈%^&*
+songURLs http://www.xiami.com/song/3400%^&*http://www.xiami.com/song/3401%^&*http://www.xiami.com/song/3402%^&*http://www.xiami.com/song/3403%^&*http://www.xiami.com/song/3404%^&*http://www.xiami.com/song/3405%^&*http://www.xiami.com/song/3406%^&*http://www.xiami.com/song/3407%^&*http://www.xiami.com/song/3408%^&*http://www.xiami.com/song/3409%^&*

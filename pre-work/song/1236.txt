@@ -1,0 +1,6 @@
+number 1236
+name 我的梦(全运会开场曲)
+artist 卞留念%^&*
+artistURL http://www.xiami.com/artist/36%^&*
+album 中国足球战歌
+albumURL http://www.xiami.com/album/105

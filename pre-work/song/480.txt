@@ -1,0 +1,6 @@
+number 480
+name 喀什噶尔
+artist 艾尔肯%^&*
+artistURL http://www.xiami.com/artist/16%^&*
+album 城市之夜
+albumURL http://www.xiami.com/album/40

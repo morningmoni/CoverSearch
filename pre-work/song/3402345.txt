@@ -1,0 +1,6 @@
+number 3402345
+name 바다大海 / Summer
+artist 강타%^&*
+artistURL http://www.xiami.com/artist/19%^&*
+album Pine Tree
+albumURL http://www.xiami.com/album/50

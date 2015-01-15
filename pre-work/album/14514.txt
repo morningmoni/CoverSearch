@@ -1,0 +1,6 @@
+number 14514
+name Goodbye Summer
+artist Echo
+introduction picture http://img.xiami.net/images/album/img20/2720/145141334886647.jpg
+songs 风度%^&*情是空 情是梦%^&*谁是真正寂寞人%^&*半个他%^&*给我一个吻%^&*Goodbye Summer%^&*不要留下我%^&*怪客%^&*新欢%^&*给我一个吻(伴唱版)%^&*
+songURLs http://www.xiami.com/song/179136%^&*http://www.xiami.com/song/179137%^&*http://www.xiami.com/song/179138%^&*http://www.xiami.com/song/179139%^&*http://www.xiami.com/song/179140%^&*http://www.xiami.com/song/179141%^&*http://www.xiami.com/song/179142%^&*http://www.xiami.com/song/179143%^&*http://www.xiami.com/song/179144%^&*http://www.xiami.com/song/179145%^&*

@@ -1,0 +1,7 @@
+number 13267
+name 发烧
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132671399561488.jpg
+songs 发烧%^&*狠角色%^&*知道%^&*下一个人%^&*54321%^&*跟我一起疯%^&*别去打扰他的心%^&*听见了吗%^&*Yes Or No%^&*Katsu%^&*知道 (鲜听版)%^&*狠角色 (鲜听版)%^&*下一个人 (鲜听版)%^&*发烧 (鲜听版)%^&*别去打扰他的心 (鲜听版)%^&*
+songURLs http://www.xiami.com/song/163334%^&*http://www.xiami.com/song/163335%^&*http://www.xiami.com/song/163336%^&*http://www.xiami.com/song/163337%^&*http://www.xiami.com/song/163338%^&*http://www.xiami.com/song/163339%^&*http://www.xiami.com/song/163340%^&*http://www.xiami.com/song/163341%^&*http://www.xiami.com/song/163342%^&*http://www.xiami.com/song/163343%^&*http://www.xiami.com/song/1773368783%^&*http://www.xiami.com/song/1773368784%^&*http://www.xiami.com/song/1773368785%^&*http://www.xiami.com/song/1773368786%^&*http://www.xiami.com/song/1773368787%^&*

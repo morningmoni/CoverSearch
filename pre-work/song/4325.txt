@@ -1,0 +1,6 @@
+number 4325
+name 此际系时候
+artist 陈浩德%^&*
+artistURL http://www.xiami.com/artist/85%^&*
+album 爱如春风
+albumURL http://www.xiami.com/album/357

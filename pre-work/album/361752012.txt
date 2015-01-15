@@ -1,0 +1,7 @@
+number 361752012
+name 再见杨柳
+artist 付娜
+introduction 中国十大青年古筝演奏家 - 付娜，让人感受古筝艺术的无限魅力；收录沉默是金、南泥湾、再见杨柳等经典名曲。
+picture http://img.xiami.net/images/album/img40/1540/3617520121384408387.jpg
+songs 沉默是金%^&*南泥湾%^&*再见杨柳%^&*逝去的诺言%^&*每一个晚上%^&*十送红军%^&*三百六十五里路%^&*边疆的泉水清又纯%^&*无奈%^&*一水隔天涯%^&*城里的月光%^&*有谁共鸣%^&*
+songURLs http://www.xiami.com/song/1771698345%^&*http://www.xiami.com/song/1771698346%^&*http://www.xiami.com/song/1771698347%^&*http://www.xiami.com/song/1771698348%^&*http://www.xiami.com/song/1771698349%^&*http://www.xiami.com/song/1771698350%^&*http://www.xiami.com/song/1771698351%^&*http://www.xiami.com/song/1771698352%^&*http://www.xiami.com/song/1771698353%^&*http://www.xiami.com/song/1771698354%^&*http://www.xiami.com/song/1771698355%^&*http://www.xiami.com/song/1771698356%^&*

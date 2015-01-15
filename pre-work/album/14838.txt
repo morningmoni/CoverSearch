@@ -1,0 +1,7 @@
+number 14838
+name 青春纪念册
+artist 可米小子
+introduction 
+picture http://img.xiami.net/images/album/img50/2850/14838.jpg
+songs Number 2%^&*青春纪念册%^&*红蜻蜓%^&*花季%^&*他%^&*Hold Me Close%^&*我讨厌%^&*我的野蛮女友%^&*爱的入场券%^&*爱像什么%^&*
+songURLs http://www.xiami.com/song/182691%^&*http://www.xiami.com/song/182692%^&*http://www.xiami.com/song/182693%^&*http://www.xiami.com/song/182694%^&*http://www.xiami.com/song/182695%^&*http://www.xiami.com/song/182696%^&*http://www.xiami.com/song/182697%^&*http://www.xiami.com/song/182698%^&*http://www.xiami.com/song/182699%^&*http://www.xiami.com/song/182700%^&*

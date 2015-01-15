@@ -1,0 +1,6 @@
+number 151163
+name 蓝色的探戈
+artist 张露%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%BC%A0%E9%9C%B2%^&*
+album 百代百年系列1-迎春花
+albumURL http://www.xiami.com/album/12295

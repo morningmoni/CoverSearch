@@ -1,0 +1,9 @@
+number 1771917824
+name 打架舞
+artist 周杰伦%^&*柯有伦%^&*宋健彰%^&*黄俊郎%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%91%A8%E6%9D%B0%E4%BC%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E6%9F%AF%E6%9C%89%E4%BC%A6%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%AE%8B%E5%81%A5%E5%BD%B0%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E4%BF%8A%E9%83%8E%^&*
+album 天台 电影原声带
+albumURL http://www.xiami.com/album/166032

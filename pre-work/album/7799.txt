@@ -1,0 +1,7 @@
+number 7799
+name 你是我的第一个
+artist 戴恩玲
+introduction 
+picture http://img.xiami.net/images/album/img70/1470/7799.jpg
+songs 你是我的第一个%^&*一天天爱上你%^&*两个小情人%^&*停底一分钟%^&*十字路口%^&*缘尽了%^&*就算从头开始%^&*给我的一切%^&*年青的一党%^&*带着伤感的离去%^&*
+songURLs http://www.xiami.com/song/95940%^&*http://www.xiami.com/song/95941%^&*http://www.xiami.com/song/95942%^&*http://www.xiami.com/song/95943%^&*http://www.xiami.com/song/95944%^&*http://www.xiami.com/song/95945%^&*http://www.xiami.com/song/95946%^&*http://www.xiami.com/song/95947%^&*http://www.xiami.com/song/95948%^&*http://www.xiami.com/song/95949%^&*

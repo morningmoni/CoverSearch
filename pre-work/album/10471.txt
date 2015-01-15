@@ -1,0 +1,7 @@
+number 10471
+name 拒绝不了
+artist 林玉婷
+introduction 
+picture http://img.xiami.net/images/album/img0/1900/104711318314466.jpg
+songs 摆脱%^&*拒绝不了%^&*堕落的承诺%^&*不说%^&*就是走了%^&*放爱放假去%^&*一点点%^&*错就错%^&*唔…喔…野…%^&*没有遗憾%^&*爱情早餐%^&*相信%^&*
+songURLs http://www.xiami.com/song/129260%^&*http://www.xiami.com/song/129261%^&*http://www.xiami.com/song/129262%^&*http://www.xiami.com/song/129263%^&*http://www.xiami.com/song/129264%^&*http://www.xiami.com/song/129265%^&*http://www.xiami.com/song/129266%^&*http://www.xiami.com/song/129267%^&*http://www.xiami.com/song/129268%^&*http://www.xiami.com/song/129269%^&*http://www.xiami.com/song/129270%^&*http://www.xiami.com/song/129271%^&*

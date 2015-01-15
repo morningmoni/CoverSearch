@@ -1,0 +1,6 @@
+number 4712
+name 东方情
+artist 文章
+introduction picture http://img.xiami.net/images/album/img40/940/47121379321377.jpg
+songs Who&#039;s Lonely Now%^&*Tokyo Joe%^&*Distant Sbore%^&*4:55%^&*Let Us Cling Together%^&*The Spirit Of Asia%^&*Sayonara%^&*The China Sea%^&*Child%^&*Within You&#039;ll Remain%^&*
+songURLs http://www.xiami.com/song/57052%^&*http://www.xiami.com/song/57053%^&*http://www.xiami.com/song/57054%^&*http://www.xiami.com/song/57055%^&*http://www.xiami.com/song/57056%^&*http://www.xiami.com/song/57057%^&*http://www.xiami.com/song/57058%^&*http://www.xiami.com/song/57059%^&*http://www.xiami.com/song/57060%^&*http://www.xiami.com/song/57061%^&*

@@ -1,0 +1,6 @@
+number 1770252667
+name 一定会赢
+artist 七郎%^&*
+artistURL http://www.xiami.com/artist/780%^&*
+album 是你才有
+albumURL http://www.xiami.com/album/444655

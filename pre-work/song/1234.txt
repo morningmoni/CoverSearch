@@ -1,0 +1,7 @@
+number 1234
+name 今天真好
+artist 陈明%^&*陈晓东%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E6%98%8E%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%99%88%E6%99%93%E4%B8%9C%^&*
+album 中国足球战歌
+albumURL http://www.xiami.com/album/105

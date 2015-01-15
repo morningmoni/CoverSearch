@@ -1,0 +1,6 @@
+number 685435033
+name 罗曼蒂克
+artist 曹西平
+introduction picture http://img.xiami.net/images/album/img61/61/6854350331385435033.jpg
+songs 罗曼蒂克%^&*想你的心%^&*我的蕾莉%^&*说谎的人%^&*新解%^&*爱情小说%^&*爱的狂风%^&*青春%^&*窗外的雨下不停%^&*呼沙啦噜啦%^&*
+songURLs http://www.xiami.com/song/1772363382%^&*http://www.xiami.com/song/1772363383%^&*http://www.xiami.com/song/1772363384%^&*http://www.xiami.com/song/1772363385%^&*http://www.xiami.com/song/1772363386%^&*http://www.xiami.com/song/1772363387%^&*http://www.xiami.com/song/1772363388%^&*http://www.xiami.com/song/1772363389%^&*http://www.xiami.com/song/1772363390%^&*http://www.xiami.com/song/1772363391%^&*

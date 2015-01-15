@@ -1,0 +1,7 @@
+number 3476
+name 催眠SHOW
+artist 罗志祥
+introduction 
+picture http://img.xiami.net/images/album/img20/720/34761409932752.jpg
+songs 真命天子%^&*淘汰郎%^&*自我催眠%^&*呛司呛司%^&*猛男日记%^&*黑眼圈%^&*不懂我的心%^&*力量%^&*骇客入侵%^&*火警119%^&*
+songURLs http://www.xiami.com/song/42838%^&*http://www.xiami.com/song/42839%^&*http://www.xiami.com/song/42840%^&*http://www.xiami.com/song/42841%^&*http://www.xiami.com/song/42842%^&*http://www.xiami.com/song/42843%^&*http://www.xiami.com/song/42844%^&*http://www.xiami.com/song/42845%^&*http://www.xiami.com/song/42846%^&*http://www.xiami.com/song/42847%^&*

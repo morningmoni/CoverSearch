@@ -1,0 +1,6 @@
+number 3754
+name 一丝的寄望
+artist 陈德彰%^&*
+artistURL http://www.xiami.com/artist/75%^&*
+album 只有爱
+albumURL http://www.xiami.com/album/308

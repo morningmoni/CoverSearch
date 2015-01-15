@@ -1,0 +1,7 @@
+number 4082
+name 千纸鹤
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40821313722188.jpg
+songs 千纸鹤%^&*弱点%^&*谁若爱你比我多%^&*我的心透明得看得见%^&*Just A Little%^&*爱火照星空%^&*想你想得好孤寂%^&*你的心是个谜%^&*情有可原%^&*分心%^&*想你想得好孤寂(深夜回忆版)%^&*
+songURLs http://www.xiami.com/song/49945%^&*http://www.xiami.com/song/49947%^&*http://www.xiami.com/song/49953%^&*http://www.xiami.com/song/49954%^&*http://www.xiami.com/song/49949%^&*http://www.xiami.com/song/49950%^&*http://www.xiami.com/song/49951%^&*http://www.xiami.com/song/49948%^&*http://www.xiami.com/song/49946%^&*http://www.xiami.com/song/49952%^&*http://www.xiami.com/song/49955%^&*

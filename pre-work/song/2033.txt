@@ -1,0 +1,7 @@
+number 2033
+name Love Turn Around
+artist 蔡荣祖%^&*黄秀桢%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E8%94%A1%E8%8D%A3%E7%A5%96%^&*
+http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E9%BB%84%E7%A7%80%E6%A1%A2%^&*
+album 忽略
+albumURL http://www.xiami.com/album/163

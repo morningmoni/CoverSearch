@@ -1,0 +1,6 @@
+number 9329
+name 王昭君
+artist 丽莎
+introduction picture http://img.xiami.net/
+songs 王昭君%^&*等待%^&*彩云追月%^&*小鸟%^&*爱人何去%^&*荷花香%^&*郊游乐%^&*盼知音%^&*何日佳期%^&*平湖秋月%^&*断肠花%^&*蔷薇之恋%^&*梦痕%^&*深闺梦里人%^&*
+songURLs http://www.xiami.com/song/115697%^&*http://www.xiami.com/song/115698%^&*http://www.xiami.com/song/115699%^&*http://www.xiami.com/song/115700%^&*http://www.xiami.com/song/115701%^&*http://www.xiami.com/song/115702%^&*http://www.xiami.com/song/115703%^&*http://www.xiami.com/song/115704%^&*http://www.xiami.com/song/115705%^&*http://www.xiami.com/song/115706%^&*http://www.xiami.com/song/115707%^&*http://www.xiami.com/song/115708%^&*http://www.xiami.com/song/115709%^&*http://www.xiami.com/song/115710%^&*

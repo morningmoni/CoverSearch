@@ -1,0 +1,6 @@
+number 3723
+name 潇湘水云
+artist 陈长林%^&*
+artistURL http://www.xiami.com/artist/74%^&*
+album 闽江琴韵
+albumURL http://www.xiami.com/album/305

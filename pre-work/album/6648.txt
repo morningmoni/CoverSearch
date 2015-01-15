@@ -1,0 +1,7 @@
+number 6648
+name 七里香
+artist 周杰伦
+introduction 
+picture http://img.xiami.net/images/album/img60/1260/66481367564280.jpg
+songs 我的地盘%^&*七里香%^&*借口%^&*外婆%^&*将军%^&*搁浅%^&*乱舞春秋%^&*困兽之斗%^&*园游会%^&*止战之殇%^&*
+songURLs http://www.xiami.com/song/376005%^&*http://www.xiami.com/song/376006%^&*http://www.xiami.com/song/376007%^&*http://www.xiami.com/song/376008%^&*http://www.xiami.com/song/376009%^&*http://www.xiami.com/song/376010%^&*http://www.xiami.com/song/376011%^&*http://www.xiami.com/song/376012%^&*http://www.xiami.com/song/376013%^&*http://www.xiami.com/song/376014%^&*

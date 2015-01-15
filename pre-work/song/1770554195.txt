@@ -1,0 +1,6 @@
+number 1770554195
+name 遥远的心灵
+artist 吴大卫%^&*
+artistURL http://www.xiami.com/artist/950%^&*
+album 冷冷的夜
+albumURL http://www.xiami.com/album/471643

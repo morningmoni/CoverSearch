@@ -1,0 +1,6 @@
+number 144
+name 如果你爱我是因为我爱你MV
+artist 阿杜%^&*
+artistURL http://www.xiami.com/artist/5%^&*
+album I...Do
+albumURL http://www.xiami.com/album/12

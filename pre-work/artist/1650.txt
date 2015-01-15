@@ -1,0 +1,7 @@
+number 1650
+name 黄嘉千
+place Taiwan 台湾
+introduction 出生：06-13星座：双子座&nbsp;学历：基督书院擅长乐器：钢琴(幼稚园开始学起)经历：民歌餐厅自弹(Keyboard)自唱2年最喜爱的食物：肉圆最喜爱的运动：游泳最喜爱的颜色：白色最喜爱的演员：凯文柯斯纳最喜爱的歌手：林忆莲、赵传、MariahCarey
+picture http://img.xiami.net/images/artistlogo/41/13394793177141.jpg
+albums 爱已升天%^&*我们都要%^&*爱已经满满的%^&*爱都给我%^&*
+albumURLs http://www.xiami.com/album/9024%^&*http://www.xiami.com/album/9023%^&*http://www.xiami.com/album/9025%^&*http://www.xiami.com/album/9026%^&*

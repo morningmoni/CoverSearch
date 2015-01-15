@@ -1,0 +1,7 @@
+number 336
+name 对不起,我爱你
+artist 陈冠宇
+introduction 
+picture http://img.xiami.net/images/album/img81/81/336.jpg
+songs 对不起,我爱你%^&*左右为难%^&*从开始到现在%^&*命运%^&*在爱里%^&*在你身边%^&*祈祷%^&*我相信%^&*爱的礼赞%^&*天国的记忆%^&*邂逅的那天%^&*记得%^&*别这么说%^&*对不起,我爱你(钢琴演奏版)%^&*左右为难(钢琴演奏版)%^&*
+songURLs http://www.xiami.com/song/4082%^&*http://www.xiami.com/song/4083%^&*http://www.xiami.com/song/4084%^&*http://www.xiami.com/song/4085%^&*http://www.xiami.com/song/4086%^&*http://www.xiami.com/song/4087%^&*http://www.xiami.com/song/4088%^&*http://www.xiami.com/song/4089%^&*http://www.xiami.com/song/4090%^&*http://www.xiami.com/song/4091%^&*http://www.xiami.com/song/4092%^&*http://www.xiami.com/song/4093%^&*http://www.xiami.com/song/4094%^&*http://www.xiami.com/song/4095%^&*http://www.xiami.com/song/4096%^&*

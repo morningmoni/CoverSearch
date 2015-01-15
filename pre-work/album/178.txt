@@ -1,0 +1,6 @@
+number 178
+name 新天堂乐园Ⅱ
+artist 蔡兴国
+introduction picture http://img.xiami.net/images/pic/04/01/10016746628m_2.jpg
+songs Nuovo Cinema Paradiso%^&*Love Is A Many-Splendored Thing%^&*Heaven In Your Eyes%^&*Fiddler On The Roof%^&*The Little Mermaid%^&*The Mission%^&*The Lion King%^&*Aladdin%^&*Nuovo Cinema Paradiso%^&*Oklahoma!%^&*Nuovo Cinema Paradiso%^&*Ghostbusters%^&*
+songURLs http://www.xiami.com/song/2185%^&*http://www.xiami.com/song/2186%^&*http://www.xiami.com/song/2187%^&*http://www.xiami.com/song/2188%^&*http://www.xiami.com/song/2189%^&*http://www.xiami.com/song/2190%^&*http://www.xiami.com/song/2191%^&*http://www.xiami.com/song/2192%^&*http://www.xiami.com/song/2193%^&*http://www.xiami.com/song/2194%^&*http://www.xiami.com/song/2195%^&*http://www.xiami.com/song/2196%^&*

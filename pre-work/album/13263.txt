@@ -1,0 +1,7 @@
+number 13263
+name 勇敢
+artist 张惠妹
+introduction 
+picture http://img.xiami.net/images/album/img50/2450/132631360220506.jpg
+songs 看见自己%^&*假惺惺%^&*就是我想你%^&*勇敢%^&*解围%^&*我为什么那么爱你%^&*无所谓%^&*说傻话%^&*因为有我%^&*忘记%^&*
+songURLs http://www.xiami.com/song/163260%^&*http://www.xiami.com/song/163261%^&*http://www.xiami.com/song/163262%^&*http://www.xiami.com/song/163263%^&*http://www.xiami.com/song/163264%^&*http://www.xiami.com/song/163265%^&*http://www.xiami.com/song/163266%^&*http://www.xiami.com/song/163267%^&*http://www.xiami.com/song/163268%^&*http://www.xiami.com/song/163269%^&*

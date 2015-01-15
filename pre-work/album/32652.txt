@@ -1,0 +1,7 @@
+number 32652
+name 明明不是Angel
+artist 何洁
+introduction 
+picture http://img.xiami.net/images/album/img0/1600/326521397446065.jpg
+songs 明明不是Angel%^&*十分爱%^&*夏雪%^&*Boys (摇滚合唱版)%^&*一分钟 Lady%^&*不一样的地方%^&*独一无二%^&*爱是喜欢你%^&*心有灵犀%^&*爱情彼岸%^&*Boys (独唱拉丁版)%^&*
+songURLs http://www.xiami.com/song/389011%^&*http://www.xiami.com/song/389012%^&*http://www.xiami.com/song/389013%^&*http://www.xiami.com/song/389014%^&*http://www.xiami.com/song/389015%^&*http://www.xiami.com/song/389016%^&*http://www.xiami.com/song/389017%^&*http://www.xiami.com/song/389018%^&*http://www.xiami.com/song/389019%^&*http://www.xiami.com/song/389020%^&*http://www.xiami.com/song/389021%^&*

@@ -1,0 +1,7 @@
+number 95
+name 情定少林寺
+artist 鲍比达
+introduction 
+picture http://img.xiami.net/images/album/img11/411/95.jpg
+songs 为自己当好汉%^&*少林雄风%^&*对峙%^&*断情殇%^&*上天%^&*定情%^&*纵情天下%^&*弄情%^&*出关长啸%^&*交战%^&*菩提树%^&*
+songURLs http://www.xiami.com/song/1107%^&*http://www.xiami.com/song/1108%^&*http://www.xiami.com/song/1109%^&*http://www.xiami.com/song/1110%^&*http://www.xiami.com/song/1111%^&*http://www.xiami.com/song/1112%^&*http://www.xiami.com/song/1113%^&*http://www.xiami.com/song/1114%^&*http://www.xiami.com/song/1115%^&*http://www.xiami.com/song/1116%^&*http://www.xiami.com/song/1117%^&*

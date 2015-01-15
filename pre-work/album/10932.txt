@@ -1,0 +1,7 @@
+number 10932
+name 小心
+artist 梅艳芳
+introduction 
+picture http://img.xiami.net/images/album/img0/2000/109321331278827.jpg
+songs 落叶不归根%^&*只羡鸳鸯不羡仙%^&*醉朦胧%^&*情归何处 (国语版)%^&*再陪你一晚%^&*放开你的头脑%^&*大家都要快乐%^&*天使爱魔鬼%^&*蝶舞 (国语版)%^&*小心%^&*
+songURLs http://www.xiami.com/song/135058%^&*http://www.xiami.com/song/135059%^&*http://www.xiami.com/song/135060%^&*http://www.xiami.com/song/135061%^&*http://www.xiami.com/song/135062%^&*http://www.xiami.com/song/135063%^&*http://www.xiami.com/song/135064%^&*http://www.xiami.com/song/135065%^&*http://www.xiami.com/song/135066%^&*http://www.xiami.com/song/135067%^&*

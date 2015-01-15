@@ -1,0 +1,7 @@
+number 6823
+name 不经意
+artist 柏安妮
+introduction 柏安妮演唱功力不俗，但鲜有专辑发行，这张《不经意》充分体现了她演唱风格和声线特点。
+picture http://img.xiami.net/images/album/img20/1320/6823.jpg
+songs 不经意%^&*晚星真美丽%^&*习惯%^&*再见昨天%^&*红黄蓝白黑%^&*骗我也要一世%^&*没有他%^&*This Is The First Time%^&*不夜天%^&*清空%^&*
+songURLs http://www.xiami.com/song/83430%^&*http://www.xiami.com/song/83431%^&*http://www.xiami.com/song/83432%^&*http://www.xiami.com/song/83433%^&*http://www.xiami.com/song/83434%^&*http://www.xiami.com/song/83435%^&*http://www.xiami.com/song/83436%^&*http://www.xiami.com/song/1772224538%^&*http://www.xiami.com/song/83437%^&*http://www.xiami.com/song/83438%^&*

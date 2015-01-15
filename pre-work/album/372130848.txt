@@ -1,0 +1,7 @@
+number 372130848
+name 我多想
+artist 阿正
+introduction 
+picture http://img.xiami.net/images/album/img14/14/3721308481372130854.jpg
+songs 我多想%^&*我该怎么做%^&*我怕%^&*无处安身%^&*小鸟%^&*选择伤害我%^&*寻找%^&*一分分的走%^&*一棵树%^&*月光下的舞蹈%^&*这个季节%^&*这种态度%^&*真的快乐%^&*自己的路%^&*
+songURLs http://www.xiami.com/song/1771971058%^&*http://www.xiami.com/song/1771971059%^&*http://www.xiami.com/song/1771971060%^&*http://www.xiami.com/song/1771971061%^&*http://www.xiami.com/song/1771971062%^&*http://www.xiami.com/song/1771971063%^&*http://www.xiami.com/song/1771971064%^&*http://www.xiami.com/song/1771971065%^&*http://www.xiami.com/song/1771971066%^&*http://www.xiami.com/song/1771971067%^&*http://www.xiami.com/song/1771971068%^&*http://www.xiami.com/song/1771971069%^&*http://www.xiami.com/song/1771971070%^&*http://www.xiami.com/song/1771971071%^&*

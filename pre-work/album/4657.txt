@@ -1,0 +1,7 @@
+number 4657
+name 空笑梦
+artist 王中平
+introduction 
+picture http://img.xiami.net/images/album/img30/930/46571375423895.jpg
+songs 空笑梦%^&*失落的黄昏%^&*完成咱的梦%^&*等你一句话%^&*若是到恒春%^&*目屎雨%^&*强欲飞上天%^&*爱过头%^&*笑笑卡快活%^&*我袂后悔%^&*
+songURLs http://www.xiami.com/song/56464%^&*http://www.xiami.com/song/56465%^&*http://www.xiami.com/song/56466%^&*http://www.xiami.com/song/56467%^&*http://www.xiami.com/song/56468%^&*http://www.xiami.com/song/56469%^&*http://www.xiami.com/song/56470%^&*http://www.xiami.com/song/56471%^&*http://www.xiami.com/song/56472%^&*http://www.xiami.com/song/56473%^&*

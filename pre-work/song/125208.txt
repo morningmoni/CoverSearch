@@ -1,0 +1,6 @@
+number 125208
+name 我就是这样
+artist 林宸希%^&*
+artistURL http://www.xiami.com/artist/1850%^&*
+album 不再问
+albumURL http://www.xiami.com/album/10147

@@ -1,0 +1,7 @@
+number 1320
+name 柏安妮
+place Hongkong 香港
+introduction 个人简介柏安妮（ann bridgewater），十三岁到英国留学，曾是溜冰好手的柏安妮拥有溜冰皇后的美誉，因为当年有电影公司需要找一名懂溜冰的女孩拍电影，而晋身影圈。90年代中期柏安妮息影从事职业治疗工作，成为专业人士，有过两次婚姻，其首位男友就是制南，也曾与梁朝伟传出绯闻。她有两次出现在周星驰的电影里，都处于类似三角恋的情况，而她喜欢的都是别人，《咖喱辣椒》中她喜欢张学友，《一本漫画闯天涯》里她喜欢林俊贤。而在《流氓差婆》中她饰演的白粉珍，男朋友是成奎安
+picture http://img.xiami.net/images/artist/12112650652188.jpg
+albums 不经意%^&*新歌+Remix%^&*开心教堂%^&*
+albumURLs http://www.xiami.com/album/6823%^&*http://www.xiami.com/album/6825%^&*http://www.xiami.com/album/6824%^&*

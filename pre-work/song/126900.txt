@@ -1,0 +1,6 @@
+number 126900
+name 只记今朝笑(粤语)
+artist 吕珊%^&*
+artistURL http://www.xiami.comhttp://www.xiami.com/search/find?artist=%E5%90%95%E7%8F%8A%^&*
+album 东方不败 林青霞 电影音乐纪实
+albumURL http://www.xiami.com/album/10284

@@ -1,0 +1,7 @@
+number 347284
+name 满江红
+artist 鲍比达
+introduction 纯音乐，现代乐器演绎的古典名曲。
+picture http://img.xiami.net/images/album/img32/32/3472841253006197.jpg
+songs 将军令%^&*十面埋伏%^&*渔舟唱晚%^&*康定情歌%^&*红豆词%^&*满江红%^&*茉莉花%^&*我的祖国%^&*凤阳花鼓%^&*长城谣%^&*梁祝%^&*黄河%^&*黄河(未经HDCD处理)%^&*
+songURLs http://www.xiami.com/song/1769120637%^&*http://www.xiami.com/song/1769120638%^&*http://www.xiami.com/song/1769120639%^&*http://www.xiami.com/song/1769120640%^&*http://www.xiami.com/song/1769120641%^&*http://www.xiami.com/song/1769120642%^&*http://www.xiami.com/song/1769120643%^&*http://www.xiami.com/song/1769120644%^&*http://www.xiami.com/song/1769120645%^&*http://www.xiami.com/song/1769120646%^&*http://www.xiami.com/song/1769120647%^&*http://www.xiami.com/song/1769120648%^&*http://www.xiami.com/song/1769120649%^&*

@@ -1,0 +1,6 @@
+number 9733
+name 温馨集
+artist 雷安娜
+introduction picture http://img.xiami.net/images/album/img60/1760/9733.jpg
+songs 仍令我心一往%^&*因你心中有我%^&*甘苦与共%^&*浊世暖流清%^&*永远陪住你%^&*我在燃烧%^&*问为何%^&*爱的路上%^&*跟我跳劲舞%^&*分秒共畅聚%^&*心一致%^&*
+songURLs http://www.xiami.com/song/120297%^&*http://www.xiami.com/song/120298%^&*http://www.xiami.com/song/120299%^&*http://www.xiami.com/song/120300%^&*http://www.xiami.com/song/120301%^&*http://www.xiami.com/song/120302%^&*http://www.xiami.com/song/120303%^&*http://www.xiami.com/song/120304%^&*http://www.xiami.com/song/120305%^&*http://www.xiami.com/song/120306%^&*http://www.xiami.com/song/120307%^&*

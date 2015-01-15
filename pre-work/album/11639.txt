@@ -1,0 +1,7 @@
+number 11639
+name 爱情恰恰恰
+artist 孙淑媚
+introduction 
+picture http://img.xiami.net/images/album/img30/2130/116391326618095.png
+songs 一卡皮箱%^&*爱情恰恰恰%^&*茫茫到深更%^&*走味的咖啡%^&*春夏秋冬%^&*毛毛雨%^&*无情放抹记%^&*一个人爱过一个人%^&*目睭金金看%^&*谁人替阮想%^&*爱情恰恰恰(Kala)%^&*茫茫到深更(Kala)%^&*走味的咖啡(Kala)%^&*一个人爱过一个人(Kala)%^&*目睭金金看(Kala)%^&*谁人替阮想(Kala)%^&*
+songURLs http://www.xiami.com/song/143193%^&*http://www.xiami.com/song/143194%^&*http://www.xiami.com/song/143195%^&*http://www.xiami.com/song/143196%^&*http://www.xiami.com/song/143197%^&*http://www.xiami.com/song/143198%^&*http://www.xiami.com/song/143199%^&*http://www.xiami.com/song/143200%^&*http://www.xiami.com/song/143201%^&*http://www.xiami.com/song/143202%^&*http://www.xiami.com/song/143203%^&*http://www.xiami.com/song/143204%^&*http://www.xiami.com/song/143205%^&*http://www.xiami.com/song/143206%^&*http://www.xiami.com/song/143207%^&*http://www.xiami.com/song/143208%^&*

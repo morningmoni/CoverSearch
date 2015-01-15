@@ -1,0 +1,7 @@
+number 8360
+name 紫惑
+artist 费星
+introduction 
+picture http://img.xiami.net/images/album/img30/1530/8360.jpg
+songs 舍不得%^&*如果没有你%^&*不值得%^&*太早%^&*月半弯%^&*沙滩%^&*忘不了%^&*爱上你是我一生的错%^&*黑色毛衣%^&*心如刀割%^&*星月%^&*夜夜夜夜%^&*太美丽%^&*
+songURLs http://www.xiami.com/song/103630%^&*http://www.xiami.com/song/103631%^&*http://www.xiami.com/song/103632%^&*http://www.xiami.com/song/103633%^&*http://www.xiami.com/song/103634%^&*http://www.xiami.com/song/103635%^&*http://www.xiami.com/song/103636%^&*http://www.xiami.com/song/103637%^&*http://www.xiami.com/song/103638%^&*http://www.xiami.com/song/103639%^&*http://www.xiami.com/song/103640%^&*http://www.xiami.com/song/103641%^&*http://www.xiami.com/song/103642%^&*

@@ -1,0 +1,7 @@
+number 1900
+name 林玉婷
+place Singapore 新加坡
+introduction &nbsp;林玉婷（英语：Elsa Lim、拼音：L&iacute;n Y&ugrave;t&iacute;ng，1979年－）是一位 新加坡歌手，曾入围1998年第五届新加坡金曲奖&ldquo;最佳新人奖&rdquo;，目前已婚，现已退出乐坛。新加坡音乐创作人林倛玉（原名林毅心）是她的哥哥。 林玉婷曾经演唱新加坡官方千禧年主题曲&ldquo;Moments of Magic&rdquo;（千禧光辉），亦为中文版〈分享这一刻〉独唱者，并且与另外两位新加坡本地歌手范文芳和蔡健雅一同参与英文版MV的演出。这首官方千禧年主题曲的中英文两个版本以CD光碟的形式在新加坡发行。
+picture http://img.xiami.net/images/artist/12039966688654.jpg
+albums 拒绝不了%^&*
+albumURLs http://www.xiami.com/album/10471%^&*

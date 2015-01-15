@@ -1,0 +1,7 @@
+number 4069
+name 俘虏
+artist 邰正宵
+introduction 
+picture http://img.xiami.net/images/album/img50/850/40691387373073.jpg
+songs 俘虏%^&*圈套%^&*森林%^&*镜子%^&*拼图%^&*情人一场%^&*闹情绪%^&*老朋友%^&*情俑%^&*心弦%^&*
+songURLs http://www.xiami.com/song/49817%^&*http://www.xiami.com/song/49818%^&*http://www.xiami.com/song/49819%^&*http://www.xiami.com/song/49820%^&*http://www.xiami.com/song/49821%^&*http://www.xiami.com/song/49822%^&*http://www.xiami.com/song/49823%^&*http://www.xiami.com/song/49824%^&*http://www.xiami.com/song/49825%^&*http://www.xiami.com/song/49826%^&*

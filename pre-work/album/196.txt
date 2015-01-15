@@ -1,0 +1,7 @@
+number 196
+name 与风说
+artist 苍茫
+introduction 
+picture http://img.xiami.net/images/album/img53/53/196.jpg
+songs 你的音符%^&*使命%^&*灵异的风车%^&*轨电车%^&*影子%^&*The Song Is For You%^&*爱不简单%^&*初恋%^&*I Need Your Love%^&*交错的线%^&*回忆%^&*与风说%^&*
+songURLs http://www.xiami.com/song/2418%^&*http://www.xiami.com/song/2419%^&*http://www.xiami.com/song/2420%^&*http://www.xiami.com/song/2421%^&*http://www.xiami.com/song/2422%^&*http://www.xiami.com/song/2423%^&*http://www.xiami.com/song/2424%^&*http://www.xiami.com/song/2425%^&*http://www.xiami.com/song/2426%^&*http://www.xiami.com/song/2427%^&*http://www.xiami.com/song/2428%^&*http://www.xiami.com/song/2429%^&*

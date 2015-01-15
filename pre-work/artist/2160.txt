@@ -1,0 +1,7 @@
+number 2160
+name 同恩
+place Taiwan 台湾
+introduction 小档案身高：162CM体重：48KG星座：处女座血型：B嗜好：网球篮球电视和狗玩专长：大提琴 钢琴 吉他休闲：睡觉最爱吃的：重口味最爱喝的：水最爱颜色：绿 黑最爱动物：猫最爱乐团：Linkin park最爱女歌手：椎名林檎最爱男演员：布莱德彼得最爱女演员：安吉莉娜裘莉最爱电影：花样年华最爱音乐类型：摇滚最爱异性典型：幽默最希望去的国家：希腊 埃及最害怕的东西：细菌最讨厌的事物：失眠
+picture http://img.xiami.net/images/artist/12042742257989.jpg
+albums 不准哭%^&*做自己%^&*做自己 (预售版)%^&*
+albumURLs http://www.xiami.com/album/11798%^&*http://www.xiami.com/album/11799%^&*http://www.xiami.com/album/11800%^&*
